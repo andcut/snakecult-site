@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Define Custom Properties for Theme --- */
+:root {
+  --retro-background: #0a0f0a;
+  --retro-foreground: #00e300;
+  --retro-accent: #33ff33;
+  --retro-glow: 0 0 3px rgba(51, 255, 51, 0.3);
+  --retro-glow-lg: 0 0 5px rgba(51, 255, 51, 0.3);
+}
+
+/* --- Add any essential custom base styles or @apply rules below --- */
+@layer base {
+  body {
+    /* Revert to the slightly smaller font size from the original theme */
+    font-size: 0.95rem;
+    /* Apply base glow using CSS variable */
+    text-shadow: var(--retro-glow);
+    /* Ensure body background uses variable (Tailwind class should also work, but defense-in-depth) */
+    background-color: var(--retro-background);
+    /* Improve font rendering */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Scanline Overlay */
+  body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    background: repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      rgba(0, 0, 0, 0.08) 1px, /* Keep this subtle */
+      transparent 2px
+    );
+    z-index: 50; /* High z-index needed */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    /* Use accent color variable */
+    color: var(--retro-accent);
+    /* Use larger glow variable */
+    text-shadow: var(--retro-glow-lg);
+  }
+
+  /* Header Symbols (relies on Hugo render hook setting --symbol-before/after) */
+  h1::before, h2::before, h3::before {
+    content: var(--symbol-before, '△ ');
+    opacity: 0.7;
+    margin-right: 0.25em; /* Add some space */
+  }
+  h1::after, h2::after, h3::after {
+    content: var(--symbol-after, ' △');
+    opacity: 0.7;
+    margin-left: 0.25em; /* Add some space */
+  }
+
+  a {
+    /* Use accent color variable */
+    color: var(--retro-accent);
+    text-decoration: none; /* Tailwind's base might add underlines */
+    /* Use larger glow variable */
+    text-shadow: var(--retro-glow-lg);
+  }
+
+  a:hover {
+    /* Use background color variable for text on hover */
+    color: var(--retro-background);
+    /* Use accent color variable for background */
+    background-color: var(--retro-accent);
+    text-shadow: none; /* Remove glow on hover for contrast */
+  }
+
+  /* Ensure SVG inherits text color and glow */
+  svg {
+    /* Use fill variable */
+    fill: var(--retro-foreground);
+    /* Apply glow using filter: drop-shadow and variable */
+    filter: drop-shadow(var(--retro-glow));
+  }
+}
+
+/* Example: You might want to re-apply the esoteric retro theme variables here or in tailwind.config.js theme section */
+/* :root {
+  --background: #0a0f0a;
+  --foreground: #00e300;
+  --accent: #33ff33;
+  --glow-color: rgba(51, 255, 51, 0.4);
+} */
+
+/* Or re-apply base styles using @layer base */
+/* @layer base {
+  html, body {
+     background-color: theme('colors.your-bg-color');
+     color: theme('colors.your-fg-color');
+     text-shadow: 0 0 3px theme('colors.your-glow-color');
+   }
+} */

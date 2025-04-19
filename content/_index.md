@@ -27,7 +27,7 @@ Evidence‑driven writing on mind, myth, and molecular evolution.
 ---
 
 ### Topics →
-[Eve Theory](/tags/eve-theory/) · [Gene–Culture Loops](/tags/gene-culture/) · [Sex‑Chrom Sweeps](/tags/sex-chrom/) · [Myth & Ritual](/tags/myth/) · [Datasets & Methods](/tags/tools/)
+[Eve Theory](/tags/eve-theory-of-consciousness/) · [Gene–Culture Loops](/tags/gene-culture/) · [Sex‑Chrom Sweeps](/tags/sex-chrom/) · [Myth & Ritual](/tags/myth/) · [Datasets & Methods](/tags/tools/)
 
 ---
 
