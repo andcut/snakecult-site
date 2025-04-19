@@ -1,0 +1,12 @@
+# Site Parameters
+
+description = "Research archive exploring the evolutionary origins of human consciousness, recursion, and symbolic culture—focused on the Eve Theory and gene–culture coevolution."
+author = "Andrew Cutler"
+logo = "images/logo.png" # Path relative to assets directory
+
+sameAs = [
+  "https://scholar.google.com/citations?user=q9xechAAAAAJ&hl=en",
+  "https://x.com/AndrewCutler13",
+  "https://www.linkedin.com/in/andrew-cutler-66791781/",
+  "https://vectorsofmind.com/"
+] 

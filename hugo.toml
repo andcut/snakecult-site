@@ -1,0 +1,17 @@
+baseURL = 'https://snakecult.netlify.app/'
+languageCode = 'en-us'
+title = 'SnakeCult.ai'
+theme = 'terminal'
+
+# Needed for processing SCSS
+[build]
+  writeStats = true
+
+[markup.goldmark.renderer]
+  # Allow raw HTML (needed for some shortcodes or inline HTML)
+  unsafe = true 
+
+# Enable inline shortcodes
+[markup.goldmark.parser.attribute]
+  block = true
+  title = true 
