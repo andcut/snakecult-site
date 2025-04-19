@@ -1,0 +1,29 @@
+{
+  "name": "snakecult-site",
+  "version": "1.0.0",
+  "description": "This repository contains the source code and content for the SnakeCult.ai website, built with Hugo.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andcut/snakecult-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andcut/snakecult-site/issues"
+  },
+  "homepage": "https://github.com/andcut/snakecult-site#readme",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17"
+  }
+}

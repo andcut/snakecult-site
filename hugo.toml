@@ -2,15 +2,19 @@ baseURL = 'https://snakecult.netlify.app/'
 languageCode = 'en-us'
 title = 'SnakeCult.ai'
 theme = 'terminal'
+enableRobotsTXT = true # Explicitly enable robots.txt generation/handling
 
 [[menu.main]]
   name = "Home"
   url = "/"
   weight = 1 # Make it appear first
 
-# Needed for processing SCSS
+# Needed for processing SCSS / PostCSS
 [build]
   writeStats = true
+  [build.processing]
+    [build.processing.postcss]
+      process = "postcss" # Ensure postcss is run
 
 [markup.goldmark.renderer]
   # Allow raw HTML (needed for some shortcodes or inline HTML)

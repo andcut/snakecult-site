@@ -1,22 +1,23 @@
 {{ if or .NextInSection .PrevInSection }}
-<div class="pagination">
-  <div class="pagination__title">
-    <span class="pagination__title-h">{{ $.Site.Params.ReadOtherPosts | default "Read other posts" }}</span>
-    <hr />
+<div class="pagination mt-12 pt-8 border-t border-retro-accent/30">
+  <div class="pagination__title mb-4">
+    <span class="pagination__title-h text-lg font-semibold text-retro-foreground/80">{{ $.Site.Params.ReadOtherPosts | default "Read other posts" }}</span>
   </div>
-  <div class="pagination__buttons">
+  <div class="pagination__buttons flex flex-col sm:flex-row justify-between items-center gap-4">
     {{ if .NextInSection }}
-      <a href="{{ .NextInSection.RelPermalink }}" class="button inline prev">
+      <a href="{{ .NextInSection.RelPermalink }}" class="button prev inline-block px-4 py-2 border border-retro-accent text-retro-accent hover:bg-retro-accent hover:text-retro-background shadow-retro-glow-lg hover:shadow-none transition-colors duration-150 w-full sm:w-auto text-center sm:text-left">
         &lt; [<span class="button__text">{{ .NextInSection.Title }}</span>]
       </a>
+    {{ else }}
+      <div class="w-full sm:w-auto"></div>
     {{ end }}
-    {{ if and .NextInSection .PrevInSection }}
-      ::
-    {{ end }}
+
     {{ if .PrevInSection }}
-      <a href="{{ .PrevInSection.RelPermalink }}" class="button inline next">
+      <a href="{{ .PrevInSection.RelPermalink }}" class="button next inline-block px-4 py-2 border border-retro-accent text-retro-accent hover:bg-retro-accent hover:text-retro-background shadow-retro-glow-lg hover:shadow-none transition-colors duration-150 w-full sm:w-auto text-center sm:text-right">
          [<span class="button__text">{{ .PrevInSection.Title }}</span>] &gt;
       </a>
+    {{ else }}
+      <div class="w-full sm:w-auto"></div>
     {{ end }}
   </div>
 </div>

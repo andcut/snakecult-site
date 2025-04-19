@@ -1,9 +1,9 @@
 {{ define "main" }}
-<article class="post">
-  {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
+<article class="post px-2 py-4 md:px-6 md:py-8">
+  {{ $titleContent := .Title | markdownify }}
   {{ partial "heading-with-symbols.html" (dict "level" 1 "anchor" (.Title | urlize) "text" $titleContent "page" .) }}
 
-  <div class="post-meta">
+  <div class="post-meta flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-retro-foreground/80 mt-2 mb-4">
     {{- if .Date -}}
       <time class="post-date">
         {{- partial "post-date" . -}}
@@ -13,7 +13,7 @@
       </time>
     {{- end -}}
     {{- with .Params.Author -}}
-      <span class="post-author">{{ . }}</span>
+      <span class="post-author">by {{ . }}</span>
     {{- end -}}
     {{- if and (.Param "readingTime") (eq (.Param "readingTime") true) -}}
       <span class="post-reading-time">{{ .ReadingTime }} {{ $.Site.Params.minuteReadingTime | default "min read" }} ({{ .WordCount }} {{ $.Site.Params.words | default "words" }})</span>
@@ -21,37 +21,43 @@
   </div>
 
   {{ if .Params.tags }}
-    <span class="post-tags">
+    <div class="post-tags mb-6 text-sm">
       {{ range .Params.tags }}
-      #<a href="{{ (urlize (printf "tags/%s/" .)) | relLangURL }}">{{ . }}</a>&nbsp;
+       <a href="{{ (urlize (printf "tags/%s/" .)) | relLangURL }}" class="mr-2 hover:bg-retro-accent/20 px-1 rounded-sm">#{{ . }}</a>
       {{ end }}
-    </span>
+    </div>
   {{ end }}
   {{ partial "cover.html" . }}
 
   {{ if (.Params.Toc | default .Site.Params.Toc) }}
-    <div class="table-of-contents">
-      <h2>
+    <div class="table-of-contents border border-retro-accent/30 p-4 mb-6">
+      <h2 class="text-lg font-semibold mt-0 mb-3 text-retro-accent">
         {{ (.Params.TocTitle | default .Site.Params.TocTitle) | default "Table of Contents" }}
       </h2>
-      {{ .TableOfContents }}
+      <div class="prose prose-invert prose-sm max-w-none prose-a:text-retro-accent prose-a:shadow-retro-glow-lg">
+        {{ .TableOfContents }}
+      </div>
     </div>
   {{ end }}
 
-  <div class="post-content">
+  <div class="post-content mt-8 prose prose-invert max-w-none prose-headings:text-retro-accent prose-a:text-retro-accent prose-a:shadow-retro-glow-lg prose-strong:text-retro-accent prose-blockquote:border-l-retro-accent/50 prose-blockquote:text-retro-foreground/90 prose-code:text-retro-accent prose-code:bg-retro-background prose-code:border prose-code:border-retro-accent/30 prose-code:p-1 prose-code:rounded-sm prose-pre:bg-retro-background prose-pre:border prose-pre:border-retro-accent/30 prose-pre:shadow-inner prose-pre:shadow-retro-accent/20 prose-pre:p-4">
     {{- with .Content -}}
       <div>
-        {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor" ariaLabel="Anchor">#</a> ${3}` | safeHTML }}
+        {{ . | replaceRE "(<h[1-9] id=\"([^\"]+)\".+)(</h[1-9]+>)" `${1}<a href="#${2}" class="hanchor absolute -ml-5 opacity-0 group-hover:opacity-50 text-retro-accent/70 hover:opacity-100" ariaLabel="Anchor">#</a> ${3}` | safeHTML }}
       </div>
     {{- end -}}
   </div>
 
   {{ if eq .Type $.Site.Params.contentTypeName }}
-    {{ partial "posts_pagination.html" . }}
+    <div class="mt-12">
+      {{ partial "posts_pagination.html" . }}
+    </div>
   {{ end }}
 
   {{ if not (.Params.hideComments | default false) }}
-    {{ partial "comments.html" . }}
+    <div class="mt-12">
+      {{ partial "comments.html" . }}
+    </div>
   {{ end }}
 </article>
 {{ end }}

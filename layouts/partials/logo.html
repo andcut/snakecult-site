@@ -1,6 +1,10 @@
-{{ $homeLink := $.Site.Params.Logo.LogoHomeLink | default ($.Site.BaseURL | relURL) }}
-<a href="{{ $homeLink }}">
-  <div class="logo">
-    {{ with $.Site.Params.Logo.logoText }}{{ . }}{{ else }}Terminal{{ end }}
+{{/* Directly use the site's base URL for the home link */}}
+{{ $homeLink := $.Site.BaseURL | relURL }}
+{{/* Style the link: remove default link styles, apply hover */}}
+<a href="{{ $homeLink }}" class="text-retro-foreground hover:text-retro-accent no-underline hover:no-underline shadow-none hover:shadow-none">
+  {{/* Style the logo text: make it larger, bolder */}}
+  <div class="logo text-2xl font-bold tracking-wider">
+    {{/* Directly use the site title */}}
+    {{ $.Site.Title }}
   </div>
 </a>

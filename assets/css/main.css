@@ -1,0 +1,183 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Define Custom Properties for Theme --- */
+:root {
+  --retro-background: #0a0f0a;
+  --retro-foreground: #00e300;
+  --retro-accent: #33ff33;
+  --retro-glow: 0 0 3px rgba(51, 255, 51, 0.3);
+  --retro-glow-lg: 0 0 5px rgba(51, 255, 51, 0.3);
+}
+
+/* --- Add any essential custom base styles or @apply rules below --- */
+@layer base {
+  html {
+    @apply bg-black;
+  }
+  
+  body {
+    font-size: 0.95rem;
+    text-shadow: var(--retro-glow);
+    background-color: var(--retro-background);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    @apply tracking-wide font-mono leading-relaxed;
+  }
+
+  /* Improved Scanline Overlay - More subtle but visible */
+  body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    background: linear-gradient(
+      to bottom,
+      rgba(18, 16, 16, 0) 50%, 
+      rgba(0, 0, 0, 0.1) 50%
+    );
+    background-size: 100% 4px;
+    z-index: 2000;
+    opacity: 0.2;
+  }
+
+  /* Noise texture overlay - Very subtle */
+  body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    opacity: 0.03;
+    z-index: 1000;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--retro-accent);
+    text-shadow: var(--retro-glow-lg);
+    @apply font-bold tracking-wider my-6;
+  }
+
+  h1 {
+    @apply text-3xl mb-8 mt-10;
+  }
+
+  h2 {
+    @apply text-2xl;
+  }
+
+  h3 {
+    @apply text-xl;
+  }
+
+  /* Header Symbols with enhanced styling */
+  h1::before, h2::before, h3::before {
+    content: var(--symbol-before, '△ ');
+    opacity: 0.7;
+    margin-right: 0.25em;
+    @apply inline-block;
+  }
+  
+  h1::after, h2::after, h3::after {
+    content: var(--symbol-after, ' △');
+    opacity: 0.7;
+    margin-left: 0.25em;
+    @apply inline-block;
+  }
+
+  /* Enhance link styling */
+  a {
+    color: var(--retro-accent);
+    text-decoration: none;
+    text-shadow: var(--retro-glow-lg);
+    @apply relative transition-all duration-200 ease-in-out px-1 -mx-1;
+  }
+
+  a:hover {
+    color: var(--retro-background);
+    background-color: var(--retro-accent);
+    text-shadow: none;
+    @apply rounded-sm transition-all duration-200 ease-in-out;
+  }
+
+  /* Enhanced svg styling */
+  svg {
+    fill: var(--retro-foreground);
+    filter: drop-shadow(var(--retro-glow));
+    @apply inline-block align-middle;
+  }
+  
+  /* List styling enhancement */
+  ul, ol {
+    @apply pl-6 mb-4;
+  }
+  
+  li {
+    @apply mb-2;
+  }
+  
+  /* Add a pulsing animation for selected elements */
+  @keyframes subtle-pulse {
+    0% { opacity: 0.9; }
+    50% { opacity: 1; }
+    100% { opacity: 0.9; }
+  }
+  
+  .post-title a, .logo {
+    animation: subtle-pulse 4s ease-in-out infinite;
+  }
+  
+  /* Enhance code blocks */
+  code, pre {
+    @apply font-mono text-sm;
+  }
+  
+  /* Article styling enhancement */
+  article {
+    @apply rounded-md overflow-hidden border border-retro-accent/30 transition-all duration-300;
+  }
+  
+  article:hover {
+    @apply border-retro-accent/70 shadow-lg shadow-retro-accent/10;
+  }
+}
+
+/* Component Layer Additions */
+@layer components {
+  .read-more {
+    @apply inline-block px-4 py-2 border border-retro-accent text-retro-accent hover:bg-retro-accent hover:text-retro-background transition-colors duration-150;
+  }
+  
+  .post-meta {
+    @apply text-retro-foreground/70 text-sm flex flex-wrap gap-x-4 gap-y-1 mb-4;
+  }
+  
+  /* Terminal-inspired container */
+  .terminal-container {
+    @apply border border-retro-accent/50 rounded p-4 my-4 shadow-inner bg-retro-background/60;
+  }
+}
+
+/* Example: You might want to re-apply the esoteric retro theme variables here or in tailwind.config.js theme section */
+/* :root {
+  --background: #0a0f0a;
+  --foreground: #00e300;
+  --accent: #33ff33;
+  --glow-color: rgba(51, 255, 51, 0.4);
+} */
+
+/* Or re-apply base styles using @layer base */
+/* @layer base {
+  html, body {
+     background-color: theme('colors.your-bg-color');
+     color: theme('colors.your-fg-color');
+     text-shadow: 0 0 3px theme('colors.your-glow-color');
+   }
+} */

@@ -1,51 +1,51 @@
 {{ define "main" }}
   {{ with .Content }}
-    <div class="index-content">
-      {{ . }}
+    <div class="index-content mb-8">
+      {{ . | markdownify }}
     </div>
   {{ end }}
-  <div class="posts">
+  <div class="posts space-y-10">
     {{ range .Paginator.Pages }}
-      <article class="post on-list">
+      <article class="post-on-list border border-retro-accent/50 p-6 shadow-lg shadow-retro-accent/10">
         {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
         {{ partial "heading-with-symbols.html" (dict "level" 2 "anchor" (.Title | urlize) "text" $titleContent "page" .) }}
 
-        <div class="post-meta">
+        <div class="post-meta flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-retro-foreground/80 mt-2 mb-3">
           {{- if .Date -}}
             <time class="post-date">
-              {{- partial "post-date" . -}}
+              {{ partial "post-date" . }}
             </time>
           {{- end -}}
           {{- with .Params.Author -}}
-            <span class="post-author">{{- . -}}</span>
+            <span class="post-author">by {{- . -}}</span>
           {{- end -}}
         </div>
 
         {{ if .Params.tags }}
-          <span class="post-tags">
+          <div class="post-tags mb-4 text-sm">
             {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
-              {{- . -}}
-            </a>&nbsp;
+            <a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}" class="mr-2 hover:bg-retro-accent/20 px-1 rounded-sm">#{{- . -}}</a>
             {{ end }}
-          </span>
+          </div>
         {{ end }}
 
         {{ partial "cover.html" . }}
 
-        <div class="post-content">
+        <div class="post-content mt-4 mb-4 prose prose-invert prose-sm max-w-none prose-headings:text-retro-accent prose-a:text-retro-accent prose-a:shadow-retro-glow-lg prose-strong:text-retro-accent">
           {{ if .Params.showFullContent }}
             {{ .Content }}
           {{ else if .Description }}
             <p>{{ .Description | markdownify }}</p>
           {{ else }}
-            {{ .Summary }}
+            {{ .Summary | markdownify }}
           {{ end }}
         </div>
 
         {{ if not .Params.showFullContent }}
-           <div>
-            <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore | default "Read More" }}]</a>
+           <div class="mt-6">
+            <a class="read-more inline-block px-4 py-2 border border-retro-accent text-retro-accent hover:bg-retro-accent hover:text-retro-background shadow-retro-glow-lg hover:shadow-none transition-colors duration-150" href="{{ .RelPermalink }}">
+              [{{ $.Site.Params.ReadMore | default "Read More" }}]
+            </a>
           </div>
         {{ end }}
       </article>

@@ -1,4 +1,3 @@
-{{ $opts := dict "targetPath" "css/main.min.css" "outputStyle" "compressed" }}
-{{ $mainScss := resources.Get "css/main.scss" }}
-{{ $css := $mainScss | resources.ToCSS $opts | resources.Minify | resources.Fingerprint }}
+{{ $opts := dict "targetPath" "css/main.min.css" }}
+{{ $css := resources.Get "css/main.css" | resources.PostCSS | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}"> 
