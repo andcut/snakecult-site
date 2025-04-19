@@ -1,0 +1,21 @@
+[build]
+  # Command to build the site
+  command = "npm install && hugo --minify"
+  # Directory to publish
+  publish = "public"
+
+[build.environment]
+  # Specify Node.js version
+  NODE_VERSION = "20"
+  # Specify Hugo version (optional, but good practice)
+  # Check your local 'hugo version' or Netlify's default if unsure
+  HUGO_VERSION = "0.126.1"
+
+[context.production.environment]
+  HUGO_ENV = "production"
+
+[context.deploy-preview.environment]
+  HUGO_ENV = "development"
+
+[context.branch-deploy.environment]
+  HUGO_ENV = "development" 

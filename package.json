@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/andcut/snakecult-site.git"
   },
-  "keywords": [],
+  "keywords": [
+    "hugo",
+    "postcss"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -22,8 +25,9 @@
   "homepage": "https://github.com/andcut/snakecult-site#readme",
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.16",
-    "autoprefixer": "^10.4.21",
+    "autoprefixer": "^10.4.19",
     "postcss": "^8.5.3",
-    "tailwindcss": "^3.4.17"
+    "tailwindcss": "^3.4.17",
+    "postcss-cli": "^11.0.0"
   }
 }
