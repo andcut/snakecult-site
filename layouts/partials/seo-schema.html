@@ -1,0 +1,87 @@
+{{/*  layouts/partials/schema.html  */}}
+{{- /* ---------- SITE‑WIDE ------------- */ -}}
+{{ $siteSchema := dict
+  "@context" "https://schema.org"
+  "@type"   "WebSite"
+  "name"    .Site.Title
+  "url"     .Site.BaseURL
+  "inLanguage" (.Site.Language.Lang | default "en")
+  "potentialAction" (dict
+      "@type" "SearchAction"
+      "target" (print .Site.BaseURL "?s={search_term_string}")
+      "query-input" "required name=search_term_string")
+}}
+{{/* Social links if configured */}}
+{{ with .Site.Params.sameAs }}
+  {{ $siteSchema = merge $siteSchema (dict "sameAs" .) }}
+{{ end }}
+
+<script type="application/ld+json">
+{{ $siteSchema | jsonify (dict "indent" "  ") | safeHTML }}
+</script>
+
+{{/* ---------- SINGLE‑PAGE SCHEMA ------------- */}}
+{{ if .IsPage }}
+  {{/* Choose type */}}
+  {{ $type := "ScholarlyArticle" }}
+  {{ if eq .Kind "post" }}{{ $type = "BlogPosting" }}{{ end }}
+
+  {{ $article := dict
+      "@context" "https://schema.org"
+      "@type"    $type
+      "headline" .Title
+      "url"      .Permalink
+      "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+      "description" (.Description | default .Summary)
+      "inLanguage" (.Site.Language.Lang | default "en")
+      "wordCount"  .WordCount
+      "datePublished" (.Date.Format "2006-01-02")
+      "dateModified"  (.Lastmod.Format "2006-01-02")
+      "author"   (dict "@type" "Person" "name" (.Params.author | default .Site.Params.author | default "Andrew Cutler"))
+      "publisher" (dict
+          "@type" "Organization"
+          "name"  .Site.Title
+          "logo"  (dict "@type" "ImageObject"
+                        "url"   (absURL (default "images/logo.png" .Site.Params.logo))
+                        "width"  512
+                        "height" 512))
+  }}
+
+  {{/* keywords & about as string arrays */}}
+  {{ with .Keywords }}   {{ $article = merge $article (dict "keywords" .) }} {{ end }}
+  {{ with .Params.about }}{{ $article = merge $article (dict "about" .) }}   {{ end }}
+
+  {{/* license */}}
+  {{ with .Params.license }}
+    {{ $lic := . }}
+    {{ if eq . "CC-BY-SA 4.0" }}{{ $lic = "https://creativecommons.org/licenses/by-sa/4.0/" }}{{ end }}
+    {{ $article = merge $article (dict "license" $lic) }}
+  {{ end }}
+
+  {{/* featured image if exists */}}
+  {{ with .Params.featured }}
+    {{ $article = merge $article (dict "image" (dict "@type" "ImageObject" "url" (absURL .))) }}
+  {{ end }}
+
+  <script type="application/ld+json">
+  {{ $article | jsonify (dict "indent" "  ") | safeHTML }}
+  </script>
+
+  {{/* ---------- OPTIONAL FAQ SCHEMA ------------- */}}
+  {{ with .Params.faq }}
+    {{ $faq := dict
+        "@context" "https://schema.org"
+        "@type"    "FAQPage"
+    }}
+    {{ $main := slice }}
+    {{ range . }}
+      {{ $q := dict "@type" "Question" "name" .q
+                     "acceptedAnswer" (dict "@type" "Answer" "text" .a) }}
+      {{ $main = $main | append $q }}
+    {{ end }}
+    {{ $faq = merge $faq (dict "mainEntity" $main) }}
+    <script type="application/ld+json">
+    {{ $faq | jsonify (dict "indent" "  ") | safeHTML }}
+    </script>
+  {{ end }}
+{{ end }} 

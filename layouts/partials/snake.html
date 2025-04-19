@@ -1,8 +1,0 @@
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  if (window.matchMedia('(prefers-reduced-motion:no-preference)').matches) {
-    setTimeout(()=>document.documentElement.classList.add('snake-on'),
-               {{ site.Params.snakeDelay | default 2000 }});
-  }
-});
-</script> 

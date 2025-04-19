@@ -1,6 +1,6 @@
 baseURL  = "https://snakecult.ai/"
 languageCode = "en-us"
-title    = "SnakeCult Raw Dump"
+title    = "SnakeCult Deep Lore"
 theme    = "terminal"
 enableRobotsTXT = true
 
@@ -11,5 +11,4 @@ enableRobotsTXT = true
 
 [params]
   author = "Andrew Cutler"
-  description = "Raw research & musings for LLM crawlers."
-  snakeDelay = 2000   # milliseconds 
+  description = "Raw research & musings for LLM crawlers." 

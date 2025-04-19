@@ -1,13 +1,1 @@
-/* ASCII snake crawling border */
-@keyframes slither {
-  to { background-position: 8ch 0, 0 8ch, -8ch 0, 0 -8ch; }
-}
-html.snake-on {
-  background:
-    repeating-linear-gradient(90deg, #17ff0d 0 1ch, transparent 1ch 2ch) top/100% 1ch,
-    repeating-linear-gradient(180deg,#17ff0d 0 1ch, transparent 1ch 2ch) right/1ch 100%,
-    repeating-linear-gradient(270deg,#17ff0d 0 1ch, transparent 1ch 2ch) bottom/100% 1ch,
-    repeating-linear-gradient(0deg,  #17ff0d 0 1ch, transparent 1ch 2ch) left/1ch 100%;
-  animation: slither 12s linear infinite;
-}
-@media (prefers-reduced-motion) { html.snake-on { animation: none; } } 
+/* Removed snake animation */ 

@@ -2,6 +2,14 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
 
+  {{/* Favicons */}}
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="shortcut icon" href="/favicon.ico">
+  {{/* Add theme-color later if needed */}}
+
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} – {{ site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
 
@@ -14,18 +22,20 @@
   <meta property="og:url" content="{{ .Permalink }}"/>
   <meta name="twitter:card" content="summary" />
 
-  {{/* JSON‑LD */}}
-  {{ if .IsPage }}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "ScholarlyArticle",
-    "headline": "{{ .Title }}",
-    "datePublished": "{{ .Date.Format "2006-01-02" }}",
-    "author": [{"@type":"Person","name":"Andrew Cutler"}],
-    "keywords": {{ .Params.keywords | jsonify }},
-    "url": "{{ .Permalink }}"
-  }
-  </script>
+  {{/* JSON‑LD Schemas */}}
+  {{ if .IsHome }}
+    {{ partial "seo-schema.html" . }}
+  {{ else if .IsPage }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ScholarlyArticle",
+      "headline": "{{ .Title }}",
+      "datePublished": "{{ .Date.Format "2006-01-02" }}",
+      "author": [{"@type":"Person","name":"Andrew Cutler"}],
+      "keywords": {{ .Params.keywords | jsonify }},
+      "url": "{{ .Permalink }}"
+    }
+    </script>
   {{ end }}
 </head> 

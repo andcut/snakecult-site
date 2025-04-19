@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background circle with gradient -->
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <!-- Use theme background shades -->
+      <stop offset="0%" stop-color="color-mix(in srgb, var(--background) 80%, black)" />
+      <stop offset="100%" stop-color="var(--background)" />
+    </radialGradient>
+    
+    <!-- Glow filter -->
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <!-- Snake pattern -->
+    <pattern id="snakePattern" patternUnits="userSpaceOnUse" width="10" height="10" patternTransform="rotate(45)">
+       <!-- Use a darker shade of foreground color -->
+      <path d="M0,0 L5,5 L10,0" stroke="color-mix(in srgb, var(--foreground) 30%, black)" stroke-width="0.5" fill="none" opacity="0.3"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="48" fill="url(#bgGradient)" />
+  <circle cx="50" cy="50" r="46" fill="url(#snakePattern)" opacity="0.4" />
+  
+  <!-- Mystical circle -->
+   <!-- Use variations of accent/foreground -->
+  <circle cx="50" cy="50" r="42" fill="none" stroke="color-mix(in srgb, var(--accent) 40%, black)" stroke-width="0.5" stroke-dasharray="1,1" opacity="0.7" />
+  <circle cx="50" cy="50" r="36" fill="none" stroke="var(--accent)" stroke-width="0.5" stroke-dasharray="2,2" opacity="0.5" />
+  
+  <!-- Ouroboros hint - subtle circular snake -->
+  <path d="M50,15 A35,35 0 1 1 49.9,15" stroke="var(--accent)" stroke-width="1" fill="none" opacity="0.2" stroke-dasharray="1,2" />
+  
+  <!-- Eden symbols -->
+  <g opacity="0.2" stroke="var(--accent)" fill="none" stroke-width="0.5">
+    <path d="M30,30 Q50,10 70,30 Q90,50 70,70 Q50,90 30,70 Q10,50 30,30" />
+  </g>
+  
+  <!-- Snake body -->
+  <path d="M65,24 C70,35 82,35 82,50 C82,65 65,60 55,70 C45,80 42,70 35,65 C28,60 18,65 15,75 C12,85 20,90 30,85 C40,80 35,70 25,65 C20,62 15,70 20,75"
+        fill="none" 
+        stroke="var(--accent)"  /* Use accent color */
+        stroke-width="5"
+        stroke-linecap="round"
+        filter="url(#glow)" />
+  
+  <!-- Snake head -->
+  <circle cx="65" cy="24" r="6" fill="var(--accent)" filter="url(#glow)" />
+  
+  <!-- Snake eyes -->
+  <circle cx="67" cy="22" r="1.5" fill="var(--background)" /> <!-- Use background color -->
+  <circle cx="63" cy="22" r="1.5" fill="var(--background)" /> <!-- Use background color -->
+  
+  <!-- Snake tongue -->
+  <path d="M68,27 L71,30 L74,27" fill="none" stroke="var(--accent)" stroke-width="1" stroke-linecap="round" /> <!-- Use accent color -->
+  
+  <!-- Snake scales pattern -->
+  <path d="M60,35 C63,37 67,38 70,36 M50,45 C55,48 60,48 65,45 M40,60 C45,62 50,62 55,60 M25,75 C28,77 32,78 35,76" 
+        stroke="var(--foreground)" stroke-width="0.8" fill="none" opacity="0.7"/> <!-- Use foreground color -->
+  
+  <!-- Subtle alchemical symbols -->
+  <g fill="var(--accent)" opacity="0.3" font-size="8">
+    <text x="48" y="52" text-anchor="middle">⚸</text>
+    <text x="25" y="30" text-anchor="middle">☽</text>
+    <text x="75" y="70" text-anchor="middle">☉</text>
+  </g>
+</svg> 

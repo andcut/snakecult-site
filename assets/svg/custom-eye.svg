@@ -1,0 +1,88 @@
+<svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg"
+     stroke="currentColor" fill="none" stroke-width="2">
+  <!-- Triangle -->
+  <path d="M150 50 L250 225 H50 Z" stroke-width="3" fill="currentColor"/>
+
+  <!-- Inner triangle border -->
+  <path d="M150 62 L238 220 H62 Z" stroke="var(--accent)" fill="none" stroke-width="2"/>
+
+  <!-- Rays inside triangle -->
+  <g stroke="currentColor" stroke-width="2" fill="none">
+    <!-- Center rays -->
+    <line x1="150" y1="80" x2="150" y2="120"/>
+    <line x1="130" y1="85" x2="130" y2="115"/>
+    <line x1="170" y1="85" x2="170" y2="115"/>
+    <!-- Bottom rays -->
+    <line x1="150" y1="170" x2="150" y2="210"/>
+    <line x1="130" y1="180" x2="130" y2="205"/>
+    <line x1="170" y1="180" x2="170" y2="205"/>
+    <!-- Left side rays -->
+    <line x1="90" y1="130" x2="120" y2="140"/>
+    <line x1="90" y1="160" x2="120" y2="155"/>
+    <!-- Right side rays -->
+    <line x1="210" y1="130" x2="180" y2="140"/>
+    <line x1="210" y1="160" x2="180" y2="155"/>
+  </g>
+
+  <!-- External rays -->
+  <g stroke="currentColor" stroke-width="2" fill="none">
+    <!-- Top rays -->
+    <line x1="150" y1="10" x2="150" y2="40"/>
+    <line x1="130" y1="15" x2="135" y2="45"/>
+    <line x1="110" y1="25" x2="120" y2="50"/>
+    <line x1="90" y1="40" x2="105" y2="60"/>
+    <line x1="70" y1="60" x2="90" y2="75"/>
+    <line x1="170" y1="15" x2="165" y2="45"/>
+    <line x1="190" y1="25" x2="180" y2="50"/>
+    <line x1="210" y1="40" x2="195" y2="60"/>
+    <line x1="230" y1="60" x2="210" y2="75"/>
+
+    <!-- Bottom rays -->
+    <line x1="150" y1="290" x2="150" y2="240"/>
+    <line x1="130" y1="285" x2="135" y2="235"/>
+    <line x1="110" y1="270" x2="120" y2="230"/>
+    <line x1="90" y1="250" x2="105" y2="225"/>
+    <line x1="70" y1="230" x2="90" y2="215"/>
+    <line x1="170" y1="285" x2="165" y2="235"/>
+    <line x1="190" y1="270" x2="180" y2="230"/>
+    <line x1="210" y1="250" x2="195" y2="225"/>
+    <line x1="230" y1="230" x2="210" y2="215"/>
+
+    <!-- Left rays -->
+    <line x1="10" y1="150" x2="40" y2="150"/>
+    <line x1="15" y1="130" x2="45" y2="135"/>
+    <line x1="25" y1="110" x2="50" y2="120"/>
+    <line x1="40" y1="90" x2="60" y2="105"/>
+    <line x1="15" y1="170" x2="45" y2="165"/>
+    <line x1="25" y1="190" x2="50" y2="180"/>
+    <line x1="40" y1="210" x2="60" y2="195"/>
+
+    <!-- Right rays -->
+    <line x1="290" y1="150" x2="260" y2="150"/>
+    <line x1="285" y1="130" x2="255" y2="135"/>
+    <line x1="275" y1="110" x2="250" y2="120"/>
+    <line x1="260" y1="90" x2="240" y2="105"/>
+    <line x1="285" y1="170" x2="255" y2="165"/>
+    <line x1="275" y1="190" x2="250" y2="180"/>
+    <line x1="260" y1="210" x2="240" y2="195"/>
+  </g>
+
+  <!-- Eye -->
+  <ellipse cx="150" cy="140" rx="50" ry="30" fill="var(--background)" stroke="var(--accent)" stroke-width="1"/>
+
+  <!-- Iris and details -->
+  <g>
+    <!-- Iris outer ring -->
+    <ellipse cx="150" cy="140" rx="25" ry="25" stroke="currentColor" fill="var(--background)" stroke-width="1"/>
+
+    <!-- Pupil -->
+    <circle cx="150" cy="140" r="12" fill="currentColor"/>
+
+    <!-- Light reflection -->
+    <circle cx="145" cy="135" r="3" fill="var(--accent)"/>
+
+    <!-- Eyelid curves -->
+    <path d="M100 140 Q150 90 200 140" stroke="currentColor" fill="none" stroke-width="1.5"/>
+    <path d="M100 140 Q150 190 200 140" stroke="currentColor" fill="none" stroke-width="1.5"/>
+  </g>
+</svg> 

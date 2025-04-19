@@ -1,5 +1,4 @@
 {{ $opts := dict "targetPath" "css/main.min.css" "outputStyle" "compressed" }}
 {{ $mainScss := resources.Get "css/main.scss" }}
-{{ $snakeScss := resources.Get "css/snake.scss" }}
-{{ $css := slice $mainScss $snakeScss | resources.Concat "css/bundle.scss" | resources.ToCSS $opts | resources.Minify | resources.Fingerprint }}
+{{ $css := $mainScss | resources.ToCSS $opts | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}"> 

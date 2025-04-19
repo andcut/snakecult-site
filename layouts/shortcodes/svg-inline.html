@@ -1,0 +1,21 @@
+{{/* Shortcode to inline an SVG from assets */}}
+{{ $src := .Get "src" }}
+{{ $svgContent := "" }}
+{{ $alt := .Get "alt" | default $src }}
+{{ $class := .Get "class" | default "" }}
+{{ $width := .Get "width" | default "" }}
+{{ $height := .Get "height" | default "" }}
+
+{{ with resources.Get $src }}
+  {{ $svgContent = .Content | safeHTML }}
+{{ else }}
+  {{ errorf "SVG Shortcode: File not found: %s" $src }}
+{{ end }}
+
+<div class="svg-container {{ $class }}" 
+     role="img" 
+     aria-label="{{ $alt }}"
+     {{ with $width }}width="{{ . }}"{{ end }}
+     {{ with $height }}height="{{ . }}"{{ end }}>
+  {{ $svgContent }}
+</div> 

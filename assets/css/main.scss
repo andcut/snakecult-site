@@ -1,3 +1,96 @@
-@import "themes/terminal/assets/css/terminal.css"; /* original theme core */
+@import "themes/terminal/assets/css/main.css"; /* Corrected import */
+
+/* --- Esoteric Retro Theme Overrides --- */
+:root {
+  --background: #0a0f0a; /* Darker green-tinted black */
+  --foreground: #00e300; /* CRT green */
+  --accent: #33ff33;     /* Brighter green accent */
+  --glow-color: rgba(51, 255, 51, 0.4);
+}
+
 /* --- custom tweaks here --- */
-body { font-size: 0.95rem; } 
+html, body {
+  background-color: var(--background) !important;
+  color: var(--foreground) !important;
+}
+
+body {
+  font-size: 0.95rem;
+  text-shadow: 0 0 3px var(--glow-color); /* Subtle CRT glow */
+}
+
+/* Scanline Overlay */
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0,
+    rgba(0, 0, 0, 0.08) 1px,
+    transparent 2px
+  );
+  z-index: 1001; /* Ensure it's on top */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--accent); /* Use brighter green for headers */
+  text-shadow: 0 0 5px var(--glow-color);
+}
+
+/* Add decorative symbols to main headers using CSS variables from render hook */
+h1::before, h2::before, h3::before {
+  content: var(--symbol-before, '△ '); /* Default to triangle if var not set */
+  opacity: 0.7;
+}
+h1::after, h2::after, h3::after {
+  content: var(--symbol-after, ' △'); /* Default to triangle if var not set */
+  opacity: 0.7;
+}
+
+a {
+  color: var(--accent); /* Brighter green links */
+  text-decoration: none; /* Remove underline */
+  text-shadow: 0 0 5px var(--glow-color);
+}
+
+a:hover {
+  color: var(--foreground);
+  background-color: var(--accent);
+  text-shadow: none; /* Remove glow on hover for contrast */
+}
+
+/* Style form elements */
+input[type="email"],
+button[type="submit"] {
+  background-color: transparent;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+  padding: 8px 12px;
+  margin: 5px;
+}
+
+input[type="email"]::placeholder {
+  color: rgba(51, 255, 51, 0.6);
+}
+
+button[type="submit"] {
+  cursor: pointer;
+  border: 1px solid var(--accent);
+}
+
+button[type="submit"]:hover {
+  background-color: var(--accent);
+  color: var(--background);
+  text-shadow: none;
+}
+
+/* Ensure SVG inherits text color */
+svg {
+  color: var(--foreground); /* Make SVG use CRT green */
+  filter: drop-shadow(0 0 3px var(--glow-color)); /* Add glow */
+} 

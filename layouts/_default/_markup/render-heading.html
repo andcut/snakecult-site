@@ -1,0 +1,22 @@
+{{- /* layouts/_default/_markup/render-heading.html */ -}}
+{{- $level := .Level -}}
+{{- $anchor := .Anchor | safeURL -}}
+{{- $text := .Text | safeHTML -}}
+
+{{- /* Define the list of symbols */ -}}
+{{- $symbols := slice "𓆙" "🌀" "𓂀" "△" "𓋹" "𓇳" "⚕" "🪬" "֎" "∞" "▲" "𓆓" "𓂓" -}}
+{{- $numSymbols := len $symbols -}}
+
+{{- /* Initialize or increment heading counter for the page */ -}}
+{{- $headingIndex := .Page.Scratch.Get "headingCounter" | default 0 -}}
+{{- .Page.Scratch.Set "headingCounter" (add $headingIndex 1) -}}
+
+{{- /* Get the current symbol based on the counter */ -}}
+{{- $symbolIndex := mod $headingIndex $numSymbols -}}
+{{- $currentSymbol := index $symbols $symbolIndex -}}
+
+{{- /* Set CSS variables for the ::before and ::after content */ -}}
+{{- $style := printf `--symbol-before: '%s '; --symbol-after: ' %s';` $currentSymbol $currentSymbol | safeCSS -}}
+
+{{- /* Output the heading element */ -}}
+<h{{ $level }} id="{{ $anchor }}" style="{{ $style }}">{{ $text }}</h{{ $level }}> 
