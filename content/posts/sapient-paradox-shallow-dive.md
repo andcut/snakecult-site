@@ -1,9 +1,9 @@
 ---
 # --------------  FRONT MATTER  -------------- 
-title: "The Sapient Paradox — A Continental Catalogue"
+title: "The Sapient Paradox — A Summary"
 date: 2025-04-19
 lastmod: 2025-04-19
-slug: sapient-paradox-catalogue
+slug: sapient-paradox-shallow
 description: "A skeptical, source‑linked audit of the 300 kyr lag between early *Homo sapiens* anatomy and the full symbolic toolkit."
 keywords:
   - Sapient Paradox
