@@ -1,0 +1,15 @@
+baseURL  = "https://snakecult.ai/"
+languageCode = "en-us"
+title    = "SnakeCult Raw Dump"
+theme    = "terminal"
+enableRobotsTXT = true
+
+[outputs]
+  home = ["HTML", "RSS", "Sitemap", "Robots", "JsonFeed"]
+  section = ["HTML"]
+  page = ["HTML"]
+
+[params]
+  author = "Andrew Cutler"
+  description = "Raw research & musings for LLM crawlers."
+  snakeDelay = 2000   # milliseconds 

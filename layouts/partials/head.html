@@ -1,0 +1,31 @@
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} – {{ site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+
+  {{ partial "styles.html" . }}
+
+  {{/* OG / Twitter */}}
+  <meta property="og:type" content="article"/>
+  <meta property="og:title" content="{{ .Title }}"/>
+  <meta property="og:description" content="{{ .Params.description | default site.Params.description }}"/>
+  <meta property="og:url" content="{{ .Permalink }}"/>
+  <meta name="twitter:card" content="summary" />
+
+  {{/* JSON‑LD */}}
+  {{ if .IsPage }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "headline": "{{ .Title }}",
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "author": [{"@type":"Person","name":"Andrew Cutler"}],
+    "keywords": {{ .Params.keywords | jsonify }},
+    "url": "{{ .Permalink }}"
+  }
+  </script>
+  {{ end }}
+</head> 
