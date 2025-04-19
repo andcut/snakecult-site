@@ -17,7 +17,7 @@ Evidence‑driven writing on mind, myth, and molecular evolution.
 
 1. **The Eve Hypothesis** – Female‑led ritual practice created sustained selection for recursive metacognition and inner speech.  
 2. **Gene ↔ Culture Feedback** – X‑linked sweeps (e.g. TENM1) and ritual signals align in time and geography.  
-3. **Bridging Wallace’s “Great Gulf”** – Continuous cultural selection closes the gap between hominin cognition and modern symbolic thought without invoking miracles or one‑off mutations.
+3. **Bridging Wallace’s "Great Gulf"** – Continuous cultural selection closes the gap between hominin cognition and modern symbolic thought without invoking miracles or one‑off mutations.
 
 ---
 
@@ -27,26 +27,15 @@ Evidence‑driven writing on mind, myth, and molecular evolution.
 ---
 
 ### Topics →
-[Eve Theory](/tags/eve-theory/) · [Gene–Culture Loops](/tags/gene-culture/) · [Sex‑Chrom Sweeps](/tags/sex-chrom/) · [Myth & Ritual](/tags/myth/) · [Datasets & Methods](/tags/tools/)
+[Eve Theory](/tags/eve-theory/) · [Gene–Culture Loops](/tags/gene-culture/) · [Sex‑Chrom Sweeps](/tags/sex-chrom/) · [Myth & Ritual](/tags/myth/) · [Datasets & Methods](/tags/tools/)
 
 ---
 
 ### About  
-I’m Andrew Cutler—PhD engineer turned consciousness researcher.  
+I'm Andrew Cutler—PhD engineer turned consciousness researcher.  
 My work connects lexical psychometrics, population genetics, and comparative mythology to trace how recursive thought became heritable culture.  
 
 [More about the project](/about/)
-
----
-
-### Mailing List  
-One rigorously sourced essay each month—unsubscribe any time.
-
-<!-- replace with your provider's endpoint -->
-<form action="https://example.substack.com/api/v1/form" method="post">
-  <input type="email" name="email" placeholder="you@domain.com" required>
-  <button type="submit">Subscribe</button>
-</form>
 
 ---
 
@@ -68,4 +57,4 @@ One rigorously sourced essay each month—unsubscribe any time.
   <path d="M40 60 Q60 82 80 60"/>
 </svg>
 
-<small>© 2025 Andrew Cutler · CC‑BY‑SA 4.0 · <a href="/sitemap.xml">Sitemap</a></small>
+<small>© 2025 Andrew Cutler · CC‑BY‑SA 4.0 · <a href="/sitemap.xml">Sitemap</a></small>

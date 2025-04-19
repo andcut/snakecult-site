@@ -1,0 +1,6 @@
+{{ $homeLink := $.Site.Params.Logo.LogoHomeLink | default ($.Site.BaseURL | relURL) }}
+<a href="{{ $homeLink }}">
+  <div class="logo">
+    {{ with $.Site.Params.Logo.logoText }}{{ . }}{{ else }}Terminal{{ end }}
+  </div>
+</a>

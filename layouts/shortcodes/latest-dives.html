@@ -1,5 +1,5 @@
 {{ $limit := .Get "limit" | default 3 }}
 {{ range first $limit .Site.RegularPages.ByDate.Reverse }}
-- **[{{ .Title }}]({{ .RelPermalink }})**  
-  {{ .Summary | plainify | truncate 120 }}
+**[{{ .Title }}]({{ .RelPermalink }})**  
+{{ .Summary | plainify | truncate 120 }}
 {{ end }} 

@@ -3,6 +3,8 @@
 description = "Research archive exploring the evolutionary origins of human consciousness, recursion, and symbolic culture—focused on the Eve Theory and gene–culture coevolution."
 author = "Andrew Cutler"
 logo = "images/logo.png" # Path relative to assets directory
+# Theme specific params
+showMenuItems = false # Explicitly try to trigger the 'show all items' logic in menu.html
 
 sameAs = [
   "https://scholar.google.com/citations?user=q9xechAAAAAJ&hl=en",
