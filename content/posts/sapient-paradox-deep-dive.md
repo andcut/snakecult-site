@@ -92,9 +92,6 @@ Africa births AMHS yet showcases the **longest delay** between anatomy and susta
 
 > Africa offers the **earliest sparks** but **latest sustained blaze**—a slow‑burn assembly rather than a 50 ka "revolution."
 
-[^1]: d'Errico F. & Henshilwood C. 2013. *Journal of Human Evolution* 65:108‑129.
-[^2]: Aubert M. et al. 2018. *Nature* — "Earliest Sulawesi figurative art."
-
 ## 3 Europe (≈54 ka → 10 ka)
 
 Modern humans hit Europe and, within a geological heartbeat, leave a baroque material record that dwarfs everything earlier.
@@ -173,7 +170,7 @@ A single continent, many tempos: early burials in the Levant, 40 ka murals in In
 
 ### 4.4 South‑East Asia & Wallacea
 
-* **Sulawesi**: hand stencil ≥51 ka, warty‑pig mural ≥45 ka[^3] – rival earliest European cave art.  
+* **Sulawesi**: hand stencil ≥51 ka, warty‑pig mural ≥45 ka – rival earliest European cave art.  
 * **Borneo**: banteng pictographs dated ≤40 ka.  
 * Lithic tech stays Mode 3‑ish; Denisovan/erectus legacies likely contribute to tool conservatism.
 
@@ -221,8 +218,6 @@ No bows, arrows, atlatls, or ceramics ever arise indigenously; spear + woomera a
 Innovation ceiling set by demography, ecology, and perhaps lack of inter‑regional competition, not by cognition.
 
 > "Stone tools on Monday, Dreamtime cosmology on Tuesday." —Aboriginal Australia falsifies any claim that high tech is the inevitable telos of modern intelligence.
-
-[^3]: Aubert M. et al. 2018. "Pleistocene cave art from Sulawesi." *Nature* 559:254‑257.
 
 ## 6 Americas (≤21 ka → Holocene)
 
@@ -289,10 +284,10 @@ Anatomical modernity is **graded, not binary**. Robust vaults, heavy brow ridges
 
 | Trait / specimen                     | Age (ka) | Population / fossil              | Note & reference                           |
 |--------------------------------------|----------|----------------------------------|--------------------------------------------|
-| Mid‑facial prognathism               | 0        | Contemporary Khoisan, Papuans    | Lieberman et al. 2021 – within AMHS range  |
-| Thick cranial vault & supra‑orbitals | 13–9     | Kow Swamp (SE Australia)         | Brown 2007 – archaic look, likely plastic  |
-| Massive occipital bun                | 9        | Zhirendong (S. China)            | Wu et al. 2012 – persistence of earlier trait |
-| Receding frontal + heavy brows       | 34       | Nazlet Khater 2 (Egypt)          | Vermeersch & Pattinson 1997               |
+| Mid‑facial prognathism               | 0        | Contemporary Khoisan, Papuans    | within AMHS range [34]                     |
+| Thick cranial vault & supra‑orbitals | 13–9     | Kow Swamp (SE Australia)         | archaic look, likely plastic [23]          |
+| Massive occipital bun                | 9        | Zhirendong (S. China)            | persistence of earlier trait [16]          |
+| Receding frontal + heavy brows       | 34       | Nazlet Khater 2 (Egypt)          |                                            |
 
 > **Inference:** Morphological lag outlives cognitive lag; robusticity can be maintained by diet, drift, or intentional cranial shaping—even as complex symbolism blossoms elsewhere.
 
@@ -302,7 +297,7 @@ Anatomical modernity is **graded, not binary**. Robust vaults, heavy brow ridges
 
 1. **Demographic‑Network Threshold**  
    Small, scattered bands (< 1 k individuals) lose innovations via drift; once regional metapopulations > 10 k, cumulative culture "ratchets."  
-   *Evidence:* correlation between site density & tech complexity in Europe post‑45 ka (Powell et al. 2009).
+   *Evidence:* correlation between site density & tech complexity in Europe post‑45 ka [33].
 
 2. **Gene–Culture Feedback**  
    Late Pleistocene sweeps on X‑linked neurogenes (*TENM1*, *PCDH11X*) fine‑tune circuitry for recursion, social acuity.  
@@ -324,7 +319,7 @@ Anatomical modernity is **graded, not binary**. Robust vaults, heavy brow ridges
 
 1. Hublin J‑J., et al. 2017. "New fossils from Jebel Irhoud and the pan‑African origin of *Homo sapiens*." *Nature* 546:289‑292.  
 2. Bouzouggar A., et al. 2021. "140–150 kyr old Nassarius beads from Bizmoune Cave (Morocco)." *Science Advances* 7:eabe4559.  
-3. d'Errico F. & Henshilwood C. 2013. "Blombos engravings: intentional symbols or functional marks?" *Journal of Human Evolution* 65:108‑129.  
+3. d'Errico F. & Henshilwood C. 2013. "Blombos engravings: intentional symbols or functional marks?" *Journal of Human Evolution* 65:108‑129.
 4. Lombard M. 2008. "The grasping nature of Sibudu compound‑adhesive tools." *Journal of Archaeological Science* 35:87‑97.  
 5. Brown K., McLean N., & Rhods E. 2009. "Fire as an engineering tool at Pinnacle Point." *Science* 325:859‑862.  
 6. Brooks A., et al. 1995. "Earliest specialized fishing at Katanda (Zaire)." *Science* 268:1122‑1125.  
@@ -338,7 +333,7 @@ Anatomical modernity is **graded, not binary**. Robust vaults, heavy brow ridges
 14. Douka K., et al. 2013. "Levantine chronologies for the Early Upper Palaeolithic." *Quaternary Science Reviews* 47:43‑58.  
 15. Li Z‑Y., et al. 2013. "Late Pleistocene archaic hominins at Zhoukoudian Upper Cave." *Proceedings of the National Academy of Sciences* 110:11091‑11096.  
 16. Wu X., et al. 2012. "Zhirendong hominin diversity in southern China." *PNAS* 109:8025‑8030.  
-17. Aubert M., et al. 2018. "Minimum 45 kyr old Sulawesi warty‑pig painting." *Nature* 559:254‑257.  
+17. Aubert M., et al. 2018. "Pleistocene cave art from Sulawesi." *Nature* 559:254‑257.
 18. Aubert M., et al. 2019. "Earliest figurative art in Borneo." *Nature* 564:254‑257.  
 19. Pitulko V., et al. 2004. "The Yana RHS site: humans in the Arctic before the LGM." *Science* 303:52‑56.  
 20. Debets G. 1951. *The Upper Palaeolithic Site of Mal'ta.* USSR Academy of Sciences.  
