@@ -1,7 +1,7 @@
 ---
-title: "Dreamtime's Rise: Early Holocene Australia's Symbolic Revolution in Global Context"
-date: 2025-04-20 # Placeholder date
-lastmod: 2025-04-20 # Placeholder date
+title: "The Australian Dreamtime and the Symbolic Revolution: Indigenous Evidence for Late Consciousness?"
+date: 2025-04-20
+lastmod: 2025-04-20
 slug: australia-dreamtime-symbolic-revolution
 description: "Comparison of the early Holocene emergence of the Aboriginal Dreamtime symbolic system with the Near East's Neolithic 'revolution of symbols,' examining Australian rock art, technology, exchange networks, language diffusion, and cognitive impacts."
 keywords:

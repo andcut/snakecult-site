@@ -1,7 +1,7 @@
 ---
 title: "Cosmic Herakles & Dionysus Zagreus: Orphic Cosmology and Mysteries"
-date: 2025-04-19 # Assuming date based on other files
-lastmod: 2025-04-19 # Assuming date based on other files
+date: 2025-04-19
+lastmod: 2025-04-19
 slug: cosmic-herakles-dionysus-deepdive
 description: "A detailed exploration of the complementary roles of Cosmic Herakles (Chronos) and Dionysus Zagreus in Orphic theogony, myth, ritual praxis, and Neoplatonic interpretation."
 keywords:

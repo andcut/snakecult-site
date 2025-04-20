@@ -22,7 +22,7 @@ tags:
   - Oral History
 author: "Andrew Cutler" # Assuming author based on previous file
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
-draft: true
+draft: false
 ---
 
 **TL;DR**
