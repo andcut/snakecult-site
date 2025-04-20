@@ -9,7 +9,7 @@ draft: false
 ## How Did a Self‑Aware Mind Emerge?  
 Evidence‑driven writing on mind, myth, and molecular evolution.
 
-[Read the Eve Theory Overview](/eve-theory/) <!-- CTA -->
+[Read the Eve Theory Overview]({{< relref "/etoc-overview.md" >}}) <!-- CTA -->
 
 
 ### Key Points at a Glance  
