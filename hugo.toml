@@ -4,24 +4,6 @@ title = 'SnakeCult.ai'
 theme = 'terminal'
 enableRobotsTXT = true # Explicitly enable robots.txt generation/handling
 
-[[menu.main]]
-  identifier = "home"
-  name = "Home"
-  url = "#"
-  weight = 1
-
-[[menu.main]]
-  parent = "home"
-  name = "Deep Lore"
-  url = "/"
-  weight = 1
-
-[[menu.main]]
-  parent = "home"
-  name = "About"
-  url = "/about/"
-  weight = 2
-
 # Needed for processing SCSS / PostCSS
 [build]
   writeStats = true

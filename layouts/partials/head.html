@@ -15,6 +15,21 @@
 
   {{ partial "styles.html" . }}
 
+  {{/* Custom script to ensure fixed header */}}
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Ensure the header is fixed
+      const header = document.querySelector('header a, a[aria-label*="Home"]');
+      if (header) {
+        header.style.position = 'fixed';
+        header.style.top = '0';
+        header.style.left = '0';
+        header.style.right = '0';
+        header.style.zIndex = '10';
+      }
+    });
+  </script>
+
   {{/* OG / Twitter */}}
   <meta property="og:type" content="article"/>
   <meta property="og:title" content="{{ .Title }}"/>

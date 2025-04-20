@@ -2,38 +2,27 @@
 <html lang="{{ $.Site.Language }}">
 <head>
   {{- partial "head.html" . -}}
+  <style>
+    .content-over-header {
+      position: relative;
+      z-index: 20;
+      background-color: var(--retro-background);
+      box-shadow: 0 0 20px 10px rgba(0,0,0,0.2);
+    }
+  </style>
 </head>
-<body class="bg-retro-background text-retro-foreground shadow-retro-glow text-base font-mono flex flex-col min-h-screen">
+<body class="bg-retro-background text-retro-foreground shadow-retro-glow text-base font-mono flex flex-col min-h-screen pt-32 md:pt-40 lg:pt-48">
 
-  {{/* Header Section */}}
-  <header class="container max-w-4xl mx-auto px-4 py-6">
-    <div class="flex justify-between items-center">
-      {{/* Logo */}}
-      {{ partial "logo.html" . }}
+  {{/* Logo Banner - Full Width */}}
+  {{ partial "logo.html" . }}
 
-      {{/* Navigation Menu */}}
-      <nav>
-        <ul class="flex space-x-6">
-          {{ range .Site.Menus.main }}
-            <li>
-              {{/* Style menu item links */}}
-              <a href="{{ .URL | relURL }}" class="text-lg text-retro-foreground hover:text-retro-accent shadow-retro-glow-lg hover:shadow-none transition-colors duration-150 {{ if $.IsHome }}is-active{{ end }}">
-                {{ .Name }}
-              </a>
-            </li>
-          {{ end }}
-        </ul>
-      </nav>
-    </div>
-  </header>
-
-  {{/* Main Content Area - make it grow to push footer down */}}
-  <main class="content container max-w-4xl mx-auto px-4 py-8 flex-grow">
+  {{/* Main Content Area - make it grow, scroll over header, and have a background */}}
+  <main class="content-over-header content container max-w-4xl mx-auto px-4 py-8 flex-grow">
     {{ block "main" . }}{{ end }}
   </main>
 
   {{/* Footer Section - Basic Placeholder */}}
-  <footer class="container max-w-4xl mx-auto px-4 py-6 mt-8 text-center text-sm text-retro-foreground/70">
+  <footer class="content-over-header container max-w-4xl mx-auto px-4 py-6 mt-auto text-center text-sm text-retro-foreground/70">
     <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}. All rights reserved.</p>
     {{/* Add license info here if needed */}}
   </footer>

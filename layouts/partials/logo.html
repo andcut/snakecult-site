@@ -1,10 +1,53 @@
 {{/* Directly use the site's base URL for the home link */}}
 {{ $homeLink := $.Site.BaseURL | relURL }}
-{{/* Style the link: remove default link styles, apply hover */}}
-<a href="{{ $homeLink }}" class="text-retro-foreground hover:text-retro-accent no-underline hover:no-underline shadow-none hover:shadow-none">
-  {{/* Style the logo text: make it larger, bolder */}}
-  <div class="logo text-2xl font-bold tracking-wider">
-    {{/* Directly use the site title */}}
-    {{ $.Site.Title }}
+
+{{/* Select the SVG based on page type */}}
+{{ $svgPath := "" }}
+{{ if .IsHome }}
+  {{ $svgPath = "svg/etsy_haul/snake-moon-eye.svg" }}
+{{ else }}
+  {{ $svgPath = "svg/etsy_haul/snake-infinity.svg" }}
+{{ end }}
+
+{{ $svgResource := resources.Get $svgPath }}
+
+<a href="{{ $homeLink }}" 
+   class="fixed top-0 left-0 right-0 z-10 block w-full text-retro-foreground hover:text-retro-accent no-underline hover:no-underline shadow-none hover:shadow-none fill-current"
+   style="position: fixed !important;"
+   aria-label="{{ $.Site.Title }} - Home">
+  
+  {{/* Container for the SVG pattern - doubled the height */}}
+  <div class="w-full h-32 md:h-40 lg:h-48 overflow-hidden bg-retro-background">
+    {{ if $svgResource }}
+      <div class="w-full h-full">
+        {{ $svgContent := $svgResource.Content }}
+        {{ $svgContent := replace $svgContent "<svg " "<svg width=\"100%\" height=\"100%\" preserveAspectRatio=\"xMidYMid meet\" " }}
+        <div class="flex w-full h-full -mx-2">
+          <div class="w-1/5 h-full min-w-[120px] flex items-center">
+            {{ $svgContent | safeHTML }}
+          </div>
+          <div class="w-1/5 h-full min-w-[120px] flex items-center -ml-2">
+            {{ $svgContent | safeHTML }}
+          </div>
+          <div class="w-1/5 h-full min-w-[120px] flex items-center -ml-2">
+            {{ $svgContent | safeHTML }}
+          </div>
+          <div class="w-1/5 h-full min-w-[120px] flex items-center -ml-2">
+            {{ $svgContent | safeHTML }}
+          </div>
+          <div class="w-1/5 h-full min-w-[120px] flex items-center -ml-2">
+            {{ $svgContent | safeHTML }}
+          </div>
+          <div class="w-1/5 h-full min-w-[120px] flex items-center -ml-2">
+            {{ $svgContent | safeHTML }}
+          </div>
+        </div>
+      </div>
+    {{ else }}
+      {{/* Fallback text if SVG not found */}}
+      <div class="flex items-center justify-center h-full bg-retro-background border-b border-retro-foreground/20">
+        <span class="text-xl md:text-2xl lg:text-3xl font-bold">{{ $.Site.Title }}</span>
+      </div>
+    {{ end }}
   </div>
 </a>
