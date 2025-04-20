@@ -1,8 +1,8 @@
 ---
 # --------------  FRONT MATTER  --------------
 title: "Women as Progenitors of Culture: Mythic Origins and Scholarly Debates"
-date: 2024-11-22
-lastmod: 2024-11-22
+date: 2025-04-21
+lastmod: 2025-04-21
 slug: primordial-matriarchy-science
 description: "Examines the historical and anthropological debate surrounding the concept of primordial matriarchy, from Bachofen's theories to modern critiques and evidence."
 keywords:

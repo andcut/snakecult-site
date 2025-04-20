@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Snake Cult/Eve Theory of Consciousness vs. McKenna's Stoned Ape Theory"
-date: 2024-11-22
-lastmod: 2024-11-22
+date: 2025-04-20
+lastmod: 2025-04-20
 slug: snake-cult-vs-stoned-ape
 description: "An exploration of two theories on the origins of human consciousness: the Snake Cult/Eve Theory (snake venom) versus the Stoned Ape Theory (psilocybin mushrooms)."
 keywords:

@@ -1,9 +1,9 @@
 ---
 title: "Prehistoric Myths with Origins Over 8,000 Years Ago"
-date: 2024-11-22
-lastmod: 2024-11-22
+date: 2025-04-21
+lastmod: 2025-04-21
 slug: longevity-of-myths
-description: "A survey of mythological narratives from around the world that may originate from 8,000 years ago or earlier, based on comparative mythology, geomythology, and linguistics."
+description: "Examines the surprising stability of mythic motifs over millennia, suggesting myths like the Cosmic Hunt or Serpent symbolism could encode memories of real cognitive shifts, supporting the Eve Theory's timeframe."
 keywords:
   - mythology
   - prehistory

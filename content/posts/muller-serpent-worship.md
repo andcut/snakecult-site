@@ -1,10 +1,10 @@
 ---
 # --------------  FRONT MATTER  -------------- 
-title: "Serpents of Myth and Ritual: Max Müller's Perspective and Beyond"
-date: 2024-07-26
-lastmod: 2024-07-26
-slug: muller-serpent-worship-analysis
-description: "An exploration of Max Müller's philological views on serpent worship (Nāga, Sarpa), compared with cross-cultural serpent symbolism, social functions, and deeper archetypal patterns."
+title: "Maximilian Müller on Serpent Worship: Indo-European Roots and Global Parallels"
+date: 2025-04-20
+lastmod: 2025-04-20
+slug: muller-serpent-worship
+description: "Analyzing Max Müller's 19th-century work on serpent worship, focusing on his identification of serpent symbolism in Vedic and Indo-European traditions and comparing his findings with global serpent myths relevant to the Snake Cult hypothesis."
 keywords:            # 3–7 items
   - Max Müller
   - serpent worship

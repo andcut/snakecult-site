@@ -1,10 +1,10 @@
 ---
 # --------------  FRONT MATTER -------------- 
-title: "The Sapient Paradox — A Continental Catalogue"
-date: 2025-04-19
-lastmod: 2025-04-19
-slug: sapient-paradox-catalogue
-description: "A skeptical, source‑linked audit of the 300 kyr lag between early *Homo sapiens* anatomy and the full symbolic toolkit."
+title: "The Sapient Paradox: A Deep Dive into the Archaeological and Genetic Evidence"
+date: 2025-04-20
+lastmod: 2025-04-20
+slug: sapient-paradox-deep-dive
+description: "A comprehensive analysis of the Sapient Paradox, synthesizing archaeological findings (tools, art, burials) with paleogenetics (brain-related gene sweeps, population bottlenecks) to evaluate theories for the delayed emergence of behavioral modernity."
 keywords:
   - Sapient Paradox
   - behavioral modernity

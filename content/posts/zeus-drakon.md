@@ -29,7 +29,7 @@ draft: false
 
 ---
 
-## 1 “Zeus in the Shape of a Snake”: Local Cults
+## 1 "Zeus in the Shape of a Snake": Local Cults
 
 | Epithet | Site / function | Iconography | Source |
 |---------|-----------------|-------------|--------|
@@ -49,7 +49,7 @@ draft: false
 Zeus takes **serpent form** to couple with Persephone → births **Zagreus-Dionysus**.[^zagreus] The snake here signals *chthonic fertility* and *royal succession*.
 
 ### 2.2 World Reset
-Orphic Rhapsodies (fr. 167): “**Zeus swallowed Phanes**, and all gods, rivers, springs, every living thing passed into his belly; he alone remained.”[^phanes-swallow]
+Orphic Rhapsodies (fr. 167): "**Zeus swallowed Phanes**, and all gods, rivers, springs, every living thing passed into his belly; he alone remained."[^phanes-swallow]
 He then **re-creates** the world from within, becoming *pan-entheistic* cosmos.
 
 ### 2.3 Philosophical Uptake
