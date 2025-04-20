@@ -4,6 +4,7 @@
       {{ . | markdownify }}
     </div>
   {{ end }}
+
   <div class="posts space-y-10">
     {{ range .Paginator.Pages }}
       <article class="post-on-list border border-retro-accent/50 p-6 shadow-lg shadow-retro-accent/10">

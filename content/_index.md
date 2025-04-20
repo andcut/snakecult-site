@@ -1,7 +1,7 @@
 ---
-title: "Vectors of Mind"
+title: "Vectors of Mind"
 description: "Research‑grade essays on consciousness, gene–culture co‑evolution, and the Eve Theory."
-keywords: ["Eve Theory","consciousness","human origins","gene–culture co‑evolution","psychometrics"]
+keywords: ["Eve Theory","consciousness","human origins","gene–culture co‑evolution","psychometrics"]
 type: "website"
 draft: false
 ---
@@ -11,25 +11,24 @@ Evidence‑driven writing on mind, myth, and molecular evolution.
 
 [Read the Eve Theory Overview](/eve-theory/) <!-- CTA -->
 
----
 
 ### Key Points at a Glance  
 
 1. **The Eve Hypothesis** – Female‑led ritual practice created sustained selection for recursive metacognition and inner speech.  
-2. **Gene ↔ Culture Feedback** – X‑linked sweeps (e.g. TENM1) and ritual signals align in time and geography.  
-3. **Bridging Wallace’s "Great Gulf"** – Continuous cultural selection closes the gap between hominin cognition and modern symbolic thought without invoking miracles or one‑off mutations.
+2. **Gene ↔ Culture Feedback** – X‑linked sweeps (e.g. TENM1) and ritual signals align in time and geography.  
+3. **Bridging Wallace's "Great Gulf"** – Continuous cultural selection closes the gap between hominin cognition and modern symbolic thought without invoking miracles or one‑off mutations.
 
----
+<div class="border-t border-retro-accent/50 my-8"></div>
 
 ### Recent Deep Dives  
 {{< latest-dives limit="3" >}}
 
----
+<div class="border-t border-retro-accent/50 my-8"></div>
 
 ### Topics →
 [Eve Theory](/tags/eve-theory-of-consciousness/) · [Gene–Culture Loops](/tags/gene-culture/) · [Sex‑Chrom Sweeps](/tags/sex-chrom/) · [Myth & Ritual](/tags/myth/) · [Datasets & Methods](/tags/tools/)
 
----
+<div class="border-t border-retro-accent/50 my-8"></div>
 
 ### About  
 I'm Andrew Cutler—PhD engineer turned consciousness researcher.  
@@ -37,7 +36,7 @@ My work connects lexical psychometrics, population genetics, and comparative myt
 
 [More about the project](/about/)
 
----
+<div class="border-t border-retro-accent/50 my-8"></div>
 
 <!-- Inline SVG favicon / brand mark; no raster assets -->
 <svg viewBox="0 0 120 100" xmlns="http://www.w3.org/2000/svg"
@@ -57,4 +56,4 @@ My work connects lexical psychometrics, population genetics, and comparative myt
   <path d="M40 60 Q60 82 80 60"/>
 </svg>
 
-<small>© 2025 Andrew Cutler · CC‑BY‑SA 4.0 · <a href="/sitemap.xml">Sitemap</a></small>
+<small>© 2025 Andrew Cutler · CC‑BY‑SA 4.0 · <a href="/sitemap.xml">Sitemap</a></small>
