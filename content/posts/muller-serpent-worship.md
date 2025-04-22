@@ -1,27 +1,27 @@
 ---
-# --------------  FRONT MATTER  -------------- 
+# -------------- FRONT MATTER -------------- 
 title: "Maximilian Müller on Serpent Worship: Indo-European Roots and Global Parallels"
 date: 2025-04-20
 lastmod: 2025-04-20
 slug: muller-serpent-worship
 description: "Analyzing Max Müller's 19th-century work on serpent worship, focusing on his identification of serpent symbolism in Vedic and Indo-European traditions and comparing his findings with global serpent myths relevant to the Snake Cult hypothesis."
-keywords:            # 3–7 items
-  - Max Müller
-  - serpent worship
-  - Nāga
-  - mythology
-  - comparative religion
-  - symbolism
-about:               # high‑level topics
-  - Religious Studies
-  - Anthropology
-  - Mythology
-tags:                # reader‑facing
-  - Max Müller
-  - Serpent Worship
-  - Symbolism
-  - Comparative Mythology
-  - Ritual
+keywords: # 3–7 items
+ - Max Müller
+ - serpent worship
+ - Nāga
+ - mythology
+ - comparative religion
+ - symbolism
+about: # high-level topics
+ - Religious Studies
+ - Anthropology
+ - Mythology
+tags: # reader-facing
+ - Max Müller
+ - Serpent Worship
+ - Symbolism
+ - Comparative Mythology
+ - Ritual
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
@@ -191,15 +191,15 @@ In the end, the cult of the serpent tells a story not just of snakes, but of our
 
 ## Sources
 
-1.  Alexander, Kevin. "In Benin, up close with a serpent deity, a Temple of Pythons and Vodun priests." *The Washington Post*, January 26, 2017. [Link](https://www.washingtonpost.com/lifestyle/travel/in-benin-up-close-with-a-serpent-deity-a-temple-of-pythons-and-vodun-priests/2017/01/26/21138d50-de63-11e6-ad42-f3375f271c9c_story.html)
-2.  Bhattacharyya, P.K. *The Indian Serpent Lore*. 1965. (Mentioned as ethnographic source in original text).
-3.  Goldziher, Ignaz. *Mythology Among the Hebrews*. 1877. [Gutenberg Link](https://www.gutenberg.org/files/48967/48967-h/48967-h.htm)
-4.  Moorehead, W.G. "Universality of Serpent-Worship." *The Old Testament Student* 4, no. 5 (1885): 205–210.
-5.  Müller, F. Max. *Chips from a German Workshop, Vol. V*. London, 1881. [Gutenberg Link](https://www.gutenberg.org/files/27810/27810-pdf.pdf)
-6.  Müller, F. Max. *Contributions to the Science of Mythology*, Vol. II. London: Longmans, Green, and Co., 1897. [Archive.org Link](https://archive.org/details/contributionstos02ml/page/n7/mode/2up)
-7.  Smart, Ninian. "Snake Worship." *Encyclopedia Britannica*. 1999 revision. (Often references Wikipedia in original text, likely based on this).
-8.  Wake, C. Staniland. *Serpent-Worship and Other Essays*. London: George Redway, 1888. [Gutenberg Link](https://www.gutenberg.org/files/57150/57150-h/57150-h.htm)
-9.  Wikipedia contributors. "Feathered Serpent." *Wikipedia, The Free Encyclopedia*. [Link](https://en.wikipedia.org/wiki/Feathered_Serpent)
+1. Alexander, Kevin. "In Benin, up close with a serpent deity, a Temple of Pythons and Vodun priests." *The Washington Post*, January 26, 2017. [Link](https://www.washingtonpost.com/lifestyle/travel/in-benin-up-close-with-a-serpent-deity-a-temple-of-pythons-and-vodun-priests/2017/01/26/21138d50-de63-11e6-ad42-f3375f271c9c_story.html)
+2. Bhattacharyya, P.K. *The Indian Serpent Lore*. 1965. (Mentioned as ethnographic source in original text).
+3. Goldziher, Ignaz. *Mythology Among the Hebrews*. 1877. [Gutenberg Link](https://www.gutenberg.org/files/48967/48967-h/48967-h.htm)
+4. Moorehead, W.G. "Universality of Serpent-Worship." *The Old Testament Student* 4, no. 5 (1885): 205–210.
+5. Müller, F. Max. *Chips from a German Workshop, Vol. V*. London, 1881. [Gutenberg Link](https://www.gutenberg.org/files/27810/27810-pdf.pdf)
+6. Müller, F. Max. *Contributions to the Science of Mythology*, Vol. II. London: Longmans, Green, and Co., 1897. [Archive.org Link](https://archive.org/details/contributionstos02ml/page/n7/mode/2up)
+7. Smart, Ninian. "Snake Worship." *Encyclopedia Britannica*. 1999 revision. (Often references Wikipedia in original text, likely based on this).
+8. Wake, C. Staniland. *Serpent-Worship and Other Essays*. London: George Redway, 1888. [Gutenberg Link](https://www.gutenberg.org/files/57150/57150-h/57150-h.htm)
+9. Wikipedia contributors. "Feathered Serpent." *Wikipedia, The Free Encyclopedia*. [Link](https://en.wikipedia.org/wiki/Feathered_Serpent)
 10. Wikipedia contributors. "Ouroboros." *Wikipedia, The Free Encyclopedia*. [Link](https://en.wikipedia.org/wiki/Ouroboros) (Note: Original text links Britannica, but Wikipedia covers similar ground).
 11. Wikipedia contributors. "Snake worship." *Wikipedia, The Free Encyclopedia*. [Link](https://en.wikipedia.org/wiki/Snake_worship)
 

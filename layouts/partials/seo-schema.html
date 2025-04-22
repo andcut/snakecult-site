@@ -1,5 +1,5 @@
 {{/*  layouts/partials/schema.html  */}}
-{{- /* ---------- SITE‑WIDE ------------- */ -}}
+{{- /* ---------- SITE-WIDE ------------- */ -}}
 {{ $siteSchema := dict
   "@context" "https://schema.org"
   "@type"   "WebSite"
@@ -20,7 +20,7 @@
 {{ $siteSchema | jsonify (dict "indent" "  ") | safeHTML }}
 </script>
 
-{{/* ---------- SINGLE‑PAGE SCHEMA ------------- */}}
+{{/* ---------- SINGLE-PAGE SCHEMA ------------- */}}
 {{ if .IsPage }}
   {{/* Choose type */}}
   {{ $type := "ScholarlyArticle" }}

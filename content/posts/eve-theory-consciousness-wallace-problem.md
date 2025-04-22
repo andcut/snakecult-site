@@ -3,23 +3,23 @@ title: "Eve Theory of Consciousness: Solving the Wallace Problem of Human Cognit
 date: 2025-04-19
 lastmod: 2025-04-21
 slug: eve-theory-wallace-problem
-description: "A comprehensive, evidence‑driven defence of the Eve Theory as the only evolutionary route to recursive self‑awareness and language (i.e. the Wallace Problem)."
+description: "A comprehensive, evidence-driven defence of the Eve Theory as the only evolutionary route to recursive self-awareness and language (i.e. the Wallace Problem)."
 keywords:
-  - Eve Theory of Consciousness
-  - Wallace Problem
-  - recursive thinking
-  - language evolution
-  - human consciousness evolution
+ - Eve Theory of Consciousness
+ - Wallace Problem
+ - recursive thinking
+ - language evolution
+ - human consciousness evolution
 about:
-  - gene–culture co‑evolution
-  - snake‑venom ritual
-  - subject‑object separation
+ - gene–culture co-evolution
+ - snake-venom ritual
+ - subject-object separation
 tags:
-  - Eve Theory of Consciousness
-  - Wallace Problem
-  - evolution of consciousness
-  - recursive thinking
-  - gene–culture co‑evolution
+ - Eve Theory of Consciousness
+ - Wallace Problem
+ - evolution of consciousness
+ - recursive thinking
+ - gene–culture co-evolution
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
@@ -27,9 +27,9 @@ draft: false
 
 **TL;DR**
 
-- **The Wallace Problem** – Alfred R. Wallace judged human self‑awareness and language "over‑built" for Paleolithic life; Darwin himself had doubts.  
-- **EToC** – Female‑led rituals (likely snake‑venom trance) created a cultural ratchet for recursive thought, which genetics then amplified.  
-- **Why it wins** – Fits gradual selection, explains the 150 ky archaeological lag, predicts testable traces (venom‑resistance alleles, serpent cult sites) and outperforms self‑domestication, cooking, or "big‑mutation" stories.
+- **The Wallace Problem** – Alfred R. Wallace judged human self-awareness and language "over-built" for Paleolithic life; Darwin himself had doubts. 
+- **EToC** – Female-led rituals (likely snake-venom trance) created a cultural ratchet for recursive thought, which genetics then amplified. 
+- **Why it wins** – Fits gradual selection, explains the 150 ky archaeological lag, predicts testable traces (venom-resistance alleles, serpent cult sites) and outperforms self-domestication, cooking, or "big-mutation" stories.
 
 ---
 
@@ -117,7 +117,7 @@ If EToC's process began, say, ~100,000 years ago (as some genetic and archaeolog
 
 Genetics supports this timeline to an extent. The famous FOXP2 gene, linked to speech and language, underwent two key amino acid changes on the human lineage. For a while it was thought those changes swept through humans around 200,000 years ago, possibly giving a sudden advantage[^8]. Newer analyses, however, found no evidence of a recent selective sweep at FOXP2[^8]. In fact, Neanderthals and Denisovans carried the same FOXP2 changes, implying the genetic groundwork for speech was older and shared. This suggests that having the gene alone wasn't the magic bullet—something in behavior or culture still had to happen. FOXP2 might have been necessary for complex speech, but by itself it didn't trigger Shakespeare. This fits EToC: the neural potential was present, waiting for a cultural catalyst.
 
-Beyond FOXP2, research shows that much of what differentiates human brains involves regulatory DNA changes rather than completely new genes. Thousands of human-specific regulatory elements in the genome became active during our brain development, tweaking gene expression in ways that likely increased neural connectivity and growth[^9]. These genetic changes (often dated between 100k–300k years ago) made our brains larger and more capable, but they don't explain the final step into recursive self-awareness. What they did was set the stage. By increasing the "raw horsepower" and plasticity of the brain  , evolution gave us a powerful engine—but an engine still needs a spark to run in a new mode. EToC's cultural ritual was that spark. It "taught" the brain how to use its expanded circuitry for reflexive thought. In evolutionary terms, one might say we had a suite of latent features (like neural global workspaces, theory-of-mind circuits, vocal apparatus for speech) that lay mostly dormant or only partially used until a cultural practice integrated them into a new functional system: true language and consciousness.
+Beyond FOXP2, research shows that much of what differentiates human brains involves regulatory DNA changes rather than completely new genes. Thousands of human-specific regulatory elements in the genome became active during our brain development, tweaking gene expression in ways that likely increased neural connectivity and growth[^9]. These genetic changes (often dated between 100k–300k years ago) made our brains larger and more capable, but they don't explain the final step into recursive self-awareness. What they did was set the stage. By increasing the "raw horsepower" and plasticity of the brain , evolution gave us a powerful engine—but an engine still needs a spark to run in a new mode. EToC's cultural ritual was that spark. It "taught" the brain how to use its expanded circuitry for reflexive thought. In evolutionary terms, one might say we had a suite of latent features (like neural global workspaces, theory-of-mind circuits, vocal apparatus for speech) that lay mostly dormant or only partially used until a cultural practice integrated them into a new functional system: true language and consciousness.
 
 Comparative cognition also underscores the point. Our closest relatives, the great apes, display many building blocks of our cognition: they reason about physical causes, they have social intelligence, some can learn dozens of symbols or signs. Yet none of them, not even the cleverest chimp taught sign language, has shown the full generative grammar or the incessant "talking to oneself" that human toddlers exhibit. Apes do not ask questions, do not teach each other complex skills through language, and their communication lacks recursive structure. Michael Corballis and others have highlighted recursive thinking as the decisive gap between us and other apes[^10]. This gap did not widen because apes lack big brains (they have fairly large brains and plenty of smarts); it widened because something triggered humans to cross a threshold that apes never did. By positing a concrete selective scenario, EToC explains why only humans crossed that threshold. It wasn't inevitable or universal—it required a perfect storm of social, ecological, and perhaps pharmacological conditions that happened to coalesce in our lineage.
 
@@ -175,7 +175,7 @@ In sum, EToC opens many investigative doors. It is not a mere just-so story; it 
 
 [^4]: Deutsch, D. (2011). The Beginning of Infinity. London: Penguin Books. (Deutsch discusses the emergence of humans as universal explainers, marking a fundamental discontinuity with animal minds. He argues that human creativity and capacity for generating new explanations is unique and must have arisen from a qualitative evolutionary transition, not just gradual improvement of ape intelligence.)
 
-[^5]: Johnson, A. M., & Bouchard, T. J. (2007). "Sex differences in mental abilities: g masks the dimensions on which they differ," Intelligence, 35(1), 23–39. (Reviews evidence that females on average excel in social cognition and verbal fluency, whereas males excel in visuospatial tasks. Additionally, research indicates the female brain has more connectivity between hemispheres  and differences in the precuneus (self-referential thinking area) , possibly relevant to developing recursive thought.)
+[^5]: Johnson, A. M., & Bouchard, T. J. (2007). "Sex differences in mental abilities: g masks the dimensions on which they differ," Intelligence, 35(1), 23–39. (Reviews evidence that females on average excel in social cognition and verbal fluency, whereas males excel in visuospatial tasks. Additionally, research indicates the female brain has more connectivity between hemispheres and differences in the precuneus (self-referential thinking area) , possibly relevant to developing recursive thought.)
 
 [^6]: Cutler, A. (2022). "Snake Cult of Consciousness," Vectors of Mind (blog). (Explores the idea that snake venom could induce hallucinations and heightened neural plasticity in the context of rituals. Notes that certain venoms are "packed with nerve growth factor," a protein essential for neural development . The post argues that a ritual incorporating snake venom would outcompete other rituals in catalyzing self-awareness due to these biochemical effects.)
 

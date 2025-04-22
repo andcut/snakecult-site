@@ -1,30 +1,30 @@
 ---
-# --------------  FRONT MATTER  --------------
+# -------------- FRONT MATTER --------------
 title: "Women as Progenitors of Culture: Mythic Origins and Scholarly Debates"
 date: 2025-04-21
 lastmod: 2025-04-21
 slug: primordial-matriarchy-science
 description: "Examines the historical and anthropological debate surrounding the concept of primordial matriarchy, from Bachofen's theories to modern critiques and evidence."
 keywords:
-  - matriarchy
-  - mother-right
-  - Bachofen
-  - Engels
-  - Gimbutas
-  - anthropology
-  - mythology
-  - gender history
+ - matriarchy
+ - mother-right
+ - Bachofen
+ - Engels
+ - Gimbutas
+ - anthropology
+ - mythology
+ - gender history
 about:
-  - Anthropology
-  - History
-  - Gender Studies
-  - Mythology
+ - Anthropology
+ - History
+ - Gender Studies
+ - Mythology
 tags:
-  - Matriarchy Debate
-  - Social Evolution
-  - Feminist Theory
-  - Cultural Origins
-author: "Andrew Cutler"  # Assuming author based on previous edits, adjust if needed.
+ - Matriarchy Debate
+ - Social Evolution
+ - Feminist Theory
+ - Cultural Origins
+author: "Andrew Cutler" # Assuming author based on previous edits, adjust if needed.
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true
 ---
@@ -159,3 +159,38 @@ What emerges from this history is a richer appreciation of women's role in human
 	•	Johansson & Hrdy on cooperative childcare and language origins (midwives/grandmothers as key)
 	•	Dean Falk's "motherese" hypothesis for language evolution
 	•	Chris Knight's theory of menstrual synchronization and the origins of symbolic culture
+
+
+ Below is a plain-text bibliography table covering every source referenced in the report. URLs are given in full (not hyperlinked) so you can copy-paste them directly. ￼
+
+Author(s) / Source	Year (first ed.)	Title (or entry)	Type	URL
+Johann Jakob Bachofen	1861	Das Mutterrecht (Mother Right)	Book	https://archive.org/details/Bachofen-Johann-Mutterrecht
+Lewis Henry Morgan	1877	Ancient Society	Book	https://ia801502.us.archive.org/8/items/in.ernet.dli.2015.174214/2015.174214.Ancient-Society.pdf
+John F. McLennan	1886 (orig. 1865–76)	Studies in Ancient History (2nd series)	Book	https://ia601506.us.archive.org/28/items/in.ernet.dli.2015.45396/2015.45396.Studies-In-Ancient-History.pdf
+Sir Henry S. Maine	1861	Ancient Law	Book	https://www.gutenberg.org/files/22910/22910-h/22910-h.htm
+Edvard Westermarck	1891	The History of Human Marriage	Book	https://www.gutenberg.org/files/59386/59386-h/59386-h.htm
+Friedrich Engels	1884	The Origin of the Family, Private Property and the State	Book	https://www.marxists.org/archive/marx/works/1884/origin-family/
+Jane Ellen Harrison	1903	Prolegomena to the Study of Greek Religion	Book	https://archive.org/download/prolegomenatostu00harr/prolegomenatostu00harr.pdf
+Jane Ellen Harrison	1912	Themis: A Study of the Social Origins of Greek Religion	Book	https://archive.org/details/themisstudyofthe00harruoft
+Robert Briffault	1931	The Mothers: The Matriarchal Theory of Social Origins	Book	https://electrodes-h-sinclair-502.com/wp-content/uploads/2008/12/the_mothers__matriarchal_theory_social_origins__robert_briffault_1931.pdf
+Bronisław Malinowski	1927	Sex and Repression in Savage Society	Book	https://archive.org/details/sexandrepression033038mbp
+Wilhelm Schmidt	1930	The Origin and Spread of the World Cultures	Book	https://archive.org/details/in.ernet.dli.2015.77086
+A. R. Radcliffe-Brown	1924	“The Mother’s Brother in South Africa”	Journal article	https://web-archive.southampton.ac.uk/cogprints.org/1885/1/mother-s-brother.htm
+E. E. Evans-Pritchard	1930	“Some Remarks on the Early History of Kingship”	Journal article	https://doi.org/10.1017/S0001972000003928
+Marija Gimbutas	1974	The Goddesses and Gods of Old Europe	Book	https://archive.org/details/goddessesgodsofo00gimb
+Elizabeth Gould Davis	1971	The First Sex	Book	https://archive.org/details/firstsex00davi
+Merlin Stone	1976	When God Was a Woman	Book	https://archive.org/details/whengodwaswoman00ston
+Cynthia Eller	2000	The Myth of Matriarchal Prehistory	Book	https://archive.org/details/mythofmatriarcha0000elle
+Joan Bamberger	1974	“The Myth of Matriarchy: Why Men Rule in Primitive Society”	Journal article	https://radicalanthropologygroup.org/wp-content/uploads/class_text_052.pdf
+Peggy Reeves Sanday	1981	Female Power and Male Dominance	Book	https://archive.org/details/femalepowermaled00sand
+Kristen Hawkes et al.	1997	“Grandmothering, Menopause, and the Evolution of Human Life Histories” (PNAS)	Journal article	https://www.pnas.org/doi/10.1073/pnas.95.3.1336
+Sarah Blaffer Hrdy	2009	Mothers and Others	Book	https://faculty.sfcc.spokane.edu/InetShare/AutoWebs/SarahMa/Hrdy.pdf
+Sverker Johansson	2021	The Dawn of Language	Book	https://www.booktopia.com.au/the-dawn-of-language-sverker-johansson/ebook/9781529411423.html
+Dean Falk	2004	“Prelinguistic evolution in early hominins: Whence motherese?”	Journal article	https://www.sciencedirect.com/science/article/abs/pii/S027153090700047X
+Chris Knight	1991	Blood Relations: Menstruation and the Origins of Culture	Book	https://blackbooksdotpub.files.wordpress.com/2021/10/blood-relations-chris-knight.pdf
+Amy Parish	1996	“Female Relationships in Bonobos (Pan paniscus)”	Journal article	https://link.springer.com/article/10.1007/BF02733490
+Wawilak Sisters myth	Access 2025	Wawilak Sisters (Dreamtime)	Web entry	https://en.wikipedia.org/wiki/Wawalag
+Changing Woman myth	Access 2025	Changing Woman (Navajo)	Web entry	https://www.britannica.com/topic/Changing-Woman
+Amaterasu myth	Access 2025	Amaterasu (Japanese sun goddess)	Web entry	https://www.britannica.com/topic/Amaterasu
+
+(If you need URLs for additional titles referenced only in passing—e.g., Simone de Beauvoir’s The Second Sex, Angela Saini’s The Patriarchs—let me know and I’ll append them.)

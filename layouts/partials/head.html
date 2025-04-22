@@ -10,6 +10,9 @@
   <link rel="shortcut icon" href="/favicon.ico">
   {{/* Add theme-color later if needed */}}
 
+  {{/* RSS Feed Link */}}
+  <link href="{{ .Site.BaseURL }}index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} – {{ site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
 
@@ -37,7 +40,7 @@
   <meta property="og:url" content="{{ .Permalink }}"/>
   <meta name="twitter:card" content="summary" />
 
-  {{/* JSON‑LD Schemas */}}
+  {{/* JSON-LD Schemas */}}
   {{ if .IsHome }}
     {{ partial "seo-schema.html" . }}
   {{ else if .IsPage }}

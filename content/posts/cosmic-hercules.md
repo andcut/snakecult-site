@@ -5,18 +5,18 @@ lastmod: 2025-04-19
 slug: cosmic-herakles
 description: "From Göbekli Tepe initiation lore to Orphic world-egg cosmology, tracing Herakles' twin careers as Adamic hero and winged time-serpent."
 keywords:
-  - Herakles
-  - Orphic cosmogony
-  - Göbekli Tepe
-  - serpent worship
-  - Adam parallels
+ - Herakles
+ - Orphic cosmogony
+ - Göbekli Tepe
+ - serpent worship
+ - Adam parallels
 about:
-  - mythology
-  - human origins
-  - gene–culture coevolution
+ - mythology
+ - human origins
+ - gene–culture coevolution
 tags:
-  - Deep-Research
-  - Prehistory
+ - Deep-Research
+ - Prehistory
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
@@ -66,7 +66,7 @@ Chronos-Herakles thus *pre-figures* both Olympian rule and the anthropogony that
 ---
 
 ### 2.2 Why call the serpent **Herakles**?
-Name-play (Ἥρα + κλέος → "glory of air") plus the semantic field of **kratos** (*strength*).  In Neoplatonic physics, *Time-Serpent = tensile strength holding cosmos together*—the same *aretê* the hero earns through toil.
+Name-play (Ἥρα + κλέος → "glory of air") plus the semantic field of **kratos** (*strength*). In Neoplatonic physics, *Time-Serpent = tensile strength holding cosmos together*—the same *aretê* the hero earns through toil.
 
 ---
 
@@ -108,13 +108,13 @@ Hence the popularity of serpent-Herakles among **Neoplatonists**: he offered a p
 
 ## Footnotes
 
-[^ladon]: Apollodorus, *Bibliotheca* 2.5.11; Pausanias 6.19.8; cf. summary  [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29?utm_source=chatgpt.com).
+[^ladon]: Apollodorus, *Bibliotheca* 2.5.11; Pausanias 6.19.8; cf. summary [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29?utm_source=chatgpt.com).
 [^cornutus]: Cornutus, *Theologia Graeca* 25–26 (Stoic Herakles = world-fire) .
-[^rhapsodies]: Damascius, *De Principiis* I 316 = Orph. fr. 78  [oai_citation_attribution:1‡Scribd](https://www.scribd.com/document/754009730/18-1-song?utm_source=chatgpt.com).
-[^waggish]: Analytical overview of Chronos-serpent imagery  [oai_citation_attribution:2‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/?utm_source=chatgpt.com).
-[^phanes]: Phanes iconography as serpent-wreathed androgyne  [oai_citation_attribution:3‡Theoi](https://www.theoi.com/Protogenos/Phanes.html?utm_source=chatgpt.com).
-[^olymp]: Olympiodorus, *In Phaedonem* I 3, on Titan ash anthropogony  [oai_citation_attribution:4‡Bryn Mawr College Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs&utm_source=chatgpt.com).
-[^edmonds]: Edmonds 1999, "Tearing Apart the Zagreus Myth," notes the late origin of the anthropogony  [oai_citation_attribution:5‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf&utm_source=chatgpt.com).
+[^rhapsodies]: Damascius, *De Principiis* I 316 = Orph. fr. 78 [oai_citation_attribution:1‡Scribd](https://www.scribd.com/document/754009730/18-1-song?utm_source=chatgpt.com).
+[^waggish]: Analytical overview of Chronos-serpent imagery [oai_citation_attribution:2‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/?utm_source=chatgpt.com).
+[^phanes]: Phanes iconography as serpent-wreathed androgyne [oai_citation_attribution:3‡Theoi](https://www.theoi.com/Protogenos/Phanes.html?utm_source=chatgpt.com).
+[^olymp]: Olympiodorus, *In Phaedonem* I 3, on Titan ash anthropogony [oai_citation_attribution:4‡Bryn Mawr College Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs&utm_source=chatgpt.com).
+[^edmonds]: Edmonds 1999, "Tearing Apart the Zagreus Myth," notes the late origin of the anthropogony [oai_citation_attribution:5‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf&utm_source=chatgpt.com).
 [^cutler-gt]: Andrew Cutler, "Herakles, Adam & Krishna Were All Initiated at Göbekli Tepe," ms. in prep. 2025.
 
 ---
@@ -125,8 +125,8 @@ Hence the popularity of serpent-Herakles among **Neoplatonists**: he offered a p
 2. Cornutus. *Theologia Graeca* §25-26.
 3. Olympiodorus. *Commentary on Plato's Phaedo* I 3.
 4. Apollodorus. *Bibliotheca* 2.5.11.
-5. Phanes dossier, **Theoi Project**.  [oai_citation_attribution:6‡Theoi](https://www.theoi.com/Protogenos/Phanes.html?utm_source=chatgpt.com)
-6. "Father Time: Chronos and Kronos," Waggish.org.  [oai_citation_attribution:7‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/?utm_source=chatgpt.com)
-7. "Ladon (mythology),", *Mythopedia* + refs.  [oai_citation_attribution:8‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29?utm_source=chatgpt.com)
-8. Radcliffe G. Edmonds III. "Tearing Apart the Zagreus Myth," *Classical Antiquity* 18 (1999).  [oai_citation_attribution:9‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf&utm_source=chatgpt.com)
+5. Phanes dossier, **Theoi Project**. [oai_citation_attribution:6‡Theoi](https://www.theoi.com/Protogenos/Phanes.html?utm_source=chatgpt.com)
+6. "Father Time: Chronos and Kronos," Waggish.org. [oai_citation_attribution:7‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/?utm_source=chatgpt.com)
+7. "Ladon (mythology),", *Mythopedia* + refs. [oai_citation_attribution:8‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29?utm_source=chatgpt.com)
+8. Radcliffe G. Edmonds III. "Tearing Apart the Zagreus Myth," *Classical Antiquity* 18 (1999). [oai_citation_attribution:9‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf&utm_source=chatgpt.com)
 9. Andrew Cutler. *Herakles, Adam & Krishna at Göbekli Tepe* (forthcoming).

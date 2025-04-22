@@ -1,5 +1,5 @@
 ---
-title: "The Eve Theory of Consciousness: An Epistemic Gene‐Culture Account of Human Self‑Awareness"
+title: "The Eve Theory of Consciousness: An Epistemic Gene‐Culture Account of Human Self-Awareness"
 date: 2025-04-20
 lastmod: 2025-04-20
 slug: etoc-epistemic-exactitude
@@ -10,7 +10,7 @@ license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
 ---
 
-The Eve Theory of Consciousness: An Epistemic Gene‐Culture Account of Human Self‑Awareness
+The Eve Theory of Consciousness: An Epistemic Gene‐Culture Account of Human Self-Awareness
 
 Introduction
 
@@ -20,7 +20,7 @@ The mythic narrative of Eve gaining the "knowledge of good and evil" symbolizes 
 
 This report examines the Eve Theory of Consciousness in a rigorous, interdisciplinary light. We will outline the theory's key claims – that recursive self-awareness is the defining feature of human cognition and that it arose via a cultural spark and subsequent natural selection – and present the rich tapestry of evidence supporting a late emergence of modern consciousness. Throughout, we contrast EToC's epistemic and historical approach with alternative theories of consciousness, highlighting why those frameworks have not addressed these fundamental questions of human uniqueness. By drawing on cognitive science, evolutionary theory, anthropology, psychometrics, and philosophy, we aim to show that EToC is not only compelling but arguably the only theory of consciousness that explains the core of being human – our self-knowing mind – and grounds it in an evolutionary narrative.
 
-What Makes Us Human? Recursive Self‑Awareness
+What Makes Us Human? Recursive Self-Awareness
 
 Any theory purporting to explain human consciousness must first identify what – if anything – qualitatively separates the human mind from that of other animals. EToC argues that the critical difference is recursive self-awareness, essentially the mind's ability to represent itself. Humans not only experience the world; we form an inner voice, an "I," that observes our own thoughts and feelings. This reflexive loop ("I think, and I know that I think") is epistemic in nature – it is knowledge of one's own mind. Many unique human capacities appear to depend on it: complex language (with sentences embedded inside sentences), abstract reasoning, autobiographical memory, foresight and planning, a moral conscience, and the ability to imagine others' perspectives (theory of mind) all require a mind that can refer to itself and to hypothetical states of itself ￼. In short, recursive thinking is what makes us human, being required for introspection, language, abstract thought, and other singularly human abilities ￼.
 

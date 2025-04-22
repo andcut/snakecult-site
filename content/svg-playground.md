@@ -27,10 +27,10 @@ This page is for testing SVG assets to see how they render with the current site
 To add more SVGs:
 1. Place the `.svg` file in the `assets/svg/` directory.
 2. Add a new section to this page using the shortcode:
-   ```
-   {{</* svg-inline src="svg/your-new-file.svg" alt="Description" width="100px" */>}}
-   ```
-   (Remove the `/*` and `*/`) 
+ ```
+ {{</* svg-inline src="svg/your-new-file.svg" alt="Description" width="100px" */>}}
+ ```
+ (Remove the `/*` and `*/`) 
 
 ---
 

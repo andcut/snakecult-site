@@ -5,18 +5,6 @@
     </div>
   {{ end }}
   <div class="posts">
-    <!-- DEBUGGING - List all posts with file paths and dates -->
-    <h2>All Posts in Posts Section (DEBUGGING)</h2>
-    <ul>
-    {{ range where site.RegularPages "Section" "posts" }}
-        <li>
-            <strong>Path:</strong> {{ .File.Path }} |
-            <strong>Draft:</strong> {{ .Params.draft }} |
-            <strong>Date value:</strong> {{ .Date }} |
-            <strong>Date type:</strong> {{ printf "%T" .Date }}
-        </li>
-    {{ end }}
-    </ul>
     
     <!-- Skip the sort for now -->
     {{ $publishedPosts := where (where site.RegularPages "Section" "posts") "Params.draft" "ne" true }}

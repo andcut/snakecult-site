@@ -5,24 +5,24 @@ lastmod: 2025-04-21
 slug: post-wwii-overton-window
 description: "Examines the post-WWII creation of scientific taboos surrounding human biological differences and the mechanisms used to enforce them."
 keywords:
-  - taboo
-  - censorship
-  - race
-  - genetics
-  - sociobiology
-  - history of science
-  - epistemic policing
+ - taboo
+ - censorship
+ - race
+ - genetics
+ - sociobiology
+ - history of science
+ - epistemic policing
 about:
-  - History of Science
-  - Sociology of Knowledge
-  - Intellectual History
+ - History of Science
+ - Sociology of Knowledge
+ - Intellectual History
 tags:
-  - Taboo
-  - Science Policing
-  - Genetics
-  - Race
-  - History
-  - Overton Window
+ - Taboo
+ - Science Policing
+ - Genetics
+ - Race
+ - History
+ - Overton Window
 author: "Andrew Cutler" # TODO: Confirm author
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
@@ -42,10 +42,10 @@ draft: false
 In the aftermath of World War II, Western intellectual culture underwent a profound moral realignment regarding human biology. The horrors of Nazi racial theories and eugenics prompted a new consensus that human racial differences must *never again* be used to justify inequality. This was enshrined in initiatives like **UNESCO's 1950 Statement on Race**, which declared emphatically that there was "no scientific basis or justification for racial bias" [^1].
 
 The UNESCO experts – led by figures such as anthropologist Ashley Montagu – asserted four key points:
-1.  All human groups have similar mental capacities.
-2.  Racial mixing has no deleterious effects.
-3.  Cultural national groups don't map onto biological "races."
-4.  Ultimately, "race was less a biological fact than a *social myth*", with science affirming the "universal brotherhood of man" [^2][^3].
+1. All human groups have similar mental capacities.
+2. Racial mixing has no deleterious effects.
+3. Cultural national groups don't map onto biological "races."
+4. Ultimately, "race was less a biological fact than a *social myth*", with science affirming the "universal brotherhood of man" [^2][^3].
 
 This was a revolutionary stance – a "new scientific orthodoxy" of inherent human equality that took hold in the mid-20th century [^4]. What had been a matter of scientific debate pre-war was now, post-Holocaust, elevated to a moral certainty: the races of mankind are fundamentally equal, and any suggestion otherwise lies outside the bounds of acceptable inquiry.
 
@@ -211,9 +211,9 @@ After WWII, "Never again" was the guiding principle – never again should pseud
 
 This has lasted for generations and profoundly shaped fields like anthropology (which essentially declared "race" null and void), genetics (which emphasizes unity over diversity in our species), and psychology (which treats intelligence as a subject fraught with social concerns). The trajectory of entire disciplines was altered by these taboos.
 
-*   **Anthropology**, for one, moved almost entirely to an anti-race position – witness the AAA's statements and the near-total rejection of "racial science" in the field.
-*   **Genetics**, a discipline born from studies of inheritance, pivoted to stressing common heritage and downplaying findings on group differences (other than superficial traits), lest they be misconstrued.
-*   **Psychology** still researches intelligence and heritability, but discussion of group differences is so stigmatized that many researchers steer clear, leaving a vacuum often filled by non-academic writers or fringe figures.
+* **Anthropology**, for one, moved almost entirely to an anti-race position – witness the AAA's statements and the near-total rejection of "racial science" in the field.
+* **Genetics**, a discipline born from studies of inheritance, pivoted to stressing common heritage and downplaying findings on group differences (other than superficial traits), lest they be misconstrued.
+* **Psychology** still researches intelligence and heritability, but discussion of group differences is so stigmatized that many researchers steer clear, leaving a vacuum often filled by non-academic writers or fringe figures.
 
 In the end, the post-WWII moral consensus on human differences has been both a guiding light and a restrictive cage. It provided a much-needed ethical recalibration to prevent the return of virulent racism cloaked in science. Yet it also instituted a far-reaching epistemic taboo, policed by social and professional sanctions.
 
@@ -231,7 +231,7 @@ The challenge ahead is whether we can uphold the humanistic values that emerged 
 
 ---
 
-## FAQ
+## FAQ <!-- retains FAQPage schema support -->
 
 **Q 1. According to the post, why can't we fully explore "who we are and where we came from"?**
 **A.** The post argues that the necessary moral recoil from Nazi ideology after WWII led Western intellectual culture to establish strong taboos against exploring innate biological differences between human groups, effectively limiting scientific inquiry into aspects of recent human evolution and diversity.
@@ -246,23 +246,23 @@ The challenge ahead is whether we can uphold the humanistic values that emerged 
 
 ## Sources Cited
 
-1.  UNESCO (1950). *The Race Concept: Results of an Inquiry*. UNESCO Monograph. [https://unesdoc.unesco.org/ark:/48223/pf0000073351](https://unesdoc.unesco.org/ark:/48223/pf0000073351)
-2.  American Anthropological Association (1998). AAA Statement on "Race". *Policy Statement*. [https://americananthro.org/about/policies/statement-on-race](https://americananthro.org/about/policies/statement-on-race)
-3.  Gould, S. J., & Lewontin, R. C. (1979). The Spandrels of San Marco and the Panglossian Paradigm. *Proceedings of the Royal Society B*, 205, 581‑598. [https://www.jstor.org/stable/77447](https://www.jstor.org/stable/77447)
-4.  The Harvard Crimson staff (2009, September 10). Scientists Recount Their Shared Pasts. *The Harvard Crimson*. [https://www.thecrimson.com/article/2009/9/10/scientists-recount-their-shared-pasts-nobel/](https://www.thecrimson.com/article/2009/9/10/scientists-recount-their-shared-pasts-nobel/)
-5.  Bell, A. (Reuters) (2007, October 19). Lab Suspends Scientist Watson Over Comments on Race. *Reuters Wire*. [https://www.reuters.com/article/idUSN19451804](https://www.reuters.com/article/idUSN19451804)
-6.  Meixler, E. (2019, January 14). Nobel Laureate James Watson Loses Honorary Titles Over 'Reprehensible' Race Comments. *TIME*. [https://time.com/5501811/james-watson-loses-honors-race-comments/](https://time.com/5501811/james-watson-loses-honors-race-comments/)
-7.  Regalado, A. (reported via Scott Gilbert post) (2006, June 13). Scientist Backs Off Racial Work. *WIRED*. [https://www.wired.com/2006/06/scientist-backs/](https://www.wired.com/2006/06/scientist-backs/)
-8.  Murray, C. A., & Herrnstein, R. J. (1994). *The Bell Curve: Intelligence and Class Structure in American Life*. Free Press. [https://isbnsearch.org/isbn/9780029146736](https://isbnsearch.org/isbn/9780029146736)
-9.  Svajlenka, S., et al. (2017, March 4). A Conservative Author Tried to Speak at a Liberal Arts College. He Left Fleeing an Angry Mob. *The Washington Post*. [https://www.washingtonpost.com/news/grade-point/wp/2017/03/04/a-conservative-author-tried-to-speak-at-a-liberal-college-he-left-fleeing-an-angry-mob/](https://www.washingtonpost.com/news/grade-point/wp/2017/03/04/a-conservative-author-tried-to-speak-at-a-liberal-college-he-left-fleeing-an-angry-mob/)
+1. UNESCO (1950). *The Race Concept: Results of an Inquiry*. UNESCO Monograph. [https://unesdoc.unesco.org/ark:/48223/pf0000073351](https://unesdoc.unesco.org/ark:/48223/pf0000073351)
+2. American Anthropological Association (1998). AAA Statement on "Race". *Policy Statement*. [https://americananthro.org/about/policies/statement-on-race](https://americananthro.org/about/policies/statement-on-race)
+3. Gould, S. J., & Lewontin, R. C. (1979). The Spandrels of San Marco and the Panglossian Paradigm. *Proceedings of the Royal Society B*, 205, 581-598. [https://www.jstor.org/stable/77447](https://www.jstor.org/stable/77447)
+4. The Harvard Crimson staff (2009, September 10). Scientists Recount Their Shared Pasts. *The Harvard Crimson*. [https://www.thecrimson.com/article/2009/9/10/scientists-recount-their-shared-pasts-nobel/](https://www.thecrimson.com/article/2009/9/10/scientists-recount-their-shared-pasts-nobel/)
+5. Bell, A. (Reuters) (2007, October 19). Lab Suspends Scientist Watson Over Comments on Race. *Reuters Wire*. [https://www.reuters.com/article/idUSN19451804](https://www.reuters.com/article/idUSN19451804)
+6. Meixler, E. (2019, January 14). Nobel Laureate James Watson Loses Honorary Titles Over 'Reprehensible' Race Comments. *TIME*. [https://time.com/5501811/james-watson-loses-honors-race-comments/](https://time.com/5501811/james-watson-loses-honors-race-comments/)
+7. Regalado, A. (reported via Scott Gilbert post) (2006, June 13). Scientist Backs Off Racial Work. *WIRED*. [https://www.wired.com/2006/06/scientist-backs/](https://www.wired.com/2006/06/scientist-backs/)
+8. Murray, C. A., & Herrnstein, R. J. (1994). *The Bell Curve: Intelligence and Class Structure in American Life*. Free Press. [https://isbnsearch.org/isbn/9780029146736](https://isbnsearch.org/isbn/9780029146736)
+9. Svajlenka, S., et al. (2017, March 4). A Conservative Author Tried to Speak at a Liberal Arts College. He Left Fleeing an Angry Mob. *The Washington Post*. [https://www.washingtonpost.com/news/grade-point/wp/2017/03/04/a-conservative-author-tried-to-speak-at-a-liberal-college-he-left-fleeing-an-angry-mob/](https://www.washingtonpost.com/news/grade-point/wp/2017/03/04/a-conservative-author-tried-to-speak-at-a-liberal-college-he-left-fleeing-an-angry-mob/)
 10. Wade, N. (2014). *A Troublesome Inheritance: Genes, Race and Human History*. Penguin Press. [https://isbnsearch.org/isbn/9781594204463](https://isbnsearch.org/isbn/9781594204463)
 11. 139 Population Geneticists (Open letter) (2014, August 8). Scientists Say: Wade Misuses Our Work. *New York Times Book Review*. [https://www.nytimes.com/2014/08/10/books/review/a-troublesome-inheritance.html](https://www.nytimes.com/2014/08/10/books/review/a-troublesome-inheritance.html)
 12. Reich, D. (2018, March 23). How Genetics Is Changing Our Understanding of 'Race'. *The New York Times* (Opinion). [https://www.nytimes.com/2018/03/23/opinion/sunday/genetics-race.html](https://www.nytimes.com/2018/03/23/opinion/sunday/genetics-race.html)
 13. Fuentes, A., et al. (2018, April 16). How Not to Talk About Race and Genetics. *BuzzFeed News*. [https://www.buzzfeednews.com/article/agustinfuentes/david-reich-race-genetics-opinion](https://www.buzzfeednews.com/article/agustinfuentes/david-reich-race-genetics-opinion)
 14. Harris, S., & Murray, C. (2017, April 25). Waking Up Podcast #73 – Forbidden Knowledge. [https://samharris.org/podcasts/73-forbidden-knowledge/](https://samharris.org/podcasts/73-forbidden-knowledge/)
-15. Lahn, B. T., Chagnon, P., et al. (2005). Global Distribution of a Microcephalin Haplotype. *Science*, 309(5741), 1717‑1720. [https://www.science.org/doi/10.1126/science.1116800](https://www.science.org/doi/10.1126/science.1116800)
+15. Lahn, B. T., Chagnon, P., et al. (2005). Global Distribution of a Microcephalin Haplotype. *Science*, 309(5741), 1717-1720. [https://www.science.org/doi/10.1126/science.1116800](https://www.science.org/doi/10.1126/science.1116800)
 16. Wilson, E. O. (1975). *Sociobiology: The New Synthesis*. Harvard University Press. [https://isbnsearch.org/isbn/9780674816244](https://isbnsearch.org/isbn/9780674816244)
 17. Students for a Democratic Society (Handbill) (1975). Militant Action Needed to Crush Wilson's Fascist Theories. *Archival leaflet (Harvard)*. [https://hollisarchives.lib.harvard.edu/repositories/4/resources/10354](https://hollisarchives.lib.harvard.edu/repositories/4/resources/10354)
-18. Jensen, A. R. (1969). How Much Can We Boost IQ and Scholastic Achievement? *Harvard Educational Review*, 39(1), 1‑123. [https://doi.org/10.17763/haer.39.1.l3u15956627424k7](https://doi.org/10.17763/haer.39.1.l3u15956627424k7)
+18. Jensen, A. R. (1969). How Much Can We Boost IQ and Scholastic Achievement? *Harvard Educational Review*, 39(1), 1-123. [https://doi.org/10.17763/haer.39.1.l3u15956627424k7](https://doi.org/10.17763/haer.39.1.l3u15956627424k7)
 19. Feyerabend, P. (1975). *Against Method*. Verso. [https://isbnsearch.org/isbn/9780860916468](https://isbnsearch.org/isbn/9780860916468)
 20. Renfrew, P. (Ed.). (1978). *Science as Ideology*. Oxford University Press. [https://isbnsearch.org/isbn/9780192820517](https://isbnsearch.org/isbn/9780192820517)

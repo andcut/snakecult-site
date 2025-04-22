@@ -7,12 +7,12 @@ description: "Integrating Thomas Froese's insights on intersubjectivity and enac
 keywords: ["Ritualised Mind Hypothesis","Eve Theory of Consciousness","symbolic cognition","consciousness science","gene-culture coevolution","altered states of consciousness","ritual","recursion","symbolic thought"]
 about: ["Ritualised Mind Hypothesis", "Eve Theory of Consciousness", "consciousness science", "cognitive evolution", "Froese", "Cutler", "consciousness evolution", "ritual", "recursion"]
 tags:
-  - Ritualised Mind Hypothesis
-  - Eve Theory of Consciousness
-  - Hard Problem of Consciousness
-  - Sapient Paradox
-  - ritual
-  - recursion
+ - Ritualised Mind Hypothesis
+ - Eve Theory of Consciousness
+ - Hard Problem of Consciousness
+ - Sapient Paradox
+ - ritual
+ - recursion
 author: "Andrew Cutler"
 license: "CC-BY-SA 4.0"
 draft: false

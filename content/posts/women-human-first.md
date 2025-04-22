@@ -1,28 +1,28 @@
 ---
-# --------------  FRONT MATTER  -------------- 
+# -------------- FRONT MATTER -------------- 
 title: "If Social Intelligence Made Us Human, Women Were Human First"
 date: 2025-04-20
 lastmod: 2025-04-20 
 slug: women-human-first
 description: "Examines the evolutionary hypothesis that female-led selection pressures for social intelligence and self-domestication placed women at the vanguard of human evolution."
-keywords:            
-  - human evolution
-  - social intelligence
-  - self-domestication
-  - cooperative breeding
-  - grandmother hypothesis
-  - female mate choice
-  - anthropology
-about:               
-  - Evolutionary Anthropology
-  - Social Cognition
-  - Human Origins
-tags:                
-  - Evolution
-  - Gender
-  - Self-Domestication
-  - Social Brain
-  - Cooperative Breeding
+keywords: 
+ - human evolution
+ - social intelligence
+ - self-domestication
+ - cooperative breeding
+ - grandmother hypothesis
+ - female mate choice
+ - anthropology
+about: 
+ - Evolutionary Anthropology
+ - Social Cognition
+ - Human Origins
+tags: 
+ - Evolution
+ - Gender
+ - Self-Domestication
+ - Social Brain
+ - Cooperative Breeding
 author: "Andrew Cutler" # TODO: Confirm author
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
@@ -79,11 +79,11 @@ Researchers argue that selection for tameness in humans brought along greater ca
 
 Several mechanisms for human self-domestication have been proposed. They all ask: what (or who) did the selecting, if not a human farmer?
 
-*   **Group-level selection:** Bands with more internal cooperation out-survived others.
-*   **Coalitionary enforcement:** As weapons and culture evolved, even physically weaker individuals could form coalitions to punish or expel violent bullies, thus removing those genes from the pool [^21][^22]. Indeed, anthropologist Richard Wrangham suggests that once early humans had language, subordinates could conspire to execute over-aggressive alpha males, enforcing a new social order [^23][^24].
-*   **Female-centered selection:** An equally intriguing set of hypotheses puts females at the center of self-domestication.
-    *   ***Female mate choice:*** It has been suggested that women preferentially mating with less aggressive, more caring men could have gradually bred aggression out of our lineage [^25][^26]. By favoring males likelier to help with children rather than fight, females would boost the fitness of gentle traits [^27][^28].
-    *   ***Female coalitions:*** Additionally, comparisons with bonobos (a self-domesticated ape relative) hint that female coalitions can directly curb male aggression [^29][^30].
+* **Group-level selection:** Bands with more internal cooperation out-survived others.
+* **Coalitionary enforcement:** As weapons and culture evolved, even physically weaker individuals could form coalitions to punish or expel violent bullies, thus removing those genes from the pool [^21][^22]. Indeed, anthropologist Richard Wrangham suggests that once early humans had language, subordinates could conspire to execute over-aggressive alpha males, enforcing a new social order [^23][^24].
+* **Female-centered selection:** An equally intriguing set of hypotheses puts females at the center of self-domestication.
+ * ***Female mate choice:*** It has been suggested that women preferentially mating with less aggressive, more caring men could have gradually bred aggression out of our lineage [^25][^26]. By favoring males likelier to help with children rather than fight, females would boost the fitness of gentle traits [^27][^28].
+ * ***Female coalitions:*** Additionally, comparisons with bonobos (a self-domesticated ape relative) hint that female coalitions can directly curb male aggression [^29][^30].
 
 Before evaluating these female-driven forces in detail, let us clarify why females had such a pivotal evolutionary role in the first place.
 
@@ -242,33 +242,33 @@ Sources: Evidence and claims in this report are supported by research in evoluti
 
 ## FAQ <!-- retains FAQPage schema support -->
 
-**Q 1. Does this mean women are 'smarter' or 'better' than men?**  
+**Q 1. Does this mean women are 'smarter' or 'better' than men?** 
 **A.** No. The hypothesis highlights different evolutionary trajectories and selective pressures based on roles, not inherent superiority. Both sexes are fully human, but females likely led the development of *social* intelligence due to unique demands.
 
-**Q 2. Didn't men also need social skills for hunting and alliances?**  
+**Q 2. Didn't men also need social skills for hunting and alliances?** 
 **A.** Yes, but the *intensity* and *nature* of selection probably differed. Female roles often required constant, nuanced social skills (empathy, negotiation for childcare), while male cooperation might rely more on intermittent coordination or established hierarchies.
 
-**Q 3. Isn't this just speculation without direct fossil evidence of behavior?**  
+**Q 3. Isn't this just speculation without direct fossil evidence of behavior?** 
 **A.** While direct behavioral evidence is rare, the hypothesis draws on converging evidence from comparative anatomy (skull feminization), primatology (bonobo behavior), developmental psychology (caregiver effects), neuroscience (sex differences in social cognition), and evolutionary logic.
 
 --- 
 
 ## Sources Cited
 
-1.  Dunbar, R. I. M. (1992). Neocortex Size as a Constraint on Group Size in Primates. *Journal of Human Evolution*, 22(6), 469‑493. [https://etherplan.com/neocortex-size-as-a-constraint-on-group-size-in-primates.pdf](https://etherplan.com/neocortex-size-as-a-constraint-on-group-size-in-primates.pdf)
-2.  Harré, M. (2012). Social Network Size Linked to Brain Size. *Scientific American*. [https://www.scientificamerican.com/article/social-network-size-linked-brain-size/](https://www.scientificamerican.com/article/social-network-size-linked-brain-size/)
-3.  Hunn, E. S. (1981). On the Relative Contribution of Men and Women to Subsistence among Hunter‑Gatherers. *Journal of Ethnobiology*, 1(1), 124‑134. [https://ethnobiology.org/sites/default/files/pdfs/JoE/1-1/Hunn1981.pdf](https://ethnobiology.org/sites/default/files/pdfs/JoE/1-1/Hunn1981.pdf)
-4.  Hughes, V. (2013, October 8). Were the First Artists Mostly Women? *National Geographic*. [https://www.nationalgeographic.com/adventure/article/131008-women-handprints-oldest-neolithic-cave-art](https://www.nationalgeographic.com/adventure/article/131008-women-handprints-oldest-neolithic-cave-art)
-5.  Hrdy, S. B. (2009). Meet the Alloparents. *Natural History Magazine*, 118(3), 24‑29. [https://www.naturalhistorymag.com/htmlsite/0409/0409_feature.pdf](https://www.naturalhistorymag.com/htmlsite/0409/0409_feature.pdf)
-6.  Landau, E. (2021). How Much Did Grandmothers Influence Human Evolution? *Smithsonian Magazine*. [https://www.smithsonianmag.com/science-nature/how-much-did-grandmothers-influence-human-evolution-180976665/](https://www.smithsonianmag.com/science-nature/how-much-did-grandmothers-influence-human-evolution-180976665/)
-7.  Walter, M. H., Abele, H., & Plappert, C. F. (2021). The Role of Oxytocin and the Effect of Stress During Childbirth: Neurobiological Basics and Implications for Childbirth Interventions. *Frontiers in Endocrinology*, 12, 742236. [https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.742236/full](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.742236/full)
-8.  Greenberg, D. M., Warrier, V., et al. (2023). Sex and Age Differences in Theory of Mind across 57 Countries Using the "Reading the Mind in the Eyes" Test. *Proceedings of the National Academy of Sciences*, 120(5), e2022385119. [https://www.pnas.org/doi/10.1073/pnas.2022385119](https://www.pnas.org/doi/10.1073/pnas.2022385119)
-9.  Taylor, S. E., Klein, L. C., et al. (2000). Biobehavioral Responses to Stress in Females: Tend‑and‑Befriend, Not Fight‑or‑Flight. *Psychological Review*, 107(3), 411‑429. [https://pubmed.ncbi.nlm.nih.gov/10941275/](https://pubmed.ncbi.nlm.nih.gov/10941275/)
+1. Dunbar, R. I. M. (1992). Neocortex Size as a Constraint on Group Size in Primates. *Journal of Human Evolution*, 22(6), 469-493. [https://etherplan.com/neocortex-size-as-a-constraint-on-group-size-in-primates.pdf](https://etherplan.com/neocortex-size-as-a-constraint-on-group-size-in-primates.pdf)
+2. Harré, M. (2012). Social Network Size Linked to Brain Size. *Scientific American*. [https://www.scientificamerican.com/article/social-network-size-linked-brain-size/](https://www.scientificamerican.com/article/social-network-size-linked-brain-size/)
+3. Hunn, E. S. (1981). On the Relative Contribution of Men and Women to Subsistence among Hunter-Gatherers. *Journal of Ethnobiology*, 1(1), 124-134. [https://ethnobiology.org/sites/default/files/pdfs/JoE/1-1/Hunn1981.pdf](https://ethnobiology.org/sites/default/files/pdfs/JoE/1-1/Hunn1981.pdf)
+4. Hughes, V. (2013, October 8). Were the First Artists Mostly Women? *National Geographic*. [https://www.nationalgeographic.com/adventure/article/131008-women-handprints-oldest-neolithic-cave-art](https://www.nationalgeographic.com/adventure/article/131008-women-handprints-oldest-neolithic-cave-art)
+5. Hrdy, S. B. (2009). Meet the Alloparents. *Natural History Magazine*, 118(3), 24-29. [https://www.naturalhistorymag.com/htmlsite/0409/0409_feature.pdf](https://www.naturalhistorymag.com/htmlsite/0409/0409_feature.pdf)
+6. Landau, E. (2021). How Much Did Grandmothers Influence Human Evolution? *Smithsonian Magazine*. [https://www.smithsonianmag.com/science-nature/how-much-did-grandmothers-influence-human-evolution-180976665/](https://www.smithsonianmag.com/science-nature/how-much-did-grandmothers-influence-human-evolution-180976665/)
+7. Walter, M. H., Abele, H., & Plappert, C. F. (2021). The Role of Oxytocin and the Effect of Stress During Childbirth: Neurobiological Basics and Implications for Childbirth Interventions. *Frontiers in Endocrinology*, 12, 742236. [https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.742236/full](https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.742236/full)
+8. Greenberg, D. M., Warrier, V., et al. (2023). Sex and Age Differences in Theory of Mind across 57 Countries Using the "Reading the Mind in the Eyes" Test. *Proceedings of the National Academy of Sciences*, 120(5), e2022385119. [https://www.pnas.org/doi/10.1073/pnas.2022385119](https://www.pnas.org/doi/10.1073/pnas.2022385119)
+9. Taylor, S. E., Klein, L. C., et al. (2000). Biobehavioral Responses to Stress in Females: Tend-and-Befriend, Not Fight-or-Flight. *Psychological Review*, 107(3), 411-429. [https://pubmed.ncbi.nlm.nih.gov/10941275/](https://pubmed.ncbi.nlm.nih.gov/10941275/)
 10. Radford, T. (2004, December 20). Baby Talk Key to Evolution. *The Guardian*. [https://www.theguardian.com/science/2004/dec/20/evolution.science](https://www.theguardian.com/science/2004/dec/20/evolution.science)
-11. de Waal, F. B. M. (1995). Bonobo Sex and Society. *Scientific American*, 272(3), 82‑88. [https://www.scientificamerican.com/article/bonobo-sex-and-society-2006-06/](https://www.scientificamerican.com/article/bonobo-sex-and-society-2006-06/)
-12. Elephant‑World staff. (2023). The Matriarch: The Backbone of the Herd. *Elephant‑World.com*. [https://www.elephant-world.com/the-social-structure-of-elephants/](https://www.elephant-world.com/the-social-structure-of-elephants/)
-13. McComb, K., Moss, C., Durant, S. M., Baker, L., & Sayialel, S. (2001). Matriarchs as Repositories of Social Knowledge in African Elephants. *Science*, 292(5516), 491‑494. [https://doi.org/10.1126/science.1057895](https://doi.org/10.1126/science.1057895)
-14. Brent, L. J. N., Franks, D. W., Foster, E. A., Balcomb, K. C., Cant, M. A., & Croft, D. P. (2019). Postreproductive Killer Whale Grandmothers Improve the Survival of Their Grandoffspring. *Proceedings of the National Academy of Sciences*, 116(27), 13545‑13550. [https://www.pnas.org/doi/10.1073/pnas.1903844116](https://www.pnas.org/doi/10.1073/pnas.1903844116)
+11. de Waal, F. B. M. (1995). Bonobo Sex and Society. *Scientific American*, 272(3), 82-88. [https://www.scientificamerican.com/article/bonobo-sex-and-society-2006-06/](https://www.scientificamerican.com/article/bonobo-sex-and-society-2006-06/)
+12. Elephant-World staff. (2023). The Matriarch: The Backbone of the Herd. *Elephant-World.com*. [https://www.elephant-world.com/the-social-structure-of-elephants/](https://www.elephant-world.com/the-social-structure-of-elephants/)
+13. McComb, K., Moss, C., Durant, S. M., Baker, L., & Sayialel, S. (2001). Matriarchs as Repositories of Social Knowledge in African Elephants. *Science*, 292(5516), 491-494. [https://doi.org/10.1126/science.1057895](https://doi.org/10.1126/science.1057895)
+14. Brent, L. J. N., Franks, D. W., Foster, E. A., Balcomb, K. C., Cant, M. A., & Croft, D. P. (2019). Postreproductive Killer Whale Grandmothers Improve the Survival of Their Grandoffspring. *Proceedings of the National Academy of Sciences*, 116(27), 13545-13550. [https://www.pnas.org/doi/10.1073/pnas.1903844116](https://www.pnas.org/doi/10.1073/pnas.1903844116)
 
 ---
 
