@@ -1,5 +1,5 @@
 ---
-title: "Comparing Cutler's Snake Cult Consciousness and McKenna's Stoned Ape Theory"
+title: "The Snake Cult of Consciousness vs. McKenna's Stoned Ape Theory"
 date: 2025-04-20
 lastmod: 2025-04-20
 slug: snake-cult-vs-stoned-ape

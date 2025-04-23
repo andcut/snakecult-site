@@ -7,10 +7,7 @@ draft: false
 ---
 
 ## How Did a Self-Aware Mind Evolve? 
-Casting off scales of darkness: meditations on mind, mythology, and evolution.
-
-[Read the Eve Theory Overview]({{< relref "/etoc-overview.md" >}}) <!-- CTA -->
-
+Meditations on mind, myth, and evolution. *Cast off the scales from your eyes!*
 
 ### Key Points at a Glance 
 
@@ -18,11 +15,11 @@ Casting off scales of darkness: meditations on mind, mythology, and evolution.
 *   According to Eve Theory, women invented serpent-venom initiation rituals that reliably taught subject-object separation, producing powerful gene-culture evolution towards understanding "I am'" at a young age. 
 *   The memory of this awakening is preserved in worldwide creation myths (often featuring serpents) and was transmitted global via bullroarer mystery cults.
 
+[Read the Eve Theory Overview]({{< relref "/etoc-overview.md" >}}) <!-- CTA -->
+
 ### [Topics](/topics/)
 [Consciousness](/tags/consciousness/) · [Evolution](/tags/evolution/) · [Prehistory & Origins](/tags/prehistory/) · [Myth & Ritual](/tags/mythology/) · [Deep Research](/tags/deep-research/)
 
-### About 
-I'm Andrew Cutler—PhD Machine Learning engineer turned consciousness researcher. 
+### [About](/about/) 
+I'm Andrew Cutler—PhD, Machine Learning engineer turned consciousness researcher. 
 My work connects psychology, comparative mythology, and AI to trace how we recursive self-awareness evolved.
-
-[More about the project](/about/)
