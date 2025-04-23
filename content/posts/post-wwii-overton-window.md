@@ -26,6 +26,9 @@ tags:
 author: "Andrew Cutler" # TODO: Confirm author
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true
+_build:
+  render: never
+  list: never
 ---
 
 **TL;DR**

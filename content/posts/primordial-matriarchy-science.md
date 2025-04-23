@@ -26,7 +26,7 @@ tags:
   - "human origins"
 author: "Andrew Cutler" # Assuming author based on previous edits, adjust if needed.
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
-draft: true
+draft: false
 ---
 
 **TL;DR**

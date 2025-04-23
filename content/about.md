@@ -49,7 +49,7 @@ If correct, the EToC and Snake Cult hypotheses fundamentally reshape our underst
 - **Gender Dynamics**: Women's cognitive advancements played a decisive role in shaping early human cultural frameworks.
 - **Mental Health**: Disorders such as schizophrenia could reflect evolutionary trade-offs linked to our recent cognitive transformation.
 
-Crucially, this research positions humanity’s spiritual impulse not as something contrary to biology, but deeply rooted within it. Our consciousness—and our persistent drive to understand it—are both evolutionary innovations.
+Crucially, this research positions humanity's spiritual impulse not as something contrary to biology, but deeply rooted within it. Our consciousness—and our persistent drive to understand it—are both evolutionary innovations.
 
 ## About Snakecult.net
 
@@ -61,16 +61,17 @@ Outside of academia, I'm committed to making cutting-edge interdisciplinary insi
 
 ## Connect With Me
 
-I value conversations and collaborations across disciplines. Whether my ideas resonate, challenge your thinking, or spark curiosity, I’d love to connect and explore possibilities together.
+I value conversations and collaborations across disciplines. Whether my ideas resonate, challenge your thinking, or spark curiosity, I'd love to connect and explore possibilities together.
 
 
 ## Further Reading
 
 For newcomers, I suggest starting with:
 
-1. **[Eve Theory of Consciousness]**: The foundational framework.
-2. **[The Snake Cult of Consciousness]**: Exploring snake venom and entheogens in cognitive evolution.
-3. **[The Unreasonable Effectiveness of Pronouns]**: Linguistic clues to the spread of recursive consciousness.
+1. **[Eve Theory of Consciousness](https://www.vectorsofmind.com/p/eve-theory-of-consciousness-v3)**: The foundational framework.
+2. **[The Snake Cult of Consciousness](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness)**: Exploring snake venom and entheogens in cognitive evolution.
+3. **[The Unreasonable Effectiveness of Pronouns](https://www.vectorsofmind.com/p/the-unreasonable-effectiveness-of)**: Linguistic clues to the spread of recursive consciousness.
+4. **[When Do Geneticists Believe the Human Brain Evolved?](https://www.vectorsofmind.com/p/when-do-geneticists-believe-the-human)**: Commentary on the status of the Standard Model of our cognitive origins.
 
 For an in-depth exploration, visit the Evidence Library, organized by discipline and geography.
 

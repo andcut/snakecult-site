@@ -1,5 +1,5 @@
 ---
-title: "Comparing the Snake Cult/Eve Theory of Consciousness vs. McKenna's Stoned Ape Theory"
+title: "Comparing Cutler's Snake Cult Consciousness and McKenna's Stoned Ape Theory"
 date: 2025-04-20
 lastmod: 2025-04-20
 slug: snake-cult-vs-stoned-ape
@@ -22,7 +22,7 @@ tags:
   - consciousness
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
-draft: true
+draft: false
 ---
 
 **TL;DR**

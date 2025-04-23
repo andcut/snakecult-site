@@ -25,7 +25,7 @@ tags: # reader-facing
  - Fall from Grace
 author: "Andrew Cutler" # Assuming author, adjust if needed
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
-draft: true # Set to false when ready to publish
+draft: false # Set to false when ready to publish
 ---
 
 **TL;DR**

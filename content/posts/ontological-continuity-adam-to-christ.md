@@ -30,7 +30,7 @@ tags:
   - religion
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
-draft: true
+draft: false
 ---
 
 The Logos and the Serpent: Mythic Evolution of Self-Awareness
