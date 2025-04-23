@@ -15,11 +15,10 @@ about:
  - snake-venom ritual
  - subject-object separation
 tags:
- - Eve Theory of Consciousness
- - Wallace Problem
- - evolution of consciousness
- - recursive thinking
- - gene–culture co-evolution
+  - "Wallace Problem"
+  - consciousness
+  - evolution
+  - recursion
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

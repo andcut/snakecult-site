@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <div class="matrix-container retro-panel p-6 md:p-8 lg:p-10">
+    <h1 class="text-3xl md:text-4xl font-bold mb-8 text-center matrix-title">{{ .Title }}</h1>
+    
+    {{ with .Content }}
+      <div class="prose prose-invert max-w-none mb-10 text-center matrix-intro">
+        {{ . }}
+      </div>
+    {{ end }}
+
+    <div class="matrix-tag-cloud grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 md:gap-6 text-center">
+      {{ $tags := site.Taxonomies.tags.Alphabetical }}
+      {{ range $tag := $tags }}
+        <a href="{{ $tag.Page.RelPermalink }}" 
+           class="matrix-tag block p-3 border border-retro-accent/30 rounded 
+                  hover:border-retro-accent/70 hover:bg-retro-accent/10 
+                  transition-all duration-200 ease-in-out 
+                  text-sm md:text-base shadow-retro-glow hover:shadow-retro-glow-lg">
+          {{ $tag.Page.Title }}
+          <span class="matrix-tag-count block text-xs text-retro-foreground/60 mt-1">({{ $tag.Count }})</span>
+        </a>
+      {{ end }}
+    </div>
+
+  </div>
+{{ end }} 

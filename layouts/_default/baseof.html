@@ -21,10 +21,9 @@
     {{ block "main" . }}{{ end }}
   </main>
 
-  {{/* Footer Section - Basic Placeholder */}}
-  <footer class="content-over-header container max-w-4xl mx-auto px-4 py-6 mt-auto text-center text-sm text-retro-foreground/70">
-    <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}. Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer" class="underline">CC BY-SA 4.0</a>.</p>
-    {{/* Add license info here if needed */}}
+  {{/* Footer Section - Use new style */}}
+  <footer class="site-footer container max-w-4xl mx-auto px-4">
+    <p>&copy; {{ now.Format "2006" }} {{ .Site.Params.Author | default .Site.Title }} · <a href="{{ (.Site.Params.licenseURL | default "https://creativecommons.org/licenses/by-sa/4.0/") }}" target="_blank" rel="noopener noreferrer">{{ .Site.Params.licenseName | default "CC BY-SA 4.0" }}</a> · <a href="/sitemap.xml">Sitemap</a> · <a href="{{ "/" | relLangURL }}">Home</a></p>
   </footer>
 
 </body>

@@ -7,11 +7,10 @@ description: "Deep synthesis of Tom Froese's Ritualised-Mind Hypothesis and Andr
 keywords: ["Ritualised Mind Hypothesis","Eve Theory of Consciousness","Snake Cult","Sapient Paradox","symbolic cognition","altered states","gene-culture coevolution","recursive thought"]
 about: ["cognitive evolution","snake-venom ritual","subject-object separation","Froese","Cutler"]
 tags:
- - Ritualised Mind Hypothesis
- - Eve Theory of Consciousness
- - Sapient Paradox
- - gene–culture co-evolution
- - ritual
+  - "Sapient Paradox"
+  - consciousness
+  - evolution
+  - ritual
 license: "CC-BY-SA 4.0"
 draft: false
 author: "Andrew Cutler"

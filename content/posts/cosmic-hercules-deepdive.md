@@ -22,9 +22,9 @@ about:
  - Greek Philosophy
  - Comparative Mythology
 tags:
- - Deep-Research
- - Metaphysics
- - Theology
+  - Deep-Research
+  - philosophy
+  - religion
 author: "Andrew Cutler" # Assuming author based on other files
 license: "https://creativecommons.org/licenses/by-sa/4.0/" # Assuming license
 draft: false

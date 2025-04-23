@@ -17,9 +17,9 @@ about:
   - linguistics
   - evolutionary psychology
 tags:
-  - Cognitive Revolution
-  - Paleolithic
-  - Theorists
+  - "Cognitive Revolution"
+  - philosophy
+  - prehistory
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true

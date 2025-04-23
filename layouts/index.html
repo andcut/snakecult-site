@@ -1,21 +1,24 @@
 {{ define "main" }}
-  {{ if .Content }}
-    <div class="index-content {{ if .Params.framed -}}framed{{- end -}}">
-      {{ .Content }}
-    </div>
-  {{ end }}
-  <div class="posts">
-    
-    <!-- Skip the sort for now -->
+  {{/* Hero Section */}}
+  <div class="retro-panel">
+    {{ .Content }}
+  </div>
+
+  {{/* Container for Article Previews */}}
+  <div class="posts-container">
     {{ $publishedPosts := where (where site.RegularPages "Section" "posts") "Params.draft" "ne" true }}
     {{ $allPosts := $publishedPosts }}
     
-    <!-- Rest of the template remains the same -->
-    {{/* Loop through all published posts */}}
     {{ range $allPosts }}
-      <article class="post on-list">
+      <article class="retro-panel post on-list">
         {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
-        {{ partial "heading-with-symbols.html" (dict "level" 2 "anchor" (.Title | urlize) "text" $titleContent "page" .) }}
+        {{ partial "heading-with-symbols.html" (dict 
+            "level" 2 
+            "anchor" (.Title | urlize) 
+            "text" $titleContent 
+            "page" . 
+            "randomizeKey" "index_article_list" 
+          )}}
 
         <div class="post-meta">
           {{- if .Date -}}
@@ -57,8 +60,7 @@
         {{ end }}
       </article>
     {{ end }}
-
-    {{/* Pagination removed */}}
-    {{/* partial "pagination.html" . */}}
   </div>
+
+  {{/* Footer moved to baseof.html */}}
 {{ end }}

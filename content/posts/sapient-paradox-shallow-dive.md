@@ -16,8 +16,8 @@ about:
  - archaeological bias
  - cultural evolution
 tags:
- - Prehistory
- - Deep Research
+  - Prehistory
+  - deep-research
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

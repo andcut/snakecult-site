@@ -115,8 +115,58 @@
   }
   
   /* List styling enhancement */
-  ul, ol {
-    @apply pl-6 mb-4;
+  ul {
+    @apply mb-4 pl-0;
+    list-style: none;
+  }
+  
+  /* Add indentation for nested lists */
+  ul ul {
+    @apply pl-6;
+  }
+
+  /* Base style for custom bullets */
+  ul li::before {
+    display: inline-block;
+    margin-right: 0.5em;
+    color: var(--retro-accent);
+    opacity: 0.7;
+    vertical-align: middle;
+    content: "🌀 "; /* Default to level 1 symbol */
+  }
+
+  /* Level 1: Cyclone */
+  ul > li::before {
+    content: "🌀 "; 
+  }
+
+  /* Level 2: Nazar */
+  ul ul > li::before {
+    content: "🧿 ";
+  }
+
+  /* Level 3: Hamsa */
+  ul ul ul > li::before {
+    content: "🪬 ";
+  }
+
+  /* Level 4: Diamond Dot */
+  ul ul ul ul > li::before {
+    content: "💠 ";
+  }
+
+  /* Level 5: Cyclone (Repeat) */
+  ul ul ul ul ul > li::before {
+    content: "🌀 "; 
+  }
+
+  /* Level 6: Nazar (Repeat) */
+  ul ul ul ul ul ul > li::before {
+    content: "🧿 "; 
+  }
+
+  ol {
+    @apply pl-6 mb-4; /* Keep default styling for ordered lists */
   }
   
   li {
@@ -151,8 +201,44 @@
 
 /* Component Layer Additions */
 @layer components {
+  /* Styled content panel - use for all content sections */
+  .retro-panel {
+    @apply rounded-md border border-retro-accent/50 p-6 my-6 
+           shadow-lg shadow-retro-accent/10 backdrop-blur-sm
+           transition-all duration-300 relative overflow-hidden;
+  }
+  
+  .retro-panel:hover {
+    @apply border-retro-accent/70 shadow-retro-accent/20;
+  }
+
+  /* Scan line effect specifically for panels */
+  .retro-panel::before {
+    content: "";
+    @apply absolute top-0 left-0 w-full h-full pointer-events-none;
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 228, 0, 0.03) 50%, 
+      rgba(0, 0, 0, 0.03) 50%
+    );
+    background-size: 100% 4px;
+    z-index: 10;
+    opacity: 0.3;
+  }
+
+  /* Add terminal header bar for panels that need it */
+  .retro-panel-header {
+    @apply -mx-6 -mt-6 mb-6 px-6 py-2 bg-retro-accent/10 border-b border-retro-accent/50 
+           flex items-center justify-between text-sm font-bold;
+  }
+
+  /* Footer style */
+  .site-footer {
+    @apply text-center py-6 mt-12 text-retro-foreground/60 text-sm;
+  }
+
   .read-more {
-    @apply inline-block px-4 py-2 border border-retro-accent text-retro-accent hover:bg-retro-accent hover:text-retro-background transition-colors duration-150;
+    @apply inline-block px-3 py-1 border border-retro-accent text-retro-accent hover:bg-retro-accent hover:text-retro-background transition-colors duration-150 text-sm;
   }
   
   .post-meta {
@@ -163,6 +249,82 @@
   .terminal-container {
     @apply border border-retro-accent/50 rounded p-4 my-4 shadow-inner bg-retro-background/60;
   }
+}
+
+/* --- Logo Pattern CSS --- */
+.logo-pattern-container {
+  /* Use foreground color for the logo */
+  background-color: var(--retro-foreground);
+
+  /* Set the mask properties using the SVG URL from the inline style */
+  -webkit-mask-image: var(--logo-svg-url);
+  mask-image: var(--logo-svg-url);
+  
+  -webkit-mask-repeat: repeat-x;
+  mask-repeat: repeat-x;
+  
+  -webkit-mask-position: center center;
+  mask-position: center center;
+  
+  -webkit-mask-size: auto 100%; /* Scale SVG height to container, width auto */
+  mask-size: auto 100%; 
+
+  /* Adjust opacity if needed, e.g., opacity: 0.8; */
+  /* The pulsing animation is on the parent 'a.logo' tag, leave it there for now */
+}
+
+/* --- Matrix Page Specific Styles --- */
+@keyframes textGlitch {
+  0%, 100% {
+    text-shadow: 0 0 5px var(--retro-accent), 0 0 1px #fff, -1px 0px var(--retro-accent), 1px 0px var(--retro-accent);
+    clip-path: inset(0% 0% 0% 0%);
+  }
+  2% {
+    clip-path: inset(40% 0% 61% 0%);
+    transform: translateX(-1px);
+  }
+  4% {
+    clip-path: inset(90% 0% 1% 0%);
+    transform: translateX(1px);
+  }
+  6% {
+    clip-path: inset(10% 0% 80% 0%);
+    transform: translateX(-1px);
+  }
+  8% {
+    clip-path: inset(50% 0% 30% 0%);
+    transform: translateX(1px);
+  }
+  10% {
+    clip-path: inset(30% 0% 60% 0%);
+    transform: translateX(-1px);
+  }
+  /* Add a few more subtle steps */
+  11%, 14% {
+     clip-path: inset(0% 0% 100% 0%);
+     transform: translateX(0);
+     opacity: 0.95;
+  }
+  15% {
+     clip-path: inset(0% 0% 0% 0%);
+     transform: translateX(0);
+     opacity: 1;
+  }
+}
+
+.matrix-container {
+  /* Enhance the panel for this page */
+  @apply border-2 border-retro-accent/60 shadow-2xl shadow-retro-accent/20 backdrop-blur-md;
+}
+
+.matrix-title,
+.matrix-tag {
+  animation: textGlitch 15s infinite linear alternate-reverse;
+}
+
+.matrix-tag {
+  /* Add a slight delay to each tag's animation start */
+  animation-delay: calc(var(--animation-order, 0) * 100ms);
 }
 
 /* Example: You might want to re-apply the esoteric retro theme variables here or in tailwind.config.js theme section */

@@ -21,14 +21,13 @@ about:
  - religion
  - philosophy
 tags:
- - Consciousness
- - Mythology
- - Philosophy
- - Religion
- - Gnosticism
- - Christianity
- - Evolution
- - Self-Awareness
+  - Consciousness
+  - Evolution
+  - Mythology
+  - Philosophy
+  - Religion
+  - psychology
+  - religion
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true

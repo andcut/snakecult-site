@@ -15,11 +15,11 @@ about:
  - Chinese Culture
  - Symbolic Anthropology
 tags:
- - Mythology
- - China
- - Creation Myths
- - Symbolism
- - Comparative Religion
+  - China
+  - Mythology
+  - Symbolism
+  - mythology
+  - religion
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

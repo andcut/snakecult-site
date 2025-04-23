@@ -25,10 +25,10 @@ about:
  - Symbolic Systems
  - Cognitive Evolution
 tags:
- - Deep-Research
- - Archaeology
- - Cognitive-Science
- - Anthropology
+  - Anthropology
+  - Archaeology
+  - Deep-Research
+  - "cognitive science"
 author: "Andrew Cutler" # Assuming author based on previous files
 license: "https://creativecommons.org/licenses/by-sa/4.0/" # Assuming license
 draft: false

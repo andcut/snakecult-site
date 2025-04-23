@@ -20,10 +20,10 @@ about:
  - Gender Studies
  - Mythology
 tags:
- - Matriarchy Debate
- - Social Evolution
- - Feminist Theory
- - Cultural Origins
+  - "Feminist Theory"
+  - "Matriarchy Debate"
+  - evolution
+  - "human origins"
 author: "Andrew Cutler" # Assuming author based on previous edits, adjust if needed.
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true

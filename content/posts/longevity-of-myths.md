@@ -17,9 +17,8 @@ about:
  - History
  - Archaeology
 tags:
- - Ancient History
- - Folklore
- - Oral History
+  - narrative
+  - prehistory
 author: "Andrew Cutler" # Assuming author based on previous file
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

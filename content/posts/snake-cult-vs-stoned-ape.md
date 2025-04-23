@@ -17,9 +17,9 @@ about:
  - anthropology
  - mythology
 tags:
- - Psychedelics
- - Human Origins
- - Consciousness Studies
+  - "Human Origins"
+  - Psychedelics
+  - consciousness
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true

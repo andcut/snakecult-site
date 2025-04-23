@@ -5,27 +5,57 @@
   - anchor: ID for the heading (string)
   - text: Inner HTML content for the heading (string, must be safeHTML)
   - page: The current page object (needed for .Scratch)
+  - randomizeKey: (Optional string) If provided, use random symbol assignment keyed by this string.
 */ -}}
 
 {{- $level := .level | default 2 -}}
 {{- $anchor := .anchor | default (.text | plainify | urlize) -}}
 {{- $text := .text | safeHTML -}}
 {{- $page := .page -}}
+{{- $randomizeKey := .randomizeKey | default "" -}}
 
-{{- /* Define the list of symbols - Ensure this matches the one in render-heading.html if kept */ -}}
-{{- $symbols := slice "𓆙" "🌀" "𓂀" "△" "𓋹" "𓇳" "⚕" "✡" "🪬" "֎" "∞" "▲" "𓆓" "𓂓" -}}
-{{- $numSymbols := len $symbols -}}
+{{- /* Define the base list of symbols */ -}}
+{{- $baseSymbols := slice "𓆙" "𓂀" "△" "𓋹" "𓇳" "⚕" "✡" "֎" "∞" "▲" "𓆓" "𓂓" -}}
+{{- $numBaseSymbols := len $baseSymbols -}}
 
-{{- /* Initialize or increment heading counter for the page */ -}}
-{{- $headingIndex := $page.Scratch.Get "headingCounter" | default 0 -}}
-{{- $page.Scratch.Set "headingCounter" (add $headingIndex 1) -}}
+{{- $currentSymbol := "" -}}
 
-{{- /* Get the current symbol based on the counter */ -}}
-{{- $symbolIndex := mod $headingIndex $numSymbols -}}
-{{- $currentSymbol := index $symbols $symbolIndex -}}
+{{- if ne $randomizeKey "" -}}
+  {{- /* Random assignment logic */ -}}
+  {{- $shuffledListKey := printf "shuffled_symbols_%s" $randomizeKey -}}
+  {{- $currentIndexKey := printf "shuffled_index_%s" $randomizeKey -}}
+  
+  {{- $shuffledSymbols := $page.Scratch.Get $shuffledListKey -}}
+  {{- if not $shuffledSymbols -}}
+    {{- $shuffledSymbols = $baseSymbols | shuffle -}}
+    {{- $page.Scratch.Set $shuffledListKey $shuffledSymbols -}}
+    {{- $page.Scratch.Set $currentIndexKey 0 -}} {{/* Reset index when reshuffling */}}
+  {{- end -}}
+  
+  {{- $currentIndex := $page.Scratch.Get $currentIndexKey | default 0 -}}
+  {{- $numShuffledSymbols := len $shuffledSymbols -}}
+
+  {{- if ge $currentIndex $numShuffledSymbols -}}
+    {{- /* Reshuffle if we've used all symbols */ -}}
+    {{- $shuffledSymbols = $baseSymbols | shuffle -}}
+    {{- $page.Scratch.Set $shuffledListKey $shuffledSymbols -}}
+    {{- $currentIndex = 0 -}}
+  {{- end -}}
+
+  {{- $currentSymbol = index $shuffledSymbols $currentIndex -}}
+  {{- $page.Scratch.Set $currentIndexKey (add $currentIndex 1) -}}
+
+{{- else -}}
+  {{- /* Sequential assignment logic (original) */ -}}
+  {{- $headingIndex := $page.Scratch.Get "headingCounter" | default 0 -}}
+  {{- $page.Scratch.Set "headingCounter" (add $headingIndex 1) -}}
+  {{- $symbolIndex := mod $headingIndex $numBaseSymbols -}}
+  {{- $currentSymbol = index $baseSymbols $symbolIndex -}}
+{{- end -}}
+
 
 {{- /* Set CSS variables for the ::before and ::after content */ -}}
 {{- $style := printf `--symbol-before: '%s '; --symbol-after: ' %s';` $currentSymbol $currentSymbol | safeCSS -}}
 
 {{- /* Output the heading element */ -}}
-<h{{ $level }} id="{{ $anchor }}" style="{{ $style }}">{{ $text }}</h{{ $level }}> 
+<h{{ $level }} id="{{ $anchor }}" style="{{ $style }}">{{ $text }}</h{{ $level }}>

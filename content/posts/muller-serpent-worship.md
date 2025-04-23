@@ -17,11 +17,11 @@ about: # high-level topics
  - Anthropology
  - Mythology
 tags: # reader-facing
- - Max Müller
- - Serpent Worship
- - Symbolism
- - Comparative Mythology
- - Ritual
+  - "Max M\u00fcller"
+  - Ritual
+  - "Serpent Worship"
+  - Symbolism
+  - mythology
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

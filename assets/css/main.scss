@@ -78,6 +78,19 @@
     text-shadow: none; /* Remove glow on hover for contrast */
   }
 
+  /* Restore list styling within content areas */
+  .index-content ul, .post-content ul {
+    @apply list-disc pl-5 mb-4; /* Tailwind classes for disc bullets, left padding, bottom margin */
+  }
+
+  .index-content ol, .post-content ol {
+      @apply list-decimal pl-5 mb-4; /* Tailwind classes for numbered lists */
+  }
+
+  .index-content li, .post-content li {
+      @apply mb-1; /* Optional: add a little space between list items */
+  }
+
   /* Ensure SVG inherits text color and glow */
   svg {
     /* Use fill variable */
