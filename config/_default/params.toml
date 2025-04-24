@@ -2,7 +2,7 @@
 
 description = "Research archive exploring the evolutionary origins of human consciousness, recursion, and symbolic culture—focused on the Eve Theory and gene–culture coevolution."
 author = "Andrew Cutler"
-logo = "images/logo.png" # Path relative to assets directory
+logo = "images/ouroboros2.svg" # Path relative to assets directory
 # Theme specific params
 showMenuItems = false # Explicitly try to trigger the 'show all items' logic in menu.html
 

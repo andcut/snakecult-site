@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;700&display=swap');
+
+.spinning-swastika-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
+  gap: 0.5rem;
+  padding: 0.5rem 0;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  background: linear-gradient(to right, rgba(255,215,0,0.1), rgba(255,215,0,0.1));
+  border-radius: 4px;
+}
+
+.spinning-swastika {
+  font-family: 'Noto Sans Devanagari', sans-serif;
+  font-size: 1.2rem;
+  animation: spin 8s linear infinite;
+  color: #00FF00; /* Bright green */
+  flex: 0 0 auto;
+  text-shadow: 2px 2px 4px rgba(0, 255, 0, 0.3);
+  transition: all 0.3s ease;
+  filter: drop-shadow(0 0 2px rgba(0, 255, 0, 0.3));
+  transform: rotate(0deg); /* Start at 0 degrees to ensure correct orientation */
+}
+
+.spinning-swastika:hover {
+  transform: scale(1.1);
+  color: #00FF00; /* Keep bright green on hover */
+  filter: drop-shadow(0 0 4px rgba(0, 255, 0, 0.5));
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Counter-clockwise version */
+.spinning-swastika-counter {
+  animation: spin-counter 8s linear infinite;
+}
+
+@keyframes spin-counter {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-360deg);
+  }
+}
+
+/* Mobile optimization */
+@media (max-width: 768px) {
+  .spinning-swastika-container {
+    justify-content: flex-start;
+    gap: 0.3rem;
+    padding: 0.3rem 0;
+  }
+  
+  .spinning-swastika {
+    font-size: 1.2rem;
+  }
+} 

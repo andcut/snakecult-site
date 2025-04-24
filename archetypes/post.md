@@ -1,5 +1,8 @@
 ---
 # -------------- FRONT MATTER -------------- 
+# Run snakecult_clean.py before reformatting a raw-test post to .md
+# Do not reduce the length of raw-text posts when reformatting them, though do break up long paragraphs and add bolding/emphasis where appropriate for a mobile-friendly reading experience.
+
 # Replace every TODO, then remove these comments.
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
@@ -13,16 +16,16 @@ about: # high-level topics
  - main-theme
 tags: # reader-facing
  - Tag-A
+core_entity: ""  # ≤ 3-word noun phrase. Pick the single, concrete thing (object/creature/place/person) that best embodies the post and is easy to illustrate—i.e., what you’d put on the magazine cover.
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true
 ---
 
-**TL;DR**
+**TL;DR**  <!-- ≤ 100 words, 3-7 bullets -->
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-- Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. 
+- Replace this bullet list with a *very* tight summary.
+- Focus on facts the article supports.
 
 ---
 

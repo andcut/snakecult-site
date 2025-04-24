@@ -118,6 +118,7 @@
   ul {
     @apply mb-4 pl-0;
     list-style: none;
+    list-style-type: none;
   }
   
   /* Add indentation for nested lists */
@@ -126,6 +127,11 @@
   }
 
   /* Base style for custom bullets */
+  ul li {
+    list-style: none;
+    list-style-type: none;
+  }
+
   ul li::before {
     display: inline-block;
     margin-right: 0.5em;

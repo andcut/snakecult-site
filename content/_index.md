@@ -7,9 +7,9 @@ draft: false
 ---
 
 ## How Did a Self-Aware Mind Evolve? 
-Meditations on mind, myth, and evolution. *Cast off the scales from your eyes!*
+Meditations on mind, myth, and evolution. *Cast the scales from your eyes!*
 
-### Key Points at a Glance 
+### TL;DR
 
 *   Symbolic thought emerged ~50,000 years ago, yet the universal human symbol, "I am," or the ego appears globally entrenched only in the Holocene ~10 kya.
 *   According to Eve Theory, women invented serpent-venom initiation rituals that reliably taught subject-object separation, producing powerful gene-culture evolution towards understanding "I am'" at a young age. 
@@ -20,6 +20,6 @@ Meditations on mind, myth, and evolution. *Cast off the scales from your eyes!*
 ### [Topics](/topics/)
 [Consciousness](/tags/consciousness/) · [Evolution](/tags/evolution/) · [Prehistory & Origins](/tags/prehistory/) · [Myth & Ritual](/tags/mythology/) · [Deep Research](/tags/deep-research/)
 
-### [About](/about/) 
-I'm Andrew Cutler—PhD, Machine Learning engineer turned consciousness researcher. 
+### [About Me](/about/) 
+I'm Andrew Cutler—PhD, a Machine Learning engineer researching human origins. 
 My work connects psychology, comparative mythology, and AI to trace how we recursive self-awareness evolved.
