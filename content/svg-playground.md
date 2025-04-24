@@ -59,7 +59,7 @@ To add more SVGs:
 {{< svg-inline src="svg/etsy_haul/1/All Seeing Eye Gold.svg" alt="All Seeing Eye Gold (Embedded Color)" width="100px" >}} `1/All Seeing Eye Gold.svg`
 {{< svg-inline src="svg/etsy_haul/1/All Seeing Eye White.svg" alt="All Seeing Eye White" width="100px" >}} `1/All Seeing Eye White.svg`
 {{< svg-inline src="svg/etsy_haul/snake-moon-eye.svg" alt="Snake Curled Around Moon Eye" width="100px" >}} `snake-moon-eye.svg`
-{{< svg-inline src="svg/etsy_haul/ouroboros2/ouroboros2.svg" alt="Ouroboros 2" width="100px" >}} `ouroboros2/ouroboros2.svg`
+{{/* {{< svg-inline src="svg/etsy_haul/ouroboros2/ouroboros2.svg" alt="Ouroboros 2" width="100px" >}} `ouroboros2/ouroboros2.svg` */}}
 {{< svg-inline src="svg/etsy_haul/4/All seeing eye6 White.svg" alt="All seeing eye6 White" width="100px" >}} `4/All seeing eye6 White.svg`
 {{< svg-inline src="svg/etsy_haul/4/Eye of Providence 2.svg" alt="Eye of Providence 2" width="100px" >}} `4/Eye of Providence 2.svg`
 {{< svg-inline src="svg/etsy_haul/4/Eye of Providence 2 White.svg" alt="Eye of Providence 2 White" width="100px" >}} `4/Eye of Providence 2 White.svg`
