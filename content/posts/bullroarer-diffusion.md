@@ -23,6 +23,7 @@ tags:
   - Prehistory
   - mythology
   - ritual
+core_entity: "Bullroarer"
 author: "Andrew Cutler" # Assuming based on archetype
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

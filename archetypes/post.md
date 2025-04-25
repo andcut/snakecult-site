@@ -54,13 +54,13 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 
 ---
 
-## FAQ <!-- retains FAQPage schema support -->
+## FAQ <!-- retains FAQPage schema support. Produce 2–5 Q-A pairs. -->
 
-**Q 1. Lorem ipsum dolor sit amet?** 
-**A.** Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Q 1. What makes a good question?**  
+**A.** Choose “how / what / why” queries that the post already answers and that a curious reader might type verbatim. Include at least one narrowly focused question that drills into a concrete detail or example.
 
-**Q 2. Ut enim ad minim veniam?** 
-**A.** Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Q 2. How long should each answer be?**  
+**A.** One punchy, self-contained sentence (≈30–50 words) that fully resolves the query, optionally followed by a brief clarifier. Total ≤120 words.
 
 ---
 

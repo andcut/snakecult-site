@@ -22,6 +22,7 @@ tags: # reader-facing
   - "Serpent Worship"
   - Symbolism
   - mythology
+core_entity: "Nāga"
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
@@ -202,5 +203,3 @@ In the end, the cult of the serpent tells a story not just of snakes, but of our
 9. Wikipedia contributors. "Feathered Serpent." *Wikipedia, The Free Encyclopedia*. [Link](https://en.wikipedia.org/wiki/Feathered_Serpent)
 10. Wikipedia contributors. "Ouroboros." *Wikipedia, The Free Encyclopedia*. [Link](https://en.wikipedia.org/wiki/Ouroboros) (Note: Original text links Britannica, but Wikipedia covers similar ground).
 11. Wikipedia contributors. "Snake worship." *Wikipedia, The Free Encyclopedia*. [Link](https://en.wikipedia.org/wiki/Snake_worship)
-
-</rewritten_file>
