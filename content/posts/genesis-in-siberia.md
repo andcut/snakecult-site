@@ -26,6 +26,7 @@ tags: # reader-facing
 author: "Andrew Cutler" # Assuming author, adjust if needed
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false # Set to false when ready to publish
+quality: 6
 ---
 
 **TL;DR**
@@ -109,6 +110,25 @@ Drawing together the threads of linguistics, comparative mythology, and archaeol
 In essence, the fall-from-grace myths and creation stories of Eurasia are like linguistic cognates – related words in different languages stemming from one proto-word. Just as linguists reconstruct proto-languages by comparing daughter languages, we can attempt to reconstruct aspects of a proto-mythology by comparing these narrative cognates. Doing so suggests that humanity's oldest stories have truly ancient roots, going back not just to the Bronze Age or Neolithic mythologies we often credit (like those of Sumer or Babylon), but to a preliterate cosmology of the Paleolithic-Epipaleolithic hunter-foragers who witnessed the end of the Ice Age. These ancient people, encountering a world of dramatic change, apparently formulated stories so profound and memorable that all the vicissitudes of history since have not erased them, only transformed them.
 
 The implications of such longevity in myth are profound. It means that when we read a line in Genesis about a serpent and a fall, or hear a Siberian elder recount how the dog lost its voice, we might be catching a direct glimpse of the mind of our remote ancestors – a continuous thread of imagination and meaning connecting us to those who lived 500 generations ago. It also underscores a common human heritage: at the level of myth, there are fewer true strangers than we think. A Sumerian peasant, a Viking skald, a Turkic nomad, and a San bushman could all commiserate over the lost chance at immortality and nod at the cleverness (or treachery) of the animals that sealed our fate. In a time when we seek what unites humanity, perhaps one place to look is our oldest legends – for in those venerable tales, we all share the memory of a long-ago paradise, and the dream (or regret) of what we might have been.
+
+---
+
+## FAQ <!-- retains FAQPage schema support -->
+
+**Q1. What is the article’s central claim?**  
+**A.** A “fall-from-grace” proto-myth—loss of immortality after a transgression involving animals—was already circulating across Eurasia (and even Africa) in the late Paleolithic / early Holocene and later branched into the diverse creation stories we know today.
+
+**Q2. What evidence suggests a shared origin rather than parallel invention?**  
+**A.** Overlapping motifs (radiant skin/fur lost, snake-or-dog trickster, cosmic tree with 7- or 9-layer heavens) appear in Semitic, Altaic, Uralic, and Bantu lore; similar myth-keywords cluster along Holocene language-family dispersals, and early Neolithic sites (e.g., Göbekli Tepe) depict the same animals and tree symbolism.
+
+**Q3. Why are the snake and dog so prominent across versions?**  
+**A.** Both animals stood at the human–wildlife threshold: snakes embodied danger and cyclical renewal (skin-shedding), while early-domesticated dogs policed camps. Myths cast them as guardians/traitors to dramatize humanity’s lost chance at perpetual life.
+
+**Q4. What’s with the sacred numbers seven and nine?**  
+**A.** They likely encoded shamanic cosmology—tiers of heaven, branches of the World Tree—and served as mnemonic anchors; the same numeric cosmogram resurfaces from Siberian birch-pole rites to Mesopotamian “seven heavens,” pointing to deep continuity.
+
+**Q5. How can an oral myth survive 10,000 + years?**  
+**A.** High-stakes origin stories become ritual liturgy: repeated in initiations, sung as genealogies, and attached to moral taboos. Ethnographic cases (e.g., Aboriginal sea-rise tales accurate after 7 ky) show that tight ritual transmission can preserve narratives across millennia.
 
 ---
 

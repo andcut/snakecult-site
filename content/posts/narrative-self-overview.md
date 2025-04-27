@@ -26,6 +26,7 @@ core_entity: "Narrator"
 author: "Andrew Cutler" # Assuming author based on previous context
 license: "https://creativecommons.org/licenses/by-sa/4.0/" # Assuming license based on previous context
 draft: false
+qualit: 9
 ---
 
 **TL;DR**

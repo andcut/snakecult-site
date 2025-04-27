@@ -22,6 +22,7 @@ tags:
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
+quality: 9
 ---
 
 **TL;DR**

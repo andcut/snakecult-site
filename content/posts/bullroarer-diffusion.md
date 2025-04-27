@@ -27,6 +27,7 @@ core_entity: "Bullroarer"
 author: "Andrew Cutler" # Assuming based on archetype
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
+quality: 9          # ★ 1‒10 subjective “how good is this?”; 6 = unrated/OK
 ---
 
 ## Introduction

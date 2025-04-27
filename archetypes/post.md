@@ -17,6 +17,7 @@ about: # high-level topics
 tags: # reader-facing
  - Tag-A
 core_entity: ""  # ≤ 3-word noun phrase. Pick the single, concrete thing (object/creature/place/person) that best embodies the post and is easy to illustrate—i.e., what you’d put on the magazine cover.
+quality: 6          # ★ 1‒10 subjective “how good is this?”; 6 = unrated/OK
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true

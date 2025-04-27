@@ -14,6 +14,7 @@ tags:
 author: "Andrew Cutler"
 license: "CC-BY-SA 4.0"
 draft: false
+quality: 6
 ---
 
 **TL;DR**

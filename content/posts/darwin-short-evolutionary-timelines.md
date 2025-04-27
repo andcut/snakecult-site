@@ -22,13 +22,12 @@ tags: # reader-facing
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
+quality: 9          # ★ 1‒10 subjective “how good is this?”; 6 = unrated/OK
 ---
 
 **TL;DR**  <!-- ≤ 100 words, 3-7 bullets -->
 
-- Darwin argued human evolution accelerated significantly once language and social structures emerged.
-- Reputation (praise/blame) became a key selective pressure shaping early human morality.
-- Culture (language, institutions, education, norms) interacts with and often overrides biological instincts as a driver of fitness in civilised societies.
+- Darwin argued human evolution shaped by social forces after language emerged.
 - Darwin believed substantial evolutionary changes (moral, social) occurred rapidly, within historical timescales (centuries, not eons).
 - He viewed humanity as recently emerged from a "barbarous" state, with traditions and myths preserving echoes of past selection pressures.
 

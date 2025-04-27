@@ -24,6 +24,7 @@ core_entity: "Ancient Voyages"
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
+quality: 6
 ---
 
 **TL;DR**

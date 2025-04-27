@@ -27,6 +27,7 @@ tags: # reader-facing
 author: "Andrew Cutler" # Assuming author, adjust if needed
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true # Set to false when ready to publish
+quality: 8
 ---
 
 **TL;DR**

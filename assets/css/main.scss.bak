@@ -1,0 +1,208 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Define Custom Properties for Theme --- */
+:root {
+  --retro-background: #0a0f0a;
+  --retro-foreground: #00e300;
+  --retro-accent: #33ff33;
+  --retro-glow: 0 0 3px rgba(51, 255, 51, 0.3);
+  --retro-glow-lg: 0 0 5px rgba(51, 255, 51, 0.3);
+}
+
+/* --- Add any essential custom base styles or @apply rules below --- */
+@layer base {
+  body {
+    /* Revert to the slightly smaller font size from the original theme */
+    font-size: 0.95rem;
+    /* Apply base glow using CSS variable */
+    text-shadow: var(--retro-glow);
+    /* Ensure body background uses variable (Tailwind class should also work, but defense-in-depth) */
+    background-color: var(--retro-background);
+    /* Improve font rendering */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Scanline Overlay */
+  body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    background: repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      rgba(0, 0, 0, 0.08) 1px, /* Keep this subtle */
+      transparent 2px
+    );
+    z-index: 50; /* High z-index needed */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    /* Use accent color variable */
+    color: var(--retro-accent);
+    /* Use larger glow variable */
+    text-shadow: var(--retro-glow-lg);
+  }
+
+  /* Header Symbols (relies on Hugo render hook setting --symbol-before/after) */
+  h1::before, h2::before, h3::before {
+    content: var(--symbol-before, '△ ');
+    opacity: 0.7;
+    margin-right: 0.25em; /* Add some space */
+  }
+  h1::after, h2::after, h3::after {
+    content: var(--symbol-after, ' △');
+    opacity: 0.7;
+    margin-left: 0.25em; /* Add some space */
+  }
+
+  a {
+    /* Use accent color variable */
+    color: var(--retro-accent);
+    text-decoration: none; /* Tailwind's base might add underlines */
+    /* Use larger glow variable */
+    text-shadow: var(--retro-glow-lg);
+  }
+
+  a:hover {
+    /* Use background color variable for text on hover */
+    color: var(--retro-background);
+    /* Use accent color variable for background */
+    background-color: var(--retro-accent);
+    text-shadow: none; /* Remove glow on hover for contrast */
+  }
+
+  /* Restore list styling within content areas */
+  .index-content ul, .post-content ul {
+    @apply list-disc pl-5 mb-4; /* Tailwind classes for disc bullets, left padding, bottom margin */
+  }
+
+  .index-content ol, .post-content ol {
+      @apply list-decimal pl-5 mb-4; /* Tailwind classes for numbered lists */
+  }
+
+  .index-content li, .post-content li {
+      @apply mb-1; /* Optional: add a little space between list items */
+  }
+
+  /* Ensure SVG inherits text color and glow */
+  svg {
+    /* Use fill variable */
+    fill: var(--retro-foreground);
+    /* Apply glow using filter: drop-shadow and variable */
+    filter: drop-shadow(var(--retro-glow));
+  }
+}
+
+/* Example: You might want to re-apply the esoteric retro theme variables here or in tailwind.config.js theme section */
+/* :root {
+  --background: #0a0f0a;
+  --foreground: #00e300;
+  --accent: #33ff33;
+  --glow-color: rgba(51, 255, 51, 0.4);
+} */
+
+/* Or re-apply base styles using @layer base */
+/* @layer base {
+  html, body {
+     background-color: theme('colors.your-bg-color');
+     color: theme('colors.your-fg-color');
+     text-shadow: 0 0 3px theme('colors.your-glow-color');
+   }
+} */
+
+@layer components {
+  /* Content block styling for the header peek-through effect */
+  .content-block {
+    background-color: var(--retro-background);
+    padding: 1.5rem;
+    margin-bottom: 2rem; /* Space between blocks to show header */
+    border-radius: 10px; /* Rounded edges */
+    box-shadow: 0 0 20px 10px rgba(0,0,0,0.2); /* Shadow */
+    /* Add border similar to retro-panel */
+    border: 1px solid rgba(51, 255, 51, 0.5); /* Same as border-retro-accent/50 */
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s;
+  }
+  
+  /* Add the scanline effect similar to retro-panel::before */
+  .content-block::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    background: linear-gradient(
+      to bottom,
+      rgba(0, 228, 0, 0.03) 50%, 
+      rgba(0, 0, 0, 0.03) 50%
+    );
+    background-size: 100% 4px;
+    z-index: 10;
+    opacity: 0.3;
+  }
+  
+  /* Remove margin from the last block */
+  .content-block:last-child {
+    margin-bottom: 0;
+  }
+  
+  /* Optional: Add hover effect similar to retro-panel:hover */
+  .content-block:hover {
+    border-color: rgba(51, 255, 51, 0.7); /* Same as border-retro-accent/70 */
+    box-shadow: 0 0 20px 10px rgba(51, 255, 51, 0.1); /* Similar to shadow-retro-accent/10 */
+  }
+  
+  /* Style for the content-blocks-container to split content by headers */
+  .content-blocks-container > h2,
+  .content-blocks-container > h3 {
+    margin-top: 2rem; /* Add space above headers */
+  }
+  
+  /* Make each section a separate content block */
+  .content-blocks-container > h2,
+  .content-blocks-container > h2 + p,
+  .content-blocks-container > h3,
+  .content-blocks-container > h3 + p,
+  .content-blocks-container > h3 + ul,
+  .content-blocks-container > p:last-of-type {
+    background-color: var(--retro-background);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 10px rgba(0,0,0,0.2);
+    border: 1px solid rgba(51, 255, 51, 0.5);
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s;
+    
+    /* Reset margin/padding for elements inside */
+    & > * {
+      margin-top: 0;
+      padding-top: 0;
+    }
+  }
+  
+  /* Reset normal styles for the original containers */
+  .content-blocks-container > * {
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Make the retro-panel container transparent to show header underneath */
+  .transparent-bg {
+    background-color: transparent !important; 
+    box-shadow: none !important;
+    border: none !important;
+    padding: 0 !important;
+  }
+}

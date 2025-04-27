@@ -32,6 +32,7 @@ tags:
 author: "Andrew Cutler" # Assuming author based on previous files
 license: "https://creativecommons.org/licenses/by-sa/4.0/" # Assuming license
 draft: false
+quality: 7          # ★ 1‒10 subjective “how good is this?”; 6 = unrated/OK
 ---
 
 **TL;DR**

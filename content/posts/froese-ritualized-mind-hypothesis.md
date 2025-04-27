@@ -14,6 +14,7 @@ tags:
 license: "CC-BY-SA 4.0"
 draft: false
 author: "Andrew Cutler"
+quality: 10
 ---
 
 **TL;DR**
@@ -90,27 +91,22 @@ In conclusion, when evaluated alongside alternatives, the Froese–Eve framework
 
 ---
 
-## FAQ <!-- for FAQPage schema pickup -->
+## FAQ <!-- retains FAQPage schema support -->
 
-What is the Sapient Paradox?
+**Q1. What is the Sapient Paradox?**  
+**A.** It’s the puzzle of why behaviourally modern traits — art, symbolism, complex ritual — explode tens of millennia after anatomically modern humans evolve (~200 kya).
 
-It's the puzzle of why behaviourally modern traits (art, symbolism) appear tens of thousands of years after anatomically modern humans evolve (~200 kya).
+**Q2. How does Froese’s Ritualised-Mind Hypothesis solve it?**  
+**A.** Initiation rites that induce altered states catalyse subject–object separation, bootstrapping symbolic culture in each generation.
 
-How does Froese's Ritualised-Mind Hypothesis solve it?
+**Q3. How does the Eve / Snake-Cult Theory extend Froese’s idea?**  
+**A.** It highlights female-led snake-venom rites, accounting for universal serpent myths and tying the diffusion of self-awareness to gene–culture coevolution.
 
-By proposing that initiation rituals inducing altered states catalysed subject–object separation, bootstrapping symbolic culture.
+**Q4. Is this framework compatible with “Stoned Ape” or single-mutation theories?**  
+**A.** Yep. It retains altered-state chemistry (venom > mushrooms) while seeing genes as followers of culturally triggered selection rather than a lone miracle mutation.
 
-How does the Eve/Snake-Cult Theory extend Froese's idea?
-
-It specifies female-led snake-venom rites, links them to universal serpent myths, and ties diffusion to gene–culture coevolution signals.
-
-Is this framework compatible with "Stoned Ape" or single-mutation theories?
-
-Yes; it integrates altered-state chemistry (but venom, not mushrooms) and sees genes following culturally triggered selection, rather than a lone miracle mutation.
-
-What testable predictions does the model make?
-
-Late-Pleistocene sweeps on neural-plasticity genes, venom residues on ritual artefacts, and sex-dimorphic DMN patterns aligned with recursion timelines.
+**Q5. What testable predictions does the model make?**  
+**A.** Late-Pleistocene sweeps on neural-plasticity genes, venom residues on ritual artefacts, and sex-dimorphic DMN patterns mapping recursion’s spread.
 
 ---
 

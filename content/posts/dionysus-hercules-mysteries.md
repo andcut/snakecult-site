@@ -18,6 +18,7 @@ tags:
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
+quality: 8          # ★ 1‒10 subjective “how good is this?”; 6 = unrated/OK
 ---
 
 **TL;DR**

@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Revolution Theorists"
+title: "Big Bangs of the Mind: 7 Theories About the Upper-Paleo Brain Upgrade"
 date: 2025-04-22
 lastmod: 2025-04-22
 slug: "temp-name"
@@ -23,6 +23,7 @@ tags:
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
+quality: 7
 ---
 
 **TL;DR**
@@ -243,16 +244,20 @@ Yet, even within gradualist or alternative explanations, many accept that someth
 ## FAQ <!-- retains FAQPage schema support -->
 
 **Q 1. What is the "Cognitive Revolution"?**  
-**A.** It refers to a proposed period around 50,000 years ago (Upper Paleolithic) when *Homo sapiens* supposedly underwent rapid cognitive changes, leading to "behavioral modernity"—marked by sophisticated art, tools, symbolic behavior, and possibly language—thought by some theorists (like Klein, Chomsky, Tattersall, Mithen, Coolidge & Wynn) to be driven by biological evolution (e.g., genetic mutation, brain reorganization).
+**A.** It refers to a proposed period around 50,000 years ago (Upper Paleolithic) when *Homo sapiens* supposedly underwent rapid cognitive changes, leading to "behavioral modernity"—marked by sophisticated art, tools, symbolic behavior, and possibly language—thought by some theorists (like Cutler, Klein, Chomsky, Tattersall, Mithen, Coolidge & Wynn) to be driven by biological evolution (e.g., genetic mutation, brain reorganization).
 
 **Q 2. What is the main disagreement among these theorists?**  
 **A.** While most agree on a significant cognitive shift becoming evident around 50kya, they diverge on the *specific* trigger and timing. Proposed drivers include a neural mutation (Klein), recursive syntax/Merge (Chomsky), syntax emerging from protolanguage (Bickerton), cultural activation of latent potential (Tattersall), cognitive fluidity (Mithen), enhanced working memory (Coolidge & Wynn), or a later (~15kya) cultural emergence of recursive self-awareness ([Cutler's EToC](#andrew-cutler--eve-theory-of-consciousness-etoc)).
 
-**Q 3. What is the "Sapient Paradox" mentioned by Cutler?**  
-**A.** Coined by Colin Renfrew, it highlights the apparent time lag between the emergence of anatomically modern humans (~200kya) or behaviorally modern humans (~50kya) and the much later appearance of complex societies and civilization (~12kya). Cutler's Eve Theory attempts to resolve this by proposing full sapience (recursive self-awareness) emerged culturally much later, closer to the Neolithic revolution, rather than coinciding directly with anatomical or the initial behavioral modernity.
+**Q3. Could a composite scenario be more realistic?**  
+Yes. A modest working-memory uplift could enable cognitive fluidity, which fosters syntax, amplified by demographic expansion; ritual factors might then consolidate full self-awareness. Multi-layer models are increasingly explored.
 
-**Q 4. How does the Eve Theory of Consciousness differ from the others discussed?**  
-**A.** [EToC](#andrew-cutler--eve-theory-of-consciousness-etoc) uniquely posits a much later emergence for full *consciousness* (recursive self-awareness, ~15kya), decoupling it significantly from the 50kya benchmark for behavioral modernity focused on by others. It emphasizes a cultural/memetic initial spread (potentially involving rituals and entheogens like snake venom), proposes women achieved consciousness first ("Primordial Matriarchy"), and relies heavily on comparative mythology and the Sapient Paradox alongside archaeology and genetics, contrasting with theories centered solely on genetic mutations or brain changes around 50kya.
+**Q4. Which evidence streams anchor each camp?**  
+- **Genomics:** Klein; Coolidge & Wynn.  
+- **Linguistics/Psycholinguistics:** Chomsky; Bickerton.  
+- **Cognitive-archaeology:** Mithen; Tattersall.  
+- **Comparative mythology + gene–culture:** Cutler.
+
 
 ---
 

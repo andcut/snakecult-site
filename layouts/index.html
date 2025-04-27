@@ -6,10 +6,15 @@
 
   {{/* Container for Article Previews */}}
   <div class="posts-container">
-    {{ $publishedPosts := where (where site.RegularPages "Section" "posts") "Params.draft" "ne" true }}
-    {{ $allPosts := $publishedPosts }}
-    
-    {{ range $allPosts }}
+    {{/* Get all published posts in /posts/ */}}
+    {{ $posts := where (where site.RegularPages "Section" "posts") "Params.draft" "ne" true }}
+
+    {{/* Pass 1: newest‑first within each score */}}
+    {{ $byDate := sort $posts "Date" "desc" }}
+    {{/* Pass 2: bubble quality 10→1 (stable) */}}
+    {{ $sorted := sort $byDate "Params.quality" "desc" }}
+
+    {{ range $sorted }}
       <article class="retro-panel post on-list">
         {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
         {{ partial "heading-with-symbols.html" (dict 
@@ -26,7 +31,7 @@
               {{- partial "post-date" . -}}
             </time>
           {{- end -}}
-          {{- with .Params.Author -}}
+          {{- with .Params.author -}}
             <span class="post-author">{{ . }}</span>
           {{- end -}}
         </div>

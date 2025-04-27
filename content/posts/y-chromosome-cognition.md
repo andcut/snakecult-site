@@ -24,6 +24,7 @@ tags: # reader-facing
 author: "Andrew Cutler" # Assuming you are the author, adjust if needed
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false # Set to true if it's still a draft
+quality: 9
 ---
 
 **TL;DR**
@@ -122,18 +123,16 @@ In conclusion, the Y chromosome, despite its modest gene content, plays a multi-
 
 ## Sources
 
-*(Note: The original inline markers 【n†】 have been removed as their mapping to the list was unclear. The list below retains the original numbering and content.)*
-
-1. Raznahan et al. *Globally Divergent but Locally Convergent X- and Y-Chromosome Influences on Cortical Development*. Cerebral Cortex. 2016. https://doi.org/10.1093/cercor/bhv336
-2. Skuse et al. *Evidence from Turner's syndrome of an imprinted X-linked locus affecting cognitive function*. Nature. 1997. https://doi.org/10.1038/387705a0
-3. Greenberg et al. *Sex differences in social cognition and the role of the sex chromosomes: a study of Turner syndrome and Klinefelter syndrome*. Journal of Neurodevelopmental Disorders. 2017. https://doi.org/10.1186/s11689-017-9200-4
-4. Lai et al. *Sex/gender differences and autism: setting the scene for future research*. Journal of the American Academy of Child & Adolescent Psychiatry. 2015. https://doi.org/10.1016/j.jaac.2014.10.003
-5. Crow, T.J. *The 'big bang' theory of the origin of psychosis and the faculty of language*. Schizophrenia Research. 2006. https://doi.org/10.1016/j.schres.2005.12.020
-6. Williams et al. *Accelerated evolution of Protocadherin11X/Y: A candidate gene-pair for cerebral asymmetry and language*. American Journal of Medical Genetics Part B. 2006. https://doi.org/10.1002/ajmg.b.30371
-7. Hughes et al. *Strict evolutionary conservation followed rapid gene loss on human and rhesus Y chromosomes*. Nature. 2012. https://doi.org/10.1038/nature10843
-8. Case et al. *Consequences of Y chromosome microdeletions beyond male infertility: abnormal phenotypes and partial deletions*. Journal of Medical Genetics. 2019. https://doi.org/10.1136/jmedgenet-2018-105751
-9. Sato et al. *The role of the Y chromosome in brain function*. Open Access Journal of Neurology & Neurosurgery. 2010. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996062/
-10. Morris et al. *Neurodevelopmental disorders in XYY syndrome: 1. Comparing XYY with XXY*. Biological Psychiatry. 2018. https://doi.org/10.1016/j.biopsych.2018.03.009
-11. Mastrominico et al. *Brain expression of DDX3Y, a multi-functional Y-linked gene*. Frontiers in Neuroscience. 2020. https://doi.org/10.3389/fnins.2020.00312
-12. Mendez et al. *Y-chromosome from early modern humans replaced Neanderthal Y*. The Scientist. 2016. https://www.the-scientist.com/news-opinion/y-chromosome-from-early-modern-humans-replaced-neanderthal-y-67963
-13. Wijchers & Festenstein. *Epigenetic regulation of autosomal gene expression by sex chromosomes*. Trends in Genetics. 2011. https://doi.org/10.1016/j.tig.2011.04.001
+1. [Raznahan et al., *Globally Divergent but Locally Convergent X- and Y-Chromosome Influences on Cortical Development* (2016)](https://doi.org/10.1093/cercor/bhv336)
+2. [Skuse et al., *Evidence from Turner's syndrome of an imprinted X-linked locus affecting cognitive function* (1997)](https://doi.org/10.1038/387705a0)
+3. [Greenberg et al., *Sex differences in social cognition and the role of the sex chromosomes: a study of Turner syndrome and Klinefelter syndrome* (2017)](https://doi.org/10.1186/s11689-017-9200-4)
+4. [Lai et al., *Sex/gender differences and autism: setting the scene for future research* (2015)](https://doi.org/10.1016/j.jaac.2014.10.003)
+5. [Crow, T.J., *The 'big bang' theory of the origin of psychosis and the faculty of language* (2006)](https://doi.org/10.1016/j.schres.2005.12.020)
+6. [Williams et al., *Accelerated evolution of Protocadherin11X/Y: A candidate gene-pair for cerebral asymmetry and language* (2006)](https://doi.org/10.1002/ajmg.b.30371)
+7. [Hughes et al., *Strict evolutionary conservation followed rapid gene loss on human and rhesus Y chromosomes* (2012)](https://doi.org/10.1038/nature10843)
+8. [Case et al., *Consequences of Y chromosome microdeletions beyond male infertility: abnormal phenotypes and partial deletions* (2019)](https://doi.org/10.1136/jmedgenet-2018-105751)
+9. [Sato et al., *The role of the Y chromosome in brain function* (2010)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2996062/)
+10. [Morris et al., *Neurodevelopmental disorders in XYY syndrome: 1. Comparing XYY with XXY* (2018)](https://doi.org/10.1016/j.biopsych.2018.03.009)
+11. [Mastrominico et al., *Brain expression of DDX3Y, a multi-functional Y-linked gene* (2020)](https://doi.org/10.3389/fnins.2020.00312)
+12. [Mendez et al., *Y-chromosome from early modern humans replaced Neanderthal Y* (2016) - Overview](https://www.the-scientist.com/news-opinion/y-chromosome-from-early-modern-humans-replaced-neanderthal-y-67963)
+13. [Wijchers & Festenstein, *Epigenetic regulation of autosomal gene expression by sex chromosomes* (2011)](https://doi.org/10.1016/j.tig.2011.04.001)
