@@ -7,7 +7,7 @@ draft: false
 ---
 
 ## How Did a Self-Aware Mind Evolve? 
-Meditations on mind, myth, and evolution. *Cast the scales from your eyes!*
+Meditations on mind, myth, and evolution. <span class="eye-of-ra-text">*<span data-char="C" style="--char-index: 0">C</span><span data-char="a" style="--char-index: 1">a</span><span data-char="s" style="--char-index: 2">s</span><span data-char="t" style="--char-index: 3">t</span> <span data-char="t" style="--char-index: 4">t</span><span data-char="h" style="--char-index: 5">h</span><span data-char="e" style="--char-index: 6">e</span> <span data-char="s" style="--char-index: 7">s</span><span data-char="c" style="--char-index: 8">c</span><span data-char="a" style="--char-index: 9">a</span><span data-char="l" style="--char-index: 10">l</span><span data-char="e" style="--char-index: 11">e</span><span data-char="s" style="--char-index: 12">s</span> <span data-char="f" style="--char-index: 13">f</span><span data-char="r" style="--char-index: 14">r</span><span data-char="o" style="--char-index: 15">o</span><span data-char="m" style="--char-index: 16">m</span> <span data-char="y" style="--char-index: 17">y</span><span data-char="o" style="--char-index: 18">o</span><span data-char="u" style="--char-index: 19">u</span><span data-char="r" style="--char-index: 20">r</span> <span data-char="e" style="--char-index: 21">e</span><span data-char="y" style="--char-index: 22">y</span><span data-char="e" style="--char-index: 23">e</span><span data-char="s" style="--char-index: 24">s</span><span data-char="!" style="--char-index: 25">!</span>*</span>
 
 ### TL;DR
 

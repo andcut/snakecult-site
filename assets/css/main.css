@@ -349,3 +349,208 @@
      text-shadow: 0 0 3px theme('colors.your-glow-color');
    }
 } */
+
+@keyframes sweepEffect {
+  0%, 100% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+  5% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+  15% {
+    clip-path: inset(0 0 0 100%);
+    transform: translateX(0);
+    opacity: 0.8;
+  }
+  20% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.eye-of-ra-text {
+  position: relative;
+  display: inline-block;
+}
+
+.eye-of-ra-text span {
+  display: inline-block;
+  position: relative;
+  --delay: calc(var(--char-index) * 0.2s + 5s);
+  animation: glitch 30s forwards;
+  animation-delay: var(--delay);
+}
+
+@keyframes glitch {
+  0%, 100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  5% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  10% {
+    transform: translateY(-2px);
+    opacity: 0.8;
+  }
+  15% {
+    transform: translateY(2px);
+    opacity: 1;
+  }
+  20% {
+    transform: translateY(-2px);
+    opacity: 0.8;
+  }
+  25% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.eye-of-ra-text span::before {
+  content: "𓂀";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  animation: showEye 30s forwards;
+  animation-delay: var(--delay);
+}
+
+@keyframes showEye {
+  0%, 100% {
+    opacity: 0;
+  }
+  10% {
+    opacity: 0.8;
+  }
+  20% {
+    opacity: 0;
+  }
+}
+
+.eye-of-ra-text span::after {
+  content: attr(data-char);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 1;
+  animation: hideChar 30s forwards;
+  animation-delay: var(--delay);
+}
+
+@keyframes hideChar {
+  0%, 100% {
+    opacity: 1;
+  }
+  10% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+}
+
+.eye-of-ra-text::before {
+  content: "𓂀";
+  position: absolute;
+  left: -2em;
+  opacity: 0;
+  font-size: 1.5em;
+  color: var(--retro-accent);
+  text-shadow: 0 0 10px var(--retro-accent);
+  animation: sweepAcross 30s forwards;
+  animation-delay: 5s;
+}
+
+.eye-of-ra-text::after {
+  content: "𓆣";
+  position: absolute;
+  right: -2em;
+  opacity: 0;
+  font-size: 1.5em;
+  color: var(--retro-accent);
+  text-shadow: 0 0 10px var(--retro-accent);
+  animation: sweepBack 30s forwards;
+  animation-delay: 5s;
+}
+
+@keyframes sweepAcross {
+  0%, 100% {
+    left: -2em;
+    opacity: 0;
+  }
+  5% {
+    left: -2em;
+    opacity: 0;
+  }
+  15% {
+    left: 100%;
+    opacity: 1;
+  }
+  20% {
+    left: 100%;
+    opacity: 0;
+  }
+}
+
+@keyframes sweepBack {
+  0%, 100% {
+    right: -2em;
+    opacity: 0;
+  }
+  15% {
+    right: -2em;
+    opacity: 0;
+  }
+  20% {
+    right: 100%;
+    opacity: 1;
+  }
+  25% {
+    right: -2em;
+    opacity: 0;
+  }
+}
+
+@keyframes glitchEffect {
+  0%, 100% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0);
+  }
+  15% {
+    clip-path: inset(40% 0 61% 0);
+    transform: translateX(-2px);
+  }
+  15.5% {
+    clip-path: inset(90% 0 1% 0);
+    transform: translateX(2px);
+  }
+  16% {
+    clip-path: inset(10% 0 80% 0);
+    transform: translateX(-2px);
+  }
+  16.5% {
+    clip-path: inset(50% 0 30% 0);
+    transform: translateX(2px);
+  }
+  17% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0);
+  }
+}
+
+.eye-of-ra-text {
+  animation: sweepEffect 30s forwards, glitchEffect 30s forwards;
+  animation-delay: 5s, 5s;
+}
