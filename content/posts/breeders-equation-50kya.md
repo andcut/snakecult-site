@@ -1,5 +1,5 @@
 ---
-title: "Human Intelligence: 50 000 Years Is Plenty — A Breeder's-Equation Reality Check"
+title: "Human Intelligence: 50,000 Years Is Plenty — A Breeder's-Equation Reality Check"
 date: 2025-04-19
 lastmod: 2025-04-19
 slug: intelligence-selection-50k
@@ -34,7 +34,7 @@ quality: 9          # ★ 1‒10 subjective “how good is this?”; 6 = unrated
 
 ## 1 Quotes & the Blank-Slate Catechism
 
-> "There's been **no biological change in humans in 40 000 or 50 000 years**. Everything we call culture and civilization we've built with the same body and brain." — *Stephen Jay Gould*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/?utm_source=chatgpt.com)
+> "There's been **no biological change in humans in 40,000 or 50,000 years**. Everything we call culture and civilization we've built with the same body and brain." — *Stephen Jay Gould*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/?utm_source=chatgpt.com)
 
 > "Pre-historic people were *our equals* in mental capacity; the difference is purely cultural." — *David Deutsch*, Within Reason podcast, 2025  [oai_citation_attribution:1‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs&utm_source=chatgpt.com)
 

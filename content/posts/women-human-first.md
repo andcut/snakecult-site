@@ -49,6 +49,12 @@ This report rigorously examines this idea through evidence and logic – eschewi
 
 Human beings are often defined by their extraordinary social intelligence. We live in complex societies that demand understanding others' intentions, coordinating group actions, and curbing antisocial impulses. Evolutionary anthropologists argue that our large brains evolved not just for tool use, but primarily to handle the demands of social life – an idea known as the ***social brain*** or *Machiavellian intelligence* hypothesis [^1].
 
+---
+
+> **Note:** The footnote markers `[^N]` in the text above are placeholders. The full bibliography with corresponding links can be found at: [https://chatgpt.com/share/68055003-1674-8008-92a0-85bbddae351a](https://chatgpt.com/share/68055003-1674-8008-92a0-85bbddae351a)
+
+---
+
 Compared to other apes, humans excel at *theory of mind* (inferring what others know, want, or intend) and at forming shared goals and cultures. For example, human children can intuit others' desires and share intentions in ways our closest ape relatives (chimpanzees) generally do not [^2]. This suite of capabilities – from empathy and communication to strategic alliance formation – constitutes the social cognition that underpins language, teaching, and cooperation. In short, being "human" is largely about being socially smart.
 
 Importantly, these social skills did not arise in a vacuum; they were favored by natural selection because they conferred survival and reproductive advantages. Early humans that could cooperate in hunting and gathering, resolve conflicts peaceably, or support each other in times of need would outcompete more solitary or aggressive groups [^3]. Paleoanthropological evidence suggests that as our lineage evolved, individuals with greater social adeptness had higher fitness.
@@ -270,6 +276,3 @@ Sources: Evidence and claims in this report are supported by research in evoluti
 13. McComb, K., Moss, C., Durant, S. M., Baker, L., & Sayialel, S. (2001). Matriarchs as Repositories of Social Knowledge in African Elephants. *Science*, 292(5516), 491-494. [https://doi.org/10.1126/science.1057895](https://doi.org/10.1126/science.1057895)
 14. Brent, L. J. N., Franks, D. W., Foster, E. A., Balcomb, K. C., Cant, M. A., & Croft, D. P. (2019). Postreproductive Killer Whale Grandmothers Improve the Survival of Their Grandoffspring. *Proceedings of the National Academy of Sciences*, 116(27), 13545-13550. [https://www.pnas.org/doi/10.1073/pnas.1903844116](https://www.pnas.org/doi/10.1073/pnas.1903844116)
 
----
-
-*Note: The footnote markers `[^N]` in the text above are placeholders. The full bibliography with corresponding links can be found at: [https://chatgpt.com/share/68055003-1674-8008-92a0-85bbddae351a](https://chatgpt.com/share/68055003-1674-8008-92a0-85bbddae351a)*
