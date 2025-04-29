@@ -47,7 +47,7 @@ Chronos-Herakles provides a **metaphysical frame** ("why there is time at all");
 * Zeus takes serpent form to sire Zagreus; Dionysus plays with snake toys; Herakles wears the Hydra's venom and wrestles Ladon in the apple-garden.* [oai_citation_attribution:1‡Penelope](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
 
 ### 2.2 Katabasis Templates
-* **Labour XII:** Herakles drags **Cerberus** from Hades → dramatizes safe passage for souls. Dionysian initiates rehearse the same descent in Bacchic frenzy and quote tablet lines: "**I have flown out of the sorrowful circle of heavy grief…**" [oai_citation_attribution:2‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html?utm_source=chatgpt.com) [oai_citation_attribution:3‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/)
+* **Labour XII:** Herakles drags **Cerberus** from Hades → dramatizes safe passage for souls. Dionysian initiates rehearse the same descent in Bacchic frenzy and quote tablet lines: "**I have flown out of the sorrowful circle of heavy grief…**" [oai_citation_attribution:2‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html) [oai_citation_attribution:3‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/)
 
 ### 2.3 Wine, Madness, Purity
 Diodorus even splices their myths: a **four-generation-old jar of Dionysus** is opened for Herakles, triggering the Centaur battle and sanctifying wine as heroic as well as ecstatic. [oai_citation_attribution:4‡Penelope](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
@@ -62,7 +62,7 @@ Diodorus even splices their myths: a **four-generation-old jar of Dionysus** is 
 | **Orphic-Bacchic thiasoi** | Invoke "strong Herakles" for protection | Katabatic formulas address the initiate as *Bakchos* | Post-mortem roadmap |
 | **Mithraic leonto-cephaline Aion** | Lion-serpent = Herakles-Time | Wine-libation bowls in mithraea | Zodiacal release |
 
-Stoic allegorists tightened the knot: **Herakles' Twelve Labours = twelve cosmic cycles**, while **Dionysian enthousiasmos** liquidates karmic residue each round. [oai_citation_attribution:5‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html?utm_source=chatgpt.com)
+Stoic allegorists tightened the knot: **Herakles' Twelve Labours = twelve cosmic cycles**, while **Dionysian enthousiasmos** liquidates karmic residue each round. [oai_citation_attribution:5‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html)
 
 ---
 
@@ -71,7 +71,7 @@ Stoic allegorists tightened the knot: **Herakles' Twelve Labours = twelve cosmic
 | Epoch | Evidence of fusion |
 |-------|-------------------|
 | Early Hellenistic | Gold lamellae instruct the dead to claim **"I am child of Zeus and Persephone — I am Bacchos!"** but call their guardian **Herakles** in variant tablets. [oai_citation_attribution:6‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/) |
-| Roman Imperial | Nonnus' *Dionysiaca* ranks Dionysus above **Heracles, Perseus, Minos** (Bk 25) yet frames his campaign as a *Heraclean* conquest. [oai_citation_attribution:7‡Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca?utm_source=chatgpt.com) |
+| Roman Imperial | Nonnus' *Dionysiaca* ranks Dionysus above **Heracles, Perseus, Minos** (Bk 25) yet frames his campaign as a *Heraclean* conquest. [oai_citation_attribution:7‡Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca) |
 | Late Antique | Proclus calls Phanes "**Herakles**,", while his pupil Damascius links that name to the serpent-Chronos — all while teaching the Dionysian salvation arc. |
 
 ---
@@ -101,6 +101,6 @@ Stoic allegorists tightened the knot: **Herakles' Twelve Labours = twelve cosmic
 2. Orphic gold tablets, ed. Graf–Johnston(2007). [oai_citation_attribution:8‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/)
 3. Diodorus Siculus *Bibl.* 4.34-38 (jar of Dionysus/Herakles). [oai_citation_attribution:9‡Penelope](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
 4. Cornutus *Theologia Graeca* 25-26 (Stoic labours).
-5. Nonnus *Dionysiaca* 24-25. [oai_citation_attribution:10‡Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca?utm_source=chatgpt.com)
+5. Nonnus *Dionysiaca* 24-25. [oai_citation_attribution:10‡Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca)
 6. Proclus *In Cratylum* 36; Damascius *In Philebum* fr. 125.
-7. "Mythic Underworld: Cerberus & Mysteries," InitiativeOne blog (2017). [oai_citation_attribution:11‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html?utm_source=chatgpt.com)
+7. "Mythic Underworld: Cerberus & Mysteries," InitiativeOne blog (2017). [oai_citation_attribution:11‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html)

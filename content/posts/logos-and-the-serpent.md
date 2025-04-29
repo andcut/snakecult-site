@@ -68,10 +68,10 @@ Gnostic authors weaponise the new hermeneutic freedom.  Two quotes suffice:
 
 > “**The Instructor was hidden within the serpent.**  
 >  He said to them, *‘You shall not truly die; for he knows that when you eat, your minds will become sober and you will be like the gods.’*”  
-> —*Hypostasis of the Archons* 9 [oai_citation:0‡Wikipedia](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons?utm_source=chatgpt.com)
+> —*Hypostasis of the Archons* 9 [oai_citation:0‡Wikipedia](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons)
 
 > “I caused them to eat... the serpent merely served my purpose.”  
-> —*Apocryphon of John* (long recension) [oai_citation:1‡Wikipedia](https://en.wikipedia.org/wiki/Apocryphon_of_John?utm_source=chatgpt.com)
+> —*Apocryphon of John* (long recension) [oai_citation:1‡Wikipedia](https://en.wikipedia.org/wiki/Apocryphon_of_John)
 
 Here the serpent is **Christ-before-Christ**, the liberator who nullifies the demiurge’s gag order.  Knowledge is salvation; ignorance the true sin.  Orthodoxy anathemised the idea, but the texts survive as proof that early readers saw Eden as inception, not corruption.
 
@@ -85,10 +85,10 @@ Myths of self-sacrifice mirror initiation technologies that *manufacture* metaco
 | **Egyptian:** Osiris dismembered then reassembled | Body parts “hung” on trees (Pyramid Texts) | Teach agriculture/afterlife |
 | **Mesopotamian:** Tammuz hung in Underworld | Seasonal | Guarantee crop renewal |
 | **Sumerian:** Inanna on “meat hook” of Ereshkigal | Three days | Gain underworld power |
-| **Plains Sun Dance (Lakota, Mandan)** | Chest-piercing hooks tethered to central pole—world-tree (Britannica) [oai_citation:2‡Encyclopedia Britannica](https://www.britannica.com/topic/Sun-Dance?utm_source=chatgpt.com) | Vision, communal renewal |
-| **Okipa (Mandan)** | Suspension by shoulder-skin; boys hang until skin tears (Catlin sketch) [oai_citation:3‡Wikipedia](https://en.wikipedia.org/wiki/Suspension_%28body_modification%29?utm_source=chatgpt.com) [oai_citation:4‡VICE](https://www.vice.com/en/article/meet-the-people-who-ritualistically-suspend-bodies-from-hooks/?utm_source=chatgpt.com) | Manhood initiation |
-| **Thaipusam (Tamil Hindu)** | *Vel kavadi*—hooks in back, sometimes full body lift (SCMP) [oai_citation:5‡South China Morning Post](https://www.scmp.com/lifestyle/travel-leisure/article/3048074/no-pain-how-extreme-body-piercing-thaipusam-hindu-festival?utm_source=chatgpt.com) | Penance to Murugan |
-| **Charak Puja (Bengal)** | Devotee hung from bamboo by back hooks (Wikipedia) [oai_citation:6‡Wikipedia](https://en.wikipedia.org/wiki/Suspension_%28body_modification%29?utm_source=chatgpt.com) | Shiva devotion |
+| **Plains Sun Dance (Lakota, Mandan)** | Chest-piercing hooks tethered to central pole—world-tree (Britannica) [oai_citation:2‡Encyclopedia Britannica](https://www.britannica.com/topic/Sun-Dance) | Vision, communal renewal |
+| **Okipa (Mandan)** | Suspension by shoulder-skin; boys hang until skin tears (Catlin sketch) [oai_citation:3‡Wikipedia](https://en.wikipedia.org/wiki/Suspension_%28body_modification%29) [oai_citation:4‡VICE](https://www.vice.com/en/article/meet-the-people-who-ritualistically-suspend-bodies-from-hooks/) | Manhood initiation |
+| **Thaipusam (Tamil Hindu)** | *Vel kavadi*—hooks in back, sometimes full body lift (SCMP) [oai_citation:5‡South China Morning Post](https://www.scmp.com/lifestyle/travel-leisure/article/3048074/no-pain-how-extreme-body-piercing-thaipusam-hindu-festival) | Penance to Murugan |
+| **Charak Puja (Bengal)** | Devotee hung from bamboo by back hooks (Wikipedia) [oai_citation:6‡Wikipedia](https://en.wikipedia.org/wiki/Suspension_%28body_modification%29) | Shiva devotion |
 
 Despite cultural distance, the structure is invariant: **voluntary wounding + suspension + revelation**.  Modern neuro-imaging of extreme-ritual practitioners shows transient disintegration of the default-mode network—precisely the circuit implicated in self-referential thought.  Ritual pain simulates ego death, replaying humanity’s first, terrifying step into reflexivity.
 
@@ -127,11 +127,11 @@ Myth is therefore **cognitive stratigraphy**: each layer archives a deeper recur
 1. Schmandt-Besserat, D. (1996). *How Writing Came About*. University of Texas Press.  
 2. Tomasello, M. (1999). *The Cultural Origins of Human Cognition*. Harvard UP.  
 3. Henrich, J. (2015). *The Secret of Our Success*. Princeton UP.  
-4. *Hypostasis of the Archons* (NHC II, 4), trans. Layton. Summary & quote line at MDPI (2024) [oai_citation:7‡Wikipedia](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons?utm_source=chatgpt.com) [oai_citation:8‡MDPI](https://www.mdpi.com/2077-1444/15/7/760?utm_source=chatgpt.com)  
-5. *Apocryphon of John*, long recension summary (Wikipedia) [oai_citation:9‡Wikipedia](https://en.wikipedia.org/wiki/Apocryphon_of_John?utm_source=chatgpt.com)  
-6. Catlin, G. (1832). “The Cutting Scene, Mandan O-kee-pa.” Illustration of chest-hook suspension [oai_citation:10‡Wikipedia](https://en.wikipedia.org/wiki/Suspension_%28body_modification%29?utm_source=chatgpt.com).  
-7. Encyclopaedia Britannica. “Sun Dance.” [oai_citation:11‡Encyclopedia Britannica](https://www.britannica.com/topic/Sun-Dance?utm_source=chatgpt.com)  
-8. South China Morning Post (2020). “No pain? Extreme body piercing at Thaipusam.” [oai_citation:12‡South China Morning Post](https://www.scmp.com/lifestyle/travel-leisure/article/3048074/no-pain-how-extreme-body-piercing-thaipusam-hindu-festival?utm_source=chatgpt.com)  
+4. *Hypostasis of the Archons* (NHC II, 4), trans. Layton. Summary & quote line at MDPI (2024) [oai_citation:7‡Wikipedia](https://en.wikipedia.org/wiki/Hypostasis_of_the_Archons) [oai_citation:8‡MDPI](https://www.mdpi.com/2077-1444/15/7/760)  
+5. *Apocryphon of John*, long recension summary (Wikipedia) [oai_citation:9‡Wikipedia](https://en.wikipedia.org/wiki/Apocryphon_of_John)  
+6. Catlin, G. (1832). “The Cutting Scene, Mandan O-kee-pa.” Illustration of chest-hook suspension [oai_citation:10‡Wikipedia](https://en.wikipedia.org/wiki/Suspension_%28body_modification%29).  
+7. Encyclopaedia Britannica. “Sun Dance.” [oai_citation:11‡Encyclopedia Britannica](https://www.britannica.com/topic/Sun-Dance)  
+8. South China Morning Post (2020). “No pain? Extreme body piercing at Thaipusam.” [oai_citation:12‡South China Morning Post](https://www.scmp.com/lifestyle/travel-leisure/article/3048074/no-pain-how-extreme-body-piercing-thaipusam-hindu-festival)  
 9. Eliade, M. (1958). *Rites and Symbols of Initiation*. Harper.  
 10. Heraclitus fragments (DK B1, B50) in Kahn, C. (1979). *Art and Thought of Heraclitus*.  
 11. *Tao Te Ching* (Mawangdui B), trans. Henricks (1989).  

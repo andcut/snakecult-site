@@ -34,9 +34,9 @@ quality: 9          # ★ 1‒10 subjective “how good is this?”; 6 = unrated
 
 ## 1 Quotes & the Blank-Slate Catechism
 
-> "There's been **no biological change in humans in 40,000 or 50,000 years**. Everything we call culture and civilization we've built with the same body and brain." — *Stephen Jay Gould*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/?utm_source=chatgpt.com)
+> "There's been **no biological change in humans in 40,000 or 50,000 years**. Everything we call culture and civilization we've built with the same body and brain." — *Stephen Jay Gould*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
 
-> "Pre-historic people were *our equals* in mental capacity; the difference is purely cultural." — *David Deutsch*, Within Reason podcast, 2025  [oai_citation_attribution:1‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs&utm_source=chatgpt.com)
+> "Pre-historic people were *our equals* in mental capacity; the difference is purely cultural." — *David Deutsch*, Within Reason podcast, 2025  [oai_citation_attribution:1‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
 
 Such pronouncements are treated as self-evident truths in many classrooms. Below I treat them as falsifiable hypotheses and run the numbers.
 
@@ -75,9 +75,9 @@ Magnitude ≈ 1 in the *relaxed* selection regime of the late 20th C. Claiming S
 
 Large aDNA datasets (~7 000 genomes) let us track polygenic scores (PGS) for hundreds of traits. Findings most relevant here:
 
-* **Cognitive PGS rose ~0.5 SD since 10 ka**—≈ +35 IQ if linear scaling holds. [oai_citation_attribution:2‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D?utm_source=chatgpt.com) 
+* **Cognitive PGS rose ~0.5 SD since 10 ka**—≈ +35 IQ if linear scaling holds. [oai_citation_attribution:2‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D) 
 * Half of the **twelve strongest Holocene sweeps** involve cognition-linked traits (educational attainment, intracranial volume, etc.). 
-* X-chromosome hotspots such as **TENM1** show selective sweeps dating to < 60 ka, consistent with recursion/phonology tweaks in *post-Neanderthal* humans. [oai_citation_attribution:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/?utm_source=chatgpt.com) 
+* X-chromosome hotspots such as **TENM1** show selective sweeps dating to < 60 ka, consistent with recursion/phonology tweaks in *post-Neanderthal* humans. [oai_citation_attribution:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/) 
 
 Plugging **S ≈ 0.2** into the Breeder's Equation reproduces the +35 IQ trajectory neatly.
 
@@ -115,15 +115,15 @@ As Darwin delayed *Descent of Man* for fear of outrage, today's scholars tip-toe
 
 [^1]: Estimates of h² for psychometric g range 0.5–0.8 in adulthood (see Polderman et al., *Nat. Genet.* 2015). 
 [^2]: Lynn R. *Dysgenics* (1996) synthesised >25 fertility-IQ datasets; mean r ≈ –0.2 ⇒ S ≈ -0.8 IQ. 
-[^3]: Hugh-Jones D. & Kohler H-P. "Natural Selection across Three Generations of Americans". 2024 pre-print. [oai_citation_attribution:4‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf?utm_source=chatgpt.com) 
-[^4]: Turkheimer E. "Three Laws of Behaviour Genetics". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [oai_citation_attribution:5‡SAGE Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084?utm_source=chatgpt.com) 
+[^3]: Hugh-Jones D. & Kohler H-P. "Natural Selection across Three Generations of Americans". 2024 pre-print. [oai_citation_attribution:4‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf) 
+[^4]: Turkheimer E. "Three Laws of Behaviour Genetics". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [oai_citation_attribution:5‡SAGE Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084) 
 
 ---
 
 ## Sources
 
-1. S.J. Gould quote in *Has Human Evolution Stopped?* [oai_citation_attribution:6‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/?utm_source=chatgpt.com) 
-2. D. Deutsch & A. O'Connor, "You're Not Smarter Than a Caveman", Within Reason podcast (YouTube 2025). [oai_citation_attribution:7‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs&utm_source=chatgpt.com) 
-3. Hugh-Jones D. et al., 2024 selection scan – see footnote 3. [oai_citation_attribution:8‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf?utm_source=chatgpt.com) 
-4. Skov L. et al., "Extraordinary selection on the human X chromosome…", *Cell* 2023. [oai_citation_attribution:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/?utm_source=chatgpt.com) 
-5. Piffer D. "Evolutionary Trends of Polygenic Scores in European Populations…", *Twin Res.* 2023. [oai_citation_attribution:10‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D?utm_source=chatgpt.com) 
+1. S.J. Gould quote in *Has Human Evolution Stopped?* [oai_citation_attribution:6‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/) 
+2. D. Deutsch & A. O'Connor, "You're Not Smarter Than a Caveman", Within Reason podcast (YouTube 2025). [oai_citation_attribution:7‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs) 
+3. Hugh-Jones D. et al., 2024 selection scan – see footnote 3. [oai_citation_attribution:8‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf) 
+4. Skov L. et al., "Extraordinary selection on the human X chromosome…", *Cell* 2023. [oai_citation_attribution:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/) 
+5. Piffer D. "Evolutionary Trends of Polygenic Scores in European Populations…", *Twin Res.* 2023. [oai_citation_attribution:10‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D) 
