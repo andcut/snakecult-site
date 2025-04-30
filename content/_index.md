@@ -1,6 +1,6 @@
 ---
-title: "Deep Cuts from the Primordial Snake Cult"
-description: "Evidence-driven deep dives on mind, myth & molecular evolution. Unpacking the Eve Theory of Consciousness."
+title: "Eve Theory of Consciousness | Research"
+description: "Evidence-driven deep dives on mind, myth & gene-culture co-evolution. Deep cuts from the primordial snake cult."
 keywords: ["Eve Theory","consciousness","human origins","gene–culture co-evolution","psychometrics"]
 type: "website"
 draft: false
