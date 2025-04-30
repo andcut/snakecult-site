@@ -20,7 +20,7 @@
       <article class="retro-panel post on-list">
         {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
         {{ partial "heading-with-symbols.html" (dict 
-            "level" 2 
+            "level" 3 
             "anchor" (.Title | urlize) 
             "text" $titleContent 
             "page" . 

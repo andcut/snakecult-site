@@ -1,5 +1,7 @@
+{{ define "title" }}{{ .Title }} - Research Articles | {{ .Site.Title }}{{ end }}
+
 {{ define "main" }}
-  <h1>Posts for: #{{ .Title }}</h1>
+  <h1>{{ .Title }} - Research Articles</h1>
   {{ with .Content }}
     <div class="index-content">
       {{ . }}
@@ -9,7 +11,7 @@
     {{ range .Paginator.Pages }}
       <article class="post on-list">
         {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
-        {{ partial "heading-with-symbols.html" (dict "level" 1 "anchor" (.Title | urlize) "text" $titleContent "page" .) }}
+        {{ partial "heading-with-symbols.html" (dict "level" 2 "anchor" (.Title | urlize) "text" $titleContent "page" .) }}
 
         <div class="post-meta">
           {{- if .Date -}}
