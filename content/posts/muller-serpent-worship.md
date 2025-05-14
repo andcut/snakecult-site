@@ -17,11 +17,11 @@ about: # high-level topics
  - Anthropology
  - Mythology
 tags: # reader-facing
-  - "Max M\u00fcller"
-  - Ritual
-  - "Serpent Worship"
-  - Symbolism
-  - mythology
+ - "Max M\u00fcller"
+ - Ritual
+ - "Serpent Worship"
+ - Symbolism
+ - mythology
 core_entity: "Nāga"
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -42,7 +42,7 @@ quality: 5
 
 ## Max Müller's Philological Take on Nāga and Sarpa Worship
 
-Friedrich Max Müller, the 19th-century philologist and mythologist, approached serpent worship through the lens of language and comparative mythology. In his view, many ancient "serpents" in Indo-European lore were originally symbolic, not literal snakes. For example, Müller observed that the Rigvedic **ahi** (“serpent”) Vṛtra – the dragon slain by Indra – represents the choking darkness or storm-cloud that holds back the life-giving waters.[^1] He stressed that such **serpents in Vedic hymns "cannot be taken as real serpents; they can only be meant for the dangerous brood of the dark night or the black clouds"**.[^2] In other words, the Sanskrit terms *nāga* (serpent being) or *sarpa* (snake) often referred to cosmic or meteorological forces in early poetry, rather than mere reptiles. Müller's philological analysis thus cast serpent myths as **nature-symbols** – a poetic way to describe the encroaching night, drought, or storm that the solar gods had to overcome.
+Friedrich Max Müller, the 19th-century philologist and mythologist, approached serpent worship through the lens of language and comparative mythology. In his view, many ancient "serpents" in Indo-European lore were originally symbolic, not literal snakes. For example, Müller observed that the Rigvedic **ahi** ("serpent") Vṛtra – the dragon slain by Indra – represents the choking darkness or storm-cloud that holds back the life-giving waters.[^1] He stressed that such **serpents in Vedic hymns "cannot be taken as real serpents; they can only be meant for the dangerous brood of the dark night or the black clouds"**.[^2] In other words, the Sanskrit terms *nāga* (serpent being) or *sarpa* (snake) often referred to cosmic or meteorological forces in early poetry, rather than mere reptiles. Müller's philological analysis thus cast serpent myths as **nature-symbols** – a poetic way to describe the encroaching night, drought, or storm that the solar gods had to overcome.
 
 Müller extended this reasoning across Indo-European traditions. He noted the recurring myth of a hero or thunder-god versus a serpent/dragon (Indra vs. Vṛtra in the Veda, Apollo vs. Python at Delphi, Thor vs. Jörmungandr in Norse myth, etc.) and saw a common origin in ancient metaphors for natural phenomena.[^3] The serpent, in Müller's interpretation, was typically the **"enemy of light"**, a demon of chaos or darkness to be trodden underfoot by the victorious sun or storm deity.[^4] This philological perspective aligns with Müller's broader theory that many myths arose from decayed language – poetic descriptions of sunrises, storms, or nights which later generations took literally. Thus, he viewed early serpent legends as **allegories**: the coiling dragon was not a zoological snake but a linguistic metaphor for darkness, later misunderstood as a literal monster.
 

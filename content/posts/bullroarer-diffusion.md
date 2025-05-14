@@ -18,16 +18,16 @@ about:
  - Cultural History
  - Archaeology
 tags: 
-  - Bullroarer
-  - Diffusionism
-  - Prehistory
-  - mythology
-  - ritual
+ - Bullroarer
+ - Diffusionism
+ - Prehistory
+ - mythology
+ - ritual
 core_entity: "Bullroarer"
 author: "Andrew Cutler" # Assuming based on archetype
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
-quality: 9          # ★ 1‒10 subjective “how good is this?”; 6 = unrated/OK
+quality: 9 # ★ 1‒10 subjective "how good is this?"; 6 = unrated/OK
 ---
 
 ## Introduction
@@ -101,7 +101,7 @@ In light of all this, the diffusion hypothesis not only seems more economical bu
 
 To sum up, when weighing independent invention vs. diffusion for the bullroarer, the diffusionist case is compelling: it accounts for the highly specific cross-cultural commonalities by one cause (inheritance), whereas independent invention has to postulate a host of unlikely parallel accidents. Diffusion also coheres with what we know of human prehistory – that humans migrated widely and took their cultural practices with them. There is nothing implausible about a ritual idea traveling as far as the people who practice it. By contrast, expecting the same complex idea to sprout spontaneously in unconnected populations – multiple times – is, as Kroeber put it, akin to invoking "spontaneous generation" in biology [^155]. Kroeber argued it is far more fruitful to work with a "working hypothesis of connection" that can be tested and refined, rather than assume independent origin which "generally amounts to falling back on a principle so vague that it checks further inquiry." [^156] In the study of the bullroarer, assuming connection encouraged scholars to look for actual migratory paths, shared linguistic terms, and deeper mythological ties – which they found. Assuming independent origin, in contrast, often led to no further questions (just "it happened by itself everywhere") and thus a stagnation of research on origins.
 
-In the next section, we explore why, given the strong evidence and once-serious acceptance of diffusion in this case, the topic fell out of favor. Understanding the ideological and institutional resistance to diffusionist thinking will shed light on broader trends in anthropology and how certain interpretations become marginalized. This will help explain why the bullroarer's significance is not widely known today, even though early anthropologists considered it "the most compelling case for a connection among the ancients worldwide." ￼ ￼.
+In the next section, we explore why, given the strong evidence and once-serious acceptance of diffusion in this case, the topic fell out of favor. Understanding the ideological and institutional resistance to diffusionist thinking will shed light on broader trends in anthropology and how certain interpretations become marginalized. This will help explain why the bullroarer's significance is not widely known today, even though early anthropologists considered it "the most compelling case for a connection among the ancients worldwide.".
 
 ## The Diffusionist View Marginalized: Ideological and Institutional Resistance
 

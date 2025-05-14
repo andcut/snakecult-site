@@ -59,6 +59,19 @@ def thaw_urls(text:str, urls:list):
         text = text.replace(f"__URL{i}__", url)
     return text
 
+def remove_utm_params(url:str)->str:
+    """Remove UTM parameters from URLs."""
+    # Split URL into base and query parts
+    if '?' not in url:
+        return url
+    base, query = url.split('?', 1)
+    # Remove UTM parameters from query string
+    params = [p for p in query.split('&') if not p.startswith('utm_')]
+    # Reconstruct URL
+    if params:
+        return f"{base}?{'&'.join(params)}"
+    return base
+
 # Core cleaning functions
 def scrub(text:str)->str:
     # Debug: Print code points of characters in the first 100 chars
@@ -151,6 +164,9 @@ def main():
     text = fix_space_before_period(text)
     # text = dehyphenate(text) # Commented out - too aggressive
     text = randomize_spacing(text)
+
+    # Clean URLs
+    urls = [remove_utm_params(url) for url in urls]
 
     # Restore frozen content
     text = thaw_urls(text, urls)

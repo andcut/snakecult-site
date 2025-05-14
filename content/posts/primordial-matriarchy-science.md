@@ -20,10 +20,10 @@ about:
  - Gender Studies
  - Mythology
 tags:
-  - "Feminist Theory"
-  - "Matriarchy Debate"
-  - evolution
-  - "human origins"
+ - "Feminist Theory"
+ - "Matriarchy Debate"
+ - evolution
+ - "human origins"
 author: "Andrew Cutler" # Assuming author based on previous edits, adjust if needed.
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
@@ -145,40 +145,40 @@ What emerges from this history is a richer appreciation of women's role in human
 
 ## Sources <!-- deduplicated, hyperlinked -->
 
-1. [Wawilak Sisters (Dreamtime) – Yolngu creation myth](https://en.wikipedia.org/wiki/Wawalag)  
-2. [Changing Woman – Navajo origin myth](https://www.britannica.com/topic/Changing-Woman)  
-3. [Amaterasu – Japanese sun goddess & imperial ancestress](https://www.britannica.com/topic/Amaterasu)  
+1. [Wawilak Sisters (Dreamtime) – Yolngu creation myth](https://en.wikipedia.org/wiki/Wawalag) 
+2. [Changing Woman – Navajo origin myth](https://www.britannica.com/topic/Changing-Woman) 
+3. [Amaterasu – Japanese sun goddess & imperial ancestress](https://www.britannica.com/topic/Amaterasu) 
 
 ### Classic "matriarchy debate"
 
-4. [Johann Jakob Bachofen, *Das Mutterrecht* (1861)](https://archive.org/details/Bachofen-Johann-Mutterrecht)  
-5. [Encyclopedia overview of Bachofen & later reception](https://www.britannica.com/biography/Johann-Jakob-Bachofen)  
-6. [Lewis Henry Morgan, *Ancient Society* (1877)](https://ia801502.us.archive.org/8/items/in.ernet.dli.2015.174214/2015.174214.Ancient-Society.pdf)  
-7. [Friedrich Engels, *The Origin of the Family, Private Property and the State* (1884)](https://www.marxists.org/archive/marx/works/1884/origin-family/)  
-8. [Sir Henry S. Maine, *Ancient Law* (1861)](https://www.gutenberg.org/files/22910/22910-h/22910-h.htm)  
-9. [John F. McLennan, *Studies in Ancient History* (1886)](https://ia601506.us.archive.org/28/items/in.ernet.dli.2015.45396/2015.45396.Studies-In-Ancient-History.pdf)  
-10. [Edvard Westermarck, *The History of Human Marriage* (1891)](https://www.gutenberg.org/files/59386/59386-h/59386-h.htm)  
-11. [Jane Ellen Harrison, *Prolegomena to the Study of Greek Religion* (1903)](https://archive.org/download/prolegomenatostu00harr/prolegomenatostu00harr.pdf)  
-12. [Jane Ellen Harrison, *Themis* (1912)](https://archive.org/details/themisstudyofthe00harruoft)  
-13. [Robert Briffault, *The Mothers* (1931)](https://electrodes-h-sinclair-502.com/wp-content/uploads/2008/12/the_mothers__matriarchal_theory_social_origins__robert_briffault_1931.pdf)  
-14. [Bronisław Malinowski, *Sex and Repression in Savage Society* (1927)](https://archive.org/details/sexandrepression033038mbp)  
-15. [Wilhelm Schmidt, *The Origin and Spread of the World Cultures* (1930)](https://archive.org/details/in.ernet.dli.2015.77086)  
-16. [A. R. Radcliffe-Brown, "The Mother's Brother in South Africa" (1924)](https://web-archive.southampton.ac.uk/cogprints.org/1885/1/mother-s-brother.htm)  
-17. [E. E. Evans-Pritchard, "Some Remarks on the Early History of Kingship" (1930)](https://doi.org/10.1017/S0001972000003928)  
-18. [Alfred Baeumler & Alfred Rosenberg – Nazi-era Bachofen reception (overview)](https://en.wikipedia.org/wiki/Alfred_Baeumler)  
-19. [Cynthia Eller, *The Myth of Matriarchal Prehistory* (2000)](https://archive.org/details/mythofmatriarcha0000elle)  
-20. [Marija Gimbutas, *The Goddesses and Gods of Old Europe* (1974)](https://archive.org/details/goddessesgodsofo00gimb)  
-21. [Elizabeth Gould Davis, *The First Sex* (1971)](https://archive.org/details/firstsex00davi)  
-22. [Merlin Stone, *When God Was a Woman* (1976)](https://archive.org/details/whengodwaswoman00ston)  
-23. [Peggy Reeves Sanday, *Female Power and Male Dominance* (1981)](https://archive.org/details/femalepowermaled00sand)  
-24. [Simone de Beauvoir, *The Second Sex* (1949) – critique of matriarchy myths](https://archive.org/details/secondsex0000beau)  
-25. [Joan Bamberger, "The Myth of Matriarchy: Why Men Rule in Primitive Society" (1974)](https://radicalanthropologygroup.org/wp-content/uploads/class_text_052.pdf)  
+4. [Johann Jakob Bachofen, *Das Mutterrecht* (1861)](https://archive.org/details/Bachofen-Johann-Mutterrecht) 
+5. [Encyclopedia overview of Bachofen & later reception](https://www.britannica.com/biography/Johann-Jakob-Bachofen) 
+6. [Lewis Henry Morgan, *Ancient Society* (1877)](https://ia801502.us.archive.org/8/items/in.ernet.dli.2015.174214/2015.174214.Ancient-Society.pdf) 
+7. [Friedrich Engels, *The Origin of the Family, Private Property and the State* (1884)](https://www.marxists.org/archive/marx/works/1884/origin-family/) 
+8. [Sir Henry S. Maine, *Ancient Law* (1861)](https://www.gutenberg.org/files/22910/22910-h/22910-h.htm) 
+9. [John F. McLennan, *Studies in Ancient History* (1886)](https://ia601506.us.archive.org/28/items/in.ernet.dli.2015.45396/2015.45396.Studies-In-Ancient-History.pdf) 
+10. [Edvard Westermarck, *The History of Human Marriage* (1891)](https://www.gutenberg.org/files/59386/59386-h/59386-h.htm) 
+11. [Jane Ellen Harrison, *Prolegomena to the Study of Greek Religion* (1903)](https://archive.org/download/prolegomenatostu00harr/prolegomenatostu00harr.pdf) 
+12. [Jane Ellen Harrison, *Themis* (1912)](https://archive.org/details/themisstudyofthe00harruoft) 
+13. [Robert Briffault, *The Mothers* (1931)](https://electrodes-h-sinclair-502.com/wp-content/uploads/2008/12/the_mothers__matriarchal_theory_social_origins__robert_briffault_1931.pdf) 
+14. [Bronisław Malinowski, *Sex and Repression in Savage Society* (1927)](https://archive.org/details/sexandrepression033038mbp) 
+15. [Wilhelm Schmidt, *The Origin and Spread of the World Cultures* (1930)](https://archive.org/details/in.ernet.dli.2015.77086) 
+16. [A. R. Radcliffe-Brown, "The Mother's Brother in South Africa" (1924)](https://web-archive.southampton.ac.uk/cogprints.org/1885/1/mother-s-brother.htm) 
+17. [E. E. Evans-Pritchard, "Some Remarks on the Early History of Kingship" (1930)](https://doi.org/10.1017/S0001972000003928) 
+18. [Alfred Baeumler & Alfred Rosenberg – Nazi-era Bachofen reception (overview)](https://en.wikipedia.org/wiki/Alfred_Baeumler) 
+19. [Cynthia Eller, *The Myth of Matriarchal Prehistory* (2000)](https://archive.org/details/mythofmatriarcha0000elle) 
+20. [Marija Gimbutas, *The Goddesses and Gods of Old Europe* (1974)](https://archive.org/details/goddessesgodsofo00gimb) 
+21. [Elizabeth Gould Davis, *The First Sex* (1971)](https://archive.org/details/firstsex00davi) 
+22. [Merlin Stone, *When God Was a Woman* (1976)](https://archive.org/details/whengodwaswoman00ston) 
+23. [Peggy Reeves Sanday, *Female Power and Male Dominance* (1981)](https://archive.org/details/femalepowermaled00sand) 
+24. [Simone de Beauvoir, *The Second Sex* (1949) – critique of matriarchy myths](https://archive.org/details/secondsex0000beau) 
+25. [Joan Bamberger, "The Myth of Matriarchy: Why Men Rule in Primitive Society" (1974)](https://radicalanthropologygroup.org/wp-content/uploads/class_text_052.pdf) 
 
 ### Primatology, childcare & language-evolution angles
 
-26. [Amy Parish, "Female Relationships in Bonobos (Pan paniscus)" (1996)](https://link.springer.com/article/10.1007/BF02733490)  
-27. [Kristen Hawkes et al., "Grandmothering, Menopause, and the Evolution of Human Life Histories" (1997) *PNAS*](https://www.pnas.org/doi/10.1073/pnas.95.3.1336)  
-28. [Sarah Blaffer Hrdy, *Mothers and Others* (2009)](https://faculty.sfcc.spokane.edu/InetShare/AutoWebs/SarahMa/Hrdy.pdf)  
-29. [Sverker Johansson, *The Dawn of Language* (2021)](https://www.booktopia.com.au/the-dawn-of-language-sverker-johansson/ebook/9781529411423.html)  
-30. [Dean Falk, "Prelinguistic Evolution in Early Hominins: Whence Motherese?" (2004)](https://www.sciencedirect.com/science/article/abs/pii/S027153090700047X)  
+26. [Amy Parish, "Female Relationships in Bonobos (Pan paniscus)" (1996)](https://link.springer.com/article/10.1007/BF02733490) 
+27. [Kristen Hawkes et al., "Grandmothering, Menopause, and the Evolution of Human Life Histories" (1997) *PNAS*](https://www.pnas.org/doi/10.1073/pnas.95.3.1336) 
+28. [Sarah Blaffer Hrdy, *Mothers and Others* (2009)](https://faculty.sfcc.spokane.edu/InetShare/AutoWebs/SarahMa/Hrdy.pdf) 
+29. [Sverker Johansson, *The Dawn of Language* (2021)](https://www.booktopia.com.au/the-dawn-of-language-sverker-johansson/ebook/9781529411423.html) 
+30. [Dean Falk, "Prelinguistic Evolution in Early Hominins: Whence Motherese?" (2004)](https://www.sciencedirect.com/science/article/abs/pii/S027153090700047X) 
 31. [Chris Knight, *Blood Relations: Menstruation and the Origins of Culture* (1991)](https://blackbooksdotpub.files.wordpress.com/2021/10/blood-relations-chris-knight.pdf)

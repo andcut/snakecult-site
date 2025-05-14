@@ -28,7 +28,7 @@ draft: true
 quality: 6
 ---
 
-**TL;DR**  <!-- ≤ 100 words, 3-7 bullets -->
+**TL;DR** <!-- ≤ 100 words, 3-7 bullets -->
 
 - The swastika is an ancient, global symbol found from Paleolithic Ukraine (~15k BCE) to Neolithic/Bronze Age Eurasia and later in the Americas (post ~200 BCE).
 - Explanations for its spread include: independent invention (simple geometric form, entoptic phenomena), diffusion (Indo-European migrations, broader Holocene networks), contested trans-oceanic contact, or astronomical origins (comets, star rotation).
@@ -183,11 +183,11 @@ In essence, the catastrophic origin theory is a fascinating cross-disciplinary i
 
 Having reviewed the major models, it is likely that **no single explanation** accounts for the swastika's entire global history. The evidence suggests a combination of factors:
 
-*   The basic swastika shape is simple and may have been **invented independently multiple times** as a natural development of geometric art (supported by its presence in early contexts like Mezine and in many unconnected societies).
-*   **Regional diffusion undoubtedly occurred** in the Old World: for instance, the symbol's proliferation from the Bronze Age onward in Eurasia likely involved cultural contact (trade, migration) among neighboring societies. Indo-European migrations probably carried and amplified the swastika's use across Europe and South Asia, even if they weren't the first to invent it.
-*   A possible **early diffusion "boost" in the Neolithic** (a less extreme version of hyperdiffusion) could have spread the motif from one or a few primary centers (e.g. Near East or Old Europe) to others along with agriculture and associated symbolism. The Near East's influence on Old Europe's Neolithic art or the Indus's influence on later Indian symbolism are plausible examples.
-*   In the Americas, the late appearance of swastikas remains intriguing. It may be that it was **independently conceived** as part of the development of complex iconography (coinciding with the rise of complex societies and weaving/pottery technology that favor such patterns). But we cannot rule out that it arrived via some contact (direct or indirect) from the Old World in the late prehistoric period – for instance, along with other possible introductions (there is ongoing debate about pre-Columbian trans-oceanic introductions of certain plants, motifs, etc.). Given the lack of concrete evidence, independent invention in the Americas (with perhaps a stimulus diffusion from seeing a similar pattern in nature or hearing mythic lore) is the default stance.
-*   **Mythological convergence** likely also played a role – humans everywhere conceptualized the cosmos with four directions and a center, the sun's diurnal motion, the seasonal cycle, etc. The swastika, as a revolving cross, is a perfect representation of these ideas (the axis mundi and rotating heavens). Thus, even without a comet, people might have symbolized the turning sky or sun's course with a swastika. This is a kind of independent invention driven by common cognition and cosmology rather than random chance.
+* The basic swastika shape is simple and may have been **invented independently multiple times** as a natural development of geometric art (supported by its presence in early contexts like Mezine and in many unconnected societies).
+* **Regional diffusion undoubtedly occurred** in the Old World: for instance, the symbol's proliferation from the Bronze Age onward in Eurasia likely involved cultural contact (trade, migration) among neighboring societies. Indo-European migrations probably carried and amplified the swastika's use across Europe and South Asia, even if they weren't the first to invent it.
+* A possible **early diffusion "boost" in the Neolithic** (a less extreme version of hyperdiffusion) could have spread the motif from one or a few primary centers (e.g. Near East or Old Europe) to others along with agriculture and associated symbolism. The Near East's influence on Old Europe's Neolithic art or the Indus's influence on later Indian symbolism are plausible examples.
+* In the Americas, the late appearance of swastikas remains intriguing. It may be that it was **independently conceived** as part of the development of complex iconography (coinciding with the rise of complex societies and weaving/pottery technology that favor such patterns). But we cannot rule out that it arrived via some contact (direct or indirect) from the Old World in the late prehistoric period – for instance, along with other possible introductions (there is ongoing debate about pre-Columbian trans-oceanic introductions of certain plants, motifs, etc.). Given the lack of concrete evidence, independent invention in the Americas (with perhaps a stimulus diffusion from seeing a similar pattern in nature or hearing mythic lore) is the default stance.
+* **Mythological convergence** likely also played a role – humans everywhere conceptualized the cosmos with four directions and a center, the sun's diurnal motion, the seasonal cycle, etc. The swastika, as a revolving cross, is a perfect representation of these ideas (the axis mundi and rotating heavens). Thus, even without a comet, people might have symbolized the turning sky or sun's course with a swastika. This is a kind of independent invention driven by common cognition and cosmology rather than random chance.
 
 In academic discourse, any hint of broad or trans-oceanic diffusion tends to get labeled as hyperdiffusionist and dismissed. Indeed, many earlier hyperdiffusion theories (like Elliot Smith's) have been discredited for over-simplifying cultural development. Yet, it is important not to let the term "hyperdiffusionist" become a slur that shuts down inquiry. There is a difference between asserting one source for all occurrences (hyperdiffusion) versus considering that some occurrences might be related via contact (legitimate diffusion). A balanced approach recognizes that parallel invention and diffusion are not mutually exclusive – they often intertwine. In the case of the swastika, it seems likely the symbol had multiple points of origin, and through time, some of those traditions interacted and merged. For example, a symbol that arose in Neolithic Old Europe might have been adopted by Indo-Europeans and carried further; a symbol that arose independently in the American Southwest might have spread across tribes via intertribal trade routes (there is evidence that the "whirling log" design diffused between the Pueblo and Navajo, for instance, as the Navajo likely adopted it from Pueblo ceremonial sandpainting in the 19th century).
 
@@ -251,15 +251,15 @@ As further discoveries are made (new sites, better dating, perhaps even ancient 
 
 ## Sources
 
-1.  Campbell, Joseph. *The Flight of the Wild Gander*, 1969 – discusses Mezine and Paleolithic symbols.
-2.  Schliemann, Heinrich. *Ilios*, 1880 – reports on swastikas found at Troy (over 1,800 instances).
-3.  Burnouf, Émile. *La Science des Religions*, 1885 – early Aryan interpretation of the swastika.
-4.  Wilson, Thomas. *The Swastika: The Earliest Known Symbol, and its Migrations*, Smithsonian Report, 1896.
-5.  Klyosov, Anatole & Mironova, Elena. "A DNA Genealogy Solution to the Puzzle of Ancient Look-Alike Ceramics across the World," *Advances in Anthropology* 3(3), 2013 – proposes R1a migration connecting swastika-using cultures.
-6.  Sagan, Carl & Druyan, Ann. *Comet*, 1985 – presents the comet swastika hypothesis with Chinese manuscript evidence.
-7.  Kobres, Bob. "Comets and the Bronze Age Collapse," 1992 – links swastika comet ("pheasant star") to mythological bird/comet traditions.
-8.  van der Sluijs, Marinus (ed.). *The Mythology of the World Axis*, 2011 – comparative study of axis mundi symbols including swastika.
-9.  *Mawangdui Silk Texts*, transl. 1979 – Ancient Chinese comet atlas depicting a swastika-shaped comet.
+1. Campbell, Joseph. *The Flight of the Wild Gander*, 1969 – discusses Mezine and Paleolithic symbols.
+2. Schliemann, Heinrich. *Ilios*, 1880 – reports on swastikas found at Troy (over 1,800 instances).
+3. Burnouf, Émile. *La Science des Religions*, 1885 – early Aryan interpretation of the swastika.
+4. Wilson, Thomas. *The Swastika: The Earliest Known Symbol, and its Migrations*, Smithsonian Report, 1896.
+5. Klyosov, Anatole & Mironova, Elena. "A DNA Genealogy Solution to the Puzzle of Ancient Look-Alike Ceramics across the World," *Advances in Anthropology* 3(3), 2013 – proposes R1a migration connecting swastika-using cultures.
+6. Sagan, Carl & Druyan, Ann. *Comet*, 1985 – presents the comet swastika hypothesis with Chinese manuscript evidence.
+7. Kobres, Bob. "Comets and the Bronze Age Collapse," 1992 – links swastika comet ("pheasant star") to mythological bird/comet traditions.
+8. van der Sluijs, Marinus (ed.). *The Mythology of the World Axis*, 2011 – comparative study of axis mundi symbols including swastika.
+9. *Mawangdui Silk Texts*, transl. 1979 – Ancient Chinese comet atlas depicting a swastika-shaped comet.
 10. Archaeologist.org blog, "The Mizyn Swastika of Ukraine: Earliest Known Appearance?" May 6, 2024 – summary of Mezine site and its swastika motif.
 11. Wikipedia contributors. "Swastika." Wikipedia, The Free Encyclopedia, latest revision 2025 – broad overview of swastika history and global use.
 12. Wikipedia contributors. "Mississippian copper plates." Wikipedia, latest rev. 2023 – details SECC motifs including possible swastika forms.

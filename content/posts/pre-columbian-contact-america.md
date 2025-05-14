@@ -121,13 +121,13 @@ In forums like Reddit's r/AskHistorians or specialized groups, knowledgeable ent
 
 ## FAQ
 
-**Q: What is the strongest evidence for pre-Columbian contact between the Americas and other continents?**  
+**Q: What is the strongest evidence for pre-Columbian contact between the Americas and other continents?** 
 **A:** The most compelling evidence comes from Polynesian contact with South America around 1200 AD, supported by sweet potato cultivation, chicken bones with Polynesian DNA, and genetic evidence of Native American ancestry in Polynesians.
 
-**Q: Why do scholars reject most claims of ancient trans-oceanic contact?**  
+**Q: Why do scholars reject most claims of ancient trans-oceanic contact?** 
 **A:** Claims typically lack multiple lines of evidence (archaeological, genetic, and historical) that would be expected from sustained contact, and many proposed artifacts have been shown to be hoaxes or misinterpretations.
 
-**Q: How do genetic studies help evaluate contact theories?**  
+**Q: How do genetic studies help evaluate contact theories?** 
 **A:** Modern genetic analysis can identify when and where populations mixed, with Native American DNA showing clear Beringian origins and no evidence of significant Old World admixture before 1492 (except for known Norse and Polynesian contacts).
 
 ---

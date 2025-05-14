@@ -164,15 +164,15 @@ The remarkable persistence of Nüwa and Fuxi in Chinese culture, from Neolithic 
 
 ## Sources
 
-1.  Chu Ci – "Heavenly Questions" (《天问》). c. 3rd c. BCE. (Attrib.) Qu Yuan. Available at: [https://ctext.org/chu-ci/tian-wen](https://ctext.org/chu-ci/tian-wen)
-2.  Shan Hai Jing (《山海经》, "Classic of Mountains and Seas"). 4th–1st c. BCE. Anonymous (compiled). Available at: [https://ctext.org/shan-hai-jing](https://ctext.org/shan-hai-jing)
-3.  Huainanzi (《淮南子》). 139 BCE. Liu An et al. Available at: [https://ctext.org/huainanzi](https://ctext.org/huainanzi)
-4.  Shuowen Jiezi (《说文解字》). c. 100 CE. Xu Shen. Available at: [https://ctext.org/shuo-wen-jie-zi](https://ctext.org/shuo-wen-jie-zi)
-5.  Taiping Yulan (《太平御览》). 984 CE. Li Fang (ed.). Available at: [https://ctext.org/taiping-yulan](https://ctext.org/taiping-yulan)
-6.  Lu Shi (《路史》). 11th c. Luo Mi. (1611 print available at: [https://digicoll.lib.berkeley.edu/record/73588](https://digicoll.lib.berkeley.edu/record/73588))
-7.  Genesis 2–3 (The Fall). 6th–5th c. BCE. The Holy Bible. Example NIV version: [https://www.biblegateway.com/passage/?search=Genesis+3&version=NIV](https://www.biblegateway.com/passage/?search=Genesis+3&version=NIV)
-8.  Theogony. c. 700 BCE. Hesiod. Available at: [https://www.gutenberg.org/ebooks/348](https://www.gutenberg.org/ebooks/348)
-9.  Popol Vuh. c. 1550 CE (transcribed). K'iche' Maya. English translation example: [https://sacred-texts.com/nam/pvuheng.htm](https://sacred-texts.com/nam/pvuheng.htm)
+1. Chu Ci – "Heavenly Questions" (《天问》). c. 3rd c. BCE. (Attrib.) Qu Yuan. Available at: [https://ctext.org/chu-ci/tian-wen](https://ctext.org/chu-ci/tian-wen)
+2. Shan Hai Jing (《山海经》, "Classic of Mountains and Seas"). 4th–1st c. BCE. Anonymous (compiled). Available at: [https://ctext.org/shan-hai-jing](https://ctext.org/shan-hai-jing)
+3. Huainanzi (《淮南子》). 139 BCE. Liu An et al. Available at: [https://ctext.org/huainanzi](https://ctext.org/huainanzi)
+4. Shuowen Jiezi (《说文解字》). c. 100 CE. Xu Shen. Available at: [https://ctext.org/shuo-wen-jie-zi](https://ctext.org/shuo-wen-jie-zi)
+5. Taiping Yulan (《太平御览》). 984 CE. Li Fang (ed.). Available at: [https://ctext.org/taiping-yulan](https://ctext.org/taiping-yulan)
+6. Lu Shi (《路史》). 11th c. Luo Mi. (1611 print available at: [https://digicoll.lib.berkeley.edu/record/73588](https://digicoll.lib.berkeley.edu/record/73588))
+7. Genesis 2–3 (The Fall). 6th–5th c. BCE. The Holy Bible. Example NIV version: [https://www.biblegateway.com/passage/?search=Genesis+3&version=NIV](https://www.biblegateway.com/passage/?search=Genesis+3&version=NIV)
+8. Theogony. c. 700 BCE. Hesiod. Available at: [https://www.gutenberg.org/ebooks/348](https://www.gutenberg.org/ebooks/348)
+9. Popol Vuh. c. 1550 CE (transcribed). K'iche' Maya. English translation example: [https://sacred-texts.com/nam/pvuheng.htm](https://sacred-texts.com/nam/pvuheng.htm)
 10. Han Dynasty Tomb Art (e.g., Mawangdui, Nanyang). c. 1st–2nd c. CE. Depicting Fuxi & Nüwa with compass/square and interlaced tails.
 11. Lai Guolong. "Iconographic Volatility in the Fuxi-Nüwa Triads of the Han Dynasty." *Archives of Asian Art* 71, no. 1 (2021): 63–93. [https://read.dukeupress.edu/archives-of-asian-art/article-standard/71/1/63/173731/Iconographic-Volatility-in-the-Fuxi-Nuwa-Triads-of](https://read.dukeupress.edu/archives-of-asian-art/article-standard/71/1/63/173731/Iconographic-Volatility-in-the-Fuxi-Nuwa-Triads-of)
 12. Silk painting "Fuxi & Nüwa" (Astana Cemetery, Turpan). 8th c. CE. Tang Dynasty. Image available at: [https://commons.wikimedia.org/wiki/File:Fuxi_and_N%C3%BCwa._1967_Astana_Cemetery.png](https://commons.wikimedia.org/wiki/File:Fuxi_and_N%C3%BCwa._1967_Astana_Cemetery.png)

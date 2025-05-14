@@ -24,12 +24,12 @@ license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
 ---
 
-**TL;DR**  
+**TL;DR** 
 
-- Cross-cultural myths of a serpent gifting forbidden knowledge point to a Late-Pleistocene cult led by women.  
-- Ritual venom, bullroarers, and spinning plaques suggest a psychedelic technology for inducing recursive self-awareness.  
-- The cult's symbols radiated from Ice-Age Eurasia into Australia and the Americas via migration and trade.  
-- Patriarchal religions later demonized the snake and subsumed its rites, but the core death-and-rebirth liturgy survived underground in mystery schools and folk magic.  
+- Cross-cultural myths of a serpent gifting forbidden knowledge point to a Late-Pleistocene cult led by women. 
+- Ritual venom, bullroarers, and spinning plaques suggest a psychedelic technology for inducing recursive self-awareness. 
+- The cult's symbols radiated from Ice-Age Eurasia into Australia and the Americas via migration and trade. 
+- Patriarchal religions later demonized the snake and subsumed its rites, but the core death-and-rebirth liturgy survived underground in mystery schools and folk magic. 
 - Gene–culture feedbacks following the cult's spread may explain Holocene selection on neurodevelopment and language genes.
 
 ---
@@ -107,32 +107,32 @@ So the next time you encounter a snake in myth or dream, consider that it might 
 
 ---
 
-## Sources Cited  
+## Sources Cited 
 
-1. 1870 ? Müller, F. Max. *"Serpent Worship."* In **Chips from a German Workshop, Vol. 2**. London: Longmans, Green. <https://archive.org/details/chipsfromagerma08mlgoog>  
+1. 1870 ? Müller, F. Max. *"Serpent Worship."* In **Chips from a German Workshop, Vol. 2**. London: Longmans, Green. <https://archive.org/details/chipsfromagerma08mlgoog> 
 
-2. 1898 Mathews, R. H. *"Bullroarers Used by the Australian Aborigines."* *The Journal of the Anthropological Institute* 27 (52-60). <https://scholar.archive.org/work/bxmf4osgznfffgfoo2cjaq5mcy/access/ia_file/crossref-pre-1909-scholarly-works/10.2307%252F2842721.zip/10.2307%252F2842848.pdf>  
+2. 1898 Mathews, R. H. *"Bullroarers Used by the Australian Aborigines."* *The Journal of the Anthropological Institute* 27 (52-60). <https://scholar.archive.org/work/bxmf4osgznfffgfoo2cjaq5mcy/access/ia_file/crossref-pre-1909-scholarly-works/10.2307%252F2842721.zip/10.2307%252F2842848.pdf> 
 
-3. 1964 Eliade, Mircea. *Shamanism: Archaic Techniques of Ecstasy*. Princeton: Princeton UP. <https://archive.org/details/shamanismarchaic0000elia>  
+3. 1964 Eliade, Mircea. *Shamanism: Archaic Techniques of Ecstasy*. Princeton: Princeton UP. <https://archive.org/details/shamanismarchaic0000elia> 
 
-4. 1967 Bachofen, Johann Jakob. *Myth, Religion, and Mother Right* (trans. R. Manheim). Princeton: Princeton UP. <https://archive.org/details/mythreligionmoth0000bach>  
+4. 1967 Bachofen, Johann Jakob. *Myth, Religion, and Mother Right* (trans. R. Manheim). Princeton: Princeton UP. <https://archive.org/details/mythreligionmoth0000bach> 
 
-5. 1976 Stone, Merlin. *When God Was a Woman*. New York: Dial Press. <https://archive.org/details/whengodwaswoman00stonrich>  
+5. 1976 Stone, Merlin. *When God Was a Woman*. New York: Dial Press. <https://archive.org/details/whengodwaswoman00stonrich> 
 
-6. 2004 Lurker, Manfred. *"Unumbotte."* In **The Routledge Dictionary of Gods and Goddesses, Devils and Demons**. London: Routledge. <https://archive.org/details/bane-theresa-encyclopedia-of-demons-in-world-religions-and-cultures/page/n41/mode/2up>  
+6. 2004 Lurker, Manfred. *"Unumbotte."* In **The Routledge Dictionary of Gods and Goddesses, Devils and Demons**. London: Routledge. <https://archive.org/details/bane-theresa-encyclopedia-of-demons-in-world-religions-and-cultures/page/n41/mode/2up> 
 
-7. 2006 Isbell, Lynne A. *"Snakes as Agents of Evolutionary Change in Primate Brains."* *Journal of Human Evolution* 51: 1-35. <https://laisbell.faculty.ucdavis.edu/wp-content/uploads/sites/741/2022/04/isbell_jhe_2006.pdf>  
+7. 2006 Isbell, Lynne A. *"Snakes as Agents of Evolutionary Change in Primate Brains."* *Journal of Human Evolution* 51: 1-35. <https://laisbell.faculty.ucdavis.edu/wp-content/uploads/sites/741/2022/04/isbell_jhe_2006.pdf> 
 
-8. 2012 Witzel, Michael. *The Origins of the World's Mythologies*. Oxford: Oxford UP. <https://archive.org/details/originsofworldsm0000witz>  
+8. 2012 Witzel, Michael. *The Origins of the World's Mythologies*. Oxford: Oxford UP. <https://archive.org/details/originsofworldsm0000witz> 
 
-9. 2012 Bowern, Claire & Quentin D. Atkinson. *"Computational Phylogenetics and the Internal Structure of Pama–Nyungan."* *Language* 88 (4): 817-845. <https://elischolar.library.yale.edu/ling_faculty/1>  
+9. 2012 Bowern, Claire & Quentin D. Atkinson. *"Computational Phylogenetics and the Internal Structure of Pama–Nyungan."* *Language* 88 (4): 817-845. <https://elischolar.library.yale.edu/ling_faculty/1> 
 
-10. 2016 Dietrich, Oliver & Jens Notroff. *"A Decorated Bone 'Spatula' from Göbekli Tepe: On the Pitfalls of Iconographic Interpretations of Early Neolithic Art."* *Neo-Lithics* 2/16: 22-31. <https://www.researchgate.net/publication/314299328_A_Decorated_Bone_%27Spatula%27_from_Gobekli_Tepe_On_the_Pitfalls_of_Iconographic_Interpretations_of_Early_Neolithic_Art>  
+10. 2016 Dietrich, Oliver & Jens Notroff. *"A Decorated Bone 'Spatula' from Göbekli Tepe: On the Pitfalls of Iconographic Interpretations of Early Neolithic Art."* *Neo-Lithics* 2/16: 22-31. <https://www.researchgate.net/publication/314299328_A_Decorated_Bone_%27Spatula%27_from_Gobekli_Tepe_On_the_Pitfalls_of_Iconographic_Interpretations_of_Early_Neolithic_Art> 
 
-11. 2017 van Strien, Jan W. & Lynne A. Isbell. *"Snake Scales, Partial Exposure, and the Snake Detection Theory: A Human ERP Study."* *Scientific Reports* 7: 46331. <https://www.nature.com/articles/srep46331>  
+11. 2017 van Strien, Jan W. & Lynne A. Isbell. *"Snake Scales, Partial Exposure, and the Snake Detection Theory: A Human ERP Study."* *Scientific Reports* 7: 46331. <https://www.nature.com/articles/srep46331> 
 
-12. 2017 Woodley of Menee, M. A. et al. *"Holocene Selection for Variants Associated with General Cognitive Ability: Comparing Ancient and Modern Genomes."* *Twin Research and Human Genetics* 20 (6): 485-495. <https://www.researchgate.net/publication/318571867_Holocene_Selection_for_Variants_Associated_With_General_Cognitive_Ability_Comparing_Ancient_and_Modern_Genomes>  
+12. 2017 Woodley of Menee, M. A. et al. *"Holocene Selection for Variants Associated with General Cognitive Ability: Comparing Ancient and Modern Genomes."* *Twin Research and Human Genetics* 20 (6): 485-495. <https://www.researchgate.net/publication/318571867_Holocene_Selection_for_Variants_Associated_With_General_Cognitive_Ability_Comparing_Ancient_and_Modern_Genomes> 
 
-13. 2023 Wikipedia contributors. *"Unumbotte."* *Wikipedia, The Free Encyclopedia*. <https://en.wikipedia.org/wiki/Unumbotte>  
+13. 2023 Wikipedia contributors. *"Unumbotte."* *Wikipedia, The Free Encyclopedia*. <https://en.wikipedia.org/wiki/Unumbotte> 
 
-14. 2023 Wikipedia contributors. *"Venus Figurines of Mal'ta."* *Wikipedia, The Free Encyclopedia*. <https://en.wikipedia.org/wiki/Venus_figurines_of_Mal%27ta>  
+14. 2023 Wikipedia contributors. *"Venus Figurines of Mal'ta."* *Wikipedia, The Free Encyclopedia*. <https://en.wikipedia.org/wiki/Venus_figurines_of_Mal%27ta> 

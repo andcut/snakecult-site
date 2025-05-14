@@ -1,0 +1,144 @@
+{{ define "main" }}
+  {{/* Hero Section */}}
+  <div class="retro-panel">
+    {{ .Content }}
+    <div class="snake-animation">
+      <style>
+        .snake-animation { /* Viewport */
+          overflow: hidden;
+          height: 2.5em;
+          position: relative;
+          margin-top: 1em;
+        }
+        .snake-track { /* Contains two snakes, scrolls left */
+          display: flex;
+          width: 200%; /* Holds two snakes, each 100% of viewport */
+          animation: slither-track 15s linear infinite;
+        }
+        .snake-body { /* A single snake instance */
+          width: 50%; /* Each snake takes half the track (100% of viewport) */
+          display: inline-block; /* Or flex: 1; if track is flex */
+          font-size: 1.5em;
+          font-family: monospace;
+          color: var(--retro-accent);
+          text-shadow: 0 0 5px var(--retro-accent);
+          white-space: nowrap;
+          letter-spacing: -0.05em;
+        }
+        .snake-segment {
+          display: inline-block;
+          animation: wiggle 2.2s ease-in-out infinite;
+          animation-delay: calc((15 - var(--segment-index)) * 0.12s); /* Wave starts at head */
+          transform-origin: bottom center;
+        }
+        @keyframes slither-track { /* Animates the track */
+          0% {
+            transform: translateX(-50%);
+          }
+          100% {
+            transform: translateX(0);
+          }
+        }
+        @keyframes wiggle {
+          0% {
+            transform: translateY(0) rotate(-4deg);
+          }
+          25% {
+            transform: translateY(-7px) rotate(0deg);
+          }
+          50% {
+            transform: translateY(0) rotate(4deg);
+          }
+          75% {
+            transform: translateY(-7px) rotate(0deg);
+          }
+          100% {
+            transform: translateY(0) rotate(-4deg);
+          }
+        }
+      </style>
+      <div class="snake-track">
+        <div class="snake-body">
+          <span class="snake-segment" style="--segment-index: 0;">~</span><span class="snake-segment" style="--segment-index: 1;">≈</span><span class="snake-segment" style="--segment-index: 2;">≈</span><span class="snake-segment" style="--segment-index: 3;">≈</span><span class="snake-segment" style="--segment-index: 4;">≈</span><span class="snake-segment" style="--segment-index: 5;">≈</span><span class="snake-segment" style="--segment-index: 6;">≈</span><span class="snake-segment" style="--segment-index: 7;">≈</span><span class="snake-segment" style="--segment-index: 8;">≈</span><span class="snake-segment" style="--segment-index: 9;">≈</span><span class="snake-segment" style="--segment-index: 10;">≈</span><span class="snake-segment" style="--segment-index: 11;">≈</span><span class="snake-segment" style="--segment-index: 12;">~</span><span class="snake-segment" style="--segment-index: 13;"><</span><span class="snake-segment" style="--segment-index: 14;">:</span><span class="snake-segment" style="--segment-index: 15;">></span>
+        </div>
+        <div class="snake-body"> <!-- Identical second snake -->
+          <span class="snake-segment" style="--segment-index: 0;">~</span><span class="snake-segment" style="--segment-index: 1;">≈</span><span class="snake-segment" style="--segment-index: 2;">≈</span><span class="snake-segment" style="--segment-index: 3;">≈</span><span class="snake-segment" style="--segment-index: 4;">≈</span><span class="snake-segment" style="--segment-index: 5;">≈</span><span class="snake-segment" style="--segment-index: 6;">≈</span><span class="snake-segment" style="--segment-index: 7;">≈</span><span class="snake-segment" style="--segment-index: 8;">≈</span><span class="snake-segment" style="--segment-index: 9;">≈</span><span class="snake-segment" style="--segment-index: 10;">≈</span><span class="snake-segment" style="--segment-index: 11;">≈</span><span class="snake-segment" style="--segment-index: 12;">~</span><span class="snake-segment" style="--segment-index: 13;"><</span><span class="snake-segment" style="--segment-index: 14;">:</span><span class="snake-segment" style="--segment-index: 15;">></span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {{/* Container for Article Previews */}}
+  <div class="posts-container">
+    {{/* Get all published posts in /posts/ */}}
+    {{ $posts := where (where site.RegularPages "Section" "posts") "Params.draft" "ne" true }}
+    {{/* Filter for quality >= 6 */}}
+    {{ $posts = where $posts "Params.quality" "ge" 6 }}
+    
+    {{/* Sort by last modified date */}}
+    {{ $sorted := sort $posts "Lastmod" "desc" }}
+
+    {{/* Recent Updates Header Row with Sort Toggle */}}
+    <div class="retro-panel" style="margin-bottom: 20px; padding-bottom: 15px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h2 style="margin: 0;">Recent Updates</h2>
+        <div style="font-size: 0.9em;">
+          Sort by:
+          <strong>Last Modified</strong> | <a href="/" style="text-decoration: underline; color: var(--retro-accent);">Quality</a>
+        </div>
+      </div>
+    </div>
+
+    {{ range $sorted }}
+      <article class="retro-panel post on-list">
+        {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
+        {{ partial "heading-with-symbols.html" (dict 
+            "level" 3 
+            "anchor" (.Title | urlize) 
+            "text" $titleContent 
+            "page" . 
+            "randomizeKey" "index_article_list" 
+          )}}
+
+        <div class="post-meta">
+          {{- if .Date -}}
+            <time class="post-date">
+              {{- partial "post-date" . -}}
+            </time>
+          {{- end -}}
+          {{- with .Params.author -}}
+            <span class="post-author">{{ . }}</span>
+          {{- end -}}
+        </div>
+
+        {{ if .Params.tags }}
+          <span class="post-tags">
+            {{ range .Params.tags }}
+            #<a href="{{ (urlize (printf "tags/%s/" . )) | relLangURL }}">
+              {{- . -}}
+            </a>&nbsp;
+            {{ end }}
+          </span>
+        {{ end }}
+
+        {{ partial "cover.html" . }}
+
+        <div class="post-content">
+          {{ if .Params.showFullContent }}
+            {{ .Content }}
+          {{ else if .Description }}
+            <p>{{ .Description | markdownify }}</p>
+          {{ else }}
+            {{ .Summary }}
+          {{ end }}
+        </div>
+
+        {{ if not .Params.showFullContent }}
+          <div>
+            <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore | default "Read More" }}]</a>
+          </div>
+        {{ end }}
+      </article>
+    {{ end }}
+  </div>
+{{ end }} 

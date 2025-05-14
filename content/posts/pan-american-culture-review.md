@@ -27,10 +27,10 @@ quality: 8
 
 **TL;DR**
 
-- *n-/m-* pronoun roots, polysynthesis, and inclusive/exclusive **we** hint at a Proto-Amerind tongue.  
-- **Couvade** births, ochre burials, and **bola** hunting stretch Alaska → Patagonia.  
-- Male-initiation cults use the **bullroarer** continent-wide; myths share flood + trickster + world-tree motifs.  
-- Fluted **Clovis** and **Fishtail** points form one late-Pleistocene techno-complex, with atlatl and ochre kit in tow.  
+- *n-/m-* pronoun roots, polysynthesis, and inclusive/exclusive **we** hint at a Proto-Amerind tongue. 
+- **Couvade** births, ochre burials, and **bola** hunting stretch Alaska → Patagonia. 
+- Male-initiation cults use the **bullroarer** continent-wide; myths share flood + trickster + world-tree motifs. 
+- Fluted **Clovis** and **Fishtail** points form one late-Pleistocene techno-complex, with atlatl and ochre kit in tow. 
 - Together the data imply a group of Amiercans (~13–15 kya) carried a single cultural package that later diversified.
 
 ---
@@ -93,16 +93,16 @@ Drawing on linguistic, cultural, religious, and archaeological evidence, many sc
 
 ## FAQ <!-- retains FAQPage schema support -->
 
-**Q 1. Is Greenberg's "Amerind" language family accepted today?**  
+**Q 1. Is Greenberg's "Amerind" language family accepted today?** 
 **A.** Linguists still contest it, but the cross-continental *n/m* pronoun pattern and shared grammar point to either deep descent or very early diffusion.
 
-**Q 2. How closely related are Clovis and South-American Fishtail points?**  
+**Q 2. How closely related are Clovis and South-American Fishtail points?** 
 **A.** Morphology differs only at the base; techno-chronology and overshot flaking show Fishtail is a southern adaptation of Clovis.
 
-**Q 3. Could couvade or bullroarer rites have spread by later trade?**  
+**Q 3. Could couvade or bullroarer rites have spread by later trade?** 
 **A.** Unlikely—these rituals are found in remote, unrelated groups; their breadth favors a Pleistocene origin.
 
-**Q 4. What unifies Native flood and trickster myths?**  
+**Q 4. What unifies Native flood and trickster myths?** 
 **A.** They fit a "Laurasian" storyline—world creation, flood reset, culture-hero antics—argued to stem from a single Ice-Age narrative core.
 
 ---
@@ -126,15 +126,15 @@ Drawing on linguistic, cultural, religious, and archaeological evidence, many sc
 
 ## Sources
 
-*   [Greenberg, Joseph H. (1987). *Language in the Americas*. Stanford University Press.](https://www.pueblos-originarios.ucb.edu.bo/digital/106001733-P1.pdf)
-*   [Sapir, Edward (1929). "American Indian Languages" in *Encyclopedia of the Social Sciences*, Vol. 1. Macmillan & Free Press.](https://brocku.ca/MeadProject/Sapir/Sapir_1933_a.html)
-*   [Loeb, Edwin M. (1929). *Tribal Initiations and Secret Societies* (UCPAAE 25 : 3). Univ. of California Press.](https://digicoll.lib.berkeley.edu/record/82839?ln=en)
-*   [Witzel, E. J. Michael (2012). *The Origins of the World's Mythologies*. Oxford University Press.](https://archive.org/details/originsofworldsm0000witz)
-*   [Lévi-Strauss, Claude (1969). *The Raw and the Cooked (Mythologiques I)*. Harper & Row / Univ. of Chicago Press.](https://archive.org/details/rawcooked00lvis)
-*   [Fiedel, Stuart J. (1992). *Prehistory of the Americas* (2nd ed.). Cambridge University Press.](https://archive.org/details/prehistoryofamer00fied)
-*   [Prates, Luciano; Rivero, Diego & Perez, S. I. (2022). "Changes in projectile design and size of prey reveal the central role of Fishtail points in megafauna hunting in South America". *Scientific Reports* 12:16964.](https://www.nature.com/articles/s41598-022-21287-0)
-*   [Dixon, E. James (1999). *Bones, Boats & Bison: Archaeology and the First Colonization of Western North America*. Univ. of New Mexico Press.](https://archive.org/details/bonesboatsbisona0000dixo)
-*   [Campbell, Lyle (1997). "Amerind Personal Pronouns: A Second Opinion" in *Language* 73 (2): 339–351.](https://www.researchgate.net/publication/274116041_Amerind_Personal_Pronouns_A_Second_Opinion)
-*   [Dundes, Alan (ed.) (1988). *The Flood Myth*. Univ. of California Press.](https://archive.org/details/floodmyth0000unse)
-*   [Allentoft, Morten E. et al. (2014). "The genome of a late Pleistocene human from a Clovis burial site in western Montana" in *Nature* 506:225-229.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878442/)
-*   [Morrow, S. A. et al. (2018). "Reassessing the chronology of the archaeological site of Anzick" in *PNAS* 115 (27):7000-7005.](https://www.pnas.org/doi/pdf/10.1073/pnas.1803624115)
+* [Greenberg, Joseph H. (1987). *Language in the Americas*. Stanford University Press.](https://www.pueblos-originarios.ucb.edu.bo/digital/106001733-P1.pdf)
+* [Sapir, Edward (1929). "American Indian Languages" in *Encyclopedia of the Social Sciences*, Vol. 1. Macmillan & Free Press.](https://brocku.ca/MeadProject/Sapir/Sapir_1933_a.html)
+* [Loeb, Edwin M. (1929). *Tribal Initiations and Secret Societies* (UCPAAE 25 : 3). Univ. of California Press.](https://digicoll.lib.berkeley.edu/record/82839?ln=en)
+* [Witzel, E. J. Michael (2012). *The Origins of the World's Mythologies*. Oxford University Press.](https://archive.org/details/originsofworldsm0000witz)
+* [Lévi-Strauss, Claude (1969). *The Raw and the Cooked (Mythologiques I)*. Harper & Row / Univ. of Chicago Press.](https://archive.org/details/rawcooked00lvis)
+* [Fiedel, Stuart J. (1992). *Prehistory of the Americas* (2nd ed.). Cambridge University Press.](https://archive.org/details/prehistoryofamer00fied)
+* [Prates, Luciano; Rivero, Diego & Perez, S. I. (2022). "Changes in projectile design and size of prey reveal the central role of Fishtail points in megafauna hunting in South America". *Scientific Reports* 12:16964.](https://www.nature.com/articles/s41598-022-21287-0)
+* [Dixon, E. James (1999). *Bones, Boats & Bison: Archaeology and the First Colonization of Western North America*. Univ. of New Mexico Press.](https://archive.org/details/bonesboatsbisona0000dixo)
+* [Campbell, Lyle (1997). "Amerind Personal Pronouns: A Second Opinion" in *Language* 73 (2): 339–351.](https://www.researchgate.net/publication/274116041_Amerind_Personal_Pronouns_A_Second_Opinion)
+* [Dundes, Alan (ed.) (1988). *The Flood Myth*. Univ. of California Press.](https://archive.org/details/floodmyth0000unse)
+* [Allentoft, Morten E. et al. (2014). "The genome of a late Pleistocene human from a Clovis burial site in western Montana" in *Nature* 506:225-229.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4878442/)
+* [Morrow, S. A. et al. (2018). "Reassessing the chronology of the archaeological site of Anzick" in *PNAS* 115 (27):7000-7005.](https://www.pnas.org/doi/pdf/10.1073/pnas.1803624115)

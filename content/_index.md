@@ -24,5 +24,3 @@ Meditations on mind, myth, and evolution. <span class="eye-of-ra-text">*<span da
 I'm [Andrew Cutler](https://substack.com/@vectors?utm_source=user-menu), a Machine Learning engineer researching human origins. 
 My work connects psychology, comparative mythology, [and AI](https://www.vectorsofmind.com/p/the-ai-basis-of-the-eve-theory-of) to trace how [recursive self-awareness](https://www.vectorsofmind.com/p/deja-you-the-recursive-construction) evolved.
 Snakecult.net is a place for me to put lightly-edited AI-generated essays that explore niche questions. (These are usually produced with OpenAI's Deep Research, which is less prone to hallucination.)
-
-## Research Articles

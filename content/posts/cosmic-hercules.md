@@ -52,7 +52,7 @@ Early Stoic allegory (Cornutus) reads the **labours** as twelve cosmic cycles of
 
 ## 2 Cosmic Herakles in Orphic Theogony
 
-> "A winged **serpent** with lion and bull heads, called **ageless Chronos and Herakles**, embraced Necessity and **produced a vast world-egg**.” — Orphic Rhapsodies (fr. 78)[^rhapsodies]
+> "A winged **serpent** with lion and bull heads, called **ageless Chronos and Herakles**, embraced Necessity and **produced a vast world-egg**." — Orphic Rhapsodies (fr. 78)[^rhapsodies]
 
 ### 2.1 Five-step Creation Chain
 

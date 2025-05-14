@@ -18,10 +18,10 @@ about:
  - Social Cognition
  - Human Origins
 tags: 
-  - "Cooperative Breeding"
-  - Evolution
-  - Gender
-  - psychology
+ - "Cooperative Breeding"
+ - Evolution
+ - Gender
+ - psychology
 author: "Andrew Cutler" # TODO: Confirm author
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

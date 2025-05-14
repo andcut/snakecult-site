@@ -30,11 +30,11 @@ draft: false
 
 **TL;DR**
 
-- The X chromosome is packed with brain-critical genes; disruptions often impair higher cognition and social behavior.  
-- Escape from X-inactivation plus imprinting create sex-biased expression patterns that modulate neural resilience and risk.  
-- Turner (45,X), Klinefelter (47,XXY), and Triple X (47,XXX) natural experiments show how X dose reshapes IQ, language, and social circuits.  
-- X-linked mutations (*FMR1*, *MECP2*, *NLGN4X*, etc.) underlie many cases of intellectual disability and autism.  
-- Evolutionary pressures concentrated cognition genes on the X, enabling rapid, sex-specific tuning of human social intelligence.  
+- The X chromosome is packed with brain-critical genes; disruptions often impair higher cognition and social behavior. 
+- Escape from X-inactivation plus imprinting create sex-biased expression patterns that modulate neural resilience and risk. 
+- Turner (45,X), Klinefelter (47,XXY), and Triple X (47,XXX) natural experiments show how X dose reshapes IQ, language, and social circuits. 
+- X-linked mutations (*FMR1*, *MECP2*, *NLGN4X*, etc.) underlie many cases of intellectual disability and autism. 
+- Evolutionary pressures concentrated cognition genes on the X, enabling rapid, sex-specific tuning of human social intelligence. 
 
 ## Introduction
 
@@ -108,36 +108,36 @@ In the coming years, a more exhaustive catalog of X-linked brain genes and their
 
 ## FAQ
 
-**Q 1. Why does the X chromosome loom so large in cognitive genetics?**  
+**Q 1. Why does the X chromosome loom so large in cognitive genetics?** 
 **A.** It carries an unusually dense set of brain-expressed genes; because males have one copy and females mosaic two, dosage changes or mutations disproportionately affect neural circuits for language, memory, and social cognition.
 
-**Q 2. What is X-inactivation escape, and why should researchers care?**  
+**Q 2. What is X-inactivation escape, and why should researchers care?** 
 **A.** Roughly one-quarter of X genes evade silencing in females, giving women double expression versus men; these escapees (e.g., *KDM6A*) can protect against or exacerbate neurodevelopmental disorders.
 
-**Q 3. How does Turner syndrome illuminate X-linked effects on the social brain?**  
+**Q 3. How does Turner syndrome illuminate X-linked effects on the social brain?** 
 **A.** Girls with a single X maintain average IQ yet show deficits in visuospatial and social-cognitive tasks, proving that losing X dosage selectively weakens specific cortical networks.
 
-**Q 4. Is there real evidence for imprinting on the X that alters sociability?**  
+**Q 4. Is there real evidence for imprinting on the X that alters sociability?** 
 **A.** Yes—Turner studies show paternal-X carriers outperform maternal-X carriers on social cognition, and mouse work confirms paternal-X genes enhance memory, implicating imprinted loci in social brain wiring.
 
-**Q 5. Does adding an extra X always lower intelligence?**  
+**Q 5. Does adding an extra X always lower intelligence?** 
 **A.** Not always, but XXY and XXX generally shift IQ ~10 points lower and raise risks for language, reading, and social-affective disorders, highlighting dose-sensitive X genes rather than global chromosomal imbalance.
 
 ## Sources
 
-1. Skuse et al. *Evidence from Turner's syndrome of an imprinted X-linked locus affecting cognitive function*. **Nature** (1997). [https://www.nature.com/articles/42706](https://www.nature.com/articles/42706)  
-2. Warwick et al. *Volumetric MRI study of the brain in sex chromosome aneuploidies*. **JNNP** (1999). [https://jnnp.bmj.com/content/66/5/628](https://jnnp.bmj.com/content/66/5/628)  
-3. Jiang et al. *The X chromosome's influences on the human brain*. **Sci Adv** (2023). [https://www.science.org/doi/10.1126/sciadv.adq5360](https://www.science.org/doi/10.1126/sciadv.adq5360)  
-4. Fang et al. *X Inactivation and Escape: Epigenetic and Structural Features*. **Front Cell Dev Biol** (2019). [https://www.frontiersin.org/articles/10.3389/fcell.2019.00219/full](https://www.frontiersin.org/articles/10.3389/fcell.2019.00219/full)  
-5. Davis et al. *A second X chromosome enhances cognitive resilience in an Alzheimer's mouse*. **Sci Transl Med** (2020). [https://www.science.org/doi/10.1126/scitranslmed.aaz6315](https://www.science.org/doi/10.1126/scitranslmed.aaz6315)  
-6. Bruining et al. *Parent-of-origin effects on psychopathology in Klinefelter syndrome*. **Biol Psychiatry** (2010). [https://pubmed.ncbi.nlm.nih.gov/21035791/](https://pubmed.ncbi.nlm.nih.gov/21035791/)  
-7. Tartaglia et al. *The cognitive phenotype in Klinefelter syndrome: review*. **Dev Disabil Res Rev** (2009). [https://pubmed.ncbi.nlm.nih.gov/20014369/](https://pubmed.ncbi.nlm.nih.gov/20014369/)  
-8. Tartaglia et al. *Trisomy X (47,XXX): an updated review*. **Orphanet J Rare Dis** (2010). [https://ojrd.biomedcentral.com/articles/10.1186/1750-1172-5-8](https://ojrd.biomedcentral.com/articles/10.1186/1750-1172-5-8)  
-9. Domes et al. *Regional gray-matter reductions in adult women with 47,XXX*. **J Neurodev Disord** (2025). [https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-025-09608-6](https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-025-09608-6)  
-10. Jamain et al. *X-linked neuroligin mutations in autism*. **Nat Genet** (2003). [https://pubmed.ncbi.nlm.nih.gov/12669065/](https://pubmed.ncbi.nlm.nih.gov/12669065/)  
-11. Abbeduto et al. *Fragile X syndrome–autism comorbidity review*. **Front Genet** (2014). [https://www.frontiersin.org/articles/10.3389/fgene.2014.00355/full](https://www.frontiersin.org/articles/10.3389/fgene.2014.00355/full)  
-12. Patel et al. *Rett syndrome: clinical manifestations and therapies*. **Front Sleep** (2024). [https://www.frontiersin.org/articles/10.3389/frsle.2024.1373489/full](https://www.frontiersin.org/articles/10.3389/frsle.2024.1373489/full)  
-13. Crespi & Badcock. *Psychosis and autism as diametrical disorders of the social brain*. **Behav Brain Sci** (2008). [https://doi.org/10.1017/S0140525X0800461X](https://doi.org/10.1017/S0140525X0800461X)  
-14. Moreno et al. *Maternal X activation accelerates cognitive aging in female mice*. **Cell Reports** (2025). [https://doi.org/10.1016/j.celrep.2025.100998](https://doi.org/10.1016/j.celrep.2025.100998)  
-15. Carrel & Willard. *Variability in X-linked gene expression in females*. **Nature** (2005). [https://www.nature.com/articles/nature03479](https://www.nature.com/articles/nature03479)  
+1. Skuse et al. *Evidence from Turner's syndrome of an imprinted X-linked locus affecting cognitive function*. **Nature** (1997). [https://www.nature.com/articles/42706](https://www.nature.com/articles/42706) 
+2. Warwick et al. *Volumetric MRI study of the brain in sex chromosome aneuploidies*. **JNNP** (1999). [https://jnnp.bmj.com/content/66/5/628](https://jnnp.bmj.com/content/66/5/628) 
+3. Jiang et al. *The X chromosome's influences on the human brain*. **Sci Adv** (2023). [https://www.science.org/doi/10.1126/sciadv.adq5360](https://www.science.org/doi/10.1126/sciadv.adq5360) 
+4. Fang et al. *X Inactivation and Escape: Epigenetic and Structural Features*. **Front Cell Dev Biol** (2019). [https://www.frontiersin.org/articles/10.3389/fcell.2019.00219/full](https://www.frontiersin.org/articles/10.3389/fcell.2019.00219/full) 
+5. Davis et al. *A second X chromosome enhances cognitive resilience in an Alzheimer's mouse*. **Sci Transl Med** (2020). [https://www.science.org/doi/10.1126/scitranslmed.aaz6315](https://www.science.org/doi/10.1126/scitranslmed.aaz6315) 
+6. Bruining et al. *Parent-of-origin effects on psychopathology in Klinefelter syndrome*. **Biol Psychiatry** (2010). [https://pubmed.ncbi.nlm.nih.gov/21035791/](https://pubmed.ncbi.nlm.nih.gov/21035791/) 
+7. Tartaglia et al. *The cognitive phenotype in Klinefelter syndrome: review*. **Dev Disabil Res Rev** (2009). [https://pubmed.ncbi.nlm.nih.gov/20014369/](https://pubmed.ncbi.nlm.nih.gov/20014369/) 
+8. Tartaglia et al. *Trisomy X (47,XXX): an updated review*. **Orphanet J Rare Dis** (2010). [https://ojrd.biomedcentral.com/articles/10.1186/1750-1172-5-8](https://ojrd.biomedcentral.com/articles/10.1186/1750-1172-5-8) 
+9. Domes et al. *Regional gray-matter reductions in adult women with 47,XXX*. **J Neurodev Disord** (2025). [https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-025-09608-6](https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-025-09608-6) 
+10. Jamain et al. *X-linked neuroligin mutations in autism*. **Nat Genet** (2003). [https://pubmed.ncbi.nlm.nih.gov/12669065/](https://pubmed.ncbi.nlm.nih.gov/12669065/) 
+11. Abbeduto et al. *Fragile X syndrome–autism comorbidity review*. **Front Genet** (2014). [https://www.frontiersin.org/articles/10.3389/fgene.2014.00355/full](https://www.frontiersin.org/articles/10.3389/fgene.2014.00355/full) 
+12. Patel et al. *Rett syndrome: clinical manifestations and therapies*. **Front Sleep** (2024). [https://www.frontiersin.org/articles/10.3389/frsle.2024.1373489/full](https://www.frontiersin.org/articles/10.3389/frsle.2024.1373489/full) 
+13. Crespi & Badcock. *Psychosis and autism as diametrical disorders of the social brain*. **Behav Brain Sci** (2008). [https://doi.org/10.1017/S0140525X0800461X](https://doi.org/10.1017/S0140525X0800461X) 
+14. Moreno et al. *Maternal X activation accelerates cognitive aging in female mice*. **Cell Reports** (2025). [https://doi.org/10.1016/j.celrep.2025.100998](https://doi.org/10.1016/j.celrep.2025.100998) 
+15. Carrel & Willard. *Variability in X-linked gene expression in females*. **Nature** (2005). [https://www.nature.com/articles/nature03479](https://www.nature.com/articles/nature03479) 
 16. Nguyen & Disteche. *High expression of the mammalian X chromosome in brain*. **Brain Res** (2006). [https://doi.org/10.1016/j.brainres.2006.06.113](https://doi.org/10.1016/j.brainres.2006.06.113)

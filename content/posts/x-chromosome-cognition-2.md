@@ -31,11 +31,11 @@ draft: true
 
 **TL;DR** <!-- ≤ 100 words, 3-7 bullets -->
 
-- The X chromosome is **densely packed with brain-critical genes**; ~160 are known intellectual-disability loci, double the autosomal density.  
-- **X-inactivation makes female brains mosaics**; escapee and imprinted genes drive sex-specific neural expression.  
-- Losing or adding an X shifts cognition: Turner (45,X) impairs spatial skills while Klinefelter (47,XXY) depresses verbal ability, mirroring regional MRI changes.  
-- Flagship genes — *FMR1*, *MECP2*, *OPHN1*, *DCX*, *L1CAM* — show how single X hits derail synapses, migration, or epigenetic control.  
-- Evolutionary pressures (hemizygous exposure, sexual antagonism) concentrated brain and reproductive genes on X, but at the cost of male-biased disorders.  
+- The X chromosome is **densely packed with brain-critical genes**; ~160 are known intellectual-disability loci, double the autosomal density. 
+- **X-inactivation makes female brains mosaics**; escapee and imprinted genes drive sex-specific neural expression. 
+- Losing or adding an X shifts cognition: Turner (45,X) impairs spatial skills while Klinefelter (47,XXY) depresses verbal ability, mirroring regional MRI changes. 
+- Flagship genes — *FMR1*, *MECP2*, *OPHN1*, *DCX*, *L1CAM* — show how single X hits derail synapses, migration, or epigenetic control. 
+- Evolutionary pressures (hemizygous exposure, sexual antagonism) concentrated brain and reproductive genes on X, but at the cost of male-biased disorders. 
 
 ---
 

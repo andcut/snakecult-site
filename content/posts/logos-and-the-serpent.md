@@ -16,12 +16,12 @@ quality: 6
 
 > *"In the beginning was the Word… and the Word became flesh."* — John 1 : 1, 14
 
-## TL;DR  <small>(≤ 100 words)</small>
+## TL;DR <small>(≤ 100 words)</small>
 
-- **Eden** encodes humanity's first cleanly **recursive 'I'** c. 10 000 BCE; Göbekli Tepe and allied sites reveal the new symbolic economy.  
-- **Writing** turns private insight into *cultural capital*, letting philosophy snowball until the Axial Age names an underlying order (Logos/Brahman/Tao).  
-- **John's prologue** crowns the tradition, declaring *Mind before matter* and incarnating it in Christ.  
-- **Gnostic sects** (Naasenes ≈ "snake-folk") keep the older memory: the Edenic serpent is the *Instructor*.  
+- **Eden** encodes humanity's first cleanly **recursive 'I'** c. 10 000 BCE; Göbekli Tepe and allied sites reveal the new symbolic economy. 
+- **Writing** turns private insight into *cultural capital*, letting philosophy snowball until the Axial Age names an underlying order (Logos/Brahman/Tao). 
+- **John's prologue** crowns the tradition, declaring *Mind before matter* and incarnating it in Christ. 
+- **Gnostic sects** (Naasenes ≈ "snake-folk") keep the older memory: the Edenic serpent is the *Instructor*. 
 - **Global "hanged-god" rites** (Odin, Sun Dance, Charak Puja) ritualise ego-death, replaying the trauma of awakening.
 
 ---
@@ -47,7 +47,7 @@ Göbekli Tepe (c. 9600 BCE) — stone circles, animal reliefs, abstract symbols 
 
 <br>
 
-## 2  Biology Slows, Culture Accelerates
+## 2 Biology Slows, Culture Accelerates
 
 Genomic tweaks — e.g., **TENM1** fine-tuning inner speech — matter, but **memes mutate faster than genes**. Three cultural inventions ratcheted insight:
 
@@ -87,14 +87,14 @@ John thus **reverses Genesis' order**: cognition predates cosmos. Christ is *cos
 
 ---
 
-## 5  Gnostic Counterpoint: The Serpent as Instructor
+## 5 Gnostic Counterpoint: The Serpent as Instructor
 
 Gnostic texts recycle the Eden drama with a twist:
 
-> "The **Instructor** was hidden in the serpent." — *Hypostasis of the Archons* II.89 – 93  
+> "The **Instructor** was hidden in the serpent." — *Hypostasis of the Archons* II.89 – 93 
 
-Naasenes ("snake-folk") placed a bronze serpent on their altar, identifying it with Christ pre-incarnate.  
-Their thesis: ignorance, not disobedience, is the primal sin; *knowledge saves.*  
+Naasenes ("snake-folk") placed a bronze serpent on their altar, identifying it with Christ pre-incarnate. 
+Their thesis: ignorance, not disobedience, is the primal sin; *knowledge saves.* 
 Orthodoxy reacted by branding the movement heresy, yet the manuscripts persist, whispering an older subtext: **Christ was in Eden all along.**
 
 ---
@@ -129,7 +129,7 @@ Modern fMRI studies show intense ritual pain **dampens the Default-Mode Network*
 
 ---
 
-## Sources  <small>(selected)</small>
+## Sources <small>(selected)</small>
 
 1. Schmandt-Besserat, D. *How Writing Came About* (UT Press, 1996).
 2. Jaspers, K. *The Origin and Goal of History* (Yale, 1953).
@@ -140,7 +140,7 @@ Modern fMRI studies show intense ritual pain **dampens the Default-Mode Network*
 7. [Naassenes](https://en.wikipedia.org/wiki/Naassenes) — Wikipedia.
 8. [Sun Dance](https://www.britannica.com/topic/Sun-Dance) — *Encyclopaedia Britannica*.
 9. [Charak Puja](https://en.wikipedia.org/wiki/Charak_Puja) — Wikipedia.
-10. Martucci, K. T., et al. "**Default-Mode Network Disruption During Tonic Pain**,” *Pain* 158 (8): 1402–13 (2017).
+10. Martucci, K. T., et al. "**Default-Mode Network Disruption During Tonic Pain**," *Pain* 158 (8): 1402–13 (2017).
 11. Henrich, J. *The Secret of Our Success* (Princeton UP, 2015).
 12. Kahn, C. *The Art and Thought of Heraclitus* (CUP, 1979).
 13. Pagels, E. *The Gnostic Gospels* (Random House, 1979).

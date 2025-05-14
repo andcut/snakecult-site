@@ -11,10 +11,20 @@
     {{/* Filter for quality >= 6 */}}
     {{ $posts = where $posts "Params.quality" "ge" 6 }}
 
-    {{/* Pass 1: newest-first within each score */}}
+    {{/* Sort by quality and date */}}
     {{ $byDate := sort $posts "Date" "desc" }}
-    {{/* Pass 2: bubble quality 10→1 (stable) */}}
     {{ $sorted := sort $byDate "Params.quality" "desc" }}
+
+    {{/* Research Articles Header Row with Sort Toggle */}}
+    <div class="retro-panel" style="margin-bottom: 20px; padding-bottom: 15px;">
+      <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h2 style="margin: 0;">Research Articles</h2>
+        <div style="font-size: 0.9em;">
+          Sort by: 
+          <a href="/recent/" style="text-decoration: underline; color: var(--retro-accent);">Last Modified</a> | <strong>Quality</strong>
+        </div>
+      </div>
+    </div>
 
     {{ range $sorted }}
       <article class="retro-panel post on-list">

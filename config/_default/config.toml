@@ -1,4 +1,4 @@
-baseURL  = "https://snakecult.ai/"
+baseURL  = "https://snakecult.net/"
 languageCode = "en-us"
 title    = "SnakeCult Deep Lore"
 theme    = "terminal"

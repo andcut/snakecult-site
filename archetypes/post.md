@@ -16,8 +16,8 @@ about: # high-level topics
  - main-theme
 tags: # reader-facing
  - Tag-A
-core_entity: ""  # ≤ 3-word noun phrase. Pick the single, concrete thing (object/creature/place/person) that best embodies the post and is easy to illustrate—i.e., what you’d put on the magazine cover.
-quality: 6          # ★ 1‒10 subjective “how good is this?”; 6 = unrated/OK
+core_entity: ""  # ≤ 3-word noun phrase. Pick the single, concrete thing (object/creature/place/person) that best embodies the post and is easy to illustrate—i.e., what you'd put on the magazine cover.
+quality: 6          # ★ 1‒10 subjective "how good is this?"; 6 = unrated/OK
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true
@@ -58,7 +58,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 ## FAQ <!-- retains FAQPage schema support. Produce 2–5 Q-A pairs. -->
 
 **Q 1. What makes a good question?**  
-**A.** Choose “how / what / why” queries that the post already answers and that a curious reader might type verbatim. Include at least one narrowly focused question that drills into a concrete detail or example.
+**A.** Choose "how / what / why" queries that the post already answers and that a curious reader might type verbatim. Include at least one narrowly focused question that drills into a concrete detail or example.
 
 **Q 2. How long should each answer be?**  
 **A.** One punchy, self-contained sentence (≈30–50 words) that fully resolves the query, optionally followed by a brief clarifier. Total ≤120 words.
@@ -73,5 +73,11 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 
 ## Sources
 
-1. Author A. *Title A*. Publisher, Year. 
-2. Author B. *Title B*. Journal **Volume** (Year). 
+Be source-heavy! Cite liberally from diverse sources including academic papers, books, news articles, websites, and primary sources. Include hyperlinks where available.
+
+1. Smith, John. *The Complete History of Snakes*. Oxford University Press, 2023. [https://example.com/book](https://example.com/book)
+2. Johnson, Sarah. "Snake Behavior Patterns." *Journal of Herpetology* **45** (2022): 123-145. [https://doi.org/10.1234/jh.2022.45](https://doi.org/10.1234/jh.2022.45)
+3. National Geographic. "The Secret Lives of Pythons." *National Geographic Magazine*, March 2024. [https://natgeo.com/pythons](https://natgeo.com/pythons)
+4. World Health Organization. "Snakebite Prevention and Treatment Guidelines." WHO Technical Report Series, 2023. [https://who.int/snakebite](https://who.int/snakebite)
+5. The New York Times. "Urban Snakes: A Growing Phenomenon." *The New York Times*, January 15, 2024. [https://nytimes.com/urban-snakes](https://nytimes.com/urban-snakes)
+6. Ancient Egyptian Hieroglyphic Text. "The Serpent Cult of Apep." British Museum Collection, 1500 BCE. [https://britishmuseum.org/apep](https://britishmuseum.org/apep)

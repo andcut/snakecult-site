@@ -543,19 +543,19 @@ In summary, EToC's solution is basically an integrated theory of mind/spirit co-
 
 ## FAQ
 
-**Q 1. What exactly is the Eve Theory of Consciousness (EToC)?**  
+**Q 1. What exactly is the Eve Theory of Consciousness (EToC)?** 
 **A.** A hypothesis that true self-referential awareness spread memetically and genetically around the end of the Ice Age, and left mythic and biological fingerprints still visible today.
 
-**Q 2. Does EToC contradict mainstream paleoanthropology?**  
+**Q 2. Does EToC contradict mainstream paleoanthropology?** 
 **A.** It accepts the fossil record but compresses the cognitive timeline, claiming a sharp threshold where most researchers infer a long gradient.
 
-**Q 3. How does the theory handle the ubiquity of serpent symbolism?**  
+**Q 3. How does the theory handle the ubiquity of serpent symbolism?** 
 **A.** It posits an ancestral snake-venom entheogen cult that both induced the first selfhood experience and seeded later global serpent myths.
 
-**Q 4. What empirical evidence could falsify EToC?**  
+**Q 4. What empirical evidence could falsify EToC?** 
 **A.** Demonstrating fully recursive language or unambiguous self-concept in Neanderthals—or finding genetic/archaeological proof of modern-style introspection >50 kya—would undercut the model.
 
-**Q 5. Is EToC purely speculative or testable?**  
+**Q 5. Is EToC purely speculative or testable?** 
 **A.** Parts are narrative, but predictions about selective sweeps in brain-integration genes, venom biomarkers in ritual sites, and phylogenetic dating of myth motifs can be probed with future data.
 
 ## Sources

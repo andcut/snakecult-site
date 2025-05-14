@@ -243,19 +243,19 @@ Yet, even within gradualist or alternative explanations, many accept that someth
 
 ## FAQ <!-- retains FAQPage schema support -->
 
-**Q 1. What is the "Cognitive Revolution"?**  
+**Q 1. What is the "Cognitive Revolution"?** 
 **A.** It refers to a proposed period around 50,000 years ago (Upper Paleolithic) when *Homo sapiens* supposedly underwent rapid cognitive changes, leading to "behavioral modernity"—marked by sophisticated art, tools, symbolic behavior, and possibly language—thought by some theorists (like Cutler, Klein, Chomsky, Tattersall, Mithen, Coolidge & Wynn) to be driven by biological evolution (e.g., genetic mutation, brain reorganization).
 
-**Q 2. What is the main disagreement among these theorists?**  
+**Q 2. What is the main disagreement among these theorists?** 
 **A.** While most agree on a significant cognitive shift becoming evident around 50kya, they diverge on the *specific* trigger and timing. Proposed drivers include a neural mutation (Klein), recursive syntax/Merge (Chomsky), syntax emerging from protolanguage (Bickerton), cultural activation of latent potential (Tattersall), cognitive fluidity (Mithen), enhanced working memory (Coolidge & Wynn), or a later (~15kya) cultural emergence of recursive self-awareness ([Cutler's EToC](#andrew-cutler--eve-theory-of-consciousness-etoc)).
 
-**Q3. Could a composite scenario be more realistic?**  
+**Q3. Could a composite scenario be more realistic?** 
 Yes. A modest working-memory uplift could enable cognitive fluidity, which fosters syntax, amplified by demographic expansion; ritual factors might then consolidate full self-awareness. Multi-layer models are increasingly explored.
 
-**Q4. Which evidence streams anchor each camp?**  
-- **Genomics:** Klein; Coolidge & Wynn.  
-- **Linguistics/Psycholinguistics:** Chomsky; Bickerton.  
-- **Cognitive-archaeology:** Mithen; Tattersall.  
+**Q4. Which evidence streams anchor each camp?** 
+- **Genomics:** Klein; Coolidge & Wynn. 
+- **Linguistics/Psycholinguistics:** Chomsky; Bickerton. 
+- **Cognitive-archaeology:** Mithen; Tattersall. 
 - **Comparative mythology + gene–culture:** Cutler.
 
 
@@ -276,4 +276,4 @@ Yes. A modest working-memory uplift could enable cognitive fluidity, which foste
 12.	McBrearty, S. & Brooks, A.S. (2000). "The revolution that wasn't: a new interpretation of the origin of modern human behavior." Journal of Human Evolution, 39(5), 453-563. (Key critique of the "human revolution" concept, arguing for gradual accumulation in Africa.) 
 13.	Zilhão, J. (2010). "Complexity in Neanderthal Culture." Diogenes, 57(2), 7-20. (Presents evidence for Neanderthal symbolic behavior, challenging sharp cognitive distinctions.)
 14.	Mellars, P. (2006). "Why did modern human populations disperse from Africa ca. 60,000 years ago? A new model." Current Anthropology, 47(1), 97-133. (Considers genetic/cognitive mutation vs. climatic and demographic explanations.) 
-15.	[Additional citations inline above  provide specific supporting details from interviews, magazine articles, and studies related to each researcher's claims.]
+15.	[Additional citations inline above provide specific supporting details from interviews, magazine articles, and studies related to each researcher's claims.]
