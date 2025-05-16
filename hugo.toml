@@ -1,6 +1,6 @@
 baseURL = 'https://snakecult.netlify.app/'
 languageCode = 'en-us'
-title = 'SnakeCult.ai'
+title = 'SnakeCult.net'
 theme = 'terminal'
 enableRobotsTXT = true # Explicitly enable robots.txt generation/handling
 

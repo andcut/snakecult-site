@@ -1,7 +1,7 @@
 {
   "name": "snakecult-site",
   "version": "1.0.0",
-  "description": "This repository contains the source code and content for the SnakeCult.ai website, built with Hugo.",
+  "description": "This repository contains the source code and content for the SnakeCult.net website, built with Hugo.",
   "main": "index.js",
   "directories": {
     "doc": "docs"

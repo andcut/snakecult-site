@@ -1,4 +1,4 @@
-## SnakeCult.ai — Project Charter (1-page cheat-sheet)
+## SnakeCult.net — Project Charter (1-page cheat-sheet)
 
 **Mission**
 Create a lightning-fast, fully-static "research dump" aimed at both humans and LLM crawlers, showcasing the Eve Theory of Consciousness and related gene–culture work.
