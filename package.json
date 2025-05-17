@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"No tests configured\" && exit 0"
+    "test": "echo \"No tests configured\""
   },
   "repository": {
     "type": "git",
