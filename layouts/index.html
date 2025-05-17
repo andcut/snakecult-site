@@ -4,80 +4,84 @@
     {{ .Content }}
   </div>
 
-  {{/* Container for Article Previews */}}
-  <div class="posts-container">
-    {{/* Get all published posts in /posts/ */}}
-    {{ $posts := where (where site.RegularPages "Section" "posts") "Params.draft" "ne" true }}
-    {{/* Filter for quality >= 6 */}}
-    {{ $posts = where $posts "Params.quality" "ge" 6 }}
+  {{/* Placeholder for lazily loaded article previews */}}
+  <div id="index-posts-placeholder" style="min-height: 50vh;"></div>
+  <template id="index-posts-template">
+    <div class="posts-container">
+      {{/* Get all published posts in /posts/ */}}
+      {{ $posts := where (where site.RegularPages "Section" "posts") "Params.draft" "ne" true }}
+      {{/* Filter for quality >= 6 */}}
+      {{ $posts = where $posts "Params.quality" "ge" 6 }}
 
-    {{/* Sort by quality and date */}}
-    {{ $byDate := sort $posts "Date" "desc" }}
-    {{ $sorted := sort $byDate "Params.quality" "desc" }}
+      {{/* Sort by quality and date */}}
+      {{ $byDate := sort $posts "Date" "desc" }}
+      {{ $sorted := sort $byDate "Params.quality" "desc" }}
 
-    {{/* Research Articles Header Row with Sort Toggle */}}
-    <div class="retro-panel" style="margin-bottom: 20px; padding-bottom: 15px;">
-      <div style="display: flex; justify-content: space-between; align-items: center;">
-        <h2 style="margin: 0;">Research Articles</h2>
-        <div style="font-size: 0.9em;">
-          Sort by: 
-          <a href="/recent/" style="text-decoration: underline; color: var(--retro-accent);">Last Modified</a> | <strong>Quality</strong>
+      {{/* Research Articles Header Row with Sort Toggle */}}
+      <div class="retro-panel" style="margin-bottom: 20px; padding-bottom: 15px;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <h2 style="margin: 0;">Research Articles</h2>
+          <div style="font-size: 0.9em;">
+            Sort by:
+            <a href="/recent/" style="text-decoration: underline; color: var(--retro-accent);">Last Modified</a> | <strong>Quality</strong>
+          </div>
         </div>
       </div>
-    </div>
 
-    {{ range $sorted }}
-      <article class="retro-panel post on-list">
-        {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
-        {{ partial "heading-with-symbols.html" (dict 
-            "level" 3 
-            "anchor" (.Title | urlize) 
-            "text" $titleContent 
-            "page" . 
-            "randomizeKey" "index_article_list" 
-          )}}
+      {{ range $sorted }}
+        <article class="retro-panel post on-list">
+          {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
+          {{ partial "heading-with-symbols.html" (dict
+              "level" 3
+              "anchor" (.Title | urlize)
+              "text" $titleContent
+              "page" .
+              "randomizeKey" "index_article_list"
+            )}}
 
-        <div class="post-meta">
-          {{- if .Date -}}
-            <time class="post-date">
-              {{- partial "post-date" . -}}
-            </time>
-          {{- end -}}
-          {{- with .Params.author -}}
-            <span class="post-author">{{ . }}</span>
-          {{- end -}}
-        </div>
-
-        {{ if .Params.tags }}
-          <span class="post-tags">
-            {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s/" . )) | relLangURL }}">
-              {{- . -}}
-            </a>&nbsp;
-            {{ end }}
-          </span>
-        {{ end }}
-
-        {{ partial "cover.html" . }}
-
-        <div class="post-content">
-          {{ if .Params.showFullContent }}
-            {{ .Content }}
-          {{ else if .Description }}
-            <p>{{ .Description | markdownify }}</p>
-          {{ else }}
-            {{ .Summary }}
-          {{ end }}
-        </div>
-
-        {{ if not .Params.showFullContent }}
-          <div>
-            <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore | default "Read More" }}]</a>
+          <div class="post-meta">
+            {{- if .Date -}}
+              <time class="post-date">
+                {{- partial "post-date" . -}}
+              </time>
+            {{- end -}}
+            {{- with .Params.author -}}
+              <span class="post-author">{{ . }}</span>
+            {{- end -}}
           </div>
-        {{ end }}
-      </article>
-    {{ end }}
-  </div>
+
+          {{ if .Params.tags }}
+            <span class="post-tags">
+              {{ range .Params.tags }}
+              #<a href="{{ (urlize (printf "tags/%s/" . )) | relLangURL }}">
+                {{- . -}}
+              </a>&nbsp;
+              {{ end }}
+            </span>
+          {{ end }}
+
+          {{ partial "cover.html" . }}
+
+          <div class="post-content">
+            {{ if .Params.showFullContent }}
+              {{ .Content }}
+            {{ else if .Description }}
+              <p>{{ .Description | markdownify }}</p>
+            {{ else }}
+              {{ .Summary }}
+            {{ end }}
+          </div>
+
+          {{ if not .Params.showFullContent }}
+            <div>
+              <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore | default "Read More" }}]</a>
+            </div>
+          {{ end }}
+        </article>
+      {{ end }}
+    </div>
+  </template>
+  <script src="/js/lazy-index.js"></script>
 
   {{/* Footer moved to baseof.html */}}
 {{ end }}
