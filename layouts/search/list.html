@@ -1,0 +1,35 @@
+{{ define "main" }}
+  <div class="retro-panel">
+    <h1>Search</h1>
+    <input id="searchInput" type="search" placeholder="Type to search..." style="width:100%;margin-bottom:1em;color:black;padding:0.5em;" />
+    <ul id="results"></ul>
+  </div>
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script>
+    (async function(){
+      const res = await fetch('/index.json');
+      const docs = await res.json();
+      const idx = lunr(function(){
+        this.ref('permalink');
+        this.field('title');
+        this.field('content');
+        docs.forEach(doc => this.add(doc));
+      });
+      const input = document.getElementById('searchInput');
+      const results = document.getElementById('results');
+      function run(term){
+        results.innerHTML = '';
+        if(!term) return;
+        idx.search(term).forEach(r => {
+          const d = docs.find(doc => doc.permalink === r.ref);
+          const li = document.createElement('li');
+          li.innerHTML = '<a href="'+d.permalink+'">'+d.title+'</a>';
+          results.appendChild(li);
+        });
+      }
+      input.addEventListener('input', () => run(input.value));
+      const q = new URLSearchParams(window.location.search).get('q');
+      if(q){input.value = q; run(q);}
+    })();
+  </script>
+{{ end }}
