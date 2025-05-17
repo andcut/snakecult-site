@@ -13,9 +13,9 @@ enableRobotsTXT = true # Explicitly enable robots.txt generation/handling
 
 [markup.goldmark.renderer]
   # Allow raw HTML (needed for some shortcodes or inline HTML)
-  unsafe = true 
+  unsafe = true
 
 # Enable inline shortcodes
 [markup.goldmark.parser.attribute]
   block = true
-  title = true 
+  title = true

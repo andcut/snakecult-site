@@ -11,4 +11,4 @@ enableRobotsTXT = true
 
 [params]
   author = "Andrew Cutler"
-  description = "Raw research & musings for LLM crawlers." 
+  description = "Raw research & musings for LLM crawlers."
