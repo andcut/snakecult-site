@@ -29,3 +29,6 @@ jobs:
 
       - name: Build site
         run: hugo --minify
+
+      - name: Compress assets
+        run: node scripts/compress_brotli.js
