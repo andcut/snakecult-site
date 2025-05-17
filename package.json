@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"No tests configured\""
+    "test": "node scripts/verify_hugo_build.js"
   },
   "repository": {
     "type": "git",
