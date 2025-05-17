@@ -18,6 +18,16 @@
 
   {{ partial "styles.html" . }}
 
+  <style>
+    :root{--retro-background:#0a0f0a;--retro-foreground:#00e300;--retro-accent:#33ff33;--retro-glow:0 0 3px rgba(51,255,51,.3);--retro-glow-lg:0 0 5px rgba(51,255,51,.3);}
+    html{background:#000}
+    body{font-size:.95rem;text-shadow:var(--retro-glow);background-color:var(--retro-background);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:monospace;line-height:1.625;letter-spacing:.05em;margin:0}
+    h1,h2,h3,h4,h5,h6{color:var(--retro-accent);text-shadow:var(--retro-glow-lg);font-weight:bold;margin:1.5rem 0 .5rem}
+    a{color:var(--retro-accent);text-decoration:none;text-shadow:var(--retro-glow-lg)}
+    a:hover{color:var(--retro-background);background-color:var(--retro-accent);text-shadow:none}
+    .retro-panel{border:1px solid rgba(51,255,51,.5);padding:1.5rem;margin:1.5rem 0;box-shadow:0 0 10px rgba(51,255,51,.2);backdrop-filter:blur(4px)}
+  </style>
+
   {{/* Custom script to ensure fixed header */}}
   <script>
     document.addEventListener('DOMContentLoaded', function() {
