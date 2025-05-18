@@ -9,7 +9,7 @@
   "inLanguage" ((.Site.Language.Lang | default "en") | lower)
   "potentialAction" (dict
       "@type" "SearchAction"
-      "target" (print .Site.BaseURL "search/?q={search_term_string}")
+      "target" (print .Site.BaseURL "?s={search_term_string}")
       "query-input" "required name=search_term_string")
 }}
 

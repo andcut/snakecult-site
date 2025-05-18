@@ -5,16 +5,11 @@ theme    = "terminal"
 enableRobotsTXT = true
 
 [outputs]
-  home = ["HTML", "RSS", "Sitemap", "Robots", "JsonFeed", "JSON"]
+  home = ["HTML", "RSS", "Sitemap", "Robots", "JsonFeed"]
   section = ["HTML"]
   page = ["HTML"]
 
 [params]
   author = "Andrew Cutler"
   description = "Raw research & musings for LLM crawlers."
-
-[outputFormats.JSON]
-  mediaType = "application/json"
-  baseName = "index"
-  isPlainText = true
 
