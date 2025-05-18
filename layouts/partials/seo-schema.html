@@ -7,10 +7,6 @@
   "name"    .Site.Title
   "url"     .Site.BaseURL
   "inLanguage" ((.Site.Language.Lang | default "en") | lower)
-  "potentialAction" (dict
-      "@type" "SearchAction"
-      "target" (print .Site.BaseURL "search/?q={search_term_string}")
-      "query-input" "required name=search_term_string")
 }}
 
 {{ $siteSchema = merge $siteSchema (dict "sameAs" (.Site.Params.sameAs | default (slice))) }}
