@@ -11,3 +11,7 @@ See `docs/project-charter.md` for project goals and details.
 ## Testing
 
 Run `npm test` to ensure Hugo can build the site without errors.
+
+## Hello World
+
+Just need to make an edit to commit
