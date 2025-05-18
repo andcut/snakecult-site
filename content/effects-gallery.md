@@ -88,4 +88,14 @@ Below is a collection of small effects inspired by other parts of the site. Each
   <div class="marquee"><span>🐍 serpentum semper 🐍 serpentum semper 🐍 serpentum semper </span></div>
 </div>
 
+<div class="effect-box">
+  <h3>Rainbow Cycle</h3>
+  <p class="rainbow-cycle">Chromatic Fire</p>
+</div>
+
+<div class="effect-box">
+  <h3>Tilt Wobble</h3>
+  <div class="tilt-wobble" style="padding:0.5rem;border:1px dashed var(--retro-accent);">Shake It</div>
+</div>
+
 </div>
