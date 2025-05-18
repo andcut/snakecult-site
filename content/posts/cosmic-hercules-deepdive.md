@@ -129,6 +129,11 @@ Finally, the cultural interpretations show Herakles and Dionysus as addressing d
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/cosmic-herakles.md" >}}
+- {{< relref "posts/herakles-dionysus-mysteries.md" >}}
+
 ## Sources
 
 1. Orphic Fragments and Theogonies (Damascius, *De principiis*, quoted in West 1983) 
@@ -148,3 +153,4 @@ Finally, the cultural interpretations show Herakles and Dionysus as addressing d
 15. Mithraic iconography of Aion/Chronos (lion-headed serpent figure labeled "Herakles" in inscriptions) 
 
 *Additional implicit sources may include general scholarly works on Orphism (e.g., Guthrie, West, Graf & Johnston) and Neoplatonism.* 
+

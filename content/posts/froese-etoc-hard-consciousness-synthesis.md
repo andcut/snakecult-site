@@ -167,3 +167,9 @@ In sum, ritual-induced altered states supply the missing diachronic context for 
 - Brown R. (2023). *Higher-Order Theories of Consciousness: Current debates*. **Philosophy Compass** 18(3).
 - Witzel M. (2012). *The Origins of the World's Mythologies*. Oxford UP.
 - Karmin M. et al. (2015). *A recent bottleneck of Y chromosome diversity coincides with a global cultural change*. **Genome Research** 25.
+
+## Related Articles
+
+- {{< relref "posts/etoc-scott-alexander.md" >}}
+- {{< relref "posts/etoc-epistemic-exactitude.md" >}}
+

@@ -182,6 +182,11 @@ For a fuller synthesis, see my [Eve Theory overview](/eve-theory-of-consciousnes
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/australia-sapient-paradox.md" >}}
+- {{< relref "posts/sapient-paradox-deep-dive.md" >}}
+
 ## Sources
 
 1. Hublin J-J et al. *Nature* (2017) — Early modern humans from Jebel Irhoud. 
@@ -192,3 +197,4 @@ For a fuller synthesis, see my [Eve Theory overview](/eve-theory-of-consciousnes
 6. Stringer C. *Phil. Trans. B* (2012) — "The origin of our species." 
 7. Hiscock P. *Archaeology of Ancient Australia* (Routledge, 2007). 
 8. d'Errico F., Stringer C. *Phil. Trans. B* (2011) — Origin of symbolism. 
+

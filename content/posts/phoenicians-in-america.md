@@ -180,6 +180,11 @@ In modern times, while it's very unlikely Phoenicians ever set foot in the Ameri
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/pre-columbian-contact-america.md" >}}
+- {{< relref "posts/men-from-the-sea.md" >}}
+
 ## Sources
 
 ### Primary and Early Sources

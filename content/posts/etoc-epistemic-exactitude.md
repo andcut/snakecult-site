@@ -155,3 +155,8 @@ The confidence and even polemical tone of EToC – asserting itself as the only 
 
 **Q 5. Why the "Eve" in Eve Theory?** 
 **A.** The biblical Eve eating the fruit of knowledge is read as cultural memory of the first human to utter "I am," symbolizing the spark of self referential thought.
+## Related Articles
+
+- {{< relref "posts/serpent-gift-consciousness-cult.md" >}}
+- {{< relref "posts/etoc-scott-alexander.md" >}}
+

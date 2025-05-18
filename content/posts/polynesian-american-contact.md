@@ -141,6 +141,11 @@ Intellectual humility runs both ways; a priori impossibility claims age poorly w
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/pre-columbian-contact-america.md" >}}
+- {{< relref "posts/phoenicians-in-america.md" >}}
+
 ## Sources
 
 1. Ioannidis, A.G., et al. "Native American Gene Flow …" *Nature* 584 (2020). 

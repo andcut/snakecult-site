@@ -143,6 +143,11 @@ He keeps the archetype (Mother/Death/Rebirth) but nails its spread to Magdalenia
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/campbell-diffusion-dossier.md" >}}
+- {{< relref "posts/bullroarer-diffusion.md" >}}
+
 ## Sources
 
 1. Campbell, Joseph. *The Masks of God: Primitive Mythology*. Penguin, 1959.  

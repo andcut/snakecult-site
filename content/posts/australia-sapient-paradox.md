@@ -251,6 +251,11 @@ Australia thus undercuts any model that pins the "Human Revolution" on a single 
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/sapient-paradox-shallow-dive.md" >}}
+- {{< relref "posts/sapient-paradox-deep-dive.md" >}}
+
 ## Sources
 
 1. Clarkson C. et al. "Human occupation of northern Australia by 65,000 years ago." *Nature* 547 (2017).

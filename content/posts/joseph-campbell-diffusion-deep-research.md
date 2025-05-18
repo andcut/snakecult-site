@@ -341,6 +341,11 @@ Recent metallurgical studies show **Chukotkan bronze** derives from Siberian ore
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/campbell-diffusionist.md" >}}
+- {{< relref "posts/bullroarer-diffusion.md" >}}
+
 ## Sources 
 
 1. Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. [https://archive.org/details/herowiththousand0000camp](https://archive.org/details/herowiththousand0000camp) 

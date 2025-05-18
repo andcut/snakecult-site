@@ -120,3 +120,9 @@ In conclusion, when evaluated alongside alternatives, the Froese–Eve framework
 - Cutler, Andrew. "The Snake Cult of Consciousness – Two Years Later." Vectors of Mind (Aug 2025) – Follow-up analysis corroborating the theory with new evidence (snake venom use, genetics, etc.).
 - Sadhguru (Y. Vasudev). The Unknown Secret of how Venom works on your body – YouTube discourse on effects of venom.
 - Selected references on human cognitive evolution and myth: Witzel (2012) on pan-human creation myths; Wynn (2016) on late emergence of abstract thought; Lewis-Williams & Dowson (1988) on entoptic imagery in cave art; Chomsky (2010) on recursion mutation; McKenna (1992) on "stoned ape" hypothesis; Jaynes (1976) on bicameral mind.
+
+## Related Articles
+
+- {{< relref "posts/etoc-scott-alexander.md" >}}
+- {{< relref "posts/etoc-epistemic-exactitude.md" >}}
+

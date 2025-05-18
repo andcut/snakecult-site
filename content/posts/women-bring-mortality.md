@@ -92,6 +92,11 @@ A. Sinologists see **textual layering**: Shang-era Queen Mother cult (Xiwangmu) 
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/women-human-first.md" >}}
+- {{< relref "posts/weaving-humanity-women-as-civilizers.md" >}}
+
 ## Selected Sources
 
 1. K. Rasmussen, *Eskimo Folk-Tales* 1921. [oai_citation:16‡Project Gutenberg](https://www.gutenberg.org/files/28932/28932-h/28932-h.htm) 

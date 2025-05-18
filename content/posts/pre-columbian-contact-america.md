@@ -132,6 +132,11 @@ In forums like Reddit's r/AskHistorians or specialized groups, knowledgeable ent
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/men-from-the-sea.md" >}}
+- {{< relref "posts/phoenicians-in-america.md" >}}
+
 ## Sources
 
 1. Brown et al., "mtDNA Haplogroup X: An Ancient Link between Europe/Western Asia and North America?", American Journal of Human Genetics 63:1852-1861 (1998).
