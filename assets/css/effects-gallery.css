@@ -87,26 +87,3 @@
   from { transform: translateX(0); }
   to { transform: translateX(-100%); }
 }
-
-.rainbow-cycle {
-  background: linear-gradient(45deg, #ff0040, #ffe600, #00ff90, #00c0ff, #9b00ff, #ff0040);
-  background-size: 600% 100%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: rainbowCycle 5s linear infinite;
-}
-@keyframes rainbowCycle {
-  from { background-position: 0 0; }
-  to { background-position: -600% 0; }
-}
-
-.tilt-wobble {
-  display: inline-block;
-  animation: tiltWobble 3s ease-in-out infinite;
-}
-@keyframes tiltWobble {
-  0%, 100% { transform: rotate(0deg); }
-  25% { transform: rotate(3deg); }
-  50% { transform: rotate(0deg); }
-  75% { transform: rotate(-3deg); }
-}
