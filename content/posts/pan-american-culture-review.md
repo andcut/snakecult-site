@@ -124,6 +124,11 @@ Drawing on linguistic, cultural, religious, and archaeological evidence, many sc
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/pre-columbian-contact-america.md" >}}
+- {{< relref "posts/men-from-the-sea.md" >}}
+
 ## Sources
 
 * [Greenberg, Joseph H. (1987). *Language in the Americas*. Stanford University Press.](https://www.pueblos-originarios.ucb.edu.bo/digital/106001733-P1.pdf)

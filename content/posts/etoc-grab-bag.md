@@ -107,6 +107,11 @@ So the next time you encounter a snake in myth or dream, consider that it might 
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/etoc-scott-alexander.md" >}}
+- {{< relref "posts/etoc-epistemic-exactitude.md" >}}
+
 ## Sources Cited 
 
 1. 1870 ? Müller, F. Max. *"Serpent Worship."* In **Chips from a German Workshop, Vol. 2**. London: Longmans, Green. <https://archive.org/details/chipsfromagerma08mlgoog> 

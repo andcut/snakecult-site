@@ -123,6 +123,11 @@ In the coming years, a more exhaustive catalog of X-linked brain genes and their
 **Q 5. Does adding an extra X always lower intelligence?** 
 **A.** Not always, but XXY and XXX generally shift IQ ~10 points lower and raise risks for language, reading, and social-affective disorders, highlighting dose-sensitive X genes rather than global chromosomal imbalance.
 
+## Related Articles
+
+- {{< relref "posts/x-chromosome-cognition-2.md" >}}
+- {{< relref "posts/x-chromosome-cognition-3.md" >}}
+
 ## Sources
 
 1. Skuse et al. *Evidence from Turner's syndrome of an imprinted X-linked locus affecting cognitive function*. **Nature** (1997). [https://www.nature.com/articles/42706](https://www.nature.com/articles/42706) 

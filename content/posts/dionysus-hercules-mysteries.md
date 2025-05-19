@@ -95,6 +95,11 @@ Stoic allegorists tightened the knot: **Herakles' Twelve Labours = twelve cosmic
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/cosmic-herakles.md" >}}
+- {{< relref "posts/cosmic-herakles-dionysus-deepdive.md" >}}
+
 ## Sources
 
 1. Orphic Rhapsodies fr. 78 (Damascius).

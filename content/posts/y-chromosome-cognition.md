@@ -121,6 +121,11 @@ In conclusion, the Y chromosome, despite its modest gene content, plays a multi-
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/x-chromosome-cognition.md" >}}
+- {{< relref "posts/x-chromosome-cognition-2.md" >}}
+
 ## Sources
 
 1. [Raznahan et al., *Globally Divergent but Locally Convergent X- and Y-Chromosome Influences on Cortical Development* (2016)](https://doi.org/10.1093/cercor/bhv336)

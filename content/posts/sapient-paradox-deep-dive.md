@@ -316,6 +316,11 @@ Anatomical modernity is **graded, not binary**. Robust vaults, heavy brow ridges
 
 **Synthesis:** The Sapient Paradox likely reflects **multi-factor convergence**—demography sets the stage, ecological stress cues innovation, gene–culture loops tweak efficiency, and taphonomy skews our window.
 
+## Related Articles
+
+- {{< relref "posts/australia-sapient-paradox.md" >}}
+- {{< relref "posts/sapient-paradox-shallow-dive.md" >}}
+
 ## Sources
 
 1. Hublin J-J., et al. 2017. "New fossils from Jebel Irhoud and the pan-African origin of *Homo sapiens*." *Nature* 546:289-292. 

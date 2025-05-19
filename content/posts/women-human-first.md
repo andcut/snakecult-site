@@ -259,6 +259,11 @@ Sources: Evidence and claims in this report are supported by research in evoluti
 
 --- 
 
+## Related Articles
+
+- {{< relref "posts/women-bring-death-motif.md" >}}
+- {{< relref "posts/weaving-humanity-women-as-civilizers.md" >}}
+
 ## Sources Cited
 
 1. Dunbar, R. I. M. (1992). Neocortex Size as a Constraint on Group Size in Primates. *Journal of Human Evolution*, 22(6), 469-493. [https://etherplan.com/neocortex-size-as-a-constraint-on-group-size-in-primates.pdf](https://etherplan.com/neocortex-size-as-a-constraint-on-group-size-in-primates.pdf)
@@ -275,4 +280,5 @@ Sources: Evidence and claims in this report are supported by research in evoluti
 12. Elephant-World staff. (2023). The Matriarch: The Backbone of the Herd. *Elephant-World.com*. [https://www.elephant-world.com/the-social-structure-of-elephants/](https://www.elephant-world.com/the-social-structure-of-elephants/)
 13. McComb, K., Moss, C., Durant, S. M., Baker, L., & Sayialel, S. (2001). Matriarchs as Repositories of Social Knowledge in African Elephants. *Science*, 292(5516), 491-494. [https://doi.org/10.1126/science.1057895](https://doi.org/10.1126/science.1057895)
 14. Brent, L. J. N., Franks, D. W., Foster, E. A., Balcomb, K. C., Cant, M. A., & Croft, D. P. (2019). Postreproductive Killer Whale Grandmothers Improve the Survival of Their Grandoffspring. *Proceedings of the National Academy of Sciences*, 116(27), 13545-13550. [https://www.pnas.org/doi/10.1073/pnas.1903844116](https://www.pnas.org/doi/10.1073/pnas.1903844116)
+
 

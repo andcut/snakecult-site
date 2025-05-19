@@ -120,6 +120,11 @@ Hence the popularity of serpent-Herakles among **Neoplatonists**: he offered a p
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/cosmic-herakles-dionysus-deepdive.md" >}}
+- {{< relref "posts/herakles-dionysus-mysteries.md" >}}
+
 ## Sources
 
 1. Damascius. *De Principiis* I 316 (Orphic fr. 78).

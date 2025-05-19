@@ -240,6 +240,11 @@ Just be glad you didn't have to get there via snakebite in a dark cave at midnig
 
 [^21]: The beauty of this kind of speculation is that it's unfalsifiable in the grand sense, but it generates lots of little falsifiable nuggets. Maybe future archaeologists will uncover a Paleolithic shrine with snake iconography and remnants of weird biochemistry on it, or geneticists will pinpoint a "consciousness sweep" in our DNA. Or maybe not, and this will remain one of those quirky ideas that lives on only in nerdy footnotes of the internet. Either way, thinking about it has been one hell of a trip for me – no snake venom required.
 
+## Related Articles
+
+- {{< relref "posts/serpent-gift-consciousness-cult.md" >}}
+- {{< relref "posts/etoc-epistemic-exactitude.md" >}}
+
 ## Sources
 
 Title	Author(s)	Year	Type	URL

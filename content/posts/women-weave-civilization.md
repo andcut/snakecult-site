@@ -117,6 +117,11 @@ Andean states preserve one strong exemplar (Mama Ocllo).  Elsewhere, textile myt
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/women-bring-death-motif.md" >}}
+- {{< relref "posts/women-human-first.md" >}}
+
 ## Sources & Footnotes 
 
 [^1]: Hesiod, *Works and Days* 62–105 (Loeb ed.). 

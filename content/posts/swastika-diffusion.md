@@ -249,6 +249,11 @@ As further discoveries are made (new sites, better dating, perhaps even ancient 
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/bullroarer-diffusion.md" >}}
+- {{< relref "posts/campbell-diffusionist.md" >}}
+
 ## Sources
 
 1. Campbell, Joseph. *The Flight of the Wild Gander*, 1969 – discusses Mezine and Paleolithic symbols.

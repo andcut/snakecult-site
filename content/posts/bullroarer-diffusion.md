@@ -149,6 +149,11 @@ Crucially, new discoveries continue to emerge that can refocus attention on this
 
 In conclusion, the worldwide presence of the bullroarer is best understood not as a fluke of parallel evolution but as the legacy of a primordial cultural heritage – one that was shared by early human communities and diffused across the globe, surviving in diverse guises into modern times. Such a view honors the interconnectedness of human societies. It illustrates that even the most "archaic" rites of remote tribes are part of the grand human story, threads of an ancient tapestry rather than isolated oddities. By rehabilitating diffusion as a valid explanatory mechanism, we not only solve the riddle of the bullroarer; we also reconnect anthropology with its original quest: to discover the deep relationships that bind all of humanity. The bullroarer, "man's most sacred ritual object" [^206], has indeed given us a lesson in folklore and prehistory – if we are willing to consider it. It teaches that while technologies and empires rise and fall, certain sounds and symbols can echo unchanged across epochs and continents. It challenges us to listen, literally and figuratively, to the roar of our ancestors – a roar that still resonates in the most distant corners of the world, carrying the message that we, as a species, remember more of our beginnings than we realize.
 
+## Related Articles
+
+- {{< relref "posts/campbell-diffusion-dossier.md" >}}
+- {{< relref "posts/campbell-diffusionist.md" >}}
+
 ## Sources Cited
 
 1. 1885. Lang, Andrew. [*Custom and Myth*](https://archive.org/details/customandmyth02langgoog). London: Longmans, Green & Co.
@@ -199,3 +204,4 @@ In conclusion, the worldwide presence of the bullroarer is best understood not a
 ## Footnotes
 
 *Note: The footnote markers `[^N]` in the text above are placeholders. The full bibliography with corresponding links can be found at: [https://chatgpt.com/share/68054c67-c8bc-8008-a95e-1075bcdc3080](https://chatgpt.com/share/68054c67-c8bc-8008-a95e-1075bcdc3080)*
+

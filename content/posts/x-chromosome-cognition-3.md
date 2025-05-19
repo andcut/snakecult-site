@@ -140,6 +140,11 @@ In conclusion, hemizygosity of X-linked cognition genes accelerates evolutionary
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/x-chromosome-cognition.md" >}}
+- {{< relref "posts/x-chromosome-cognition-2.md" >}}
+
 ## Sources
 
 1. **Villegas-Mirón, C.** et al. 2021. *Chromosome X-wide analysis of positive selection in human populations: Common and private signals of selection and its impact on inactivated genes and enhancers.* **Frontiers in Genetics 12**, 714491. [link](https://doi.org/10.3389/fgene.2021.714491)

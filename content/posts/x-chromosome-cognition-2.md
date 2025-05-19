@@ -241,6 +241,11 @@ A: The X chromosome likely plays a significant role in sex differences in the br
 
 ---
 
+## Related Articles
+
+- {{< relref "posts/x-chromosome-cognition.md" >}}
+- {{< relref "posts/x-chromosome-cognition-3.md" >}}
+
 ## Sources
 
 1. Skuse DH. *Evidence from Turner's syndrome of an imprinted X-linked locus affecting cognitive function*. **Nature** 387 (1997) 705-708. [https://doi.org/10.1038/387705a0] 
