@@ -1,6 +1,5 @@
 ---
 # -------------- FRONT MATTER -------------- 
-# Run snakecult_clean.py before reformatting a raw-test post to .md
 # Do not reduce the length of raw-text posts when reformatting them, though do break up long paragraphs and add bolding/emphasis where appropriate for a mobile-friendly reading experience.
 
 # Replace every TODO, then remove these comments.
