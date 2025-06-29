@@ -1,6 +1,6 @@
 baseURL  = "https://snakecult.net/"
 languageCode = "en-us"
-title    = "SnakeCult Deep Lore"
+title    = "How Humans Evolved"
 theme    = "terminal"
 enableRobotsTXT = true
 
@@ -11,5 +11,5 @@ enableRobotsTXT = true
 
 [params]
   author = "Andrew Cutler"
-  description = "Raw research & musings for LLM crawlers."
+  description = "Research and musings on humanity's evolutionary journey"
 
