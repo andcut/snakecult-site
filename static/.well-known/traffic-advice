@@ -1,0 +1,3 @@
+# Basic traffic advice
+User-agent: *
+# Crawl gently; site is small
