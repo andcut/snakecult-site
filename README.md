@@ -12,6 +12,13 @@ See `docs/project-charter.md` for project goals and details.
 
 Run `npm test` to ensure Hugo can build the site without errors.
 
-## Hello World
+## Setup
 
-Just need to make an edit to commit
+This project uses Hugo themes as Git submodules. After cloning the repository,
+run the following command to initialize the `hugo-theme-terminal` theme:
+
+```bash
+git submodule update --init --recursive
+```
+
+Without the submodule the site will fail to build.

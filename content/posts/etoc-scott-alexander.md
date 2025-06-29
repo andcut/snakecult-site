@@ -25,7 +25,7 @@ tags:
 core_entity: "Serpent"
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
-draft: true
+draft: false
 quality: 5
 ---
 

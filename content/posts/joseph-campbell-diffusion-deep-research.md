@@ -300,22 +300,22 @@ Recent metallurgical studies show **Chukotkan bronze** derives from Siberian ore
 
 ### 4.1 · ASCII Chronology — Campbell's Diffusion Pivot 
 
-**1940s**  
-&nbsp;&nbsp;**1949** — *Hero w/ 1000 Faces*: archetypes foreground, diffusion a footnote  
-**1950s**  
-&nbsp;&nbsp;**1958** — "Symbol Without Meaning": complex motifs *likely* diffused  
-&nbsp;&nbsp;**1959** — *Primitive Mythology*: Frobenius continuum; bull-roarer ≠ accident  
-**1960s**  
-&nbsp;&nbsp;**1962** — *Oriental Mythology*: Indian *Asura* cult **may** cross Pacific  
-&nbsp;&nbsp;**1964** — *Occidental Mythology*: Scythian ↔ Alaska one-eyed gold-guardian  
-&nbsp;&nbsp;**1969** — *Flight of the Wild Gander*: diffusion declared "simpler key"  
-**1970s**  
-&nbsp;&nbsp;**1972** — *Myths to Live By*: Mother-from-the-Sea = Austronesian landfall  
-&nbsp;&nbsp;**1974** — *Mythic Image*: squat-tongue guardian (Gorgon ↔ Maori) juxtaposed  
-**1980s**  
-&nbsp;&nbsp;**1983** — *Hist. Atlas* I.1: shaman + bull-roarer road-map Eurasia➔Oz/Am  
-&nbsp;&nbsp;**1988** — *Hist. Atlas* I.2: Rainbow Serpent surge timed to dingo arrival  
-&nbsp;&nbsp;**1989** — *An Open Life*: "myths travel with people—canoe and caravan"  
+**1940s** 
+&nbsp;&nbsp;**1949** — *Hero w/ 1000 Faces*: archetypes foreground, diffusion a footnote 
+**1950s** 
+&nbsp;&nbsp;**1958** — "Symbol Without Meaning": complex motifs *likely* diffused 
+&nbsp;&nbsp;**1959** — *Primitive Mythology*: Frobenius continuum; bull-roarer ≠ accident 
+**1960s** 
+&nbsp;&nbsp;**1962** — *Oriental Mythology*: Indian *Asura* cult **may** cross Pacific 
+&nbsp;&nbsp;**1964** — *Occidental Mythology*: Scythian ↔ Alaska one-eyed gold-guardian 
+&nbsp;&nbsp;**1969** — *Flight of the Wild Gander*: diffusion declared "simpler key" 
+**1970s** 
+&nbsp;&nbsp;**1972** — *Myths to Live By*: Mother-from-the-Sea = Austronesian landfall 
+&nbsp;&nbsp;**1974** — *Mythic Image*: squat-tongue guardian (Gorgon ↔ Maori) juxtaposed 
+**1980s** 
+&nbsp;&nbsp;**1983** — *Hist. Atlas* I.1: shaman + bull-roarer road-map Eurasia➔Oz/Am 
+&nbsp;&nbsp;**1988** — *Hist. Atlas* I.2: Rainbow Serpent surge timed to dingo arrival 
+&nbsp;&nbsp;**1989** — *An Open Life*: "myths travel with people—canoe and caravan" 
 
 ---
 

@@ -69,8 +69,8 @@ He ticks through kurgan barrows, Yangshao pottery, Javanese seafarers, and Huaca
 
 ## 3 · 1962-68: *Masks of God* Expands the Web
 
-- **Oriental Mythology** (1962) doubles down, tracing rice-cult and serpent worship eastward.  
-- **Occidental Mythology** (1964) drags the bull-games of Crete into a trans-Mediterranean exchange network.  
+- **Oriental Mythology** (1962) doubles down, tracing rice-cult and serpent worship eastward. 
+- **Occidental Mythology** (1964) drags the bull-games of Crete into a trans-Mediterranean exchange network. 
 - **Creative Mythology** (1968) concedes archetypes for creativity but not for historical provenance.
 
 *Net-net*: diffusion is now Campbell's **null hypothesis** for any tight motif cluster.
@@ -107,16 +107,16 @@ He keeps the archetype (Mother/Death/Rebirth) but nails its spread to Magdalenia
 
 ## 7 · Methodological Takeaways
 
-1. **Layer Cake Model**  
-   - **Psychological layer**: innate "inherited images" à la Jung.  
-   - **Historical layer**: seafaring, migration, and empire.  
-   Campbell says you need **both**, but the second decides the *where/when*.
+1. **Layer Cake Model** 
+ - **Psychological layer**: innate "inherited images" à la Jung. 
+ - **Historical layer**: seafaring, migration, and empire. 
+ Campbell says you need **both**, but the second decides the *where/when*.
 
-2. **Radiocarbon > Reverie**  
-   Dates trump dreamwork. If a motif jumps oceans *after* navigable outriggers appear, assume canoes before collective unconscious.
+2. **Radiocarbon > Reverie** 
+ Dates trump dreamwork. If a motif jumps oceans *after* navigable outriggers appear, assume canoes before collective unconscious.
 
-3. **Follow the Pigs**  
-   His favorite diffusion tracer is the sacrificial-pig complex: Near East ➜ Indus ➜ Java ➜ Melanesia ➜ Peru.
+3. **Follow the Pigs** 
+ His favorite diffusion tracer is the sacrificial-pig complex: Near East ➜ Indus ➜ Java ➜ Melanesia ➜ Peru.
 
 ---
 
@@ -135,26 +135,26 @@ He keeps the archetype (Mother/Death/Rebirth) but nails its spread to Magdalenia
 
 ## Footnotes
 
-[^1]: Campbell, *The Masks of God: Primitive Mythology* (1959), ch. 5 "Parallelism or Diffusion?" pp. 202-203.  [oai_citation:0‡Path to the Maypole of Wisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf)  
-[^2]: Ibid., ch. 10 "The Great Diffusion," p. 444.  [oai_citation:1‡Path to the Maypole of Wisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf)  
-[^3]: Campbell & Toms, *An Open Life* (1990) p. 119.  [oai_citation:2‡miembrosadepac.org](https://www.miembrosadepac.org/wp-content/uploads/2015Copia/09/Rensma-Innateness-of-Myth.pdf?utm_source=chatgpt.com)  
-[^4]: Campbell, *Historical Atlas of World Mythology* Vol 2 Pt 1 (1983) Prologue title page.  [oai_citation:3‡PINES](https://www.gapines.org/eg/opac/record/5528480?utm_source=chatgpt.com)  
-[^5]: Campbell, "The Symbol Without Meaning," in *Flight of the Wild Gander* (1969).  [oai_citation:4‡SpringerLink](https://link.springer.com/10.1007/978-0-387-71802-6_93?utm_source=chatgpt.com)  
+[^1]: Campbell, *The Masks of God: Primitive Mythology* (1959), ch. 5 "Parallelism or Diffusion?" pp. 202-203. [oai_citation:0‡Path to the Maypole of Wisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf) 
+[^2]: Ibid., ch. 10 "The Great Diffusion," p. 444. [oai_citation:1‡Path to the Maypole of Wisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf) 
+[^3]: Campbell & Toms, *An Open Life* (1990) p. 119. [oai_citation:2‡miembrosadepac.org](https://www.miembrosadepac.org/wp-content/uploads/2015Copia/09/Rensma-Innateness-of-Myth.pdf) 
+[^4]: Campbell, *Historical Atlas of World Mythology* Vol 2 Pt 1 (1983) Prologue title page. [oai_citation:3‡PINES](https://www.gapines.org/eg/opac/record/5528480) 
+[^5]: Campbell, "The Symbol Without Meaning," in *Flight of the Wild Gander* (1969). [oai_citation:4‡SpringerLink](https://link.springer.com/10.1007/978-0-387-71802-6_93) 
 
 ---
 
 ## Sources
 
-1. Campbell, Joseph. *The Masks of God: Primitive Mythology*. Penguin, 1959.  
-2. Campbell, Joseph. *The Masks of God: Oriental Mythology*. Penguin, 1962.  
-3. Campbell, Joseph. *The Masks of God: Occidental Mythology*. Viking, 1964.  
-4. Campbell, Joseph. *The Masks of God: Creative Mythology*. Viking, 1968.  
-5. Campbell, Joseph. *Flight of the Wild Gander*. Viking, 1969.  
-6. Campbell, Joseph. *Myths to Live By*. Viking, 1972.  
-7. Campbell, Joseph. *An Open Life: In Conversation with Michael Toms*. Harper & Row, 1990.  
-8. Campbell, Joseph. *Historical Atlas of World Mythology*. 5 pts., Harper & Row, 1983-1988.  
-9. Heine-Geldern, Robert. "L'Europe et L'Asie." *Anthropos* 27 (1932): 595-607.  
-10. Layard, John. *Stone Men of Malekula*. Chatto & Windus, 1942.  
-11. Frobenius, Leo. *The Riddle of the Pacific*. London: Yale UP, 1932.  
-12. Larsen, Stephen & Larsen, Robin. *A Fire in the Mind: The Life of Joseph Campbell*. Doubleday, 1991.  
-13. Rensma, Roderick. "The Innateness of Myth." *Religious Studies Review* 37 (2011): 143-159.  
+1. Campbell, Joseph. *The Masks of God: Primitive Mythology*. Penguin, 1959. 
+2. Campbell, Joseph. *The Masks of God: Oriental Mythology*. Penguin, 1962. 
+3. Campbell, Joseph. *The Masks of God: Occidental Mythology*. Viking, 1964. 
+4. Campbell, Joseph. *The Masks of God: Creative Mythology*. Viking, 1968. 
+5. Campbell, Joseph. *Flight of the Wild Gander*. Viking, 1969. 
+6. Campbell, Joseph. *Myths to Live By*. Viking, 1972. 
+7. Campbell, Joseph. *An Open Life: In Conversation with Michael Toms*. Harper & Row, 1990. 
+8. Campbell, Joseph. *Historical Atlas of World Mythology*. 5 pts., Harper & Row, 1983-1988. 
+9. Heine-Geldern, Robert. "L'Europe et L'Asie." *Anthropos* 27 (1932): 595-607. 
+10. Layard, John. *Stone Men of Malekula*. Chatto & Windus, 1942. 
+11. Frobenius, Leo. *The Riddle of the Pacific*. London: Yale UP, 1932. 
+12. Larsen, Stephen & Larsen, Robin. *A Fire in the Mind: The Life of Joseph Campbell*. Doubleday, 1991. 
+13. Rensma, Roderick. "The Innateness of Myth." *Religious Studies Review* 37 (2011): 143-159. 

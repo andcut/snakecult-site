@@ -10,7 +10,7 @@ tags: [Consciousness, Evolution, Mythology, Philosophy, Religion, Psychology]
 author: "Andrew Cutler"
 core_entity: "Serpent"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
-draft: true
+draft: false
 quality: 6
 ---
 
