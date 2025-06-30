@@ -21,12 +21,12 @@ core_entity: "Bull-roarer"
 quality: 6
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
-draft: false
+draft: true
 ---
 
 **TL;DR**
 
-- Tylor introduced the bull-roarer to Victorian anthropology as a *survival* linking classical Greece with living “savage” ritual.  
+- Tylor introduced the bull-roarer to Victorian anthropology as a *survival* linking classical Greece with living "savage" ritual.  
 - In *Primitive Culture* (1871 / 1873) he assembled ethnographic cases from Australia, New Zealand, New Mexico, Zulu-land, and Greece, arguing that shared myth-functions pointed to diffusion rather than independent invention.  
 - Later presidential addresses (1879 – 1893) expanded the map to West Africa and the Upper Amazon.  
 - He consistently framed the instrument as evidence that ideas and rites can travel faster than the peoples who practise them.  
@@ -52,11 +52,11 @@ Tylor never reduced the distribution to a single point of origin; instead he spo
 
 ### 2.1 Instrument-Techne
 
-> “The thing is a rhomboid of light wood, eight or ten inches long, the edges sometimes notched; one end is pierced for a thong.  
-> Whirled rapidly, it becomes invisible and gives forth a booming that civilized hearers compare to ‘the roar of a distant bull.’”  
+> "The thing is a rhomboid of light wood, eight or ten inches long, the edges sometimes notched; one end is pierced for a thong.  
+> Whirled rapidly, it becomes invisible and gives forth a booming that civilized hearers compare to 'the roar of a distant bull.'"  
 > —vol. I, p. 325  [oai_citation:2‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)  
 
-| Locale        | Indigenous name | Primary rite          | Tylor’s précis |
+| Locale        | Indigenous name | Primary rite          | Tylor's précis |
 |---------------|-----------------|-----------------------|----------------|
 | SE Australia | **turndun** | Male initiation | "Voice of Baiame / Daramulun; mortal taboo for women." |
 | New Zealand | **purerehua** | Weather magic | "Whirled to 'draw the wind.'" |
@@ -79,12 +79,12 @@ Tylor highlights three recurring ideas:
 
 ---
 
-## 3 Diffusion vs. Convergence — Tylor’s Case
+## 3 Diffusion vs. Convergence — Tylor's Case
 
-> “Conceive fifty unconnected tribes each hitting on an identical wooden charm, complete with the same thunder taboo, the same myth of the sky-father: the coincidence would be monstrous.”  
+> "Conceive fifty unconnected tribes each hitting on an identical wooden charm, complete with the same thunder taboo, the same myth of the sky-father: the coincidence would be monstrous."  
 > —Presidential Address 1879, p. 7  [oai_citation:5‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf?utm_source=chatgpt.com)  
 
-He concedes independent invention is *possible*—“the slat is mechanically simple”—but insists the ancillaries (myth, taboo, initiation setting) make diffusion “the economy of hypothesis.”
+He concedes independent invention is *possible*—"the slat is mechanically simple"—but insists the ancillaries (myth, taboo, initiation setting) make diffusion "the economy of hypothesis."
 
 ---
 
@@ -106,7 +106,7 @@ The bull-roarer offered:
 
 * A tidy **material index** of ritual ideas in motion.  
 * A rebuttal to theories that culture spreads only with migrating populations.  
-* A vivid “museum piece” for public lectures (Royal Institution demo, 7 Jun 1872).
+* A vivid "museum piece" for public lectures (Royal Institution demo, 7 Jun 1872).
 
 ---
 
@@ -128,7 +128,7 @@ Yes—Palaeolithic specimens (Ukraine c. 18 ka) show the form long predates any 
 [^1]: All Tylor quotations from *Primitive Culture*, 2nd ed. (1873) unless noted; page numbers follow that edition.  
 [^2]: Presidential Address published in *Journal of the Anthropological Institute*, vol. 9 (1880).  
 [^3]: Australian examples from Fison & Howitt, *Kamilaroi and Kurnai* (1880) pp. 267-268.  
-[^4]: Zuñi data from F. H. Cushing, “A Zuñi Priest-hood,” *Century Magazine* (1883).  
+[^4]: Zuñi data from F. H. Cushing, "A Zuñi Priest-hood," *Century Magazine* (1883).  
 [^5]: Greek scholion on Clement of Alexandria, *Protrepticus* II 15.  
 
 ---
