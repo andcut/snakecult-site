@@ -74,8 +74,6 @@ def remove_utm_params(url:str)->str:
 
 # Core cleaning functions
 def scrub(text:str)->str:
-    # Debug: Print code points of characters in the first 100 chars
-    print("DEBUG - First 100 chars code points:", [ord(c) for c in text[:100]])
     for bad, good in RE_MAP.items():
         text = text.replace(bad, good)
     text = re.sub(r"[ ]{2,}", " ", text)
@@ -86,12 +84,12 @@ def fix_space_before_period(text:str)->str:
 
 def dehyphenate(text:str)->str:
     # NOTE: This function is currently disabled in main() due to over-aggressive behavior
-    return re.sub(r'\\b([a-z]+)-([a-z]+)\\b', r'\\1 \\2', text)
+    return re.sub(r'\b([a-z]+)-([a-z]+)\b', r'\1 \2', text)
 
 def randomize_spacing(text:str)->str:
     def maybe_double_space(match):
         return match.group(1) + ("  " if random.random() < 0.2 else " ")
-    return re.sub(r'(\\.)( )', maybe_double_space, text)
+    return re.sub(r'(\.)( )', maybe_double_space, text)
 
 # Optional paragraph chunking
 def split_para(para:str, limit:int, bold:bool)->str:
@@ -146,12 +144,6 @@ def main():
     p.add_argument("--no-bold", action="store_true")
     p.add_argument("--inplace", action="store_true")
     args = p.parse_args()
-
-    # Debug: Print raw bytes
-    with open(args.file, 'rb') as f:
-        raw_bytes = f.read()
-        print("DEBUG - First 100 bytes:", raw_bytes[:100])
-        print("DEBUG - Hex representation:", raw_bytes[:100].hex())
 
     text = args.file.read_text(encoding="utf-8")
 

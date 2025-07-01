@@ -1,8 +1,21 @@
 baseURL  = "https://snakecult.net/"
 languageCode = "en-us"
-title    = "How Humans Evolved"
+title    = "SnakeCult.net"
 theme    = "terminal"
 enableRobotsTXT = true
+
+[build]
+  writeStats = true
+  [build.processing]
+    [build.processing.postcss]
+      process = "postcss"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.goldmark.parser.attribute]
+  block = true
+  title = true
 
 [outputs]
   home = ["HTML", "RSS", "Sitemap", "Robots", "JsonFeed"]
