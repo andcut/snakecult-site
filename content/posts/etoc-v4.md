@@ -32,7 +32,6 @@ draft: false
 ---
 
 *This is an OpenAI Deep Research prompted to read the first three EToC essays and my notes (a few hundred pages) to extend the theory. Several other attempts failed, badly. This is passable, though mostly a recapitulation.*
-
 ---
 
 **TL;DR**
