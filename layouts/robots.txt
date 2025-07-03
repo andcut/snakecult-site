@@ -1,0 +1,6 @@
+{{- /* robots.txt output */ -}}
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: {{ .Site.BaseURL }}sitemap.xml 

@@ -11,7 +11,7 @@ author: "Andrew Cutler"
 core_entity: "Serpent"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: true
-quality: 6
+quality: 5
 ---
 
 > *"In the beginning was the Word… and the Word became flesh."* — John 1 : 1, 14

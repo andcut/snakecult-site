@@ -5,11 +5,16 @@ theme    = "terminal"
 enableRobotsTXT = true
 
 [outputs]
-  home = ["HTML", "RSS", "Sitemap", "Robots", "JsonFeed"]
+  home = ["HTML", "RSS"]
   section = ["HTML"]
   page = ["HTML"]
 
 [params]
   author = "Andrew Cutler"
   description = "Research and musings on humanity's evolutionary journey"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
