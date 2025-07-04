@@ -18,3 +18,20 @@ enableRobotsTXT = true
     [markup.goldmark.renderer]
       unsafe = true
 
+defaultContentLanguage = "en"
+# Keep English pages at root URL; Spanish under /es/
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    weight = 1
+    languageName = "English"
+    title = "How Humans Evolved"
+    languageCode = "en-us"
+  
+  [languages.es]
+    weight = 2
+    languageName = "Español"
+    title = "Cómo Evolucionaron los Humanos"
+    languageCode = "es-mx"
+

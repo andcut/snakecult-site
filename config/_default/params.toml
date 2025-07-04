@@ -5,6 +5,7 @@ author = "Andrew Cutler"
 logo = "images/ouroboros2.svg" # Path relative to assets directory
 # Theme specific params
 showMenuItems = false # Explicitly try to trigger the 'show all items' logic in menu.html
+showLanguageSelector = true
 
 sameAs = [
   "https://scholar.google.com/citations?user=q9xechAAAAAJ&hl=en",

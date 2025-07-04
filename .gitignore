@@ -24,4 +24,16 @@ ehthumbs.db
 Thumbs.db
 
 # Hugo stats file
-hugo_stats.json 
+hugo_stats.json
+
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Translation experiments and test builds
+translation_experiments/
+public_test/
+
+# Large data dumps
+vom_posts/ 
