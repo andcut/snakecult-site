@@ -1,0 +1,4 @@
+[console_scripts]
+snakecult-translate-batch = snakecult_translate.cli_batch_async:main
+snakecult-translate-one = snakecult_translate.cli_one:main
+snakecult-translate-parallel = snakecult_translate.cli_parallel:main

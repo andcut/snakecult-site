@@ -1,0 +1,110 @@
+[
+  {
+    "custom_id": "translate-0",
+    "src": "content/posts/bullroarer-diffusion.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/bullroarer-diffusion.md",
+    "file_idx": 0,
+    "chunk_idx": 0,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-1",
+    "src": "content/posts/bullroarer-diffusion.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/bullroarer-diffusion.md",
+    "file_idx": 0,
+    "chunk_idx": 1,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-2",
+    "src": "content/posts/bullroarer-diffusion.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/bullroarer-diffusion.md",
+    "file_idx": 0,
+    "chunk_idx": 2,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-3",
+    "src": "content/posts/bullroarer-diffusion.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/bullroarer-diffusion.md",
+    "file_idx": 0,
+    "chunk_idx": 3,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-4",
+    "src": "content/posts/late-cognitive-revolution-theorists.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/late-cognitive-revolution-theorists.md",
+    "file_idx": 1,
+    "chunk_idx": 0,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-5",
+    "src": "content/posts/late-cognitive-revolution-theorists.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/late-cognitive-revolution-theorists.md",
+    "file_idx": 1,
+    "chunk_idx": 1,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-6",
+    "src": "content/posts/late-cognitive-revolution-theorists.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/late-cognitive-revolution-theorists.md",
+    "file_idx": 1,
+    "chunk_idx": 2,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-7",
+    "src": "content/posts/late-cognitive-revolution-theorists.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/late-cognitive-revolution-theorists.md",
+    "file_idx": 1,
+    "chunk_idx": 3,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-8",
+    "src": "content/posts/swastika-diffusion.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/swastika-diffusion.md",
+    "file_idx": 2,
+    "chunk_idx": 0,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-9",
+    "src": "content/posts/swastika-diffusion.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/swastika-diffusion.md",
+    "file_idx": 2,
+    "chunk_idx": 1,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-10",
+    "src": "content/posts/swastika-diffusion.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/swastika-diffusion.md",
+    "file_idx": 2,
+    "chunk_idx": 2,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-11",
+    "src": "content/posts/swastika-diffusion.md",
+    "dst": "translation_experiments/batch_chunked_large/posts/swastika-diffusion.md",
+    "file_idx": 2,
+    "chunk_idx": 3,
+    "total_chunks": 4,
+    "is_chunk": true
+  }
+]

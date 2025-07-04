@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+src/snakecult_translate/__init__.py
+src/snakecult_translate/cli_batch_async.py
+src/snakecult_translate/cli_one.py
+src/snakecult_translate/cli_parallel.py
+src/snakecult_translate/core.py
+src/snakecult_translate/models.py
+src/snakecult_translate/prompts.py
+src/snakecult_translate/utils.py
+src/snakecult_translate.egg-info/PKG-INFO
+src/snakecult_translate.egg-info/SOURCES.txt
+src/snakecult_translate.egg-info/dependency_links.txt
+src/snakecult_translate.egg-info/entry_points.txt
+src/snakecult_translate.egg-info/requires.txt
+src/snakecult_translate.egg-info/top_level.txt

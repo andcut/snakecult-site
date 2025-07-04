@@ -1,0 +1,49 @@
+Metadata-Version: 2.1
+Name: snakecult-translate
+Version: 0.1.0
+Summary: A modular translation system for Hugo multilingual sites
+Home-page: https://github.com/snakecult/snakecult-site
+Author: Andrew Cutler
+Author-email: andrew@vectorsofmind.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: openai>=1.0.0
+Requires-Dist: python-frontmatter>=1.0.0
+Requires-Dist: python-dotenv>=1.0.0
+Requires-Dist: tiktoken>=0.5.0
+Requires-Dist: pyyaml>=6.0
+
+# SnakeCult.net Research Site
+
+This repository contains the source code and content for the SnakeCult.net website, built with Hugo.
+
+The site serves as a research dump exploring the Eve Theory of Consciousness and related topics in gene-culture coevolution.
+
+Generated pages are precompressed with Brotli to maximize transfer speed, including all SVG assets.
+
+See `docs/project-charter.md` for project goals and details.
+
+## Testing
+
+Run `npm test` to ensure Hugo can build the site without errors.
+
+## Setup
+
+This project uses Hugo themes as Git submodules. After cloning the repository,
+run the following command to initialize the `hugo-theme-terminal` theme:
+
+```bash
+git submodule update --init --recursive
+```
+
+Without the submodule the site will fail to build.

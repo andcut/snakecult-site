@@ -1,0 +1,23 @@
+[
+  {
+    "custom_id": "translate-0",
+    "src": "content/es/recent.md",
+    "dst": "translation_experiments/batch_chunked/es/recent.md",
+    "file_idx": 0,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-1",
+    "src": "content/recent.md",
+    "dst": "translation_experiments/batch_chunked/recent.md",
+    "file_idx": 1,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-2",
+    "src": "content/topics/_index.md",
+    "dst": "translation_experiments/batch_chunked/topics/_index.md",
+    "file_idx": 2,
+    "is_chunk": false
+  }
+]

@@ -4,6 +4,24 @@ title = 'SnakeCult.net'
 theme = 'terminal'
 enableRobotsTXT = true # Explicitly enable robots.txt generation/handling
 
+# Multilingual configuration
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false   # keep English at root /
+
+[languages]
+  [languages.en]
+    weight = 1
+    languageName = "English"
+    title = "SnakeCult.net"
+    
+  [languages.es]
+    weight = 2
+    languageName = "Español"
+    title = "SnakeCult.net"
+    contentDir = "content/es"
+    [languages.es.params]
+      lang = "es"
+
 # Needed for processing SCSS / PostCSS
 [build]
   writeStats = true
@@ -19,3 +37,6 @@ enableRobotsTXT = true # Explicitly enable robots.txt generation/handling
 [markup.goldmark.parser.attribute]
   block = true
   title = true
+
+[params]
+  showLanguageSelector = true
