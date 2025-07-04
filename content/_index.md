@@ -1,7 +1,7 @@
 ---
 title: "Eve Theory of Consciousness | Research"
 description: "Evidence-driven deep dives on mind, myth & gene-culture co-evolution. Deep cuts from the primordial snake cult."
-keywords: ["Eve Theory","consciousness","human origins","gene–culture co-evolution","psychometrics"]
+keywords: ["Eve Theory","consciousness","human origins","gene–culture co-evolution","psychometrics","vectors-of-mind"]
 type: "website"
 draft: false
 ---

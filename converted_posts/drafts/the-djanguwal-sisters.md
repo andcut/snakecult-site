@@ -1,0 +1,196 @@
+---
+title: "The Djanguwal Sisters"
+date: "2025-07-04"
+lastmod: "2025-07-04"
+slug: "the-djanguwal-sisters"
+description: "The Sapient Paradox posits that something was missing in many cultures before the Holocene transition. If we could study a human group 15,000 years ago, they would not be like holdout hunter-gatherers..."
+keywords:
+  - "vectors-of-mind"
+  - "djanguwal"
+  - "sisters"
+about: ['vectors-of-mind', 'blog-archive']
+tags: []
+author: "Andrew Cutler"
+license: "https://creativecommons.org/licenses/by-sa/4.0/"
+draft: True
+quality: 1
+original_id: "145897340"
+original_url: "https://www.vectorsofmind.com/p/the-djanguwal-sisters"
+---
+*From [Vectors of Mind](https://www.vectorsofmind.com/p/the-djanguwal-sisters) - images at original.*
+
+---
+
+The Sapient Paradox posits that something was missing in many cultures before the Holocene transition. If we could study a human group 15,000 years ago, they would not be like holdout hunter-gatherers that exist at the margins of today’s world or even like those tribes 5,000 years ago. All cultures today have survived contact with abstract ideas about the future, god, and right conduct. The closest living analog to the “pre-sapient” lifestyle is that of the Piraha, a tribe of about 500 in the Amazon rainforest. They speak a language without recursion, limited past or future tense, a borrowed set of pronouns (which they tend not to use), and only the numbers _one_ , _two_ , and _many_. They asked one field worker to teach them to count but made no progress after 8 months of daily lessons. They have no god, creation myth, or rituals. (Well, with one exception: they will sometimes dance around a venomous snake.) In other words, they lack many human universals. The Sapient Paradox asks why that seems to be the norm just 15,000 years ago. Looking to Australia, we are interested in when modern behavior is widespread, if there is evidence that it is spread _within_ the continent, and ultimately, if it spread _into_ the continent.
+
+## A continent-scale corollary
+
+
+[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!_bJq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff54b4e74-e34a-4150-bb74-c8311d974538_626x588.jpeg)X-ray style painting of a Dreamtime visitor, sometimes identified as the Great Mother, one of the Djanggawul Sisters, or a Mimi spirit. Figures at the bottom are Aboriginals in ceremonial dress. 
+
+Until about 7,000 years ago, Australian Aboriginals used tools that were more typical of Neanderthals or Homo Erectus—tools hundreds or even a million years out of date[^1]. Then, about 7,000 years ago, a variety of fine stone tools appeared that were only invented in Europe about 30,000 years ago. We tend to lump all stone tools as primitive, but this is a quantum leap up the tech tree. Like a civilization producing bamboo rafts for tens of thousands of years, and then suddenly, the Mayflower or USS Constitution. Noting this and the limited evidence for “external symbolic storage” (i.e., creating artifacts that reflect symbolic ideas), archeologists Moore and Brumm [argue Behavioral Modernity](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1386&context=scipapers#:~:text=This%20review%20finds%20that%20the,the%20origin%20of%20modern%20behaviour) is only present in Australia starting about 7,000 years ago[^2]. This is the prime time frame 
+
+Coinciding with the new blades 
+
+“fundamental transformation of human consciousness, as well as of weapons and tools” connects to archaic vs modern human, Enabled by storing symbols from generation to generation, shamanism, and an understanding of the human condition.
+
+[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!jvKj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79b99d4b-8f1b-4a9e-b145-a4d754d88257_348x192.png)
+
+“Simultaneously there was an increase, as Pfeiffer points out, in population density, with an associated social problem of conflict control, to which formidable institutions and occasions had to be addressed, incorporating affective symbolic figurations through which the regulations of a corpus of socially constructive rituals became pictorially encoded for storage and transmission through generations.”
+
+[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!-jy7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b2d4677-e2e7-4121-ac0e-9e27f2c51d41_1063x628.png)
+
+  1. 10 kya aboriginals super primitive
+
+    1. Mode 1 or Mode 3 tools
+
+    2. Not Behavioral Modernity wrt symbols
+
+  2. Huge changes all of a sudden in the early/mid holocene
+
+    1. technology, language, religion, art
+
+    2. Language is the best studied
+
+      1. all the modern explanations
+
+      2. Too materialistic! (and can’t really explain it)
+
+  3. In the before times, these were commonly thought to be produced by someone coming from outside
+
+    1. Joseph Campbell and X-ray-style art
+
+    2. They always come from the North
+
+  4. Dreamtime is a very good match
+
+    1. Rainbow Serpent / Mimi spirits / Great Mother / Djanguwal Sisters / Ullakupera are all said to come
+
+    2. Dreamtime myths are linked to art
+
+      1. Rainbow serpent starts 6kya
+
+        1. authors argue it is quasi-historical b/c it gets details right.
+
+      2. Mimi spirits start 6kya (often mixed w/ x-ray)
+
+      3. Seven sisters often linked, which is said to have diffused
+
+    3. Bullroarer rituals are all across the world
+
+  5. Dreamtime being older than 6kya causes all sorts of problems
+
+    1. Why not shared with Sahul?
+
+    2. Why should it last that long?
+
+    3. Enigmas of Australian prehistory.
+
+
+
+
+archeologists Moore and Brumm [argued against the concept of Behavioral Modernity](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1386&context=scipapers#:~:text=This%20review%20finds%20that%20the,the%20origin%20of%20modern%20behaviour) by pointing out that it is only consistently found in Australia starting 7,000 years ago.
+
+[As the Arrernte tell it](https://sacred-texts.com/aus/ntca/ntca12.htm), the first people were carved from proto-humans—amorphous blobs without definite arms, legs, or fingers. The Ullakupera, or “self-existing” ones went across the land performing the operation that transformed these proto-humans into mortals. They also gave these new humans clan names, and instituted a set of tribal laws concerning marriage and ritual. Incest was out, and trial by fire ([literally](https://www.webpages.uidaho.edu/~rfrey/220aboriginal_passage.htm#:~:text=In%20the%20Aranda%20version%20of,associated%20with%20adult%20male%20initiation.)) was in. These carved-and-taught humans are the first ancestors of the Arrernte people. The bloody world dawn is reenacted every year with initiation rites featuring scarification and subincision; the bodies of boys ready to become men are cut like their forefathers, and they are taught the laws and mysteries of old. Aboriginal Australians across the continent tell similar [Dreamtime](https://en.wikipedia.org/wiki/The_Dreaming) myths of tutors at the beginning of time establishing language, law, and similar initiations. This is interpreted as Australian religion sharing a common root deep in the past. Why else would we be able to speak of, for example, the pan-Australian Rainbow Serpent?
+
+However, things get strange when tracking the origin of Dreamtime myths. These myths are often connected to specific scenes and styles of rock art, which the next generation reproduces after they learn the myth. For example, the image above is the Great Mother floating above aboriginals in ceremonial dress. Globally, this type of rock art is called X-ray-style for the way the skeleton of a figure is depicted.
+
+It first appears The style may date as far back as c. 8000 BC in the Mesolithic (rock) art of northern Europe.[[1]](https://en.wikipedia.org/wiki/X-ray_style_art#cite_note-auto-1)[[2]](https://en.wikipedia.org/wiki/X-ray_style_art#cite_note-auto1-2) By c. 2000 BC it (apparently) spread to Africa, South Asia, and Australia[[4]](https://en.wikipedia.org/wiki/X-ray_style_art#cite_note-4) where it is most commonly found today
+
+Like other civilizing figures, she bestowed headdresses and sacred ritual objects like the [bullroarer](https://www.vectorsofmind.com/i/136623669/bullroarer-totem-of-the-diffusionists) and taught the people to dig wells. 
+
+_Each generation has to copy paintings from before. The first x-ray paintings were done thousands of years ago before "anyone been born". 'Blackfellows' have to copy them so that they will learn the old stories and tales of the past (i.e. extending back to the Dreamtime). Mimi knew the stories about each animal, long while ago, and taught Aborigines. You had to have the story first before you could draw them --- from mother, grandmother, father_
+
+From: FROM RAINBOW SNAKES TO 'X-RAY' FISH: THE NATURE OF THE RECENT ROCK PAINTING TRADITION OF WESTERN ARNHEM LAND, AUSTRALIA file:///C:/Users/andre/Downloads/Paul%20S.C.%20Tacon%20Phd%20thesis%201989_.pdf 
+
+Dreamtime stories are connected to cave art that goes back thousands of years. But the Rainbow Serpent is [only featured in the last 6,000 years](https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1834-4453.1996.tb00355.x). This is despite the practice of rock art going back tens of thousands of years on the continent (if in limited form before 10,000 years). One can propose the Rainbow Serpent has been worshipped for 50,000 years, since the beginning of human occupation of the continent. Then, 6,000 years ago, for whatever reason, tribes across the country started depicting their shared deity in rock art. But that requires 44,000 years of missing serpent. It’s more parsimonious to say the Rainbow serpent spread 6,000 years ago.
+
+A similar pattern emerges with Australian languages. Various linguists argue for the existence of [Proto-Australian](https://www.academia.edu/34050070/Reconstructing_remote_relationships_Proto_Australian_noun_class_prefixation). That is, there are similarities detectable in extant languages that are not due to chance or borrowing, and all Australian languages have a child relationship to the proposed Proto-Australian. To see why this is surprising, consider the situation in Eurasia. Linguists don’t look for cognates between Basque and Chinese because the parent language existed so long ago that any similarities have been washed out. The similarities in common among Australian languages imply either they change far more slowly than languages elsewhere or the proto-language is fairly young. Indeed, [some do argue](https://www.researchgate.net/profile/David-Rose-15/publication/270415203_Phylogenesis_of_the_Dreamtime/links/588fa04faca272bc14bc5dc3/Phylogenesis-of-the-Dreamtime.pdf) that Australian culture is simply much more conservative:
+
+[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!SECl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52ea0d6e-5c5d-40ce-bfd9-b31128279547_445x312.png)
+
+Beyond suggesting some Australian cognates are older than Behavioral Modernity, this runs into the problem of Papua New Guinea (PNG), which was connected to Australia until 8,000 years ago as a single continent [Sahul](https://en.wikipedia.org/wiki/Sahul). If Australian languages bear deep marks from a 45,000-year-old proto-language, then why should it not be Proto-Sahul? The yawning difference between PNG and Australian languages suggests there was no Proto-Suhal, which means Proto-Australian is not that old. There _are_ some similarities between PNG and Australian languages, namely the proto-first-person singular pronoun being *na or *nga. However, in PNG, it is thought to have entered the island [about 10,000 years ago](https://www.vectorsofmind.com/i/103480693/papua-new-guinea), which again supports recent timelines for proto-Australian. These are not the idle considerations of a blogger; the enigma of Australian linguistic prehistory is outlined in [this book chapter](https://academic.oup.com/book/33524/chapter-abstract/287867123?redirectedFrom=fulltext&login=false).
+
+This is a microcosm of the Sapient Paradox. Globally, there are human universals that go back just 10,000 or 40,000 years. How and why did they become universal? In Australia, the continent is spanned by the Rainbow Serpent, Dreamtime myths, and a language family. If you follow the trail of bones or genes, Australian people have been there for more than 50,000 years. And yet, it’s hard to see how these cultural attributes go that far back. If the root is 50,000 years old, why are languages and religion still so similar? Further, many of these similarities are new phenomena. No place in the world was making art 50,000 years ago, and there would be tens of thousands of years before abstract thought is demonstrated[^3]. The simplicity of Stone Age culture is why some linguists believe full recursive language was only invented in the last 10,000-20,000 years. The situation is particularly stark in Australia; archeologists Moore and Brumm [argued against the concept of Behavioral Modernity](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1386&context=scipapers#:~:text=This%20review%20finds%20that%20the,the%20origin%20of%20modern%20behaviour) by pointing out that it is only consistently found in Australia starting 7,000 years ago.
+
+In actuality, progress has been made in understanding Australian linguistic prehistory. The Pama-Nyungan family covers 90% of the continent, already a surprising fact given language families are rarely more than 10,000 years old[^4]. A multidisciplinary team modeled linguistic and genetic data together and [found](https://langev.com/pdf/442ac40068c1d8a67a561d0d7f0fcd95c429c265.pdf) the best model had proto-Pama-Nyungan spreading from the north about 6,000 years ago.
+
+[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!w1ju!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb48827ea-1769-4e8e-9f43-9a47806aa549_848x637.jpeg) **[Geographical dispersal of Pama–Nyungan languages](https://www.shh.mpg.de/863932/pama-nyungan-languages#:~:text=One%20attempt%20to%20explain%20this,such%20a%20long%2Dtime%20scale.) \- **The blue shading indicates time depth - darker colours indicate earlier inferred dates. Letters indicate where the main Pama-Nyungan subgroups are inferred to have emerged. Yellow lines show the inferred relationships between the main subgroups.
+
+As Science magazine [explains](https://www.science.org/content/article/why-australia-home-one-largest-language-families-world):
+
+> _“Both types of data [genetic and linguistic] show that the population expanded from the northeast to the southwest. This migration occurred within the last 10,000 years and likely came in successive waves, Bowern says, in which existing languages were overlaid by new ones. This expansion also seems to correspond with a stone tool innovation called a backed edge blade. But the accompanying gene flow was just a trickle, suggesting that only a few people had an outsize cultural impact, Eske Willerslev [a prominent geneticist] says. ‘It's like you had two men entering a village, convincing everyone to speak a new language and adopt new tools, having a little sexual interaction, then disappearing,’ he says. Then the new languages continued to develop, following the older patterns of population separation. ‘It's really strange but it's the best way we can interpret the data at this stage.’”_
+
+It’s noteworthy that diffusion within Australia invariably starts from the North, and moves to the rest of the continent. For example, Attenbrow et al [show](https://www.jstor.org/stable/40386891) that backed blades first appear in the North 4,000-7,000 years ago, but not in the Southern desert until 1200 AD. They note that this is relevant to the debate on whether the blade technologies are due to foreign contact. Joseph Campbell adds X-ray-style art, boomerangs, shields, and the dingo[^5]. [Brace et al add](https://winnspace.uwinnipeg.ca/bitstream/handle/10680/1358/Australian%20Tooth-Size%20Clines%20and%20the%20Death%20of%20a%20Stereotype.pdf?sequence=1&isAllowed=y) edge-ground axes, spear-throwers[^6], and knotted netting:
+
+[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!9MFD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6959dc22-8730-4505-8684-0ca9dfcc0be8_1180x1274.png)
+
+Brace et al propose this cultural package came about 7,000 years ago from PNG migrants,[^7] but that work was done in 1980, before the advent of molecular genetics. We now have a clearer picture. [A recent paper on the role of genetics](https://yumi-sabe.aiatsis.gov.au/sites/default/files/outputs/2024-05/1-s2.0-S104061822100063X-main1%20%281%29.pdf) begins, “It has long been accepted that the Indigenous groups of Australia’s Cape York Peninsula [NE Australia] have numerous cultural traits that were adopted from people in New Guinea and/or the Torres Strait Islands after the formation of the Torres Strait around 8000 years ago.” It then makes the case that the diffusion was primarily culture, not people, but notes that Aboriginal DNA does show some influence from PNG. If there were a 23-and-me style product based on the latest research, it would consistently show [Aboriginals as having a few percent of PNG heritage](https://pubmed.ncbi.nlm.nih.gov/30585290/), and those in Cape York reaching as high as 15%. So, a case can be made for a trickle but not anything like an invasion. 
+
+Australia has a reputation as a cultural island, isolated from innovations that have taken Eurasia by storm. This is a natural place to invalidate Memetic Eve, whose ideas must spread worldwide, which likely happened around the end of the Ice Age. Yet even in Australia there are many examples of outside influence, potentially even related to the cultural changes that swept the continent in the last 10,000 years.
+
+## Dreamtime revisited
+
+
+Ten thousand years ago the [Australian cultural toolkit resembled Europe and Africa in the Lower and Middle Paleolithic](https://ro.uow.edu.au/cgi/viewcontent.cgi?article=1386&context=scipapers#:~:text=This%20review%20finds%20that%20the,the%20origin%20of%20modern%20behaviour) (3,300-300 kya and 300-30kya, respectively). Showing up with the latest stone tools from Asia or PNG would have been like handing Cortez a machine gun. And the tools would not have been the most mindblowing technology. Imagine the wealth of new ideas, like marriage, recursive grammar, serpent worship, or the knowledge that there are foreign lands inhabited by these strange humans. How would that be recalled in myth?
+
+There is a genre of research that looks at flood myths and demonstrates that they are a cultural memory of when sea levels rose about 10,000 years ago. One such author [concludes](https://patricknunn.org/writing/books/the-edge-of-memory-ancient-stories-oral-tradition-and-the-post-glacial-world/recalling-post-glacial-sea-level-rise/):
+
+> “ _Science could have learned more and sooner had it treated the ‘stories’ of ancient Australians (and people of other non-western cultures) more seriously as potential sources of information about the past, had it not pejoratively dismissed such stories as entertainments rather than expository, characterized the storytellers as literati rather than true scientists communicating their wisdom along unfamiliar pathways_ ”. 
+
+One wonders why that should only apply to geography. Some stories are about changes in coastline, but most are about changes in perspective. If information was preserved about sea level rise, surely Aboriginal myths are also informative as to why Pama-Nyungan and the Rainbow Serpent spread more recently. Both mark a totally new way of life.
+
+Rock art in Northern Australia depicts visitors like the Great Mother or Mimi spirits who established culture, law, language, and initiation rituals. They created valleys and gorges, and taught the people to dig wells. Some of these myths even say the Great Mother arrived on a canoe from a big island to the East. PNG is right there, [traversable by canoe](https://www.redbull.com/us-en/zeb-walsh-torres-strait-paddle).
+
+In many parts of Australia, these Dreamtime tutors are [connected with the Pleiades star cluster](https://web.archive.org/web/20230307181625/https://www.kateowengallery.com/page/The-Seven-Sisters-Dreamtime-Story)[^8], which [represents Seven Sisters in Australia and dozens of cultures worldwide](https://www.vectorsofmind.com/i/135720028/why-are-there-seven-sisters), even though only six stars are visible. Because of this, the myth is universally accepted as having diffused worldwide. This is usually assumed to be 50,000-100,000 years ago. But again, is there any evidence that myths can last that long? The Seven Sisters [appear in rock art](https://www.tandfonline.com/doi/full/10.1080/03122417.2022.2084666) but, like the Rainbow Serpent, nothing that has been dated past 10,000 years. Many other cultural items entered Australia in the last 10,000 years, why not the Seven Sisters? Even if one rejects all the examples presented here, the Dingo certainly is an import as dogs were domesticated in Eurasia during the Ice Age. 
+
+One of the authors of the Pama-Nyungan study [adds](https://www.shh.mpg.de/863932/pama-nyungan-languages#:~:text=One%20attempt%20to%20explain%20this,such%20a%20long%2Dtime%20scale.):
+
+> _“A number of fascinating proposals [for why Pama-Nyungan spread] have been put forward, including innovative stone tools, food processing technologies and new ceremonial and marriage practices, although as yet the precise mechanisms at work remain a mystery.”_
+
+Since then, there have been attempts to explain the mystery. A [2021 dissertation](https://etheses.dur.ac.uk/13981/) compares the diffusion of languages, rock art motifs, mortuary practices, and initiation rituals, finding they all took the same path from the North. It argues that new forms of “costly” initiation (including penile mutilation[^9]) drove the spread of the rest, emphasizing the salutary effects of torture in solidifying a group. Given the package spread around the time Behavioral Modernity was first demonstrated, perhaps the innovation was more fundamental than the art of hazing. My bet is something about how “I” relates to the material and social planes. What was the creation myth before the Dreamtime stories spread? Maybe nothing? If the memetic foundation of sapient culture was not present at our genetic root, it must have diffused at some point across the whole world, Australia inclusive. 
+
+This aligns with the findings of archeologists who discuss a Sapient Paradox globally or the advent of Behavioral Modernity in Australia some 7,000 years ago. Or with linguists when they discuss the development of recursive grammar in the last 20,000 years. How did certain cultural traits become universal if they were only evidenced long after our genetic roots?
+
+## Conclusion
+
+
+[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!k3ss!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01f574ac-859a-4a3f-a0a2-dff1a4ba3c22_1280x1664.jpeg)Adam and Eve, William Blake, 1808
+
+> **Memetic Eve** : _The person to have the first sapient thought and manage to share that with others such that it became the foundation of human culture._
+
+I can’t see a reason to reject Memetic Eve. All that needs to hold is humans had the latent ability to understand some uniquely human ideas before those were actually discovered. Once they were discovered, they would likely have been fit—aided survival and reproduction—and therefore would have spread and persisted. Imagine the first tribe to have a creation myth or pronouns. Those ideas would be rushing into a void whenever the inventors made contact with their culturally bereft neighbors. Why wouldn’t pronouns spread once they were invented?
+
+Human genetic roots go back as far as [300,000 years](https://d1wqtxts1xzle7.cloudfront.net/67182827/652.full-libre.pdf?1620286264=&response-content-disposition=inline%3B+filename%3DSouthern_African_ancient_genomes_estimat.pdf&Expires=1718072017&Signature=L0E5GFRixA8y6lUh3XEqTubZzvqHR4s5pDXnpZrSxe03EsVEJJqnCLESlnfV4sPLuYfDFWtuZ3xCMPDbsvsd52xOx5sG-yW6xtDdwcA-isjUILTFat-lWxMmYUZbkBnkHr2WbCxUv2e48hK6XxIq9tSAl6W-Uf860Z5366vazMwCLjj3thvq~AXkoPdG2XQWcagfIW4QtXavr0iAaTkDl~TgFa~3VJSYNV9fo80D2OtBhbgNIudzEuAbL~woMHo7qcn2O~CtTDc1jzUrS4bLI6i5JqM39Cgu5ZfxNKPHQiB82pmnC4t5CKD3aAkvu-4XCj5zmP2usiR7FFffaM0NKQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA). Memetic Eve could be more recent, but this would not be interesting if she lived, say, 100,000 years ago. Her story would be as lost to time as Mitochondrial Eve. But sapience is only widespread in the last 10,000 years (or, more generously, 50,000). In that time frame, we have many tools to understand the spread of ideas, including comparative mythology. Myriad myths have lasted that long, including those about the discovery of self-awareness, such as [Atum](https://en.wikipedia.org/wiki/Atum), [Aham](https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc117939.html), and [Adam](https://www.biblegateway.com/passage/?search=Genesis%202%3A25-3%3A24&version=NIV)[^10]. Further, even if we never understand exactly what Memetic Eve discovered, her existence in the last 50,000 years completely solves the Sapient Paradox. The time delay with respect to genetic roots is no issue, as ideas can cross genetic lines.
+
+Memetic Eve is the only coherent answer to the Sapient Paradox in light of the many examples of worldwide cultural diffusion. If stories like the Seven Sisters are found worldwide, they must have either lasted 50,000-100,000 years, or indigenous cultures are much more memetically intertwined than we give them credit for. If myths can last 100,000 years, then surely there are some cultural memories of the psycho-cultural revolution 10,000 years ago. On the other hand, if myths spread after 50,000 years, then sapience could as well. In either case, founding myths across the world tell of a time when their ancestors either discovered the human condition, or it was brought to them by strange visitors. [Mircea Eliade](https://en.wikipedia.org/wiki/Mircea_Eliade), one of the founders of modern comparative religion, describes these visitors as:
+
+> _mythical figures that are in some way connected with a terrible but decisive moment in the history of humanity. These beings revealed certain sacred mysteries or certain patterns of social behavior, which radically altered men’s mode of existence and, consequently, their religious and social institutions. ~_ Rites and Symbols of Initiation: The Mysteries of Birth and Rebirth (1984)
+
+He identifies this as a worldwide pattern, not just limited to Australia. 
+
+In this post, I introduced Memetic Eve and sketched out when and how fundamental ideas could have spread in Australia. I’d like to flesh that out with more granular treatment of dates, uncertainty, and Ice Age cultural accomplishments (art, burial, etc). Then I’ll write about what other continents looked like at the cusp of sapience. What I find most interesting is that the cultural building blocks that seem to have spread in Australia—[mystery cults that use the bullroarer](https://www.vectorsofmind.com/i/136623669/bullroarer-totem-of-the-diffusionists), creation stories involving snakes, and the pronoun *na—also occur in other continents in much the same configuration. The plan is to look at the transition to sapience region by region until a global picture comes into view. Subscribe to join the ride.
+
+This post can potentially reach a wide audience. Please help by sharing!
+
+[Share](https://www.vectorsofmind.com/publish/post/145897340?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+[^1]: “Foley & Lahr’s (1997) classification of Australian Pleistocene [pre 10,000 BC] assemblages as ‘Mode 3’ seems optimistic. An equally strong case can be made that most of the stone technology is ‘Mode 1’ in character although the vague definition of technological ‘modes’ clouds the issue.”​ ~Symbolic Revolutions and the Australian Archaeological Record, Moore and Brumm, 2005Mode 1 is associated with Oldowan tools produced by Homo Erectus approximately 2.6-1.7 million years ago. Mode 3 is associated with Mousterian tools like those produced by Neanderthals approximately 300,000-30,000 years ago. So, even in the generous assessment, the Pleistocene Australian toolkit was only at the Neanderthal level. This isn’t a single paper that argues this. Decades before, writing about the aboriginals encountered by European explorers, JAJ Gowlett wrote: “…here you have fully modern man, sitting at the head of 40,000 years of occupation of modern man, making stone tools that could come out of the African or European Lower Palaeolithic [Mode 1 or 2] ... it leaves us a little baffled.” ~The coming of modern man, Gowlett, 1987
+
+[^2]: The paper is actually something of a gambit. It applies the standard for Behavioral Modernity to Australia, finding that it only applies in the last 7,000 years. Given its recentness, this is used as evidence against the concept of Behavioral Modernity.
+
+[^3]: “The most parsimonious interpretation is that modern executive functions did not emerge much earlier than 32,000 years ago.” Wynn and Coolidge, The Rise of Homo sapiens: The Evolution of Modern Thinking, 2009. Or see my discussion of the sapient paradox here.
+
+[^4]: There are exceptions, such as proto-Afroasiatic at 10,000-18,000 years. Other possibilities include proto-Niger-Congo and proto-Nilo-Saharan. Interestingly, their reconstructed 1sg are, respectively: (ʔana or ʔan-), mí, and (anɪ or an). Like Australia, conforming to the pattern suggested in The Unreasonable Effectiveness of Pronouns.
+
+[^5]: Historical Atlas of World Mythology: The Way of the Animal Powers, page 32
+
+[^6]: .*[Image: Visual content from original post]*
+
+[^7]: .*[Image: Visual content from original post]*
+
+[^8]: To avoid linkrot: “Yanjirlpirri Jukkurpa (Star Dreaming) tells of the journey of Japaljarri and Jungarrayi men who travelled from Kurlurngalinypa (near Lajaman) to Yanjirlypirri, which is West of Yuendumu. They then travelled on to Lake Mackay on the Western Australian border. Along the way they performed initiation ceremonies - known as ‘kurdiji’- for young men. Women also danced for the ‘kurdiji’.”
+
+[^9]: “The actual operation consists in slitting the whole or part of the penile urethra along the under (that is thinnest) side of the canal. The initial cut is in most cases 2-2.5 cm long, but on subsequent occasions it is extended, bit by bit, right up to the edge of the scrotum” ~ Basedow, H. (1927). Subincision and Kindred Rites of the Australian Aboriginal.
+
+[^10]: Relating this to the Angry Goose meme, which asks, “Where did the first idea come from?” consider a 2,600-year-old text:“In the beginning, there was only the Great Self in the form of a Person. Reflecting, it found nothing but itself. Then its first word was: “This am I!” whence arose the name “I” (Aham).” Brihadaranyaka Upanishad 1.4.1In Joseph Campbell’s last book, he describes how all stories blossomed out of this moment:in the old creation myth from the Bṛhadāraṇyaka Upaniṣad of that primordial Being-of-all-beings who, in the beginning, thought “I” and immediately experienced, first fear, then desire. The desire in that case was not to eat, however, but to become two, and then to procreate. And in this primal constellation of themes—first, of unity, albeit unconscious; then of a consciousness of selfhood and immediate fear of extinction; next, desire, first for another and then for union with that other—we have a set of "elementary ideas,” to use Adolf Bastian’s felicitous term, that has been sounded and inflected, transposed, developed, and sounded again through all the mythologies of mankind through the ages.The first idea was “I,” calling itself out of the primordial cognitive soup, just as the Egyptians and Hindus said. The recursive structure of the realization could subsequently produce the fractal memes that constitute human culture. To read more, I develop that idea in a 30,000-word essay:
