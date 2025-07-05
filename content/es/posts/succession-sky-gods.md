@@ -32,7 +32,7 @@ translation_model: gpt-4o
 - El *Enūma Eliš* comienza con un cosmos que existe **sin nombres**, por lo tanto, sin roles fijos.  
 - Dos verbos—*nabû* y *zakāru*—señalan el nombrar como un **acto de habla performativo** que finaliza la realidad.  
 - El caos previo al nombramiento no es ateo; las deidades (Apsû y Tiamat) ya nadan en él.  
-- Una vez que Marduk gana la guerra divina, asigna **cincuenta nombres**, fijando el esquema cósmico de roles.  
+- Una vez que Marduk gana la guerra divina, asigna **cincuenta nombres**, fijando el cuadro cósmico de tareas.  
 - Génesis 1 y los himnos védicos reflejan la misma lógica: creación = separación + nombramiento.
 
 ---
@@ -46,7 +46,7 @@ translation_model: gpt-4o
 | *lā* | lā | no | negación |
 | *nabû* | nabû | (había sido) nombrado | G-perf., raíz *"llamar"* |
 | *šamāmu* | šamāmu | cielo | bóveda celeste dual |
-| *šaplīš ammatu* | šaplīš ammatu | debajo tierra | "agua subterránea" |
+| *šaplīš ammatu* | šaplīš ammatu | tierra abajo | "agua subterránea" masa |
 | *šumma lā zakratū* | šumma … zakratū | no había sido llamado | sinónimo poético de *nabû* |
 
 <small>Texto según W. G. Lambert, *Babylonian Creation Myths* (2013).</small>
@@ -56,8 +56,8 @@ translation_model: gpt-4o
 ## 2 Por Qué Nombrar = Tecnología de Creación
 
 1. Los **actos de habla** eran instrumentos legales en Mesopotamia; pronunciar una fórmula realizaba transferencias de propiedad y maldiciones.  
-2. Los dioses reciben **títulos** (𒌓 *dUTU* “Dios Sol,” 𒀭𒀀𒉡 *dAN* “Dios del Cielo”) que funcionan como especificaciones funcionales.  
-3. El cuadro de honor de Marduk después de la guerra (“Él será llamado …”) vincula cada uno de sus cincuenta nombres a un dominio—viento, medicina, justicia—que los sacerdotes podían invocar.  
+2. Los dioses reciben **títulos** (𒌓 *dUTU* “Dios-Sol,” 𒀭𒀀𒉡 *dAN* “Dios-Cielo”) que funcionan como especificaciones funcionales.  
+3. El cuadro de honor post-guerra de Marduk (“Él será llamado …”) vincula cada uno de sus cincuenta nombres a un dominio—viento, medicina, justicia—que los sacerdotes podrían entonces invocar.  
 
 > *“El lenguaje no describe el cosmos; lo **estabiliza**.”* —Robson, *Language and Cosmos in Greece and Mesopotamia* (2023).  [oai_citation:0‡cambridge.org](https://www.cambridge.org/core/books/language-and-cosmos-in-greece-and-mesopotamia/language-and-cosmos-in-the-epic-of-creation/F9C41567F74F95C1F57304FBEDC150A7?utm_source=chatgpt.com)
 
@@ -77,18 +77,18 @@ Nombrar es el **sello final** después de la cosmogonía violenta y la separaci�
 
 ## 4 Miradas Comparativas
 
-| Texto | Línea pre-cósmica | Primer movimiento creativo |
-|-------|-------------------|----------------------------|
+| Texto | Línea pre-cosmos | Primer movimiento creativo |
+|-------|------------------|----------------------------|
 | *Enūma Eliš* | "Cuando en lo alto el cielo no había sido *nombrado* …" | Marduk mata a Tiamat → nombra todo |
 | **Génesis 1** | "La tierra estaba desordenada" | Elohim separa, luego **llama** Día/Noche |
 | **Rig Veda 10.129** | "No había ni no-ser ni ser" | Los dioses **nombraron** los cuartos |
-| **Hesíodo, Teogonía** | "El Caos fue primero" | Las entidades aparecen **ya nombradas**—los griegos omiten el suspenso |
+| **Hesíodo, Teogonía** | "Caos fue primero" | Las entidades aparecen **ya nombradas**—los griegos omiten la tensión |
 
 ---
 
 ## 5 Preguntas Frecuentes
 
-**P1. ¿“Sin nombre” significa que los dioses aún no existían?**  
+**P1. ¿Significa “sin nombre” que los dioses aún no existían?**  
 **R.** No. Apsû y Tiamat están presentes pero carecen de *roles definidos*; la ausencia de nombres bloquea el poder burocrático, no la existencia.
 
 **P2. ¿Es *nabû* siempre un discurso divino?**  

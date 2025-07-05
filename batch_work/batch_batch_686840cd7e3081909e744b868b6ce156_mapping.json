@@ -1,0 +1,931 @@
+[
+  {
+    "custom_id": "translate-0",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 0,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-1",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 1,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-2",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 2,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-3",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 3,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-4",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 4,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-5",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 5,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-6",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 6,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-7",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 7,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-8",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 8,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-9",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 9,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-10",
+    "src": "content/posts/vom/the-bullroarer-much-more-than-you.md",
+    "dst": "content/es/posts/vom/the-bullroarer-much-more-than-you.md",
+    "file_idx": 1,
+    "chunk_idx": 0,
+    "total_chunks": 7,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-11",
+    "src": "content/posts/vom/the-bullroarer-much-more-than-you.md",
+    "dst": "content/es/posts/vom/the-bullroarer-much-more-than-you.md",
+    "file_idx": 1,
+    "chunk_idx": 1,
+    "total_chunks": 7,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-12",
+    "src": "content/posts/vom/the-bullroarer-much-more-than-you.md",
+    "dst": "content/es/posts/vom/the-bullroarer-much-more-than-you.md",
+    "file_idx": 1,
+    "chunk_idx": 2,
+    "total_chunks": 7,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-13",
+    "src": "content/posts/vom/the-bullroarer-much-more-than-you.md",
+    "dst": "content/es/posts/vom/the-bullroarer-much-more-than-you.md",
+    "file_idx": 1,
+    "chunk_idx": 3,
+    "total_chunks": 7,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-14",
+    "src": "content/posts/vom/the-bullroarer-much-more-than-you.md",
+    "dst": "content/es/posts/vom/the-bullroarer-much-more-than-you.md",
+    "file_idx": 1,
+    "chunk_idx": 4,
+    "total_chunks": 7,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-15",
+    "src": "content/posts/vom/the-bullroarer-much-more-than-you.md",
+    "dst": "content/es/posts/vom/the-bullroarer-much-more-than-you.md",
+    "file_idx": 1,
+    "chunk_idx": 5,
+    "total_chunks": 7,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-16",
+    "src": "content/posts/vom/the-bullroarer-much-more-than-you.md",
+    "dst": "content/es/posts/vom/the-bullroarer-much-more-than-you.md",
+    "file_idx": 1,
+    "chunk_idx": 6,
+    "total_chunks": 7,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-17",
+    "src": "content/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "dst": "content/es/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "file_idx": 2,
+    "chunk_idx": 0,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-18",
+    "src": "content/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "dst": "content/es/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "file_idx": 2,
+    "chunk_idx": 1,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-19",
+    "src": "content/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "dst": "content/es/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "file_idx": 2,
+    "chunk_idx": 2,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-20",
+    "src": "content/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "dst": "content/es/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "file_idx": 2,
+    "chunk_idx": 3,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-21",
+    "src": "content/posts/vom/the-unreasonable-effectiveness-of.md",
+    "dst": "content/es/posts/vom/the-unreasonable-effectiveness-of.md",
+    "file_idx": 3,
+    "chunk_idx": 0,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-22",
+    "src": "content/posts/vom/the-unreasonable-effectiveness-of.md",
+    "dst": "content/es/posts/vom/the-unreasonable-effectiveness-of.md",
+    "file_idx": 3,
+    "chunk_idx": 1,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-23",
+    "src": "content/posts/vom/the-unreasonable-effectiveness-of.md",
+    "dst": "content/es/posts/vom/the-unreasonable-effectiveness-of.md",
+    "file_idx": 3,
+    "chunk_idx": 2,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-24",
+    "src": "content/posts/vom/the-snake-cult-of-consciousness.md",
+    "dst": "content/es/posts/vom/the-snake-cult-of-consciousness.md",
+    "file_idx": 4,
+    "chunk_idx": 0,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-25",
+    "src": "content/posts/vom/the-snake-cult-of-consciousness.md",
+    "dst": "content/es/posts/vom/the-snake-cult-of-consciousness.md",
+    "file_idx": 4,
+    "chunk_idx": 1,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-26",
+    "src": "content/posts/vom/the-snake-cult-of-consciousness.md",
+    "dst": "content/es/posts/vom/the-snake-cult-of-consciousness.md",
+    "file_idx": 4,
+    "chunk_idx": 2,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-27",
+    "src": "content/posts/vom/evidence-for-global-cultural-diffusion.md",
+    "dst": "content/es/posts/vom/evidence-for-global-cultural-diffusion.md",
+    "file_idx": 5,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-28",
+    "src": "content/posts/vom/evidence-for-global-cultural-diffusion.md",
+    "dst": "content/es/posts/vom/evidence-for-global-cultural-diffusion.md",
+    "file_idx": 5,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-29",
+    "src": "content/posts/vom/why-did-male-initiation-rituals-diffuse.md",
+    "dst": "content/es/posts/vom/why-did-male-initiation-rituals-diffuse.md",
+    "file_idx": 6,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-30",
+    "src": "content/posts/vom/why-did-male-initiation-rituals-diffuse.md",
+    "dst": "content/es/posts/vom/why-did-male-initiation-rituals-diffuse.md",
+    "file_idx": 6,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-31",
+    "src": "content/posts/vom/the-immortality-key-forgets-that.md",
+    "dst": "content/es/posts/vom/the-immortality-key-forgets-that.md",
+    "file_idx": 7,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-32",
+    "src": "content/posts/vom/the-immortality-key-forgets-that.md",
+    "dst": "content/es/posts/vom/the-immortality-key-forgets-that.md",
+    "file_idx": 7,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-33",
+    "src": "content/posts/vom/forms-vs-measures.md",
+    "dst": "content/es/posts/vom/forms-vs-measures.md",
+    "file_idx": 8,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-34",
+    "src": "content/posts/vom/forms-vs-measures.md",
+    "dst": "content/es/posts/vom/forms-vs-measures.md",
+    "file_idx": 8,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-35",
+    "src": "content/posts/vom/herakles-adam-and-krishna-were-initiated.md",
+    "dst": "content/es/posts/vom/herakles-adam-and-krishna-were-initiated.md",
+    "file_idx": 9,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-36",
+    "src": "content/posts/vom/herakles-adam-and-krishna-were-initiated.md",
+    "dst": "content/es/posts/vom/herakles-adam-and-krishna-were-initiated.md",
+    "file_idx": 9,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-37",
+    "src": "content/posts/vom/the-eve-theory-of-consciousness.md",
+    "dst": "content/es/posts/vom/the-eve-theory-of-consciousness.md",
+    "file_idx": 10,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-38",
+    "src": "content/posts/vom/the-eve-theory-of-consciousness.md",
+    "dst": "content/es/posts/vom/the-eve-theory-of-consciousness.md",
+    "file_idx": 10,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-39",
+    "src": "content/posts/vom/the-snake-cult-of-consciousness-two.md",
+    "dst": "content/es/posts/vom/the-snake-cult-of-consciousness-two.md",
+    "file_idx": 11,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-40",
+    "src": "content/posts/vom/the-snake-cult-of-consciousness-two.md",
+    "dst": "content/es/posts/vom/the-snake-cult-of-consciousness-two.md",
+    "file_idx": 11,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-41",
+    "src": "content/posts/vom/consequences-of-conscience.md",
+    "dst": "content/es/posts/vom/consequences-of-conscience.md",
+    "file_idx": 12,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-42",
+    "src": "content/posts/vom/consequences-of-conscience.md",
+    "dst": "content/es/posts/vom/consequences-of-conscience.md",
+    "file_idx": 12,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-43",
+    "src": "content/posts/vom/y-chromosome-bottleneck.md",
+    "dst": "content/es/posts/vom/y-chromosome-bottleneck.md",
+    "file_idx": 13,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-44",
+    "src": "content/posts/vom/y-chromosome-bottleneck.md",
+    "dst": "content/es/posts/vom/y-chromosome-bottleneck.md",
+    "file_idx": 13,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-45",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v2.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v2.md",
+    "file_idx": 14,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-46",
+    "src": "content/posts/vom/eve-theory-of-consciousness-v2.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v2.md",
+    "file_idx": 14,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-47",
+    "src": "content/posts/vom/archeologists-vs-ancient-aliens.md",
+    "dst": "content/es/posts/vom/archeologists-vs-ancient-aliens.md",
+    "file_idx": 15,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-48",
+    "src": "content/posts/vom/archeologists-vs-ancient-aliens.md",
+    "dst": "content/es/posts/vom/archeologists-vs-ancient-aliens.md",
+    "file_idx": 15,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-49",
+    "src": "content/posts/vom/archeologists-vs-the-bible.md",
+    "dst": "content/es/posts/vom/archeologists-vs-the-bible.md",
+    "file_idx": 16,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-50",
+    "src": "content/posts/vom/archeologists-vs-the-bible.md",
+    "dst": "content/es/posts/vom/archeologists-vs-the-bible.md",
+    "file_idx": 16,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-51",
+    "src": "content/posts/vom/in-the-beginning-was-the-word.md",
+    "dst": "content/es/posts/vom/in-the-beginning-was-the-word.md",
+    "file_idx": 17,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-52",
+    "src": "content/posts/vom/in-the-beginning-was-the-word.md",
+    "dst": "content/es/posts/vom/in-the-beginning-was-the-word.md",
+    "file_idx": 17,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-53",
+    "src": "content/posts/vom/the-ai-basis-of-the-eve-theory-of.md",
+    "dst": "content/es/posts/vom/the-ai-basis-of-the-eve-theory-of.md",
+    "file_idx": 18,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-54",
+    "src": "content/posts/vom/the-ai-basis-of-the-eve-theory-of.md",
+    "dst": "content/es/posts/vom/the-ai-basis-of-the-eve-theory-of.md",
+    "file_idx": 18,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-55",
+    "src": "content/posts/vom/primary-factor-of-personality-part.md",
+    "dst": "content/es/posts/vom/primary-factor-of-personality-part.md",
+    "file_idx": 19,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-56",
+    "src": "content/posts/vom/memetic-eve-solves-the-sapient-paradox.md",
+    "dst": "content/es/posts/vom/memetic-eve-solves-the-sapient-paradox.md",
+    "file_idx": 20,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-57",
+    "src": "content/posts/vom/when-did-recursion-evolve.md",
+    "dst": "content/es/posts/vom/when-did-recursion-evolve.md",
+    "file_idx": 21,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-58",
+    "src": "content/posts/vom/contra-dhuy-on-snake-myths.md",
+    "dst": "content/es/posts/vom/contra-dhuy-on-snake-myths.md",
+    "file_idx": 22,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-59",
+    "src": "content/posts/vom/when-do-geneticists-believe-the-human.md",
+    "dst": "content/es/posts/vom/when-do-geneticists-believe-the-human.md",
+    "file_idx": 23,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-60",
+    "src": "content/posts/vom/the-doomsday-debate.md",
+    "dst": "content/es/posts/vom/the-doomsday-debate.md",
+    "file_idx": 24,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-61",
+    "src": "content/posts/vom/andreas-lommel-on-the-diffusion-of.md",
+    "dst": "content/es/posts/vom/andreas-lommel-on-the-diffusion-of.md",
+    "file_idx": 25,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-62",
+    "src": "content/posts/vom/drinking-with-the-gods-the-chemistry.md",
+    "dst": "content/es/posts/vom/drinking-with-the-gods-the-chemistry.md",
+    "file_idx": 26,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-63",
+    "src": "content/posts/vom/deja-you-the-recursive-construction.md",
+    "dst": "content/es/posts/vom/deja-you-the-recursive-construction.md",
+    "file_idx": 27,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-64",
+    "src": "content/posts/vom/review-supernatural-selection.md",
+    "dst": "content/es/posts/vom/review-supernatural-selection.md",
+    "file_idx": 28,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-65",
+    "src": "content/posts/vom/december-subscriber-post.md",
+    "dst": "content/es/posts/vom/december-subscriber-post.md",
+    "file_idx": 29,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-66",
+    "src": "content/posts/vom/comments-on-snake-venom.md",
+    "dst": "content/es/posts/vom/comments-on-snake-venom.md",
+    "file_idx": 30,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-67",
+    "src": "content/posts/vom/when-did-recursion-evolve-part-2.md",
+    "dst": "content/es/posts/vom/when-did-recursion-evolve-part-2.md",
+    "file_idx": 31,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-68",
+    "src": "content/posts/vom/genesis-in-togo.md",
+    "dst": "content/es/posts/vom/genesis-in-togo.md",
+    "file_idx": 32,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-69",
+    "src": "content/posts/vom/secrets-of-the-snake-king.md",
+    "dst": "content/es/posts/vom/secrets-of-the-snake-king.md",
+    "file_idx": 33,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-70",
+    "src": "content/posts/vom/march-subscriber-post-9b7.md",
+    "dst": "content/es/posts/vom/march-subscriber-post-9b7.md",
+    "file_idx": 34,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-71",
+    "src": "content/posts/vom/overview-of-articles-to-date.md",
+    "dst": "content/es/posts/vom/overview-of-articles-to-date.md",
+    "file_idx": 35,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-72",
+    "src": "content/posts/vom/july-subscriber-post.md",
+    "dst": "content/es/posts/vom/july-subscriber-post.md",
+    "file_idx": 36,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-73",
+    "src": "content/posts/vom/embryo-selection-and-our-stone-age.md",
+    "dst": "content/es/posts/vom/embryo-selection-and-our-stone-age.md",
+    "file_idx": 37,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-74",
+    "src": "content/posts/vom/pygmy-eve-peeps-god.md",
+    "dst": "content/es/posts/vom/pygmy-eve-peeps-god.md",
+    "file_idx": 38,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-75",
+    "src": "content/posts/vom/september-subscriber-post.md",
+    "dst": "content/es/posts/vom/september-subscriber-post.md",
+    "file_idx": 39,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-76",
+    "src": "content/posts/vom/more-than-allegory-on-religious-myth.md",
+    "dst": "content/es/posts/vom/more-than-allegory-on-religious-myth.md",
+    "file_idx": 40,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-77",
+    "src": "content/posts/vom/personality-around-the-world.md",
+    "dst": "content/es/posts/vom/personality-around-the-world.md",
+    "file_idx": 41,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-78",
+    "src": "content/posts/vom/march-subscriber-post.md",
+    "dst": "content/es/posts/vom/march-subscriber-post.md",
+    "file_idx": 42,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-79",
+    "src": "content/posts/vom/when-god-was-a-woman.md",
+    "dst": "content/es/posts/vom/when-god-was-a-woman.md",
+    "file_idx": 43,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-80",
+    "src": "content/posts/vom/may-subscriber-post-bb4.md",
+    "dst": "content/es/posts/vom/may-subscriber-post-bb4.md",
+    "file_idx": 44,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-81",
+    "src": "content/posts/vom/jonah-davids-understanding-jordan.md",
+    "dst": "content/es/posts/vom/jonah-davids-understanding-jordan.md",
+    "file_idx": 45,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-82",
+    "src": "content/posts/vom/february-subscriber-post.md",
+    "dst": "content/es/posts/vom/february-subscriber-post.md",
+    "file_idx": 46,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-83",
+    "src": "content/posts/vom/august-subscriber-post.md",
+    "dst": "content/es/posts/vom/august-subscriber-post.md",
+    "file_idx": 47,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-84",
+    "src": "content/posts/vom/the-big-five-are-word-vectors.md",
+    "dst": "content/es/posts/vom/the-big-five-are-word-vectors.md",
+    "file_idx": 48,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-85",
+    "src": "content/posts/vom/review-the-magic-wife.md",
+    "dst": "content/es/posts/vom/review-the-magic-wife.md",
+    "file_idx": 49,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-86",
+    "src": "content/posts/vom/chatgpt-takes-the-big-five-inventory.md",
+    "dst": "content/es/posts/vom/chatgpt-takes-the-big-five-inventory.md",
+    "file_idx": 50,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-87",
+    "src": "content/posts/vom/november-subscriber-post.md",
+    "dst": "content/es/posts/vom/november-subscriber-post.md",
+    "file_idx": 51,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-88",
+    "src": "content/posts/vom/lucifer-in-myanmar.md",
+    "dst": "content/es/posts/vom/lucifer-in-myanmar.md",
+    "file_idx": 52,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-89",
+    "src": "content/posts/vom/world-mythology-does-not-support.md",
+    "dst": "content/es/posts/vom/world-mythology-does-not-support.md",
+    "file_idx": 53,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-90",
+    "src": "content/posts/vom/how-to-prompt-chatgpt.md",
+    "dst": "content/es/posts/vom/how-to-prompt-chatgpt.md",
+    "file_idx": 54,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-91",
+    "src": "content/posts/vom/may-subscriber-post.md",
+    "dst": "content/es/posts/vom/may-subscriber-post.md",
+    "file_idx": 55,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-92",
+    "src": "content/posts/vom/june-subscriber-post.md",
+    "dst": "content/es/posts/vom/june-subscriber-post.md",
+    "file_idx": 56,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-93",
+    "src": "content/posts/vom/burying-the-past-with-mungo-manic.md",
+    "dst": "content/es/posts/vom/burying-the-past-with-mungo-manic.md",
+    "file_idx": 57,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-94",
+    "src": "content/posts/vom/snake-cult-lessonline-presentation.md",
+    "dst": "content/es/posts/vom/snake-cult-lessonline-presentation.md",
+    "file_idx": 58,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-95",
+    "src": "content/posts/vom/chatbots-for-mental-health-care.md",
+    "dst": "content/es/posts/vom/chatbots-for-mental-health-care.md",
+    "file_idx": 59,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-96",
+    "src": "content/posts/vom/audience-q-and-a.md",
+    "dst": "content/es/posts/vom/audience-q-and-a.md",
+    "file_idx": 60,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-97",
+    "src": "content/posts/vom/august-subscriber-post-b87.md",
+    "dst": "content/es/posts/vom/august-subscriber-post-b87.md",
+    "file_idx": 61,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-98",
+    "src": "content/posts/vom/recap-of-user-polls-to-date.md",
+    "dst": "content/es/posts/vom/recap-of-user-polls-to-date.md",
+    "file_idx": 62,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-99",
+    "src": "content/posts/vom/mystery-factors-revisited.md",
+    "dst": "content/es/posts/vom/mystery-factors-revisited.md",
+    "file_idx": 63,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-100",
+    "src": "content/posts/vom/if-social-intelligence-made-us-human.md",
+    "dst": "content/es/posts/vom/if-social-intelligence-made-us-human.md",
+    "file_idx": 64,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-101",
+    "src": "content/posts/vom/the-origins-of-human-consciousness.md",
+    "dst": "content/es/posts/vom/the-origins-of-human-consciousness.md",
+    "file_idx": 65,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-102",
+    "src": "content/posts/vom/kathleen-lowrey-5.md",
+    "dst": "content/es/posts/vom/kathleen-lowrey-5.md",
+    "file_idx": 66,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-103",
+    "src": "content/posts/vom/notebooklm-on-the-eve-theory-of-consciousness.md",
+    "dst": "content/es/posts/vom/notebooklm-on-the-eve-theory-of-consciousness.md",
+    "file_idx": 67,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-104",
+    "src": "content/posts/vom/astral-codex-ten-meetup-in-playa.md",
+    "dst": "content/es/posts/vom/astral-codex-ten-meetup-in-playa.md",
+    "file_idx": 68,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-105",
+    "src": "content/posts/vom/david-stillwell-4.md",
+    "dst": "content/es/posts/vom/david-stillwell-4.md",
+    "file_idx": 69,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-106",
+    "src": "content/posts/vom/llms-as-antichrist.md",
+    "dst": "content/es/posts/vom/llms-as-antichrist.md",
+    "file_idx": 70,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-107",
+    "src": "content/posts/vom/mind-and-mythos-with-dan-ackerfeld.md",
+    "dst": "content/es/posts/vom/mind-and-mythos-with-dan-ackerfeld.md",
+    "file_idx": 71,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-108",
+    "src": "content/posts/vom/snake-cults-and-recent-evolution.md",
+    "dst": "content/es/posts/vom/snake-cults-and-recent-evolution.md",
+    "file_idx": 72,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-109",
+    "src": "content/posts/vom/bonus-ghibli-eve-theory-of-consciousness.md",
+    "dst": "content/es/posts/vom/bonus-ghibli-eve-theory-of-consciousness.md",
+    "file_idx": 73,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-110",
+    "src": "content/posts/vom/brian-kulis-2.md",
+    "dst": "content/es/posts/vom/brian-kulis-2.md",
+    "file_idx": 74,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-111",
+    "src": "content/posts/vom/the-love-symposium.md",
+    "dst": "content/es/posts/vom/the-love-symposium.md",
+    "file_idx": 75,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-112",
+    "src": "content/posts/vom/joseph-campbells-view-of-myth.md",
+    "dst": "content/es/posts/vom/joseph-campbells-view-of-myth.md",
+    "file_idx": 76,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-113",
+    "src": "content/posts/vom/malcolm-ocean-and-michael-smith-3.md",
+    "dst": "content/es/posts/vom/malcolm-ocean-and-michael-smith-3.md",
+    "file_idx": 77,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-114",
+    "src": "content/posts/vom/guess-the-factor.md",
+    "dst": "content/es/posts/vom/guess-the-factor.md",
+    "file_idx": 78,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-115",
+    "src": "content/posts/vom/moments-of-awakening-survey.md",
+    "dst": "content/es/posts/vom/moments-of-awakening-survey.md",
+    "file_idx": 79,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-116",
+    "src": "content/posts/vom/stetson-of-holodoxa-1.md",
+    "dst": "content/es/posts/vom/stetson-of-holodoxa-1.md",
+    "file_idx": 80,
+    "is_chunk": false
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "custom_id": "translate-0",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 0,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-1",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 1,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-2",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 2,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-3",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 3,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-4",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 4,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-5",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 5,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-6",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 6,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-7",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 7,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-8",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 8,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-9",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v3.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v3.md",
+    "file_idx": 0,
+    "chunk_idx": 9,
+    "total_chunks": 10,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-10",
+    "src": "tmp_vom_rerun/the-hitchhikers-guide-to-creation.md",
+    "dst": "content/es/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "file_idx": 1,
+    "chunk_idx": 0,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-11",
+    "src": "tmp_vom_rerun/the-hitchhikers-guide-to-creation.md",
+    "dst": "content/es/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "file_idx": 1,
+    "chunk_idx": 1,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-12",
+    "src": "tmp_vom_rerun/the-hitchhikers-guide-to-creation.md",
+    "dst": "content/es/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "file_idx": 1,
+    "chunk_idx": 2,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-13",
+    "src": "tmp_vom_rerun/the-hitchhikers-guide-to-creation.md",
+    "dst": "content/es/posts/vom/the-hitchhikers-guide-to-creation.md",
+    "file_idx": 1,
+    "chunk_idx": 3,
+    "total_chunks": 4,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-14",
+    "src": "tmp_vom_rerun/the-unreasonable-effectiveness-of.md",
+    "dst": "content/es/posts/vom/the-unreasonable-effectiveness-of.md",
+    "file_idx": 2,
+    "chunk_idx": 0,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-15",
+    "src": "tmp_vom_rerun/the-unreasonable-effectiveness-of.md",
+    "dst": "content/es/posts/vom/the-unreasonable-effectiveness-of.md",
+    "file_idx": 2,
+    "chunk_idx": 1,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-16",
+    "src": "tmp_vom_rerun/the-unreasonable-effectiveness-of.md",
+    "dst": "content/es/posts/vom/the-unreasonable-effectiveness-of.md",
+    "file_idx": 2,
+    "chunk_idx": 2,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-17",
+    "src": "tmp_vom_rerun/the-snake-cult-of-consciousness.md",
+    "dst": "content/es/posts/vom/the-snake-cult-of-consciousness.md",
+    "file_idx": 3,
+    "chunk_idx": 0,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-18",
+    "src": "tmp_vom_rerun/the-snake-cult-of-consciousness.md",
+    "dst": "content/es/posts/vom/the-snake-cult-of-consciousness.md",
+    "file_idx": 3,
+    "chunk_idx": 1,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-19",
+    "src": "tmp_vom_rerun/the-snake-cult-of-consciousness.md",
+    "dst": "content/es/posts/vom/the-snake-cult-of-consciousness.md",
+    "file_idx": 3,
+    "chunk_idx": 2,
+    "total_chunks": 3,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-20",
+    "src": "tmp_vom_rerun/evidence-for-global-cultural-diffusion.md",
+    "dst": "content/es/posts/vom/evidence-for-global-cultural-diffusion.md",
+    "file_idx": 4,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-21",
+    "src": "tmp_vom_rerun/evidence-for-global-cultural-diffusion.md",
+    "dst": "content/es/posts/vom/evidence-for-global-cultural-diffusion.md",
+    "file_idx": 4,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-22",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v2.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v2.md",
+    "file_idx": 5,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-23",
+    "src": "tmp_vom_rerun/eve-theory-of-consciousness-v2.md",
+    "dst": "content/es/posts/vom/eve-theory-of-consciousness-v2.md",
+    "file_idx": 5,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-24",
+    "src": "tmp_vom_rerun/archeologists-vs-ancient-aliens.md",
+    "dst": "content/es/posts/vom/archeologists-vs-ancient-aliens.md",
+    "file_idx": 6,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-25",
+    "src": "tmp_vom_rerun/archeologists-vs-ancient-aliens.md",
+    "dst": "content/es/posts/vom/archeologists-vs-ancient-aliens.md",
+    "file_idx": 6,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-26",
+    "src": "tmp_vom_rerun/in-the-beginning-was-the-word.md",
+    "dst": "content/es/posts/vom/in-the-beginning-was-the-word.md",
+    "file_idx": 7,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-27",
+    "src": "tmp_vom_rerun/in-the-beginning-was-the-word.md",
+    "dst": "content/es/posts/vom/in-the-beginning-was-the-word.md",
+    "file_idx": 7,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-28",
+    "src": "tmp_vom_rerun/the-ai-basis-of-the-eve-theory-of.md",
+    "dst": "content/es/posts/vom/the-ai-basis-of-the-eve-theory-of.md",
+    "file_idx": 8,
+    "chunk_idx": 0,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-29",
+    "src": "tmp_vom_rerun/the-ai-basis-of-the-eve-theory-of.md",
+    "dst": "content/es/posts/vom/the-ai-basis-of-the-eve-theory-of.md",
+    "file_idx": 8,
+    "chunk_idx": 1,
+    "total_chunks": 2,
+    "is_chunk": true
+  },
+  {
+    "custom_id": "translate-30",
+    "src": "tmp_vom_rerun/memetic-eve-solves-the-sapient-paradox.md",
+    "dst": "content/es/posts/vom/memetic-eve-solves-the-sapient-paradox.md",
+    "file_idx": 9,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-31",
+    "src": "tmp_vom_rerun/contra-dhuy-on-snake-myths.md",
+    "dst": "content/es/posts/vom/contra-dhuy-on-snake-myths.md",
+    "file_idx": 10,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-32",
+    "src": "tmp_vom_rerun/the-doomsday-debate.md",
+    "dst": "content/es/posts/vom/the-doomsday-debate.md",
+    "file_idx": 11,
+    "is_chunk": false
+  },
+  {
+    "custom_id": "translate-33",
+    "src": "tmp_vom_rerun/review-supernatural-selection.md",
+    "dst": "content/es/posts/vom/review-supernatural-selection.md",
+    "file_idx": 12,
+    "is_chunk": false
+  }
+]

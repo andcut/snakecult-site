@@ -29,17 +29,17 @@ translation_model: gpt-4o
 - ≈ 75–80 % representan mujeres, ≤ 15 % hombres, el resto indeterminado.
 - Las estatuillas portátiles de "Venus" son ~95 % femeninas; las figuras en cuevas tienen una inclinación más suave de 2 a 1.
 - El sesgo es global en el corpus conocido, no solo una peculiaridad gravetiense.
-- Las brechas de muestreo y los hombres palo ambiguos dejan margen de maniobra, pero la señal matrifocal perdura.
+- Las lagunas de muestreo y los hombres palo ambiguos dejan margen de maniobra, pero la señal matrifocal perdura.
 
 ---
 
 ## 1 · Contando Cuerpos en el Tiempo Profundo
 
-La sabiduría convencional dice que los artistas de la Era del Hielo amaban a los animales y, cuando esculpían personas, se fijaban en mujeres corpulentas. ¿Qué tan sesgado está realmente el registro?
-Para averiguarlo, fusioné los dos conjuntos de datos más grandes que pueden ser sexados con alguna confianza.
+La sabiduría convencional dice que los artistas de la Edad de Hielo amaban a los animales y, cuando esculpían personas, se obsesionaban con mujeres corpulentas. ¿Qué tan sesgado está realmente el registro?
+Para averiguarlo, combiné los dos conjuntos de datos más grandes que pueden ser sexados con alguna confianza.
 
 | Corpus | Período | Imágenes n | Femenino | Masculino | Indet. |
-|--------|--------|-----------|---------|-----------|--------|
+|--------|--------|----------|--------|------|--------|
 | Figurillas portátiles | Auriñaciense→Magdaleniense | ≈ 210 | 90–95 % | ≤ 5 % | < 5 % |
 | Antropomorfos parietales | Gravetiense→Magdaleniense | ≈ 220 | 60–70 % | 15–20 % | 15–25 % |
 | Combinado | 40 ka–11 ka AP | ≈ 430 | 75–80 % | 10–15 % | ≈ 10 % |
@@ -48,34 +48,34 @@ Conclusión: en el arte del Paleolítico Superior que puede ser sexado, una figu
 
 ### 1.1 · "Venus" Portátiles
 
-La auditoría de O. Soffer y colegas de 161 figurillas gravetienses contó 152 como femeninas (94 %)—dejando nueve torsos ambiguos y exactamente cero masculinos confiables.[^soffer] El patrón se mantiene desde el híbrido más antiguo de Hohlenstein-Stadel hasta las piezas de marfil tardías magdalenienses.
+La auditoría de O. Soffer y colegas de 161 figurillas gravetienses contó 152 como femeninas (94 %)—dejando nueve torsos ambiguos y exactamente cero masculinos confiables.[^soffer] El patrón se mantiene desde el híbrido más antiguo de Hohlenstein-Stadel hasta las piezas de marfil tardías del Magdaleniense.
 
 ### 1.2 · Figuras en Cuevas y Rocas
 
-El barrido de Jean-Pierre Duhard por las cuevas francesas y españolas registró un 68 % explícitamente femenino, principalmente a través de motivos de vulva y siluetas embarazadas.[^duhard] La recodificación posterior de Azéma (2008) apenas modificó la proporción.
+El barrido de Jean-Pierre Duhard por las cuevas francesas y españolas registró un 68 % explícitamente femenino, principalmente a través de motivos de vulva y siluetas embarazadas.[^duhard] La nueva codificación por Azéma (2008) apenas alteró la proporción.
 El nuevo estudio de Parkington 2023 sobre el arte rupestre sudafricano—aunque 20,000 años más joven—refleja el desequilibrio en un linaje completamente diferente de cazadores-recolectores.
 
 ---
 
 ## 2 · Por Qué el Sesgo Importa (Y Lo Que No Prueba)
 
-1. Énfasis simbólico, no demográfico. Europa del Paleolítico Superior no tenía una proporción de sexos de 80 : 20; los artistas simplemente destacaban temas de fertilidad, corporeidad y quizás identidad social a través de los cuerpos de las mujeres.
-2. Ritual vs cotidiano. Las figurillas provienen de desechos de hogar, no de santuarios ocultos—sugiriendo usos mundanos, quizás incluso lúdicos, en lugar de sacerdotales.
+1. Énfasis simbólico, no demográfico. Europa del Paleolítico Superior no tenía una proporción de sexos de 80 : 20; los artistas simplemente destacaron temas de fertilidad, corporeidad y quizás identidad social a través de los cuerpos de las mujeres.
+2. Ritual vs cotidiano. Las figurillas provienen de basura de hogar, no de santuarios ocultos—sugiriendo usos mundanos, tal vez incluso lúdicos, en lugar de sacerdotales.
 3. Puntos ciegos androcéntricos. Los prehistoriadores de principios del siglo XX descartaron la mayoría como "pornografía primitiva". Los nuevos conteos ayudan a despojarse de ese bagaje.
-4. Persiste el sesgo de muestreo. Siberia, el Levante y la mayor parte de África siguen escasamente estudiados. Nuevos hallazgos podrían ajustar—pero casi con certeza no borrar—el sesgo.
+4. El sesgo de muestreo persiste. Siberia, el Levante y la mayor parte de África siguen escasamente estudiados. Nuevos hallazgos podrían ajustar—pero casi con certeza no borrar—el sesgo.
 
 ---
 
 ## Preguntas Frecuentes
 
 P1. ¿Son todas las figurillas de "Venus" voluptuosos íconos de fertilidad?
-R. No. Algunas visten ropa tejida compleja, algunas son delgadas y un puñado son híbridos teriantropomorfos; la fertilidad puede ser un hilo, pero la exhibición textil, el marcado de identidad o la narración son igualmente plausibles.
+R. No. Algunas llevan ropa tejida compleja, algunas son delgadas y un puñado son híbridos teriantropomorfos; la fertilidad puede ser un hilo, pero la exhibición textil, el marcado de identidad o la narración son igualmente plausibles.
 
 P2. ¿Se mantiene la dominancia femenina fuera de Europa?
-R. Muestras limitadas de África y Siberia reflejan la tendencia, pero los conjuntos de datos son demasiado pequeños para porcentajes firmes—se esperan revisiones a medida que se expanden las encuestas.
+R. Muestras limitadas de África y Siberia reflejan la tendencia, pero los conjuntos de datos son demasiado pequeños para porcentajes firmes—esperen revisiones a medida que las encuestas se expandan.
 
 P3. ¿Cómo sexan los arqueólogos una figura de palo?
-R. Buscan triángulos de vulva, senos, abultamientos de embarazo o falos adjuntos; la ausencia de genitales se registra como indeterminada, no femenina por defecto.
+R. Buscan triángulos de vulva, senos, abultamientos de embarazo o falos adjuntos; la ausencia de genitales se registra como indeterminado, no femenino por defecto.
 
 P4. ¿Podrían haberse hecho imágenes masculinas en medios perecederos ahora perdidos?
 R. Posiblemente, pero la misma descomposición borraría también imágenes femeninas perecederas; no hay evidencia de que los dados tafonómicos estuvieran cargados solo contra los hombres.
