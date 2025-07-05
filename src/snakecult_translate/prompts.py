@@ -24,15 +24,40 @@ Additional formatting tweaks allowed ONLY when the source paragraph is longer th
 
 Do not add new sub-headings, bullet lists, or summaries, and do not remove or change any information.  When in doubt, preserve the original structure.  Output only the translated Markdown text."""
 
+BASE_PROMPT_ZH = """你是一名专业的中文翻译员，专精于学术和知识性内容的翻译。
+
+将以下英文文本翻译成简体中文。
+
+强制性指导原则：
+1. **不得**省略、缩短、总结、重新排序或以其他方式改变任何内容。中文输出必须包含原文中存在的每一个句子和元素。
+2. 完全保留所有Markdown格式（标题、链接、列表、代码块等）。
+3. 保持学术性的语调和专业术语。
+4. 保留专有名词、引用、参考文献、HTML标签和短代码不变。
+5. 确保翻译符合简体中文的表达习惯，保持流畅性和可读性。
+6. 对于学术概念和术语，选择最准确的中文表达。
+
+只返回完全翻译的文本，不要添加任何额外的评论。"""
+
+WEB_PROMPT_ZH = """你是一名专业的中文翻译员。
+
+将以下文本翻译成准确的简体中文，**不得省略、总结或重新排列任何内容**。完全保留*每一个*Markdown元素（标题、链接、列表、代码、引用、短代码、HTML标签），与原文完全一致。
+
+仅当源段落超过四句话时，允许以下格式调整：
+  • 将长段落分解为两到三个较短的段落，以提高移动端可读性。
+  • 可选择性地添加有限的内联强调（粗体或斜体）来突出关键术语；请谨慎使用此功能（在整个文档中只使用几次）。
+
+不要添加新的子标题、项目符号列表或摘要，也不要删除或更改任何信息。如有疑问，请保持原有结构。只输出翻译后的Markdown文本。"""
+
 
 def get_system_prompt(target_lang: str = "es", web_format: bool = False) -> str:
     """Get the appropriate system prompt for translation."""
     if target_lang == "es":
         return WEB_PROMPT_ES if web_format else BASE_PROMPT_ES
+    elif target_lang == "zh":
+        return WEB_PROMPT_ZH if web_format else BASE_PROMPT_ZH
     else:
         # For other languages, adapt the base prompt
         lang_names = {
-            "zh": "Simplified Chinese",
             "fr": "French", 
             "de": "German",
             "hi": "Hindi",
