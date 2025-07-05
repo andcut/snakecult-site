@@ -1,30 +1,31 @@
 ---
-title: "Eve Theory of Consciousness (Slate Star Codex Remix)"
+title: Eve Theory of Consciousness (Slate Star Codex Remix)
 date: 2024-07-27
 lastmod: 2024-07-27
 slug: etoc-scott-alexander
-description: "A gene-culture riff on Genesis: women, snakes, and recursion ignite the late-Pleistocene birth of the human self."
+description: 'A gene-culture riff on Genesis: women, snakes, and recursion ignite
+  the late-Pleistocene birth of the human self.'
 keywords:
- - Eve Theory
- - recursive self
- - snake cult
- - gene–culture evolution
- - Scott Alexander
- - Genesis myth
+- Eve Theory
+- recursive self
+- snake cult
+- gene–culture evolution
+- Scott Alexander
+- Genesis myth
 about:
- - consciousness origins
- - evolutionary anthropology
- - comparative mythology
+- consciousness origins
+- evolutionary anthropology
+- comparative mythology
 tags:
- - Consciousness
- - Evolution
- - Mythology
- - Scott Alexander
- - Philosophy
- - Speculation
-core_entity: "Serpent"
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+- consciousness
+- Evolution
+- mythology
+- Scott Alexander
+- Philosophy
+- Speculation
+core_entity: Serpent
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: true
 quality: 5
 ---

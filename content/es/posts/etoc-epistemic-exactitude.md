@@ -23,7 +23,7 @@ quality: 7
 slug: etoc epistemic-exactitude
 tags:
 - EToC
-- deep history
+- Deep History
 - human evolution
 title: 'Despertando a Eva: Cómo el Autoconocimiento Reconfiguró la Mente Humana'
 translation_model: gpt-4o

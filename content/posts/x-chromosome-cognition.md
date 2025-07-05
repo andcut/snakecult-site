@@ -1,28 +1,29 @@
 ---
-title: "X Chromosome and Higher-Order Cognition"
+title: X Chromosome and Higher-Order Cognition
 date: 2025-04-27
 lastmod: 2025-04-27
 slug: x-chromosome-cognition
-description: "How X-linked gene dosage, inactivation escape, and imprinting sculpt human brain development, intelligence, and social behavior."
+description: How X-linked gene dosage, inactivation escape, and imprinting sculpt
+  human brain development, intelligence, and social behavior.
 keywords:
- - X chromosome
- - cognition
- - neurodevelopment
- - sex differences
- - genomic imprinting
+- X chromosome
+- cognition
+- neurodevelopment
+- sex differences
+- genomic imprinting
 about:
- - cognitive evolution
- - epigenetics
- - sex chromosomes
+- cognitive evolution
+- epigenetics
+- sex chromosomes
 tags:
- - cognition
- - genetics
- - neuroscience
- - evolution
-core_entity: "X chromosome"
-quality: 7          # ★ 1‒10 subjective rating
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+- cognition
+- Genetics
+- Neuroscience
+- Evolution
+core_entity: X chromosome
+quality: 7
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
 ---
 

@@ -23,7 +23,7 @@ slug: darwin-short-evolutionary-timelines
 tags:
 - Darwin
 - Evolutionary Theory
-- Human Origins
+- human-origins
 title: 'Darwin sobre la Evolución Humana: Cronogramas Cortos e Interacción Gen-Cultura'
 translation_model: gpt-4o
 ---

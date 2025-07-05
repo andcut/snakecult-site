@@ -1,36 +1,37 @@
 ---
-title: "The Logos and the Serpent: Mythic Evolution of Self-Awareness"
-date: 2025-04-20T10:00:00Z
-lastmod: 2025-04-27T10:00:00Z
+title: 'The Logos and the Serpent: Mythic Evolution of Self-Awareness'
+date: 2025-04-20 10:00:00+00:00
+lastmod: 2025-04-27 10:00:00+00:00
 slug: ontological-continuity-adam-to-christ
-description: "Exploring the evolution of self awareness through Genesis, John's Logos, Gnosticism, and sacrificial myths, linking the Edenic serpent to Christ and the birth of the conscious self."
+description: Exploring the evolution of self awareness through Genesis, John's Logos,
+  Gnosticism, and sacrificial myths, linking the Edenic serpent to Christ and the
+  birth of the conscious self.
 keywords:
- - consciousness
- - mythology
- - genesis
- - logos
- - gnosticism
- - christ
- - evolution
- - self-awareness
- - axial age
- - serpent
+- consciousness
+- mythology
+- genesis
+- logos
+- gnosticism
+- christ
+- evolution
+- self-awareness
+- axial age
+- serpent
 about:
- - consciousness
- - mythology
- - religion
- - philosophy
+- consciousness
+- mythology
+- religion
+- philosophy
 tags:
- - Consciousness
- - Evolution
- - Mythology
- - Philosophy
- - Religion
- - psychology
- - religion
-author: "Andrew Cutler"
-core_entity: "Serpent"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+- consciousness
+- Evolution
+- mythology
+- Philosophy
+- Religion
+- psychology
+author: Andrew Cutler
+core_entity: Serpent
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
 quality: 9
 ---

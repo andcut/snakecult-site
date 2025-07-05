@@ -1,27 +1,28 @@
 ---
-title: "Big Bangs of the Mind: 7 Theories About the Upper-Paleo Brain Upgrade"
+title: 'Big Bangs of the Mind: 7 Theories About the Upper-Paleo Brain Upgrade'
 date: 2025-04-22
 lastmod: 2025-04-22
-slug: "temp-name"
-description: "Overview of key theorists (Klein, Chomsky, Bickerton, Tattersall, Mithen, Coolidge & Wynn) and their theories on the Upper Paleolithic Cognitive Revolution."
+slug: temp-name
+description: Overview of key theorists (Klein, Chomsky, Bickerton, Tattersall, Mithen,
+  Coolidge & Wynn) and their theories on the Upper Paleolithic Cognitive Revolution.
 keywords:
-  - cognitive revolution
-  - upper paleolithic
-  - human evolution
-  - consciousness
-  - language evolution
-  - behavioral modernity
+- cognitive revolution
+- upper paleolithic
+- human evolution
+- consciousness
+- language evolution
+- behavioral modernity
 about:
-  - paleoanthropology
-  - cognitive science
-  - linguistics
-  - evolutionary psychology
+- paleoanthropology
+- cognitive science
+- linguistics
+- evolutionary psychology
 tags:
-  - "Cognitive Revolution"
-  - philosophy
-  - prehistory
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+- Cognitive Revolution
+- Philosophy
+- Prehistory
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
 quality: 7
 ---

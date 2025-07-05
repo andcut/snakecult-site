@@ -22,7 +22,7 @@ quality: 6
 slug: hallucinogenic-atlas
 tags:
 - Entheogens
-- Archaeology
+- archaeology
 - Psychedelics
 title: 'Atlas Alucinógeno: Un Censo Continental de Entéogenos Antiguos'
 translation_model: gpt-4o

@@ -22,9 +22,9 @@ quality: 7
 slug: x-chromosome-cognition
 tags:
 - cognition
-- genetics
-- neuroscience
-- evolution
+- Genetics
+- Neuroscience
+- Evolution
 title: Cromosoma X y Cognición de Orden Superior
 translation_model: gpt-4o
 ---

@@ -23,7 +23,7 @@ quality: 6
 slug: pre-columbian-contact-america
 tags:
 - History
-- Archaeology
+- archaeology
 - Genetics
 - Ancient Civilizations
 title: 'Contacto Transoceánico Precolombino: Conocimiento Actual y Debate'

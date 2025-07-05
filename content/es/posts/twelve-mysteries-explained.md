@@ -24,7 +24,7 @@ tags:
 - consciousness
 - mythology
 - human-origins
-- evolution
+- Evolution
 title: 12 Misterios Resueltos por la Teoría Eve de la Conciencia
 translation_model: gpt-4o
 ---

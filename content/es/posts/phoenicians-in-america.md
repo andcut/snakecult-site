@@ -22,7 +22,7 @@ quality: 7
 slug: phoenicians-in-america
 tags:
 - History
-- Archaeology
+- archaeology
 - Pseudoarchaeology
 title: 'Fenicios en las Américas: Un Análisis Cronológico de una Teoría Controvertida'
 translation_model: gpt-4o

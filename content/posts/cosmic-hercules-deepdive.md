@@ -1,34 +1,36 @@
 ---
-title: "Cosmic Herakles & Dionysus Zagreus: Orphic Cosmology and Mysteries"
+title: 'Cosmic Herakles & Dionysus Zagreus: Orphic Cosmology and Mysteries'
 date: 2025-04-19
 lastmod: 2025-04-19
 slug: cosmic-herakles-dionysus-deepdive
-description: "A detailed exploration of the complementary roles of Cosmic Herakles (Chronos) and Dionysus Zagreus in Orphic theogony, myth, ritual praxis, and Neoplatonic interpretation."
+description: A detailed exploration of the complementary roles of Cosmic Herakles
+  (Chronos) and Dionysus Zagreus in Orphic theogony, myth, ritual praxis, and Neoplatonic
+  interpretation.
 keywords:
- - Herakles
- - Dionysus
- - Zagreus
- - Chronos
- - Orphism
- - Orphic Theogony
- - Mystery Religion
- - Cosmology
- - Soteriology
- - Neoplatonism
- - Serpent Symbolism
- - Metempsychosis
+- Herakles
+- Dionysus
+- Zagreus
+- Chronos
+- Orphism
+- Orphic Theogony
+- Mystery Religion
+- Cosmology
+- Soteriology
+- Neoplatonism
+- Serpent Symbolism
+- Metempsychosis
 about:
- - Orphic Mysteries
- - Greek Philosophy
- - Comparative Mythology
+- Orphic Mysteries
+- Greek Philosophy
+- Comparative Mythology
 tags:
-  - Deep-Research
-  - philosophy
-  - religion
-author: "Andrew Cutler" # Assuming author based on other files
-license: "https://creativecommons.org/licenses/by-sa/4.0/" # Assuming license
+- Deep-Research
+- Philosophy
+- Religion
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
-quality: 7          # ★ 1‒10 subjective “how good is this?”; 6 = unrated/OK
+quality: 7
 ---
 
 **TL;DR**

@@ -23,8 +23,8 @@ quality: 7
 slug: temp-name
 tags:
 - Cognitive Revolution
-- philosophy
-- prehistory
+- Philosophy
+- Prehistory
 title: '# Grandes Explosiones de la Mente: 7 Teorías Sobre la Actualización del Cerebro
   del Paleolítico Superior'
 translation_model: gpt-4o

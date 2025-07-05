@@ -1,28 +1,29 @@
 ---
-title: "Darwin on Human Evolution: Short Timelines and Gene-Culture Interaction"
+title: 'Darwin on Human Evolution: Short Timelines and Gene-Culture Interaction'
 date: 2025-04-22
 lastmod: 2025-04-22
 slug: darwin-short-evolutionary-timelines
-description: "Darwin's views on the rapid pace of human evolution, driven by gene-culture interaction, reputation, language, and social institutions."
-keywords: # 3–7 items
- - darwin
- - evolution
- - human evolution
- - gene-culture
- - language
- - morality
-about: # high-level topics
- - evolution
- - history of science
- - anthropology
-tags: # reader-facing
- - Darwin
- - Evolutionary Theory
- - Human Origins
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+description: Darwin's views on the rapid pace of human evolution, driven by gene-culture
+  interaction, reputation, language, and social institutions.
+keywords:
+- darwin
+- evolution
+- human evolution
+- gene-culture
+- language
+- morality
+about:
+- evolution
+- history of science
+- anthropology
+tags:
+- Darwin
+- Evolutionary Theory
+- human-origins
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
-quality: 6          # ★ 1‒10 subjective "how good is this?"; 6 = unrated/OK
+quality: 6
 ---
 
 **TL;DR** <!-- ≤ 100 words, 3-7 bullets -->

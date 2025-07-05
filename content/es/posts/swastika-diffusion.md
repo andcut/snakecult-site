@@ -25,7 +25,7 @@ slug: swastika-diffusion
 tags:
 - Swastika
 - Ancient History
-- Archaeology
+- archaeology
 - Symbolism
 title: Apariciones Arqueológicas Globales y Explicaciones Teóricas de la Esvástica
 translation_model: gpt-4o

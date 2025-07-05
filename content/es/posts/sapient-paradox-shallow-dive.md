@@ -22,7 +22,7 @@ quality: 5
 slug: sapient-paradox-shallow-dive
 tags:
 - Prehistory
-- deep-research
+- Deep-Research
 title: '# La Paradoja Sapiente: Una Breve Introducción'
 translation_model: gpt-4o
 ---

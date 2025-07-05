@@ -1,26 +1,28 @@
 ---
-title: "Prehistoric Myths with Origins Over 8,000 Years Ago"
+title: Prehistoric Myths with Origins Over 8,000 Years Ago
 date: 2025-04-21
 lastmod: 2025-04-21
 slug: longevity-of-myths
-description: "Examines the surprising stability of mythic motifs over millennia, suggesting myths like the Cosmic Hunt or Serpent symbolism could encode memories of real cognitive shifts, supporting the Eve Theory's timeframe."
+description: Examines the surprising stability of mythic motifs over millennia, suggesting
+  myths like the Cosmic Hunt or Serpent symbolism could encode memories of real cognitive
+  shifts, supporting the Eve Theory's timeframe.
 keywords:
- - mythology
- - prehistory
- - oral tradition
- - paleolithic
- - geomythology
- - comparative mythology
- - linguistics
+- mythology
+- prehistory
+- oral tradition
+- paleolithic
+- geomythology
+- comparative mythology
+- linguistics
 about:
- - Anthropology
- - History
- - Archaeology
+- Anthropology
+- History
+- Archaeology
 tags:
-  - narrative
-  - prehistory
-author: "Andrew Cutler" # Assuming author based on previous file
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+- Narrative
+- Prehistory
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
 quality: 8
 ---

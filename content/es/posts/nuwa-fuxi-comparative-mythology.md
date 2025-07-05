@@ -21,10 +21,9 @@ quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
 - China
-- Mythology
-- Symbolism
 - mythology
-- religion
+- Symbolism
+- Religion
 title: 'Nüwa y Fuxi: La Pareja Primordial Serpentina y el Motivo de la Escuadra y
   el Compás en la Mitología'
 translation_model: gpt-4o

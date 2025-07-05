@@ -1,27 +1,28 @@
 ---
-title: "Awakening Eve: How Self-Knowledge Rewired the Human Mind"
+title: 'Awakening Eve: How Self-Knowledge Rewired the Human Mind'
 date: 2025-04-27
 lastmod: 2025-04-20
 slug: etoc epistemic-exactitude
-description: "How a late Upper-Pleistocene spark of self awareness spread memetically, rewired our genome, and solved the Sapient Paradox."
+description: How a late Upper-Pleistocene spark of self awareness spread memetically,
+  rewired our genome, and solved the Sapient Paradox.
 keywords:
- - Eve Theory of Consciousness
- - recursive self awareness
- - gene culture coevolution
- - Sapient Paradox
- - bicameral mind
- - behavioral modernity
+- Eve Theory of Consciousness
+- recursive self awareness
+- gene culture coevolution
+- Sapient Paradox
+- bicameral mind
+- behavioral modernity
 about:
- - consciousness origins
- - evolutionary anthropology
- - cognitive archaeology
+- consciousness origins
+- evolutionary anthropology
+- cognitive archaeology
 tags:
- - EToC
- - deep history
- - human evolution
-core_entity: "Venus figurine"
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by sa/4.0/"
+- EToC
+- Deep History
+- human evolution
+core_entity: Venus figurine
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by sa/4.0/
 draft: false
 quality: 7
 ---

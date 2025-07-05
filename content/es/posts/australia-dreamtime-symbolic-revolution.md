@@ -33,7 +33,7 @@ quality: 7
 slug: australia-dreamtime-symbolic-revolution
 tags:
 - Anthropology
-- Archaeology
+- archaeology
 - Deep-Research
 - cognitive science
 title: 'El Tiempo del Sueño australiano y la Revolución Simbólica: ¿Evidencia indígena

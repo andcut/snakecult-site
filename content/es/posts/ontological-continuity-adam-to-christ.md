@@ -28,13 +28,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: ontological-continuity-adam-to-christ
 tags:
-- Consciousness
+- consciousness
 - Evolution
-- Mythology
+- mythology
 - Philosophy
 - Religion
 - psychology
-- religion
 title: 'El Logos y la Serpiente: Evolución Mítica de la Autoconciencia'
 translation_model: gpt-4o
 ---

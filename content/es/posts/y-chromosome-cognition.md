@@ -23,7 +23,7 @@ quality: 9
 slug: y-chromosome-cognition
 tags:
 - Sex Chromosomes
-- Cognition
+- cognition
 - Autism
 - Neurodevelopmental Disorders
 title: 'Rol del Cromosoma Y en la Cognición Humana: Una Revisión de la Literatura'

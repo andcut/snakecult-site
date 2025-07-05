@@ -25,7 +25,7 @@ quality: 5
 slug: muller-serpent-worship
 tags:
 - Max Müller
-- Ritual
+- ritual
 - Serpent Worship
 - Symbolism
 - mythology

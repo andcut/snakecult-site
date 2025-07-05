@@ -1,33 +1,35 @@
 ---
-title: "Eve Theory of Consciousness v4"
+title: Eve Theory of Consciousness v4
 date: 2025-06-30
 lastmod: 2025-06-30
 slug: etoc-v4
-description: "A comprehensive interdisciplinary theory proposing that human consciousness originated as a cultural invention in prehistoric times, likely pioneered by women and spread through ritual and language."
+description: A comprehensive interdisciplinary theory proposing that human consciousness
+  originated as a cultural invention in prehistoric times, likely pioneered by women
+  and spread through ritual and language.
 keywords:
- - consciousness
- - evolutionary psychology
- - Julian Jaynes
- - bicameral mind
- - prehistoric cognition
- - cognitive revolution
- - mythology
+- consciousness
+- evolutionary psychology
+- Julian Jaynes
+- bicameral mind
+- prehistoric cognition
+- cognitive revolution
+- mythology
 about:
- - consciousness
- - evolution
- - prehistory
+- consciousness
+- evolution
+- prehistory
 tags:
- - Consciousness
- - Evolution
- - Prehistory
- - Mythology
- - Neuroscience
- - Psychology
- - Anthropology
-core_entity: "Eve Theory"
+- consciousness
+- Evolution
+- Prehistory
+- mythology
+- Neuroscience
+- psychology
+- Anthropology
+core_entity: Eve Theory
 quality: 7
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
 ---
 

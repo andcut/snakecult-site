@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- Consciousness
+- consciousness
 - Evolution
-- Mythology
+- mythology
 - Scott Alexander
 - Philosophy
 - Speculation

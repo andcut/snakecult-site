@@ -26,8 +26,8 @@ slug: primordial-matriarchy-science
 tags:
 - Feminist Theory
 - Matriarchy Debate
-- evolution
-- human origins
+- Evolution
+- human-origins
 title: 'Mujeres como Progenitoras de la Cultura: Orígenes Míticos y Debates Académicos'
 translation_model: gpt-4o
 ---

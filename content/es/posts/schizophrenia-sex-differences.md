@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: schizophrenia-sex-race-epidemiology
 tags:
-- Schizophrenia
+- schizophrenia
 - Epidemiology
 - Health-Disparities
 title: '# Epidemiología Global de la Esquizofrenia: Incidencia y Prevalencia por Sexo

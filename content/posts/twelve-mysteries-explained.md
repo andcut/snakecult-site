@@ -1,28 +1,29 @@
 ---
-title: "12 Mysteries Solved by the Eve Theory of Consciousness"
+title: 12 Mysteries Solved by the Eve Theory of Consciousness
 date: 2025-04-27
 lastmod: 2025-04-27
 slug: twelve-mysteries
-description: "Systematic audit of 12 evolutionary, archaeological and mythic puzzles and how the Eve Theory of Consciousness purports to solve them."
+description: Systematic audit of 12 evolutionary, archaeological and mythic puzzles
+  and how the Eve Theory of Consciousness purports to solve them.
 keywords:
-  - human-consciousness
-  - Eve-Theory
-  - behavioral-modernity
-  - recursion
-  - snake-cult
+- human-consciousness
+- Eve-Theory
+- behavioral-modernity
+- recursion
+- snake-cult
 about:
-  - cognitive-evolution
-  - comparative-mythology
-  - gene-culture-coevolution
+- cognitive-evolution
+- comparative-mythology
+- gene-culture-coevolution
 tags:
-  - consciousness
-  - mythology
-  - human-origins
-  - evolution
-core_entity: "Eve Theory"
+- consciousness
+- mythology
+- human-origins
+- Evolution
+core_entity: Eve Theory
 quality: 5
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
 ---
 

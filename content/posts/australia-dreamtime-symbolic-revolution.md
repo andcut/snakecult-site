@@ -1,38 +1,42 @@
 ---
-title: "The Australian Dreamtime and the Symbolic Revolution: Indigenous Evidence for Late Consciousness?"
+title: 'The Australian Dreamtime and the Symbolic Revolution: Indigenous Evidence
+  for Late Consciousness?'
 date: 2025-04-20
 lastmod: 2025-04-20
 slug: australia-dreamtime-symbolic-revolution
-description: "Comparison of the early Holocene emergence of the Aboriginal Dreamtime symbolic system with the Near East's Neolithic 'revolution of symbols,' examining Australian rock art, technology, exchange networks, language diffusion, and cognitive impacts."
+description: Comparison of the early Holocene emergence of the Aboriginal Dreamtime
+  symbolic system with the Near East's Neolithic 'revolution of symbols,' examining
+  Australian rock art, technology, exchange networks, language diffusion, and cognitive
+  impacts.
 keywords:
- - Dreamtime
- - Aboriginal Australia
- - Holocene
- - Symbolic Revolution
- - Rock Art
- - Maliwawa Figures
- - Rainbow Serpent
- - Proto-Australian Language
- - Metacognition
- - Jacques Cauvin
- - Göbekli Tepe
- - Archaeology
- - Cognitive Archaeology
- - Oral Tradition
+- Dreamtime
+- Aboriginal Australia
+- Holocene
+- Symbolic Revolution
+- Rock Art
+- Maliwawa Figures
+- Rainbow Serpent
+- Proto-Australian Language
+- Metacognition
+- Jacques Cauvin
+- Göbekli Tepe
+- Archaeology
+- Cognitive Archaeology
+- Oral Tradition
 about:
- - Australian Prehistory
- - Comparative Archaeology
- - Symbolic Systems
- - Cognitive Evolution
+- Australian Prehistory
+- Comparative Archaeology
+- Symbolic Systems
+- Cognitive Evolution
 tags:
-  - Anthropology
-  - Archaeology
-  - Deep-Research
-  - "cognitive science"
-author: "Andrew Cutler" # Assuming author based on previous files
-license: "https://creativecommons.org/licenses/by-sa/4.0/" # Assuming license
+- Anthropology
+- archaeology
+- Deep-Research
+- cognitive science
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
-quality: 7          # ★ 1‒10 subjective “how good is this?”; 6 = unrated/OK
+quality: 7
 ---
 
 **TL;DR**

@@ -22,7 +22,7 @@ slug: eve-theory-wallace-problem
 tags:
 - Wallace Problem
 - consciousness
-- evolution
+- Evolution
 - recursion
 title: 'Teoría de la Conciencia de Eva: Resolviendo el Problema de Wallace sobre la
   Cognición Humana'

@@ -1,15 +1,35 @@
 ---
-title: "Eve, the Serpent & the Logos — From Göbekli Tepe to John 1"
-date: 2025-04-20T10:00:00Z
-lastmod: 2025-04-28T12:45:00Z
+title: Eve, the Serpent & the Logos — From Göbekli Tepe to John 1
+date: 2025-04-20 10:00:00+00:00
+lastmod: 2025-04-28 12:45:00+00:00
 slug: ontological-continuity-adam-to-christ-2
-description: "From Eden through John's *Logos* and Gnostic counter-myths to global 'hanged-god' rites, this essay reconstructs how reflexive consciousness emerged, iterated, and finally theorised itself."
-keywords: [consciousness, genesis, logos, gnosticism, axial age, cultural evolution, self-awareness, serpent]
-about: [consciousness, mythology, philosophy, religion]
-tags: [Consciousness, Evolution, Mythology, Philosophy, Religion, Psychology]
-author: "Andrew Cutler"
-core_entity: "Serpent"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+description: From Eden through John's *Logos* and Gnostic counter-myths to global
+  'hanged-god' rites, this essay reconstructs how reflexive consciousness emerged,
+  iterated, and finally theorised itself.
+keywords:
+- consciousness
+- genesis
+- logos
+- gnosticism
+- axial age
+- cultural evolution
+- self-awareness
+- serpent
+about:
+- consciousness
+- mythology
+- philosophy
+- religion
+tags:
+- consciousness
+- Evolution
+- mythology
+- Philosophy
+- Religion
+- psychology
+author: Andrew Cutler
+core_entity: Serpent
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: true
 quality: 5
 ---

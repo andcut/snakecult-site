@@ -22,7 +22,7 @@ quality: 6
 slug: consider-the-chicken
 tags:
 - Ancient Contact
-- Archaeology
+- archaeology
 title: Considera el Pollo
 translation_model: gpt-4o
 ---

@@ -1,28 +1,29 @@
 ---
-title: "Pre-Columbian Trans-Oceanic Contact: Current Knowledge and Debate"
+title: 'Pre-Columbian Trans-Oceanic Contact: Current Knowledge and Debate'
 date: 2025-03-20
 lastmod: 2025-03-20
 slug: pre-columbian-contact-america
-description: "A comprehensive analysis of evidence and scholarly debate surrounding pre-Columbian trans-oceanic contact between the Americas and Old World civilizations."
+description: A comprehensive analysis of evidence and scholarly debate surrounding
+  pre-Columbian trans-oceanic contact between the Americas and Old World civilizations.
 keywords:
- - pre-columbian contact
- - trans-oceanic voyages
- - ancient civilizations
- - archaeology
- - genetics
- - cultural diffusion
+- pre-columbian contact
+- trans-oceanic voyages
+- ancient civilizations
+- archaeology
+- genetics
+- cultural diffusion
 about:
- - ancient history
- - archaeology
- - genetics
+- ancient history
+- archaeology
+- genetics
 tags:
- - History
- - Archaeology
- - Genetics
- - Ancient Civilizations
-core_entity: "Ancient Voyages"
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+- History
+- archaeology
+- Genetics
+- Ancient Civilizations
+core_entity: Ancient Voyages
+author: Andrew Cutler
+license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false
 quality: 6
 ---

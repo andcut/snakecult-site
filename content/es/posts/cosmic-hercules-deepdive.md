@@ -29,8 +29,8 @@ quality: 7
 slug: cosmic-herakles-dionysus-deepdive
 tags:
 - Deep-Research
-- philosophy
-- religion
+- Philosophy
+- Religion
 title: 'Cosmic Herakles y Dionysus Zagreus: Cosmología y Misterios Órficos'
 translation_model: gpt-4o
 ---

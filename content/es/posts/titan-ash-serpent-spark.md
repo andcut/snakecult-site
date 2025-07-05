@@ -23,7 +23,7 @@ slug: titan-ash-serpent-spark
 tags:
 - Myth
 - Religion
-- Archaeology
+- archaeology
 title: Titan Ash & Serpent Spark — Cosmos Desmembrado, Espejos de Agua y el Núcleo
   Ofídico de la Creación
 translation_model: gpt-4o

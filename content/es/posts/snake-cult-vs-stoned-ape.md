@@ -23,7 +23,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- Human Origins
+- human-origins
 - Psychedelics
 - consciousness
 title: El Culto de la Serpiente de la Conciencia vs. la Teoría del Mono Colocado de

@@ -23,7 +23,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- Consciousness
+- consciousness
 - Identity
 - Memory
 - Narrative
