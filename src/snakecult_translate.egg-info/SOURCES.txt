@@ -3,6 +3,7 @@ README.md
 setup.py
 src/snakecult_translate/__init__.py
 src/snakecult_translate/cli_batch_async.py
+src/snakecult_translate/cli_batch_status.py
 src/snakecult_translate/cli_one.py
 src/snakecult_translate/cli_parallel.py
 src/snakecult_translate/core.py
