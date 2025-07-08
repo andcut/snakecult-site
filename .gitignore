@@ -37,3 +37,9 @@ public_test/
 
 # Large data dumps
 vom_posts/ 
+
+# Generated batch mapping files
+batch_work/
+
+# Auto-converted draft posts (can be regenerated)
+converted_posts/ 
