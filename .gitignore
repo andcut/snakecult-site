@@ -10,6 +10,9 @@
 # Generated CSS files in public directory
 /public/css/
 
+# Generated processed CSS
+/assets/css/main.processed.css
+
 # Environment files
 .env
 .env.*
@@ -36,7 +39,7 @@ translation_experiments/
 public_test/
 
 # Large data dumps
-vom_posts/ 
+vom_posts/
 
 # Generated batch mapping files
 batch_work/

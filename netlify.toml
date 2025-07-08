@@ -1,6 +1,6 @@
 [build]
   # Command to build the site
-  command = "npm install && hugo --minify && node scripts/compress_brotli.js"
+  command = "npm install && npm run build && node scripts/compress_brotli.js"
   # Directory to publish
   publish = "public"
 
