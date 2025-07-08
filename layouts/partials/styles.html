@@ -1,3 +1,3 @@
 {{ $opts := dict "targetPath" "css/main.min.css" }}
-{{ $css := resources.Get "css/main.css" | resources.PostCSS | resources.Fingerprint }}
+{{ $css := resources.Get "css/main.css" | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}"> 
