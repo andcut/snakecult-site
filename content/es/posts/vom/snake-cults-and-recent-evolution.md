@@ -14,7 +14,7 @@ keywords:
 - cults
 - recent
 - evolution
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152927046'
@@ -38,7 +38,6 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
 ### Artículos que mencionamos:
 
-
   * VoM: [¿Cuándo creen los genetistas que evolucionó el cerebro humano?](https://www.vectorsofmind.com/p/when-do-geneticists-believe-the-human)
 
   * Stetson: [La paradoja del intelectual público](https://stetson.substack.com/p/the-public-intellectual-paradox)
@@ -53,15 +52,9 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
     * [Culto de la Serpiente de la Conciencia](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness)
 
-
-
-
 ### Resumen:
 
-
   1. Antecedentes del Dr. Thacker
-
-
 
   * Doctorado en genética enfocado en medicina genómica
 
@@ -71,11 +64,7 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
   * Actualmente dirige el Substack y podcast Holodoxa
 
-
-
   2. El artículo del Reich Lab sobre ADN antiguo
-
-
 
   * Análisis de 8,500 genomas antiguos muestra fuerte selección en los últimos 10,000 años
 
@@ -85,11 +74,7 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
   * Discusión sobre los desafíos metodológicos y limitaciones
 
-
-
   3. Debate central: ¿Cuándo se convirtieron los humanos en "humanos"?
-
-
 
   * Cutler: Argumenta a favor de un surgimiento reciente de la autoconciencia recursiva (~50,000 años atrás)
 
@@ -99,11 +84,7 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
   * Debate sobre modelos de cambio gradual vs de fase de la evolución humana
 
-
-
   4. La naturaleza de la singularidad humana
-
-
 
   * Diferentes perspectivas sobre lo que hace especiales a los humanos:
 
@@ -115,11 +96,7 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
   * Debate sobre las habilidades cognitivas de los neandertales
 
-
-
   5. Direcciones futuras de investigación
-
-
 
   * Potencial de la biología sintética y la ingeniería genética
 

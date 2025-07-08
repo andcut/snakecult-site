@@ -78,7 +78,6 @@ Until a primary narrative surfaces, claims of a female death-bringer in the New 
 
 ---
 
-
 ## FAQ
 
 **Q1 · Are the Old Woman and Pandora ultimately the *same* archetype?**  

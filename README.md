@@ -12,6 +12,27 @@ See `docs/project-charter.md` for project goals and details.
 
 Run `npm test` to ensure Hugo can build the site without errors.
 
+## Development
+
+To spin up a lightning-fast local server (English-only), run:
+
+```bash
+make dev
+```
+
+The make target bundles several speed optimisations:
+
+* Disables non-English languages via `config/dev/languages.toml`
+* Skips taxonomy/RSS/sitemap kinds
+* Skips the SASS/Tailwind pipeline (`HUGO_SKIP_SASS=true`)
+* Doubles Hugo worker threads
+
+For a full multi-language preview you can still use:
+
+```bash
+hugo server -D
+```
+
 ## Setup
 
 This project uses Hugo themes as Git submodules. After cloning the repository,

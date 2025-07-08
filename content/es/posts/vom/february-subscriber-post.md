@@ -13,7 +13,7 @@ keywords:
 - february
 - subscriber
 - post
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '141435306'
@@ -35,18 +35,15 @@ Ha pasado un tiempo desde la última publicación para suscriptores, creo que es
 
 ## Enlaces
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!7uXO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd97f7049-fab7-4c99-a9ab-5531cc4f9cca_1344x896.png)
 
 ### La Conspiración Bayesiana
-
 
 y en el podcast de la Conspiración Bayesiana [cubren el Culto de la Serpiente de la Conciencia](https://www.thebayesianconspiracy.com/2024/02/205-the-snake-cult-of-consciousness/). A lo largo del episodio, dicen: "Andrew probablemente diría..." y siempre tienen razón. Tienen un modelo mental preciso de lo que quería presentar y añaden algunos comentarios maravillosos. Como parte de su preparación, hicieron que una IA británica leyera la pieza sobre el culto de la serpiente, que puedes escuchar aquí:
 
 [*[Imagen: Contenido visual del post original]*Askwho Casts AI The Snake Cult of Consciousness - Por Andrew CutlerEsta es una lectura por IA del post The Snake Cult of Consciousness - Por Andrew Cutler… Escuchar ahora hace un año · Askwho Casts AI](https://askwhocastsai.substack.com/p/the-snake-cult-of-consciousness-by?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 ### Unsong
-
 
 Recientemente terminé la novela de ciencia ficción de Scott Alexander _[Unsong](https://unsongbook.com/)_. Como él la describe:
 
@@ -59,7 +56,6 @@ Es desternillante, y al final, da una respuesta al problema del mal (no es realm
 [Deja un comentario](https://www.vectorsofmind.com/p/february-subscriber-post/comments)
 
 ### Los problemas del pasado profundo de Australia
-
 
 A menudo soy crítico de los antropólogos de manera casual. Para ser legible, mi principal crítica es bastante aburrida: los antropólogos han abandonado las grandes teorías. En general, la ciencia se ha burocratizado, y la financiación suele otorgarse a proyectos que muestran ganancias marginales en un tema estrecho, por ejemplo, [caracterizar el perfil sonoro de los zumbadores](https://web.archive.org/web/20230606053449/https://www.wits.ac.za/news/latest-news/opinion/2019/2019-08/how-our-african-ancestors-made-sound-in-the-stone-age.html). Este es un trabajo interesante (que cito), pero se ignora el elefante en la habitación: [¿por qué se usan los zumbadores en contextos rituales similares en todo el mundo?](https://www.vectorsofmind.com/i/136623669/bullroarer-totem-of-the-diffusionists) Necesitas una gran teoría para responder esto, y esas han caído en desgracia.
 

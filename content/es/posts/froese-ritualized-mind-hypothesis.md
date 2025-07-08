@@ -20,7 +20,7 @@ keywords:
 - altered states
 - gene-culture coevolution
 - recursive thought
-lang: es
+
 lastmod: '2025-07-04'
 license: CC-BY-SA 4.0
 quality: 7

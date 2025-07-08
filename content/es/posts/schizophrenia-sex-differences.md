@@ -15,7 +15,7 @@ keywords:
 - sex-differences
 - race-differences
 - epidemiology
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
@@ -27,17 +27,13 @@ tags:
 title: '# Epidemiología Global de la Esquizofrenia: Incidencia y Prevalencia por Sexo
   y Etnicidad
 
-
   ## Introducción
-
 
   La esquizofrenia es un trastorno mental crónico y severo que afecta a millones de
   personas en todo el mundo. Comprender la epidemiología global de la esquizofrenia
   es crucial para desarrollar estrategias efectivas de prevención y tratamiento.
 
-
   ## Incidencia
-
 
   La incidencia de la esquizofrenia varía significativamente entre diferentes regiones
   y poblaciones. Los estudios han demostrado que la incidencia anual global de la
@@ -45,36 +41,28 @@ title: '# Epidemiología Global de la Esquizofrenia: Incidencia y Prevalencia po
   cifra puede fluctuar dependiendo de factores como el entorno geográfico y las metodologías
   de investigación.
 
-
   ## Prevalencia
-
 
   La prevalencia de la esquizofrenia también muestra variaciones a nivel mundial.
   Se estima que la prevalencia de por vida de la esquizofrenia es de alrededor del
   1% de la población global. Esta cifra puede ser influenciada por factores genéticos,
   ambientales y socioeconómicos.
 
-
   ## Diferencias por Sexo
-
 
   Los estudios han indicado que la esquizofrenia afecta a hombres y mujeres de manera
   diferente. Generalmente, los hombres tienden a desarrollar esquizofrenia a una edad
   más temprana que las mujeres. Además, algunos estudios sugieren que los hombres
   pueden experimentar síntomas más severos en comparación con las mujeres.
 
-
   ## Diferencias por Etnicidad
-
 
   La incidencia y prevalencia de la esquizofrenia también pueden variar según la etnicidad.
   Investigaciones han mostrado que ciertos grupos étnicos pueden tener un riesgo más
   alto o más bajo de desarrollar esquizofrenia, lo cual puede estar relacionado con
   factores genéticos, culturales y ambientales.
 
-
   ## Conclusión
-
 
   La comprensión de la epidemiología de la esquizofrenia es esencial para abordar
   este trastorno de manera efectiva. Las diferencias en la incidencia y prevalencia

@@ -22,9 +22,9 @@ original_url: "https://www.vectorsofmind.com/p/bonus-ghibli-eve-theory-of-consci
 
 ---
 
-I am in awe at how dense myths can be. The Fall of Adam and Eve occupies just a few pages in Genesis, and yet it richly captures what it would be like to wake up to one’s role as an agent—the Knowledge of Good and Evil—to become “like the gods.” It’s a metaphor so psychologically potent that billions interpret their soul through its lens. 
+I am in awe at how dense myths can be. The Fall of Adam and Eve occupies just a few pages in Genesis, and yet it richly captures what it would be like to wake up to one's role as an agent—the Knowledge of Good and Evil—to become "like the gods." It's a metaphor so psychologically potent that billions interpret their soul through its lens. 
 
-OpenAI’s new image generation model is the first that can create complex scenes that include text. I take the opportunity to try and express my version of Genesis as parsimoniously as Moses.
+OpenAI's new image generation model is the first that can create complex scenes that include text. I take the opportunity to try and express my version of Genesis as parsimoniously as Moses.
 
 * * *
 
@@ -48,8 +48,8 @@ OpenAI’s new image generation model is the first that can create complex scene
 
 * * *
 
-Debates about AI’s role in art rage on. But one underrated Take is how useful AI-generated imagery is for non-artists, who often can’t even clearly picture what they’re after. Every image I generate is a conversation, a back-and-forth negotiation between me and the AI. GPT still messes up—a lot—and human intervention would be necessary if I ever wanted to produce an actual book. But at least now I’d know what to ask for.
+Debates about AI's role in art rage on. But one underrated Take is how useful AI-generated imagery is for non-artists, who often can't even clearly picture what they're after. Every image I generate is a conversation, a back-and-forth negotiation between me and the AI. GPT still messes up—a lot—and human intervention would be necessary if I ever wanted to produce an actual book. But at least now I'd know what to ask for.
 
 Anyway, it was fun to make the Most Complex AI-Ghibli yet. Feedback appreciated—and feel free to share the whimsy!
 
-[Share](https://www.vectorsofmind.com/p/bonus-ghibli-eve-theory-of-consciousness?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+[Share](https://www.vectorsofmind.com/p/bonus-ghibli-eve-theory-of-consciousness?action=share)

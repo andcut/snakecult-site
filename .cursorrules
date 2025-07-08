@@ -1,0 +1,52 @@
+# Cursor Development Rules (July 2025)
+
+## 1 · Running the site locally
+
+* **Primary command:** `make dev`
+  * Builds English-only using `config/dev/languages.toml` (other languages `disabled = true`).
+  * Skips Hugo taxonomies, RSS, and sitemap for faster incrementals.
+  * Sets `HUGO_SKIP_SASS=true` – rely on external CSS watcher when needed.
+  * Doubles worker threads via `HUGO_NUMWORKERMULTIPLIER=2`.
+* Full multilingual build: `hugo server -D`.
+* Production bundle: `make build` (alias for `hugo --minify`).
+* Verification build: `make build-test` (builds into `public_test/`).
+
+## 2 · Formatting & linting
+
+* Follow the `.editorconfig` defaults.
+* JavaScript / CSS are formatted with Prettier (`npm run format`).
+* Python code uses `ruff` (`pip install ruff` → `ruff check .`).
+* Markdown is linted with `markdownlint-cli2` (run `npm run lint:md`).
+
+## 3 · Commit style
+
+* Use **Conventional Commits**:
+  ```
+  feat(i18n): add Hindi language files
+  fix(css): remove extra margin in header
+  docs: update README with make dev instructions
+  ```
+* Keep subject ≤ 72 chars; wrap body at 100 chars.
+
+## 4 · Content guidelines
+
+* New posts go under `content/posts/` → filename `kebab-case.md`.
+* Local images belong in `assets/images/`; prefer SVG or lossless WebP.
+* Add front-matter `draft: true` until ready to publish.
+* Use canonical tags; update `data/tags.json` to avoid duplicates.
+
+## 5 · Templates & performance
+
+* Wrap heavy partials in `partialCached` (see `hugo --templateMetricsHints`).
+* Avoid `.Site.Pages` in loops – prefer `.Site.RegularPages`.
+* Paginate lists with `| paginate $pages 50` to reduce page count.
+
+## 6 · Translations
+
+* i18n tables live in `i18n/<lang>.toml`.
+* Disable new languages in `config/dev/languages.toml` so `make dev` stays fast.
+
+## 7 · CI expectations
+
+* PRs must pass `npm test` (build check) and linter workflows.
+* Assets larger than 500 kB are rejected by CI unless justified. 

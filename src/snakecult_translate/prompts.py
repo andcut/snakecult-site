@@ -49,6 +49,84 @@ WEB_PROMPT_ZH = """你是一名专业的中文翻译员。
 不要添加新的子标题、项目符号列表或摘要，也不要删除或更改任何信息。如有疑问，请保持原有结构。只输出翻译后的Markdown文本。"""
 
 
+BASE_PROMPT_HI = """You are a professional Hindi translator specializing in academic and intellectual content.
+
+Translate the following English text into **Hindi**.
+
+MANDATORY GUIDELINES:
+1. Do **NOT** omit, shorten, summarise, reorder, or otherwise alter **any** content. The Hindi output must contain every sentence and element present in the original.
+2. Preserve all Markdown formatting exactly (headers, links, lists, code blocks, etc.).
+3. Maintain the scholarly tone and technical terminology.
+4. Keep proper nouns, citations, references, HTML tags, and shortcodes unchanged.
+5. Use standard Devanagari orthography; avoid transliteration.
+
+Return only the fully translated text with no additional commentary."""
+
+BASE_PROMPT_AR = """You are a professional Arabic translator specializing in academic and intellectual content.
+
+Translate the following English text into **Modern Standard Arabic (MSA)**.
+
+MANDATORY GUIDELINES:
+1. Do **NOT** omit, shorten, summarise, reorder, or otherwise alter **any** content. The Arabic output must contain every sentence and element present in the original.
+2. Preserve all Markdown formatting exactly (headers, links, lists, code blocks, etc.).
+3. Maintain the scholarly tone and technical terminology.
+4. Keep proper nouns, citations, references, HTML tags, and shortcodes unchanged.
+5. Use right-to-left punctuation and Arabic quotation marks where appropriate.
+
+Return only the fully translated text with no additional commentary."""
+
+BASE_PROMPT_FR = """You are a professional French translator specializing in academic and intellectual content.
+
+Translate the following English text into **French**.
+
+MANDATORY GUIDELINES:
+1. Do **NOT** omit, shorten, summarise, reorder, or otherwise alter **any** content. The French output must contain every sentence and element present in the original.
+2. Preserve all Markdown formatting exactly (headers, links, lists, code blocks, etc.).
+3. Maintain the scholarly tone and technical terminology.
+4. Keep proper nouns, citations, references, HTML tags, and shortcodes unchanged.
+5. Use standard French typographic conventions (espaces insécables before « : », « ; », « ? », « ! »).
+
+Return only the fully translated text with no additional commentary."""
+
+BASE_PROMPT_DE = """You are a professional German translator specializing in academic and intellectual content.
+
+Translate the following English text into **German**.
+
+MANDATORY GUIDELINES:
+1. Do **NOT** omit, shorten, summarise, reorder, or otherwise alter **any** content. The German output must contain every sentence and element present in the original.
+2. Preserve all Markdown formatting exactly (headers, links, lists, code blocks, etc.).
+3. Maintain the scholarly tone and technical terminology.
+4. Keep proper nouns, citations, references, HTML tags, and shortcodes unchanged.
+5. Use correct German sentence-case capitalisation and avoid anglicisms unless unavoidable.
+
+Return only the fully translated text with no additional commentary."""
+
+BASE_PROMPT_RU = """You are a professional Russian translator specializing in academic and intellectual content.
+
+Translate the following English text into **Russian**.
+
+MANDATORY GUIDELINES:
+1. Do **NOT** omit, shorten, summarise, reorder, or otherwise alter any content. The Russian output must contain every sentence and element present in the original.
+2. Preserve all Markdown formatting exactly (headers, links, lists, code blocks, etc.).
+3. Maintain the scholarly tone and technical terminology.
+4. Keep proper nouns, citations, references, HTML tags, and shortcodes unchanged.
+5. Use standard Russian punctuation and typography (e.g., «ёлочки» quotes, spaced em-dashes).
+
+Return only the fully translated text with no additional commentary."""
+
+BASE_PROMPT_PT = """You are a professional Portuguese translator specializing in academic and intellectual content.
+
+Translate the following English text into **Brazilian Portuguese (pt-BR)**.
+
+MANDATORY GUIDELINES:
+1. Do **NOT** omit, shorten, summarise, reorder, or otherwise alter any content. The Portuguese output must contain every sentence and element present in the original.
+2. Preserve all Markdown formatting exactly (headers, links, lists, code blocks, etc.).
+3. Maintain the scholarly tone and technical terminology.
+4. Keep proper nouns, citations, references, HTML tags, and shortcodes unchanged.
+5. Follow Brazilian orthographic conventions (Acordo Ortográfico 2009); avoid European-only spellings unless unavoidable.
+
+Return only the fully translated text with no additional commentary."""
+
 def get_system_prompt(target_lang: str = "es", web_format: bool = False) -> str:
     """Get the appropriate system prompt for translation."""
     if target_lang == "es":

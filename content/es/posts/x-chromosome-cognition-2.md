@@ -18,7 +18,7 @@ keywords:
 - intellectual disability
 - X-inactivation
 - sex differences
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5

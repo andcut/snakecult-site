@@ -1,5 +1,5 @@
 ---
-lang: es
+
 lastmod: '2025-07-04'
 layout: recent
 title: Actualizaciones Recientes

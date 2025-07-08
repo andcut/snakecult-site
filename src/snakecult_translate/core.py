@@ -149,7 +149,17 @@ def translate_file(
     spanish_fm = create_spanish_frontmatter(post.metadata, target_lang, model)
     if translated_title:
         spanish_fm['title'] = translated_title
-    
+
+    # Translate frontmatter fields in one shot
+    spanish_fm = translate_frontmatter_block(
+        client,
+        spanish_fm,
+        target_lang,
+        model,
+        web_format,
+        temperature
+    )
+
     # Create new post with translated content
     spanish_post = frontmatter.Post(translated_content, **spanish_fm)
     
@@ -164,4 +174,88 @@ def translate_file(
         return True
     except Exception as e:
         print(f"Error writing {dst_path}: {e}")
-        return False 
+        return False
+
+
+def translate_frontmatter_block(
+    client: OpenAI,
+    frontmatter_dict: dict,
+    target_lang: str = "es",
+    model: str = "gpt-4o",
+    web_format: bool = False,
+    temperature: Optional[float] = None
+) -> dict:
+    """Translate entire frontmatter block in one API call."""
+    
+    # Extract translatable fields
+    translatable_fields = {}
+    for field in ['title', 'description', 'keywords', 'tags', 'about']:
+        if field in frontmatter_dict and frontmatter_dict[field]:
+            translatable_fields[field] = frontmatter_dict[field]
+    
+    if not translatable_fields:
+        return frontmatter_dict
+    
+    # Build YAML snippet for translation
+    import yaml
+    yaml_snippet = yaml.dump(translatable_fields, default_flow_style=False, allow_unicode=True)
+    
+    # Craft prompt for frontmatter translation
+    lang_names = {
+        "es": "Spanish (Mexican)",
+        "zh": "Simplified Chinese",
+        "fr": "French",
+        "de": "German"
+    }
+    lang_name = lang_names.get(target_lang, target_lang)
+    
+    prompt = f"""Translate the following YAML frontmatter fields to {lang_name}:
+
+```yaml
+{yaml_snippet}```
+
+RULES:
+1. Translate ONLY the values, never the field names (title:, description:, etc.)
+2. Keep proper nouns unchanged (names, places like "El Arenal", technical terms like "pharmakon")
+3. For list items, translate each item but preserve the YAML list structure
+4. Output only the translated YAML block, no explanations
+5. Maintain academic/scholarly tone"""
+
+    try:
+        response = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "user", "content": prompt}
+            ],
+            temperature=temperature or 0.2
+        )
+        
+        translated_yaml = response.choices[0].message.content.strip()
+        
+        # Clean up markdown code fences if present
+        if translated_yaml.startswith('```yaml'):
+            translated_yaml = translated_yaml[7:]
+        if translated_yaml.endswith('```'):
+            translated_yaml = translated_yaml[:-3]
+        translated_yaml = translated_yaml.strip()
+        
+        # Parse translated YAML
+        try:
+            translated_fields = yaml.safe_load(translated_yaml)
+            if not isinstance(translated_fields, dict):
+                print("Warning: Translation didn't return a dict, using original frontmatter")
+                return frontmatter_dict
+                
+            # Merge back into original frontmatter
+            result_fm = frontmatter_dict.copy()
+            result_fm.update(translated_fields)
+            return result_fm
+            
+        except yaml.YAMLError as e:
+            print(f"Warning: Could not parse translated YAML: {e}")
+            print(f"Raw response: {translated_yaml}")
+            return frontmatter_dict
+            
+    except Exception as e:
+        print(f"Frontmatter translation error: {e}")
+        return frontmatter_dict 

@@ -14,7 +14,7 @@ keywords:
 - initiation
 - rituals
 - diffuse
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '136623669'
@@ -35,7 +35,6 @@ Hay un equilibrio entre escribir publicaciones de interés general y aquellas qu
 En resumen, muchos lingüistas y arqueólogos argumentan que el pensamiento abstracto evolucionó en los últimos 100,000 años. Por separado, muchos mitólogos comparativos argumentan que un puñado de mitos se ha preservado durante más de 100,000 años. Por lo tanto, algunos mitos pueden ser recuerdos del surgimiento de la condición humana: la vida interior y la conciencia de que somos agentes morales que un día morirán. O al menos las últimas etapas de ese proceso[^1]. Los mitos y prácticas que los estudiosos dicen compartir una raíz global común son sobre serpientes, mujeres revelando conocimiento sagrado, creación y rituales de iniciación masculina, como predice EToC.
 
 ## El Ritual
-
 
 [*[Imagen: Contenido visual de la publicación original]*](https://substackcdn.com/image/fetch/$s_!5EPY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f9a2b3-e528-4c98-9338-1e5ecf80e6e7_500x689.jpeg) Odín colgando de Yggdrasil. Se sacrificó “a sí mismo para sí mismo” para obtener comprensión de las runas. Véase también: la carta del tarot [El Colgado](https://www.pinterest.com.mx/pin/6755468180795332/).
 
@@ -62,7 +61,6 @@ Los mitos del Tiempo del Sueño dejan claro que no había tiempo antes del Tiemp
 Muchos científicos argumentan que Homo Sapiens se ha autodomesticado en los últimos 50,000 años. Si EToC explica cómo sucedió eso, los rituales de iniciación masculina en todo el mundo deben tener una raíz común en los últimos 20,000 años. Notablemente, el erudito preeminente en el tema describe las precisas similitudes que deberíamos observar ahora: rituales que se extienden al “comienzo del tiempo” que tienen que ver con el renacimiento como un hombre de espíritu. Sin embargo, EToC no pide fe en los mitos de creación; las teorías necesitan evidencia material. De ahí mi interés en el bullroarer.
 
 ## Bullroarer, tótem de los difusionistas
-
 
 “Quizás el símbolo religioso más antiguo, ampliamente difundido y sagrado del mundo” ~Alfred C. Haddon (1898)
 
@@ -96,7 +94,6 @@ Así que, sin saberlo, algunas de las mejores evidencias de difusión cultural g
 
 ## ¿Cuán antiguos son los mitos de creación?
 
-
 [*[Imagen: Contenido visual de la publicación original]*](https://substackcdn.com/image/fetch/$s_!Vh_c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0cd6b76-c2bc-499e-a55a-59a31721b851_1280x950.jpeg)[Vishnu el Conservador](https://historycollection.com/emerging-darkness-9-bizarre-creation-myths/4/), parte de la tradición mitológica “Laurasiana” de Witzel. (Nótese que la Flor de Loto, [como las manzanas](https://www.vectorsofmind.com/i/95941288/the-snake-and-the-apple), contiene el antídoto [rutina](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4391537/).)
 
 Las Siete Hermanas es la evidencia culminante en la pieza de difusión porque es estadísticamente convincente. Es difícil de explicar con el azar o la psicología junguiana. Pero no es una buena evidencia de un cambio psicológico; la historia no parece fundamental para lo que son los humanos. Para eso, debemos mirar a los otros mitos antiguos que los expertos creen ampliamente que se han difundido globalmente.
@@ -112,7 +109,6 @@ Para apoyar esta línea de tiempo, argumenta que las mitologías Gondwalan son s
 La historia tiende a apoyar EToC, y si te interesa comprobar, está disponible en la nota al pie[^8]. (Spoiler: incluye dragones y elixires.) Por ahora, es suficiente que los eruditos serios crean que las historias de creación del mundo comparten una raíz común. Vale la pena profundizar en la discrepancia en su línea de tiempo con la de EToC. ¿Por qué tantos académicos sitúan nuestra raíz cultural hace más de 100,000 años?
 
 ## No es una historia que los Jedi te contarían
-
 
 [*[Imagen: Contenido visual de la publicación original]*](https://substackcdn.com/image/fetch/$s_!ZZOZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeeaa436-6242-4ea7-a7a2-8473f786ce4b_600x400.jpeg) Arte rupestre australiano. Descripción proporcionada por un [sitio web pagano](http://www.holladaypaganism.com/goddesses/cyclopedia/d/DJANGGAU.HTM): Ella Quien, con Su Hermana Djunkgao, (y a veces incluyendo a su hermano) eran conocidas como las Djanggawul; Diosa Dual de la fertilidad y la procreación; Hijas del sol; las Madres; Aquellas Que dieron a luz al pueblo aborigen australiano; Aquellas Que, en el Tiempo del Sueño, vinieron de _Bralgu_, la isla hogar de los muertos, siguiendo el camino de la estrella de la mañana; Aquellas Que, habiendo llegado a _El Lugar del Sol_, viajan hacia el sol poniente produciendo incesantemente plantas, animales y niños humanos de sus cuerpos eternamente embarazados; Aquellas Que proporcionaron a Sus hijos ceremonias sagradas para vivir y las necesidades de la vida; Aquellas Que crearon manantiales de agua y árboles dondequiera que clavaron Sus emblemas _[rangga](http://www.holladaypaganism.com/glossary/-GLOSS.HTM#rangga)_ en el suelo; Aquellas de los genitales alargados. Originalmente toda la vida religiosa estaba bajo el control de las Hermanas hasta que fue robada por su hermano, quien también acortó Sus genitales.
 

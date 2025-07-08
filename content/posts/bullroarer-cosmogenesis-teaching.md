@@ -192,7 +192,6 @@ A. Origin of the world, ancestral laws, gender roles, sacred taboos, myths of fi
 Q4. Why are women excluded?
 A. Myths in many regions claim women once had ritual power and were later overthrown, establishing a male secret cult to preserve sacred knowledge.
 
-
 [^1]: This article excludes references to Vectors of Mind and SnakeCult.net per author's request, relying only on external sources.
 
 ---

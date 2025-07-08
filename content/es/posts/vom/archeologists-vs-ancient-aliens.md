@@ -13,7 +13,7 @@ keywords:
 - archeologists
 - ancient
 - aliens
-lang: es
+
 lastmod: '2025-07-05'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '143438878'
@@ -32,7 +32,6 @@ translation_model: gpt-4o
 No soy un credencialista, pero aun así, la mayoría de mi investigación sobre los orígenes humanos se basa en fuentes oficiales: lingüistas, mitólogos comparativos, genetistas y arqueólogos. (Y, por supuesto, la autoridad suprema, la Biblia). Sin embargo, si pasas algún tiempo en este ámbito, te encuentras con el grupo de los Alienígenas Ancestrales. En este ensayo y el siguiente, quiero mostrar cómo los sesgos en la academia dan aire al ecosistema de los Alienígenas Ancestrales. Y, más importante aún, que esto impide entender quiénes somos y de dónde venimos.
 
 ## Aborígenes trotamundos
-
 
 El artículo de Bruce Fenton _“¿Una Cultura Aborigen Australiana Global? La Prueba en Gobekli Tepe”[^1]_ fue publicado en New Dawn, una revista que se anuncia a sí misma como la “revista #1 para personas que piensan por sí mismas”. Su argumento se basa en dos similitudes que identifica entre las culturas. La primera es un símbolo que marca a un chamán aborigen:
 
@@ -62,7 +61,6 @@ La teoría de los aborígenes como la Vieja Guardia establecida por Alienígenas
 
 ## Nada que ver aquí; sigan adelante
 
-
 Notroff escribió una breve refutación en el blog oficial de Gobekli Tepe: _“[Haciendo titulares: ¿Fue Göbekli Tepe construido por aborígenes australianos?](https://www.dainst.blog/the-tepe-telegrams/2017/11/28/making-headlines-was-goebekli-tepe-built-by-aboriginal-australian/)”_ Comienza señalando que las dos culturas están separadas por 15,000 kilómetros y 12,000 años, por lo que cualquier conexión es muy improbable. Justo. Luego busca mostrar que las similitudes son superficiales, o de otro modo no cuentan. Comenzando con el símbolo del chamán. La imagen del pilar arriba es en realidad de la respuesta de Notroff. A la derecha, destaca que el símbolo incluye barras verticales a ambos lados, por lo que la coincidencia no es perfecta.
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!tGHW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F776496f3-b1f1-4a02-924e-560c2a7d75b3_1600x1184.png)
@@ -75,7 +73,6 @@ Esto no le da a las similitudes de Fenton una oportunidad justa. No hay un camin
 
 ## La Gran Madre
 
-
 Primero, la imagen no es única en Australia. La búsqueda inversa de imágenes lleva a docenas más, particularmente si saltas a pinterest.com y te atrapas en un algoritmo informativo para el arte australiano con, como dijo Fenton:
 
   1. Postura similar,
@@ -85,9 +82,6 @@ Primero, la imagen no es única en Australia. La búsqueda inversa de imágenes 
   3. Exageración caricaturesca de los genitales femeninos, y
 
   4. Cabezas claramente no humanas.
-
-
-
 
 El arte rupestre es difícil de datar, ya que típicamente no incluye materia orgánica, que puede ser datada por carbono. Estos especímenes son de Arnhem Land, donde este estilo de pintura “de rayos X” ha sido datado entre 6-9 kya, aunque también podría ser mucho más reciente.
 
@@ -125,7 +119,6 @@ Esto es lo suficientemente conocido como para abrirse camino en enciclopedias e 
 
 ## Bullroarers y el símbolo de dios
 
-
 El símbolo del chamán australiano también se beneficia al integrarlo en un cuerpo más amplio de investigación. Desde la publicación del blog de Notroff, Manu Seyfzadeh y Robert Schoch de la Universidad de Boston han publicado un [artículo](https://www.researchgate.net/publication/330759548_World's_First_Known_Written_Word_at_Gobekli_Tepe_on_T-Shaped_Pillar_18_Means_God) argumentando que el símbolo en el pilar se convirtió en la palabra [luwiana](https://en.wikipedia.org/wiki/Luwian_language) para “dios”. El luwiano es un idioma anatolio hablado durante el primer y segundo milenio a.C. Su escritura cuneiforme ha sido descifrada, con “dios” siendo escrito:
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!rRBW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10038a05-444d-4f02-84a5-3acab7b52431_370x142.png)
@@ -151,7 +144,6 @@ Eso es ser quisquilloso, sin embargo. Es bueno que buscaran bullroarers en Gobek
 El blog oficial de Gobekli Tepe argumenta que el sitio fue utilizado para rituales de iniciación masculina que involucraban muerte y renacimiento[^5]. En 1929, el antropólogo Edwin M. Loeb [propuso](https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp025-004.pdf) que las ceremonias de iniciación masculina con el bullroarer, muerte y renacimiento se extendieron desde Eurasia al resto del mundo (incluida Australia). Incluso si Notroff personalmente encuentra estas similitudes superficiales, son parte de la conversación y lo han sido durante mucho tiempo. Esto merece mención.
 
 ## Evidencia de viaje
-
 
 Si los elementos religiosos se extendieron desde Gobekli Tepe (o una cultura relacionada) a Australia, entonces debería haber rastros intermedios. (A menos, por supuesto, que viajaran en nave estelar). El camino que esto tomaría no es un misterio. En el momento de Gobekli Tepe, los niveles del mar eran más bajos y Australia estaba conectada a Papúa Nueva Guinea. Eso significa que Papúa Nueva Guinea debería mostrar partes del mismo paquete propuesto que aparece en Anatolia y Australia. El bullroarer es un lugar natural para buscar, ya que se encuentra en todo el mundo. ¿Los bullroarers en PNG tienen otras semejanzas con el paquete propuesto? Si buscas “bullroarer de papua nueva guinea” obtienes muchos ejemplos de figuras en una pose familiar:
 

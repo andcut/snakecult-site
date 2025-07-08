@@ -13,7 +13,7 @@ keywords:
 - hitchhikers
 - guide
 - creation
-lang: es
+
 lastmod: '2025-07-05'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '157008603'
@@ -281,7 +281,6 @@ _El mito australiano de la Serpiente Arcoíris con las Hermanas Wawalik ilustra 
 
 ### Tāne y Hine: De la Arcilla al Inframundo (Māorí, Nueva Zelanda)
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!VvIY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2cb570b-ac66-44fe-a0a1-254c5bb9b04e_660x332.jpeg) Dintel de historia de creación. Observe que esta es una versión del agachado. Note que yo (y otros) hemos [escrito sobre la difusión de este tema](https://www.vectorsofmind.com/p/andreas-lommel-on-the-diffusion-of#footnote-3-144256058) desde Eurasia. Esta es la diosa madre también encontrada en Gobekli Tepe.
 
 En las tradiciones māoríes de Aotearoa (Nueva Zelanda), la creación de los humanos y el origen de la muerte se explican a través de los actos del dios **Tāne** y dos mujeres importantes que él trajo a la existencia: **Hine-ahu-one** y **Hine-titama** (quien se convierte en Hine-nui-te-pō). Inicialmente, el mundo se formó cuando el Cielo (Ranginui) y la Tierra (Papatūānuku) fueron separados por sus hijos. Después de separar a sus padres para dejar entrar la luz en el mundo, Tāne Mahuta (dios de los bosques) se dedicó a poblarlo. Creó a la primera mujer, **Hine-ahu-one** (“Doncella formada de la Tierra”), de **arcilla roja sagrada** en Kurawaka (las entrañas de la Madre Tierra). Moldeó su figura y luego **le insufló vida**. Hine-ahu-one cobró vida como la primera mujer humana. Tāne luego se casó con esta primera mujer (en cierto sentido, su hija ya que ambos descienden de la Tierra) y tuvieron un hijo, **Hine-titama** (“Doncella del Amanecer”).
@@ -297,7 +296,6 @@ El **motivo de la serpiente o dragón está ausente** en la creación māorí, p
 _Las historias de Tāne y Hine destacan la **agencia femenina en el establecimiento de aspectos fundamentales de la existencia humana**. Una **mujer hecha de tierra (Hine-ahu-one)** asegura que somos hijos de la Tierra. La decisión moral de su hija de partir en lugar de vivir en la vergüenza instituye **la muerte como una parte natural de la vida**. Ningún diablo externo o serpiente causa la caída del hombre; en cambio, **la muerte nace de un conocimiento trágico (verdad incestuosa)** y la respuesta de una mujer a ello. Añade una capa conmovedora a la condición humana: no morimos porque robamos algo o fuimos engañados, sino porque una bisabuela hace mucho tiempo nos ama lo suficiente como para **recibirnos cuando la vida termina**, quitándonos la carga de la inmortalidad. En el pensamiento māorí, esto no es un castigo; es **whakapapa** – destino genealógico. Y fue puesto en marcha por Hine, una mujer cuyos roles abarcan tanto la belleza del amanecer como el misterio de la noche._
 
 ### Conclusión: Mujeres, Serpientes y el Amanecer de la Conciencia
-
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!m5s4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F038ffb4d-914d-4768-8eed-9c01a19228ac_589x768.jpeg) “La Turbulencia del Ser,” 2016, Ravi Zupa. (Nuwa y Fuxi)
 

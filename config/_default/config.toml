@@ -28,10 +28,64 @@ defaultContentLanguageInSubdir = false
     languageName = "English"
     title = "How Humans Evolved"
     languageCode = "en-us"
+    contentDir = "content"
   
   [languages.es]
     weight = 2
     languageName = "Español"
     title = "Cómo Evolucionaron los Humanos"
     languageCode = "es-mx"
+    contentDir = "content/es"
+
+  [languages.zh]
+    weight = 3
+    languageName = "中文"
+    title = "人类如何演化"
+    languageCode = "zh-cn"
+    contentDir = "content/zh"
+
+  [languages.fr]
+    weight = 4
+    languageName = "Français"
+    title = "Comment les Humains ont Évolué"
+    languageCode = "fr-fr"
+    contentDir = "content/fr"
+
+  [languages.de]
+    weight = 5
+    languageName = "Deutsch"
+    title = "Wie Menschen sich Entwickelt Haben"
+    languageCode = "de-de"
+    contentDir = "content/de"
+
+  [languages.pt]
+    weight = 6
+    languageName = "Português"
+    title = "Como os Humanos Evoluíram"
+    languageCode = "pt-br"
+    contentDir = "content/pt"
+
+  [languages.hi]
+    weight = 7
+    languageName = "हिन्दी"
+    title = "मनुष्यों का विकास कैसे हुआ"
+    languageCode = "hi-in"
+    contentDir = "content/hi"
+
+  [languages.ar]
+    weight = 8
+    languageName = "العربية"
+    title = "كيف تطور البشر"
+    languageCode = "ar"
+    contentDir = "content/ar"
+
+  [languages.ru]
+    weight = 9
+    languageName = "Русский"
+    title = "Как эволюционировали люди"
+    languageCode = "ru-ru"
+    contentDir = "content/ru"
+
+[build]
+  useResourceCacheWhen = "always"
 

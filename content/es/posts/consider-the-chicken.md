@@ -1,47 +1,47 @@
 ---
 about:
-- archaeozoology
-- Polynesian voyaging
-- domestication
+- arqueozoología
+- Navegación polinesia
+- domesticación
 author: Andrew Cutler
 core_entity: chicken bone
 date: 2025-05-10
-description: Weighing archaeological, genetic, and historical evidence for whether
-  chickens reached the Americas before Columbus.
+description: Sopesando la evidencia arqueológica, genética e histórica sobre si los
+  pollos llegaron a las Américas antes de Colón.
 draft: false
 keywords:
-- pre-Columbian chickens
-- Polynesian contact
+- pollos precolombinos
+- Contacto polinesio
 - El Arenal
-- trans-Pacific exchange
-- archaeozoology
-lang: es
-lastmod: '2025-07-04'
+- intercambio transpacífico
+- arqueozoología
+
+lastmod: '2025-07-07'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- Ancient Contact
-- archaeology
-title: Considera el Pollo
+- Contacto Antiguo
+- Arqueología
+title: Considere al Pollo
 translation_model: gpt-4o
 ---
 
 **TL;DR**
 
 - Los huesos de pollo más antiguos y seguros en las Américas son españoles, **pero** una capa chilena en El Arenal (^14C ~ 1320-1400 EC) más ADNmt polinesio coincidente mantiene viva la hipótesis precolombina. [oai_citation:0‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104?utm_source=chatgpt.com) [oai_citation:1‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1965514/?utm_source=chatgpt.com)  
-- Las correcciones de reservorio, el tamaño de muestra pequeño y la posible contaminación moderna son las principales objeciones. [oai_citation:2‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/?utm_source=chatgpt.com) [oai_citation:3‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111?utm_source=chatgpt.com)  
-- Pistas etnohistóricas (rituales incas, palabras mapuches) sugieren familiaridad con los pollos antes de 1532, pero ninguna es decisiva. [oai_citation:4‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html?utm_source=chatgpt.com)  
+- Las correcciones de reservorio, el tamaño de muestra diminuto y la posible contaminación moderna son las principales objeciones. [oai_citation:2‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/?utm_source=chatgpt.com) [oai_citation:3‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111?utm_source=chatgpt.com)  
+- Indicios etnohistóricos (rituales incas, palabras mapuches) sugieren familiaridad con los pollos antes de 1532, aunque ninguno es decisivo. [oai_citation:4‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html?utm_source=chatgpt.com)  
 - Ningún otro sitio del Nuevo Mundo ha producido huesos de Gallus definitivamente pre-1492, pero varios "quizás" (Perú, California) están bajo reanálisis. [oai_citation:5‡ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile?utm_source=chatgpt.com)  
-- Si es genuino, los marineros polinesios probablemente transportaron aves hacia el este en los siglos XIII-XIV, paralelamente a la transferencia de batata. De lo contrario, los europeos se llevan todo el crédito.
+- Si es genuino, los marineros polinesios probablemente transportaron aves hacia el este en los siglos XIII-XIV, paralelamente a la transferencia de batatas. De lo contrario, los europeos se llevan todo el crédito.
 
 ---
 
 ## 1 Cómo Surgió la Pregunta
 
-Los cronistas españoles describieron **"gallinas de Castilla"** llegando con la conquista, pero algunos relatos implican que los pueblos andinos ya mantenían pollos para uso ritual. [oai_citation:6‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html) Tal testimonio es escaso, pero plantó la semilla para los arqueólogos que más tarde peinaron los basureros sudamericanos en busca de huesos que coincidieran con el ave de la jungla del Viejo Mundo.
+Los cronistas españoles describieron **"gallinas de Castilla"** llegando con la conquista, pero algunos relatos implican que los pueblos andinos ya criaban pollos para uso ritual. [oai_citation:6‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html) Tal testimonio es escaso, pero sembró la semilla para los arqueólogos que más tarde peinaron los basureros sudamericanos en busca de huesos que coincidieran con el ave de la jungla del Viejo Mundo.
 
-En 2007, Storey et al. electrificaron el campo: un único tarsometatarso de **El Arenal-1 (Península de Arauco, Chile)** arrojó una edad ^14C no calibrada de 622 ± 35 BP y un haplotipo mitocondrial ("E") conocido solo en la Polinesia prehistórica. [oai_citation:7‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104) De repente, el ave de corral parecía una prueba trans-Pacífica contundente.
+En 2007, Storey et al. electrificaron el campo: un único tarsometatarso de **El Arenal-1 (Península de Arauco, Chile)** arrojó una edad ^14C no calibrada de 622 ± 35 BP y un haplotipo mitocondrial ("E") conocido solo en la Polinesia prehistórica. [oai_citation:7‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104) De repente, el ave de corral parecía una pistola humeante transpacífica.
 
 ### 1.1 El Debate de El Arenal
 
@@ -51,11 +51,11 @@ Campamento pro-contacto
  • Los polinesios ya movieron la batata de este a oeste; ¿por qué no pollos? [oai_citation:8‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4156719/) 
 
 Escépticos 
-: • La muestra (n = 1) es demasiado pequeña; el contexto perturbado por la migración de dunas. 
- • Las correcciones de reservorio podrían empujar el hueso después de 1492. 
- • El haplogrupo E también aparece en el ganado europeo moderno: posible contaminación. [oai_citation:9‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/) [oai_citation:10‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111) 
+: • La muestra (n = 1) es demasiado pequeña; el contexto fue perturbado por la migración de dunas. 
+ • Las correcciones de reservorio podrían empujar el hueso a después de 1492. 
+ • El haplogrupo E también aparece en el ganado europeo moderno—posible contaminación. [oai_citation:9‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/) [oai_citation:10‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111) 
 
-Una reexcavación en 2023 refinó la estratigrafía pero, frustrantemente, no produjo **nuevos restos de pollo**, dejando el enfrentamiento intacto. [oai_citation:11‡ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile)
+Una re-excavación en 2023 refinó la estratigrafía pero, frustrantemente, no produjo **nuevos restos de pollo**, dejando el enfrentamiento intacto. [oai_citation:11‡ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile)
 
 ### 1.2 Las Pistas Lingüísticas e Iconográficas
 
@@ -65,18 +65,18 @@ Una reexcavación en 2023 refinó la estratigrafía pero, frustrantemente, no pr
 
 ---
 
-| Sitio | ^14C BP No Calibrado | Cal EC (2 σ) | Haplotipo ADNmt | Veredicto |
-|-------|----------------------|--------------|-----------------|-----------|
+| Sitio | ^14C BP no calibrado | Cal CE (2 σ) | Haplotipo de ADNmt | Veredicto |
+|-------|----------------------|--------------|--------------------|-----------|
 | El Arenal-1, Chile | 622 ± 35 | 1320-1400 | E (Polinesio) | Calurosamente debatido |
 | Ballona Creek, CA | -- | Capa histórica | -- | Español |
-| Pachacamac, Perú | *incierto* | En estudio | ? | TBD |
+| Pachacamac, Perú | *incierto* | Bajo estudio | ? | TBD |
 
 ---
 
 ## 2 Por Qué Importa
 
-1. **Navegación Trans-Pacífica** – Los pollos se unirían a las batatas y calabazas como rastreadores comensales de la destreza polinesia en aguas azules.  
-2. **Vías de Domesticación** – Linajes de ADNmt distintos podrían revelar historias de cría paralelas en aislamiento.  
+1. **Navegación Transpacífica** – Los pollos se unirían a las batatas y calabazas como rastreadores comensales de la destreza polinesia en aguas azules.  
+2. **Vías de Domesticación** – Linajes distintos de ADNmt podrían revelar historias de cría paralelas en aislamiento.  
 3. **Matices del Intercambio Colombino** – No todos los productos básicos del Viejo Mundo esperaron a las velas ibéricas.
 
 Incluso si El Arenal se disuelve bajo un escrutinio más profundo, el episodio subraya cómo un solo hueso puede alterar grandes narrativas.
@@ -86,7 +86,7 @@ Incluso si El Arenal se disuelve bajo un escrutinio más profundo, el episodio s
 ## FAQ
 
 **P1. ¿Es el hueso de pollo de El Arenal el único espécimen precolombino?** 
-**R.** Sí, hasta ahora es un caso aislado; todos los demás pollos del Nuevo Mundo autenticados datan de después de 1500 EC. Las excavaciones en curso en Perú y California aún no han cambiado eso.
+**R.** Sí—hasta ahora es un caso aislado; cada otro pollo del Nuevo Mundo autenticado data de después de 1500 EC. Las excavaciones en curso en Perú y California aún no han cambiado eso.
 
 **P2. ¿Podrían los efectos de reservorio explicar la fecha temprana?** 
 **R.** Posiblemente; una dieta alta en mariscos puede hacer que los huesos parezcan siglos más antiguos. Los ajustes empujan la edad hacia principios de los 1500, pero no decisivamente más allá de 1492.
@@ -95,11 +95,11 @@ Incluso si El Arenal se disuelve bajo un escrutinio más profundo, el episodio s
 **R.** El ADNmt antiguo vincula El Arenal con Polinesia, pero el mismo haplotipo existe en algunas razas europeas modernas, por lo que no se puede descartar la contaminación o la ascendencia convergente.
 
 **P4. ¿Qué hay de la imaginería de pollos en el arte andino?** 
-**R.** Abundan los motivos aviares, pero ninguno muestra la inconfundible cresta y barbilla de Gallus gallus: la evidencia iconográfica sigue siendo ambigua.
+**R.** Abundan los motivos aviares, pero ninguno muestra la inconfundible cresta y barbilla de Gallus gallus—la evidencia iconográfica sigue siendo ambigua.
 
 ---
 
-## Notas al Pie
+## Notas al pie
 
 [^1]: Para una introducción sobre correcciones de reservorio y calibración, ver Thompson et al., *Journal of Archaeological Science* **41** (2014): 118-125.
 

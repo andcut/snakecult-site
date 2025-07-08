@@ -11,7 +11,7 @@ keywords:
 - review
 - supernatural
 - selection
-lang: es
+
 lastmod: '2025-07-05'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682171'

@@ -14,7 +14,7 @@ keywords:
 - campbells
 - view
 - myth
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '147493214'

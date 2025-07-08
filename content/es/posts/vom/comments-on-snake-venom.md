@@ -13,7 +13,7 @@ keywords:
 - comments
 - snake
 - venom
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '97498400'

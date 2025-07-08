@@ -1,5 +1,5 @@
 ---
-lang: es
+
 lastmod: '2025-07-04'
 translation_model: gpt-4o
 ---

@@ -35,9 +35,9 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 #### Introduction
 
 
-  * Explanation of Mungo Manic’s pseudonym: homage to “Mungo Man,” Australia's oldest fossilized human found at Willandra Lakes.
+ * Explanation of Mungo Manic's pseudonym: homage to "Mungo Man," Australia's oldest fossilized human found at Willandra Lakes.
 
-  * Discussion on the reburial of Mungo Man and the intersection of archaeology with political activism.
+ * Discussion on the reburial of Mungo Man and the intersection of archaeology with political activism.
 
 
 
@@ -48,11 +48,11 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 1\. Politics and Archaeological Science
 
 
-  * Examination of tensions between indigenous rights activism and archaeological preservation in Australia.
+ * Examination of tensions between indigenous rights activism and archaeological preservation in Australia.
 
-  * Comparison to historical conflicts like the Catholic Church and Copernican astronomy.
+ * Comparison to historical conflicts like the Catholic Church and Copernican astronomy.
 
-  * Frustrations about the loss of archaeological evidence due to political pressures.
+ * Frustrations about the loss of archaeological evidence due to political pressures.
 
 
 
@@ -60,9 +60,9 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 2\. Challenges of Information Access
 
 
-  * Discussion on difficulties finding accurate and detailed information on Australian prehistory.
+ * Discussion on difficulties finding accurate and detailed information on Australian prehistory.
 
-  * Mention of rare PDFs and physical books sourced by Mungo Manic.
+ * Mention of rare PDFs and physical books sourced by Mungo Manic.
 
 
 
@@ -70,9 +70,9 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 3\. Reburial of Fossil Remains
 
 
-  * Overview of the current situation: thousands of human fossils in Australia, some dated back 75,000 years, have been systematically reburied.
+ * Overview of the current situation: thousands of human fossils in Australia, some dated back 75,000 years, have been systematically reburied.
 
-  * Concerns over loss of valuable genetic and archaeological data.
+ * Concerns over loss of valuable genetic and archaeological data.
 
 
 
@@ -80,11 +80,11 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 4\. Aboriginal Identity and Politics
 
 
-  * Analysis of political organization among Aboriginal communities.
+ * Analysis of political organization among Aboriginal communities.
 
-  * Clarification on the complexity and political nature of "Aboriginal" identity.
+ * Clarification on the complexity and political nature of "Aboriginal" identity.
 
-  * Discussion on figures like Bruce Pascoe and the dynamics of self-identification versus ancestral lineage.
+ * Discussion on figures like Bruce Pascoe and the dynamics of self-identification versus ancestral lineage.
 
 
 
@@ -92,9 +92,9 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 5\. Archaeological Science Suppression
 
 
-  * Reports from archaeologists about the career risks associated with questioning mainstream narratives.
+ * Reports from archaeologists about the career risks associated with questioning mainstream narratives.
 
-  * Mention of how most archaeologists interested in origins have left the field due to political pressures.
+ * Mention of how most archaeologists interested in origins have left the field due to political pressures.
 
 
 
@@ -102,35 +102,35 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 6\. Australian Rituals and Spirituality
 
 
-  * Extensive exploration of Australian Aboriginal rituals featuring themes of secrecy, death and rebirth, and initiation rites.
+ * Extensive exploration of Australian Aboriginal rituals featuring themes of secrecy, death and rebirth, and initiation rites.
 
-  * Analysis of the bullroarer, its origins, and symbolic significance.
+ * Analysis of the bullroarer, its origins, and symbolic significance.
 
-  * Discussion on diffusion theories of cultural and linguistic elements from outside Australia.
-
-
-
-
-##### 7\. Linguistics and Cultural Diffusion
-
-
-  * Examination of widespread language similarities across Australia, especially pronouns.
-
-  * Mention of a hypothetical proto-Australian language spreading from the North.
-
-  * Mythological references supporting theories of cultural diffusion.
+ * Discussion on diffusion theories of cultural and linguistic elements from outside Australia.
 
 
 
 
-##### 8\. Technological and Cultural Evolution in Australia
+##### 7\.  Linguistics and Cultural Diffusion
 
 
-  * Distinction between cultural phases in Australia (large stone flakes vs. small tool tradition around 8,000 years ago).
+ * Examination of widespread language similarities across Australia, especially pronouns.
 
-  * Evidence of technological shifts starting in northern Australia.
+ * Mention of a hypothetical proto-Australian language spreading from the North.
 
-  * Controversial claims about cultural continuity in Australian history.
+ * Mythological references supporting theories of cultural diffusion.
+
+
+
+
+##### 8\.  Technological and Cultural Evolution in Australia
+
+
+ * Distinction between cultural phases in Australia (large stone flakes vs. small tool tradition around 8,000 years ago).
+
+ * Evidence of technological shifts starting in northern Australia.
+
+ * Controversial claims about cultural continuity in Australian history.
 
 
 
@@ -138,9 +138,9 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 9\. Bradshaw Paintings and Ancient Art
 
 
-  * Exploration of the mysterious Bradshaw (Gwion Gwion) paintings in northwest Australia.
+ * Exploration of the mysterious Bradshaw (Gwion Gwion) paintings in northwest Australia.
 
-  * Analysis of stylistic shifts in ancient rock art.
+ * Analysis of stylistic shifts in ancient rock art.
 
 
 
@@ -148,9 +148,9 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 10\. Genetic Evidence and Human Evolution
 
 
-  * Mention of genomic studies and gaps in DNA research on Australian foragers.
+ * Mention of genomic studies and gaps in DNA research on Australian foragers.
 
-  * Proposal by Mungo Manic to privately source and publish DNA data.
+ * Proposal by Mungo Manic to privately source and publish DNA data.
 
 
 
@@ -158,21 +158,21 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 11\. Recommendations and Future Directions
 
 
-  * **Books Recommended** :
+ * **Books Recommended** :
 
-    1. _"The Life of Buckleaf"_ by Morgan (1852).
+ 1. _"The Life of Buckleaf"_ by Morgan (1852).
 
-    2. Works by early anthropologists (Spencer & Gillen, Walter Roth, Daisy Bates).
+ 2. Works by early anthropologists (Spencer & Gillen, Walter Roth, Daisy Bates).
 
-    3. Journals of German explorer Leichhardt.
+ 3. Journals of German explorer Leichhardt.
 
-  * Personal projects:
+ * Personal projects:
 
-    * Building a physical library of rare books and biological samples.
+ * Building a physical library of rare books and biological samples.
 
-    * Advocating for independent genomic research on Australian forager populations.
+ * Advocating for independent genomic research on Australian forager populations.
 
-    * Highlighting neglected scientific theories and findings online.
+ * Highlighting neglected scientific theories and findings online.
 
 
 
@@ -180,9 +180,9 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ##### 12\. Philosophy on Science and Truth
 
 
-  * Importance of maintaining objectivity, promoting open inquiry, and protecting scientific integrity.
+ * Importance of maintaining objectivity, promoting open inquiry, and protecting scientific integrity.
 
-  * Critique of institutional science becoming overly politicized or ideological.
+ * Critique of institutional science becoming overly politicized or ideological.
 
 
 
@@ -190,9 +190,9 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 #### Closing Thoughts
 
 
-  * Emphasis on independent research, scientific transparency, and overcoming censorship.
+ * Emphasis on independent research, scientific transparency, and overcoming censorship.
 
-  * Encouragement for broader public engagement and discourse in controversial historical and scientific topics.
+ * Encouragement for broader public engagement and discourse in controversial historical and scientific topics.
 
 
 
@@ -202,7 +202,7 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 #### Contact and Further Engagement
 
 
-  * Mungo Manic [available on X](https://x.com/MungoManic), sharing rare resources, insights, and ongoing research.
+ * Mungo Manic [available on X](https://x.com/MungoManic), sharing rare resources, insights, and ongoing research.
 
 
 
@@ -217,15 +217,15 @@ Below are the show notes, as well as key clips and referenced articles if you sc
 ## Referenced Articles
 
 
-  * Proto-Australian: [New evidence confirms our Indigenous languages have a common source, but how they spread remains a mystery](https://theconversation.com/new-evidence-confirms-our-indigenous-languages-have-a-common-source-but-how-they-spread-remains-a-mystery-242576)
+ * Proto-Australian: [New evidence confirms our Indigenous languages have a common source, but how they spread remains a mystery](https://theconversation.com/new-evidence-confirms-our-indigenous-languages-have-a-common-source-but-how-they-spread-remains-a-mystery-242576)
 
-    * “Proto-Australian was most likely spoken about 6,000 years ago in the Top End of the Northern Territory. When it spread across mainland Australia it displaced all the other languages spoken before.
+ * "Proto-Australian was most likely spoken about 6,000 years ago in the Top End of the Northern Territory. When it spread across mainland Australia it displaced all the other languages spoken before.
 
-One big question is how this spread took place. Language spread is usually associated with population movements or economic and technological change. But there is no clear evidence for population movement or economic and technological change in the past 10,000 years.”
+One big question is how this spread took place. Language spread is usually associated with population movements or economic and technological change. But there is no clear evidence for population movement or economic and technological change in the past 10,000 years."
 
-    * [That last sentence is a lie.](https://www.vectorsofmind.com/i/136623669/not-a-story-the-jedi-would-tell-you) There were all sorts of changes during that time period. All emanating from the North, and some (like x-ray-style art, dingos, and bullroarer mystery cults) coming from Eurasia.
-
-
+ * [That last sentence is a lie.](https://www.vectorsofmind.com/i/136623669/not-a-story-the-jedi-would-tell-you) There were all sorts of changes during that time period. All emanating from the North, and some (like x-ray-style art, dingos, and bullroarer mystery cults) coming from Eurasia.
 
 
-[Share](https://www.vectorsofmind.com/p/burying-the-past-with-mungo-manic?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+
+[Share](https://www.vectorsofmind.com/p/burying-the-past-with-mungo-manic?action=share)

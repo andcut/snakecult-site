@@ -10,7 +10,7 @@ draft: false
 keywords:
 - vectors-of-mind
 - audience
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '158199968'
@@ -30,7 +30,6 @@ En este episodio, respondo algunas preguntas de un lector. Disfruta las notas de
 
 ### 1\. ¿Quién hizo las Figuras de Venus, hombres o mujeres?
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!BEcq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe3f2c568-ae8b-4d71-bed7-fe2ef2c53c5b_2560x1613.png)[Figurillas de Venus de Mal’ta](https://en.wikipedia.org/wiki/Venus_figurines_of_Mal%27ta), cerca del lago Baikal, Rusia. Datadas en 23 mil años atrás.
 
   * Visión histórica (siglo XVIII): Los hombres crearon estas figurillas como objetos eróticos.
@@ -41,11 +40,7 @@ En este episodio, respondo algunas preguntas de un lector. Disfruta las notas de
 
   * Discusión sobre por qué el arte moderno e incluso la pornografía presentan típicamente representaciones más diversas, contrastando con las tendencias antiguas.
 
-
-
-
 ### 2\. ¿Por qué los hombres robarían ritos rituales de las mujeres?
-
 
   * Patrón histórico común: Las sociedades patriarcales absorbieron o eliminaron sociedades secretas matriarcales.
 
@@ -63,9 +58,6 @@ En este episodio, respondo algunas preguntas de un lector. Disfruta las notas de
 
     * Baime el Padre del Cielo en el Este de Australia.
 
-
-
-
 A continuación, ve a la Gran Diosa en el Norte de Australia, dibujada en el momento y lugar en que [se habló por primera vez el Proto-Australiano](https://www.degruyter.com/document/doi/10.1515/9783111421889/html?lang=en&srsltid=AfmBOopVbfRZO-PSMnsjtSGnxaGGaSvcsi0PrZNvw70EA53_Mb2GF45q). Según algunos mitos, llegó en una canoa y estableció la ley, el lenguaje y las iniciaciones asociadas con los mitos del Tiempo del Sueño.
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!_bJq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff54b4e74-e34a-4150-bb74-c8311d974538_626x588.jpeg)
@@ -82,16 +74,11 @@ Este es una figura masculina del Tiempo del Sueño, una vez más del Norte. Las 
 
 ### 3\. ¿Cómo se concilia eso con el papel central de las mujeres en Eleusis?
 
-
   * Eva degradada de diosa pero aún llamada la "Madre de Todos los Vivientes," en una polémica patriarcal. En la esfera mundana, descendencia matrilineal para la membresía como judío.
 
   * [Análisis de Bachofen](https://www.vectorsofmind.com/i/145682170/myths-of-matriarchy-reconsidered-deborah-b-gewertz) de documentos legales griegos tempranos y cementerios.
 
-
-
-
 ### 4\. ¿Catalizó el veneno de serpiente la evolución de los mamíferos?
-
 
   * Artículo: "[Monkeying Around with Venom](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01195-x)" demuestra adaptación evolutiva al veneno de serpiente, notablemente en humanos y grandes simios. [PBS Eons tiene una gran explicación en YouTube](https://youtu.be/_zGy_tr_tY4?si=f73qOoGSMfquizkI).
 
@@ -99,11 +86,7 @@ Este es una figura masculina del Tiempo del Sueño, una vez más del Norte. Las 
 
   * Otros animales no están al borde de la recursión.
 
-
-
-
 ### 5\. ¿Es "yo" un meme que sirve como entrada/salida de una función recursiva general separada o la función en sí misma? Si es lo primero, ¿cuándo y cómo evolucionó?
-
 
   * "Yo" probablemente un subconjunto, no la primera instancia, del pensamiento recursivo.
 
@@ -111,17 +94,10 @@ Este es una figura masculina del Tiempo del Sueño, una vez más del Norte. Las 
 
   * Evidencia de mitos coincide con el pensamiento simbólico y la autoconciencia emergiendo hace unos 10,000 años (Génesis, Tiempo del Sueño, mitos de Nuwa & Fuxi).
 
-
-
-
 ### 6\. Impacto personal de la memética en la espiritualidad
-
 
   * \- Inicialmente agnóstico/ateo, la teoría sigue siendo compatible con el materialismo.
 
   * \- Se inclinó hacia el idealismo influenciado por la revisión del Nuevo Testamento, especialmente el Evangelio de Juan.
-
-
-
 
 [Deja un comentario](https://www.vectorsofmind.com/p/audience-q-and-a/comments)

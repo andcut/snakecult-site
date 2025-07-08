@@ -13,7 +13,7 @@ keywords:
 - july
 - subscriber
 - post
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144659799'
@@ -35,7 +35,6 @@ El blog ahora tiene más de 100,000 palabras de contenido que quiero hacer más 
 
 ## Anteriormente en Vectors of Mind…
 
-
 Ha sido una temporada productiva. Marca lo que te parezca interesante.
 
 Un seguimiento al post [Arqueólogos vs Aliens Antiguos](https://www.vectorsofmind.com/p/archeologists-vs-ancient-aliens) en el que argumento que un sesgo contra la difusión pone a los arqueólogos en una mala posición. Docenas de arqueólogos y antropólogos han argumentado que las similitudes culturales distantes se deben a una raíz común, pero ahora las únicas personas que hablan de ello son aquellas que dicen que las similitudes son prueba de experimentos alienígenas (y, igual de malo, los entusiastas de cultos de serpientes). Este post examina más profundamente a un arqueólogo de mediados de siglo en la escuela difusionista.
@@ -51,7 +50,6 @@ La mayoría de los comentarios en Substack/Notes fueron positivos, y la mayoría
 Al prepararme para la presentación del Culto de la Serpiente en LessOnline, me di cuenta de que es más productivo argumentar sobre si la difusión puede explicar la Paradoja Sapiente que sobre si un paquete cultural altamente sobredeterminado que involucra veneno de serpiente se propagó. Estoy más que feliz de hablar sobre la propagación de mitos de creación (sobre serpientes), calendarios o lenguaje recursivo. E incluso hacer el caso de que un culto de serpientes propagó "Yo soy". Pero es más fácil hacerlo dentro del marco de Eva Memética, que es más general. Facilitarles la entrada, ¿verdad?
 
 ## Enlaces
-
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!95Qh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95174c6a-d1fa-43d9-9f5d-dd0b08a38e1d_1344x896.png)
 
@@ -73,7 +71,6 @@ Everett afirma que los Pirahã no tienen rituales (incluso al enterrar a los mue
 
 ### Varios
 
-
   * [La introgresión neandertal se modela que comenzó hace 47,000 años y duró 7,000 años](https://twitter.com/ChrisStringer65/status/1790442084647727427). Esto aparentemente pone un límite joven a cuando _Homo sapiens_ llegó a Australia, donde los aborígenes comparten la señal neandertal. (¿O tal vez los restos australianos de hace 65,000 años son de otro grupo que luego fue reemplazado?)
 
   * Recientemente tuve que leer sobre Redes Neuronales de Grafos y encontré esta [introducción de alta calidad](https://distill.pub/2021/gnn-intro/). El sitio web parece ser un sistema de revisión por pares para formas exploratorias de comunicar información, como gráficos interactivos o entornos de prueba para jugar con redes neuronales.
@@ -82,15 +79,11 @@ Everett afirma que los Pirahã no tienen rituales (incluso al enterrar a los mue
 
   * [Flint Dibble y Graham Hancock están peleando en X nuevamente](https://twitter.com/FlintDibble/status/1803838516729708974). Flint compartió esta cita de uno de los libros de Hancock. Solo mira la carnicería de esos puntos suspensivos saltando _hacia atrás_ cientos de páginas. No inspira confianza.
 
-
-
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!6W-y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e5a8415-b4f3-4a31-a2dd-dad1d71b0507_1173x640.png)
 
 Cubro el fenómeno más amplio en este post:
 
 ### Podcasts religiosos
-
 
 Algo de la historia de Andrew. La primera vez que conocí a un masón fue cuando llamé a su puerta como misionero. Hacía frío; nos dejó entrar, nos dio chocolate caliente y pidió un Libro de Mormón. Volvimos la semana siguiente después de que tuvo la oportunidad de leer algo de él. Dijo que había símbolos encontrados en religiones de todo el mundo que los masones entendían, y también se encontraban en nuestras escrituras. Los márgenes estaban llenos de notas que no nos mostró.
 

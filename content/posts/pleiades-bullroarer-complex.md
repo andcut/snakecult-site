@@ -98,10 +98,10 @@ Bullroarers are everywhere woodworking and cordage exist, but usage is *patchy*.
 1. **Synced time-window:** The cluster-of-seven engraving at Lascaux (~17 k BP) and the Mezin mammoth-bone bullroarer (~19 k BP) both sit inside the Late Upper Paleolithic, close enough in time to share a cultural bloodstream.
 2. **Common cultural engine:** Each artifact falls within the Gravettian—or immediate Epigravettian—sphere, a network already famous for portable art, bird-bone flutes, and sophisticated cordage.
 3. **Vector map:** Genomic and lithic datasets trace Gravettian lineages along the mammoth-steppe corridor into Siberia and across the Levantine bridge toward Africa and Sahul—the same highways that later delivered people to Beringia and the Americas (see Vectorsofmind global diffusion model, 2024).
-4. **Package logic:** A naked-eye star clock that flags the storm season pairs naturally with a thunder-whirring plank that dramatizes those storms.  The two memes amplify each other when bundled, so Occam's razor favors a package deal over dozens of later bolt-ons.
+4. **Package logic:** A naked-eye star clock that flags the storm season pairs naturally with a thunder-whirring plank that dramatizes those storms. The two memes amplify each other when bundled, so Occam's razor favors a package deal over dozens of later bolt-ons.
 5. **Modern residue:** Cross-cultural overlaps—from Hopi Snake-Dance to Māori Matariki to Arnhem Land Djanggawul rites—are easier to parse as scattered fossils of that Paleolithic bundle than as convergent coincidences.
 
-**Conclusion:** The weight of archaeology, genetics, and ritual patterning points to a single Upper Paleolithic source—very likely somewhere inside the Gravettian world—seeding both the Seven Sisters myth and the bullroarer rite.  Whether they began as two hacks in the same symbolic toolkit or as one inseparable ceremony remains open, but the balance of evidence now tilts toward shared ancestry rather than independent invention.
+**Conclusion:** The weight of archaeology, genetics, and ritual patterning points to a single Upper Paleolithic source—very likely somewhere inside the Gravettian world—seeding both the Seven Sisters myth and the bullroarer rite. Whether they began as two hacks in the same symbolic toolkit or as one inseparable ceremony remains open, but the balance of evidence now tilts toward shared ancestry rather than independent invention.
 
 ---
 

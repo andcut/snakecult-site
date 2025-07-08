@@ -22,23 +22,23 @@ original_url: "https://www.vectorsofmind.com/p/november-subscriber-post"
 
 ---
 
-[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!bIyb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2593f454-5833-42f1-90da-7de503a4ce14_626x621.png)“My stomach hurts, I think I ate something funny.”
+[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!bIyb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2593f454-5833-42f1-90da-7de503a4ce14_626x621.png)"My stomach hurts, I think I ate something funny."
 
 ## Previously on Vectors of Mind
 
 
-It’s been a busy couple of months. You guys are getting your money’s worth! (It’s free; there are no perks to paying.)
+It's been a busy couple of months. You guys are getting your money's worth! (It's free; there are no perks to paying.)
 
 ## Other Podcasts
 
 
-I also got the chance to talk to  and Steven Zuber IRL while I was in SF for the Love Symposium. I have the mic from the 15-30 minute mark. (And a full episode on the Snake Cult and losing religion will come later.)
+I also got the chance to talk to and Steven Zuber IRL while I was in SF for the Love Symposium. I have the mic from the 15-30 minute mark. (And a full episode on the Snake Cult and losing religion will come later.)
 
-[*[Image: Visual content from original post]*The Bayesian Conspiracy 225 - Live at Lighthaven!Enjoy the public conversations we had the pleasure of having at our live show at Lighthaven in Berkeley. Special thanks to Andrew, Matt, J, Ben and Garrett… Listen now8 months ago · 1 like · Steven, Andrew Cutler, and Eneasz Brodski](https://thebayesianconspiracy.substack.com/p/225-live-at-lighthaven?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+[*[Image: Visual content from original post]*The Bayesian Conspiracy 225 - Live at Lighthaven!Enjoy the public conversations we had the pleasure of having at our live show at Lighthaven in Berkeley. Special thanks to Andrew, Matt, J, Ben and Garrett… Listen now8 months ago · 1 like · Steven, Andrew Cutler, and Eneasz Brodski](https://thebayesianconspiracy.substack.com/p/225-live-at-lighthaven)
 
 interviews me on the Snake Cult:
 
-[*[Image: Visual content from original post]*Deep Left Analysis Dialogue with Andrew Cutler on Snake Cults Listen now9 months ago · 10 likes · DeepLeftAnalysis](https://deepleft.substack.com/p/dialogue-with-andrew-cutler-on-snake?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+[*[Image: Visual content from original post]*Deep Left Analysis Dialogue with Andrew Cutler on Snake Cults Listen now9 months ago · 10 likes · DeepLeftAnalysis](https://deepleft.substack.com/p/dialogue-with-andrew-cutler-on-snake)
 
 ## Links
 
@@ -49,31 +49,31 @@ New paper finds evidence for selection against schizophrenia in the last 10,000 
 
 _[How the Stab of Conscience Made Us Really Conscious](https://www.blogs.uni-mainz.de/fb05philosophie/files/2013/04/Frith_Metzinger_Regret_2016_penultimate.pdf)_. This is an interesting paper on how regret could have been pivotal in the evolution of human consciousness. Not so far from my arguments about super-ego begetting the ego.
 
-“[Human culture is uniquely open-ended rather than uniquely cumulative](https://www.nature.com/articles/s41562-024-02035-y)**”** Another take on the human special sauce. However, if that is what makes us human, when is the open-endedness present? And what cognitive mechanism does it rely on? My bet would be recursion starting ~50 kya. And rituals that taught “I,” a particular type of recursion, spreading worldwide 15 kya. 
+"[Human culture is uniquely open-ended rather than uniquely cumulative](https://www.nature.com/articles/s41562-024-02035-y)**"** Another take on the human special sauce. However, if that is what makes us human, when is the open-endedness present? And what cognitive mechanism does it rely on? My bet would be recursion starting ~50 kya. And rituals that taught "I," a particular type of recursion, spreading worldwide 15 kya. 
 
-[*[Image: Visual content from original post]*Astral Codex TenThe Early Christian StrategyRead more8 months ago · 405 likes · 538 comments · Scott Alexander](https://www.astralcodexten.com/p/the-early-christian-strategy?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+[*[Image: Visual content from original post]*Astral Codex TenThe Early Christian StrategyRead more8 months ago · 405 likes · 538 comments · Scott Alexander](https://www.astralcodexten.com/p/the-early-christian-strategy)
 
-From the New York Times: _[Nature’s ‘Swiss Army Knife’: What Can We Learn From Venom?](https://www.nytimes.com/2024/11/13/magazine/venom-animals-drugs-ozempic.html)_
+From the New York Times: _[Nature's 'Swiss Army Knife': What Can We Learn From Venom?](https://www.nytimes.com/2024/11/13/magazine/venom-animals-drugs-ozempic.html)_
 
-> A study of Gila monster venom helped start the revolution in weight-loss drugs. But scientists think that’s just the beginning.
+> A study of Gila monster venom helped start the revolution in weight-loss drugs. But scientists think that's just the beginning.
 
-Cf [this 2018 paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6118079/#:~:text=Therefore%2C%20snake%20venom%20AChE%20is,to%20the%20synapses%20\(18\).) which claims, “Therefore, snake venom AChE is the best source of drug design for the treatment of Alzheimer's disease.” Or, on the flip side, [this review](https://pmc.ncbi.nlm.nih.gov/articles/PMC7705584/) finds depression, delusion, and PTSD to be common after a snake bite. Remember, their venom is a neurotoxin.
+Cf [this 2018 paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC6118079/#:~:text=Therefore%2C%20snake%20venom%20AChE%20is,to%20the%20synapses%20\(18\).) which claims, "Therefore, snake venom AChE is the best source of drug design for the treatment of Alzheimer's disease." Or, on the flip side, [this review](https://pmc.ncbi.nlm.nih.gov/articles/PMC7705584/) finds depression, delusion, and PTSD to be common after a snake bite. Remember, their venom is a neurotoxin.
 
 Big Think has an [article defending the Stoned Ape Hypothesis](https://bigthink.com/the-past/a-new-spin-on-the-stoned-ape-hypothesis/). But note the timeline:
 
-> _“Between about 100,000 and 40,000 years ago, there was a period of rapid cognitive development in human evolution known as the “cognitive revolution,” or “Great Leap Forward.”…It would not be an overstatement to say that this evolutionary transition represents the “birth of humanity.””_
+> _"Between about 100,000 and 40,000 years ago, there was a period of rapid cognitive development in human evolution known as the "cognitive revolution," or "Great Leap Forward."…It would not be an overstatement to say that this evolutionary transition represents the "birth of humanity.""_
 
-But there’s almost no evidence of psychedelic shamanism—or shamanism writ large—before 50 kya. The magic of the Stoned Ape Hypothesis is that we could have evolved by gene-culture interaction, which can explain why sapience is younger than _Homo Sapiens’_ genetic splits. Divergent groups shared in a cultural technology that uplifted the species. At that point, why say the process was complete 40 kya? At any rate, the author has an interesting substack that focuses on “what to do about it.” The [most popular essay](https://roadtoomega.substack.com/p/constructing-the-meta-religion-mapping) begins:
+But there's almost no evidence of psychedelic shamanism—or shamanism writ large—before 50 kya. The magic of the Stoned Ape Hypothesis is that we could have evolved by gene-culture interaction, which can explain why sapience is younger than _Homo Sapiens'_ genetic splits. Divergent groups shared in a cultural technology that uplifted the species. At that point, why say the process was complete 40 kya? At any rate, the author has an interesting substack that focuses on "what to do about it." The [most popular essay](https://roadtoomega.substack.com/p/constructing-the-meta-religion-mapping) begins:
 
-> _“This 6000-word essay presents a foundation for a universal religion by mapping spiritual concepts from Eastern and Western religious philosophy onto the narrative of a self-organizing cosmos. Your feedback and ideas will be used to further shape and optimize the Meta-Religion. Become a paid subscriber to unlock the full article and support the Road to Omega project.”_
+> _"This 6000-word essay presents a foundation for a universal religion by mapping spiritual concepts from Eastern and Western religious philosophy onto the narrative of a self-organizing cosmos. Your feedback and ideas will be used to further shape and optimize the Meta-Religion. Become a paid subscriber to unlock the full article and support the Road to Omega project."_
 
- _Wild Wild Country_ is one of my favorite documentaries—the only TV show I have rewatched twice. And yet Osho’s cult is much darker than what the series let on. My guess is because documentaries do best when they straddle a line that Makes You Think. Maybe Osho had a point? What was the perspective of his followers? Harder to flirt with sympathy if the documentary lays out the child sexual exploitation. 
+ _Wild Wild Country_ is one of my favorite documentaries—the only TV show I have rewatched twice. And yet Osho's cult is much darker than what the series let on. My guess is because documentaries do best when they straddle a line that Makes You Think. Maybe Osho had a point? What was the perspective of his followers? Harder to flirt with sympathy if the documentary lays out the child sexual exploitation. 
 
-[*[Image: Visual content from original post]*Ecstatic IntegrationWhat Wild Wild Country left outThis story contains sensitive subject matter about rape and child abuse…Read more7 months ago · 3 likes · 1 comment · Jules Evans](https://www.ecstaticintegration.org/p/what-wild-wild-country-left-out?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+[*[Image: Visual content from original post]*Ecstatic IntegrationWhat Wild Wild Country left outThis story contains sensitive subject matter about rape and child abuse…Read more7 months ago · 3 likes · 1 comment · Jules Evans](https://www.ecstaticintegration.org/p/what-wild-wild-country-left-out)
 
 An excellent article from a panpsychist meditator on the Fall:
 
-[*[Image: Visual content from original post]*Left Brain MysticImmortality: Lucifer Within Us"So the Lord God banished them from the Garden of Eden to work the ground from which they had been taken." - Genesis 3:23…Read more7 months ago · 10 likes · 6 comments · Left Brain Mystic](https://leftbrainmystic.substack.com/p/immortality-lucifer-within-us?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
+[*[Image: Visual content from original post]*Left Brain MysticImmortality: Lucifer Within Us"So the Lord God banished them from the Garden of Eden to work the ground from which they had been taken." - Genesis 3:23…Read more7 months ago · 10 likes · 6 comments · Left Brain Mystic](https://leftbrainmystic.substack.com/p/immortality-lucifer-within-us)
 
 [Finger Amputation in the Ethnographic and Archaeological Record](https://academic.oup.com/edited-volume/54436/chapter-abstract/481659639?redirectedFrom=fulltext&login=false), something I discuss briefly in the episode with Tom Froese. 
 
@@ -83,8 +83,8 @@ An excellent article from a panpsychist meditator on the Fall:
 
 Dr Paulette Steeves maintains a map of dozens of pre-[Clovis](https://en.wikipedia.org/wiki/Clovis_culture) archeological sites. She is an anthropologist of Native American descent with a strong view that humans have been in the Americas for much longer than has been traditionally accepted.
 
-It’s tempting to read this as the Clovis First model finally falling. But this project is very similar to what Joseph Campbell presented in 1983 in his _Historical Atlas of World Mythology_. There has always been debate on when the Americas were settled. What made Clovis First attractive is that a new technological complex rapidly spread in both North and South America around 13,000 years ago. If there were humans here before, what happened to them? Why were their technologies so simple? It’s the Sapient Paradox in full force.
+It's tempting to read this as the Clovis First model finally falling. But this project is very similar to what Joseph Campbell presented in 1983 in his _Historical Atlas of World Mythology_. There has always been debate on when the Americas were settled. What made Clovis First attractive is that a new technological complex rapidly spread in both North and South America around 13,000 years ago. If there were humans here before, what happened to them? Why were their technologies so simple? It's the Sapient Paradox in full force.
 
-[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!bElE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2b7320b-ee1c-447b-bed8-513fa7c80299_936x1122.png)Joseph Campell’s timeline for the settlement of the Americas
+[*[Image: Visual content from original post]*](https://substackcdn.com/image/fetch/$s_!bElE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2b7320b-ee1c-447b-bed8-513fa7c80299_936x1122.png)Joseph Campell's timeline for the settlement of the Americas
 
-As always, use the comments here as a discussion for all thing Vectors of Mind. Anybody you’d like me to interview? What podcasts should I go on?
+As always, use the comments here as a discussion for all thing Vectors of Mind. Anybody you'd like me to interview? What podcasts should I go on?

@@ -17,7 +17,7 @@ keywords:
 - neuroscience
 - cognitive science
 - self-concept
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9

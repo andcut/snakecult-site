@@ -12,7 +12,7 @@ keywords:
 - vectors-of-mind
 - unreasonable
 - effectiveness
-lang: es
+
 lastmod: '2025-07-05'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '103480693'
@@ -40,7 +40,6 @@ Esto es parte de la serie en curso sobre la conciencia. La [Teoría de Eva de la
 
 ## Esquema
 
-
   1. Similitudes de pronombres en todo el mundo. La mayoría de los 1sg contienen la consonante "n". No es posible por casualidad.
 
   2. Estudios de caso de la difusión de pronombres en Papúa Nueva Guinea y Australia.
@@ -51,11 +50,7 @@ Esto es parte de la serie en curso sobre la conciencia. La [Teoría de Eva de la
 
   5. Julian Jaynes debería haber fijado su fecha para el origen de la conciencia al origen de los pronombres.
 
-
-
-
 ## Similitudes de pronombres en todo el mundo
-
 
  _“En general, los pronombres y los números son los menos afectados por los cambios que oscurecen [el tiempo], y por lo tanto son los mejores criterios de relación entre lenguas.”_ ~ [Roland G. Kent, 1932](https://www.journals.uchicago.edu/doi/pdf/10.1086/465081)
 
@@ -74,7 +69,6 @@ Esto es principalmente un debate sobre hasta qué punto el conjunto de herramien
 Volveremos al debate amerindio para entender los diferentes campos dentro de la comunidad lingüística. Pero nuestro principal interés no son las familias lingüísticas per se. Queremos rastrear la invención de "yo". Nos interesa que los partidarios de la antigua familia amerindia hagan su caso con referencia a las similitudes de los pronombres, y que haya recibido tanto rechazo a pesar de haber un grupo proto conocido hace 15,000 años.
 
 ## Los caballeros que dicen ni, na, ŋay, etc…
-
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!EksG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F324a6119-7908-45bd-bd9a-ee81bbcd0887_720x480.png)El Rey Arturo en parlamento con los caballeros que dicen Ni (dramatización)
 
@@ -186,7 +180,6 @@ Además, en las familias lingüísticas mismas, los pronombres tienden a _diverg
 
 ### Papúa Nueva Guinea
 
-
 Papúa Nueva Guinea (PNG) ha estado habitada durante aproximadamente 50,000 años. El tiempo profundo, las empinadas montañas y la jungla impenetrable han hecho de la región la más diversa lingüísticamente en el mundo con aproximadamente 1000 idiomas y 60 familias lingüísticas. Dentro de las familias, hay lenguas tan distintas como el inglés y el sánscrito. Y entre familias, tan distintas como el finlandés y el mandarín. A pesar de las extraordinarias diferencias, los pronombres son cognados en la mayoría de los idiomas. Anidado en el tomo de 1000 páginas [New Guinea Area Languages and Language Study, Vol. 1](https://www.abebooks.com/New-Guinea-Area-Languages-Language-Study/3203171412/bd) hay una reconstrucción de la ruta que probablemente tomaron estos pronombres al entrar en la isla.
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!yGah!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fbfc75f-d640-431d-8c65-4c561cae2266_1207x824.png)Figura de: [Papuan Linguistic Prehistory, and Past Language Migrations in the New Guinea Area](https://openresearch-repository.anu.edu.au/bitstream/1885/252989/1/PL-C38.935.pdf)
@@ -194,7 +187,6 @@ Papúa Nueva Guinea (PNG) ha estado habitada durante aproximadamente 50,000 año
 Se estima que estos pronombres entraron en la isla en el 8,000 a.C. La adopción generalizada es interesante para los lingüistas porque se entiende que es principalmente memética; no hubo un cambio masivo de población en este momento. Considera cuán difícil es suplantar un pronombre en otro idioma. Están mantenidos en su lugar por todo tipo de gramática. Sin embargo, sucedió en toda la isla, afectando (lo que ahora son) docenas de familias lingüísticas y mil idiomas. Observa que la ubicación del impacto es desde la dirección de Eurasia.
 
 ### Reconstrucción de grupos lingüísticos a partir de pronombres
-
 
 En [Pronouns as a preliminary diagnostic for grouping Papuan languages](https://www.researchgate.net/publication/288906291_Pronouns_as_a_preliminary_diagnostic_for_grouping_Papuan_languages) Malcolm Ross tiene como objetivo definir las familias lingüísticas de PNG por sus pronombres, en lugar de por un conjunto más amplio de consideraciones: otras palabras cognadas, gramática y fonemas. El interés científico es que los pronombres pueden hacerlo de manera parsimoniosa. Estos resultan ser geográficamente sensatos y apoyan teorías históricas plausibles sobre las diversas familias lingüísticas dentro de Trans New Guinea (TNG). Ese es el argumento al menos, y por el recuento de citas, otros en el campo están de acuerdo. A continuación se muestran los proto-pronombres reconstruidos para 14 familias lingüísticas que identifica. Recuerda lo que dije sobre poder aumentar la puntuación añadiendo familias lingüísticas a la lista de 44 proto-pronombres de Ruhlen. ¡Mira todos los 1sg _na_!
 
@@ -227,7 +219,6 @@ Con este fin, el artículo señala que una y otra vez los proto-idiomas tienen p
 Ese techo puede ser doblado pero no roto. El afroasiático es universalmente aceptado como una familia lingüística, que se [estima que tiene entre 10-18k años](https://en.wikipedia.org/wiki/Afroasiatic_languages). Y de todas las palabras, los pronombres son aceptados como los más duraderos. Tal vez puedan persistir un tiempo más que 8,000 años; al menos hasta la era del afroasiático. Aún así, es difícil de creer que los cognados pronominales puedan sobrevivir 100k años, todo el camino de regreso a cuando Homo Sapiens solo vivía en África. Así no es como funciona el lenguaje. Así que para responder al origen de estas similitudes, un lingüista debe postular que los humanos dejaron África sin pronombres, o rechazar las reglas lingüísticas más básicas. No es sorprendente que estos artículos no tengan mucho impacto[^5].
 
 ## Australia
-
 
 No creas que esto es un caso aislado en Papúa Nueva Guinea (o un 60-aislado si cuentas por familias lingüísticas, o 1000-aislado si cuentas por idiomas), hay misterios similares en Australia. Nos basaremos en un capítulo de libro de 2020, _[Time, diversification, and dispersal on the Australian continent: Three enigmas of linguistic prehistory](https://academic.oup.com/book/33524/chapter-abstract/287867123?redirectedFrom=fulltext)_.
 

@@ -13,7 +13,7 @@ keywords:
 - mystery
 - factors
 - revisited
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '70046926'
@@ -37,7 +37,6 @@ Los datos para los factores en cuestión provienen de dos fuentes. Un factor pro
 
 ## **Factor Misterioso 1**
 
-
 **Palabras principales:**_exigente, estricto, decisivo, severo, firme_**vs.** _dócil, laxo, indeciso, crédulo, ingenuo_
 
 Los comentaristas describieron esto como: conciencia, asertividad, laboriosidad y Acción Atendida.
@@ -47,7 +46,6 @@ Los comentaristas describieron esto como: conciencia, asertividad, laboriosidad 
 En mi opinión, un constructo que combina la capacidad de lograr los propios objetivos con el deseo de lograr los objetivos de la sociedad confunde la situación. Creo que la investigación IO, por ejemplo, estaría mejor usando Orden que Conciencia o perseverancia. Los correlatos de interés (como promociones) seguramente están más directamente relacionados con Orden. Nunca he conocido a alguien en la cima que fuera puramente un jugador de equipo. Siempre hay un filo personal.
 
 ## **Factor Misterioso 2**
-
 
 **Palabras principales:**_poco imaginativo, poco sofisticado, moral, empático, con principios_**vs.** _astuto, sagaz, taimado, creativo, ingenioso_
 

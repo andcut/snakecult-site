@@ -15,7 +15,7 @@ keywords:
 - Izanami
 - Tiwi
 - comparative-mythology
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
@@ -79,7 +79,6 @@ Las búsquedas en la base de datos en línea de Berezkin (accedida el 2025-05-11
 Hasta que surja una narrativa primaria, las afirmaciones de una portadora de muerte femenina en el Nuevo Mundo al sur de Darién permanecen sin fundamento.
 
 ---
-
 
 ## FAQ
 

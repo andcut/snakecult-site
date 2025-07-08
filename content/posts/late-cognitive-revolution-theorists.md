@@ -259,7 +259,6 @@ Yes. A modest working-memory uplift could enable cognitive fluidity, which foste
 - **Cognitive-archaeology:** Mithen; Tattersall. 
 - **Comparative mythology + gene–culture:** Cutler.
 
-
 ---
 
 ## References

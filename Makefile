@@ -1,6 +1,6 @@
 # Hugo Translation Makefile
 
-.PHONY: help translate-one translate-all translate-dry-run build install-deps
+.PHONY: help translate-one translate-all translate-dry-run build install-deps dev
 
 help:
 	@echo "Available commands:"
@@ -10,6 +10,7 @@ help:
 	@echo "  translate-all    Translate all English posts to Spanish"
 	@echo "  build           Build Hugo site"
 	@echo "  build-test      Test build with both languages"
+	@echo "  dev             Start fast Hugo server for development"
 
 install-deps:
 	pip install -r requirements.txt
@@ -29,6 +30,13 @@ build:
 
 build-test:
 	hugo --minify --destination public_test && rm -rf public_test
+
+dev:
+	HUGO_NUMWORKERMULTIPLIER=2 \
+	HUGO_SKIP_SASS=true \
+	hugo server -D \
+	  --environment dev \
+	  --disableKinds taxonomy,taxonomyTerm,RSS,sitemap
 
 # Example: translate a small file for testing
 translate-test:

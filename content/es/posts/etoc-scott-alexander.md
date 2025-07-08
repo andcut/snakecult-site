@@ -16,7 +16,7 @@ keywords:
 - gene–culture evolution
 - Scott Alexander
 - Genesis myth
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5

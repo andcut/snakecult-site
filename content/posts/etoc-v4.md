@@ -186,19 +186,19 @@ One hypothesis EToC puts forward is that **the invention of pronouns—especiall
 
 ## FAQ
 
-**Q 1. What is the Eve Theory of Consciousness and how does it differ from other theories of human consciousness?**  
+**Q 1. What is the Eve Theory of Consciousness and how does it differ from other theories of human consciousness?** 
 **A.** The Eve Theory of Consciousness (EToC) proposes that human introspective consciousness was a cultural invention that emerged around 15,000-10,000 BCE and spread memetically, rather than evolving gradually through biological processes. Unlike theories that view consciousness as an inevitable byproduct of brain evolution, EToC suggests a specific historical origin point where a prehistoric innovator (metaphorically "Eve") first achieved self-awareness and taught it to others.
 
-**Q 2. Why does the theory suggest women were the first to develop consciousness?**  
+**Q 2. Why does the theory suggest women were the first to develop consciousness?** 
 **A.** The theory proposes women pioneered consciousness due to their superior performance on social cognition tasks (empathy, theory-of-mind), different patterns of brain lateralization, and their role as primary caregivers requiring finely tuned interpersonal intelligence. Additionally, global mythologies and anthropological evidence consistently remember women as the original keepers of profound knowledge, suggesting cultural memory of female leadership in this cognitive revolution.
 
-**Q 3. What evidence supports the idea that consciousness spread culturally rather than evolving biologically?**  
+**Q 3. What evidence supports the idea that consciousness spread culturally rather than evolving biologically?** 
 **A.** Multiple lines of evidence include: global mythological parallels (serpent-woman myths of gaining forbidden knowledge), the bullroarer ritual complex found across 100+ cultures with consistent motifs of women originally controlling then men stealing the sacred knowledge, the Sapient Paradox (anatomically modern humans existing 100,000+ years before "sapient" behavior), and the synchronized emergence of agriculture across 11 regions around 10,000 BCE.
 
-**Q 4. How does Göbekli Tepe relate to the Eve Theory of Consciousness?**  
+**Q 4. How does Göbekli Tepe relate to the Eve Theory of Consciousness?** 
 **A.** Göbekli Tepe (c. 9600 BCE) represents crucial evidence as the world's first monumental temple built by hunter-gatherers before agriculture. The massive labor coordination required for 10-20 ton megaliths suggests powerful ideological motivation rather than economic necessity. EToC proposes this site may mark a key node in consciousness diffusion, where rituals crystallized the self-concept and spread it among early human groups grappling with newly emergent selfhood.
 
-**Q 5. What testable predictions does the Eve Theory make for future research?**  
+**Q 5. What testable predictions does the Eve Theory make for future research?** 
 **A.** The theory predicts: abrupt rather than gradual changes in human cognition within a narrow timeframe, shared linguistic or ritual features among regions connected by early post-glacial migrations, sex differences in introspective brain processing, developmental differences in theory-of-mind acquisition between boys and girls, and computational phylogenetic analysis of myths clustering around specific periods and diffusion patterns.
 
 ---

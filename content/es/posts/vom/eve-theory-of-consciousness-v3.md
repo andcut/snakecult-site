@@ -11,7 +11,7 @@ draft: false
 keywords:
 - vectors-of-mind
 - consciousness
-lang: es
+
 lastmod: '2025-07-05'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140565846'
@@ -53,7 +53,6 @@ Un último asunto. Los racionalistas a menudo comienzan un ensayo señalando cu�
 
 ## Esquema
 
-
 1. [¿Qué nos hace humanos?](https://www.vectorsofmind.com/i/140565846/what-makes-us-human) Autoconciencia recursiva.
 
 2. [EToC débil, sin ninguna referencia a la mitología](https://www.vectorsofmind.com/i/140565846/eve-theory-of-consciousness-etoc). La cultura recursiva se extendió, y esto causó selección genética para habilidades recursivas dondequiera que fue.
@@ -62,11 +61,7 @@ Un último asunto. Los racionalistas a menudo comienzan un ensayo señalando cu�
 
 4. [Las mujeres descubrieron “yo” y fundaron el Culto de la Serpiente.](https://www.vectorsofmind.com/i/140565846/the-primordial-matriarchy)
 
-
-
-
 ## ¿Qué nos hace humanos?
-
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!j2_R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4872f8d8-a237-46e3-9bec-d1f1ec65d8d8_545x338.png)
 
@@ -83,7 +78,6 @@ En Australia, la leyenda aborigen sostiene que espíritus civilizadores trajeron
 El hecho de que los mitos de creación sean fenomenológicamente precisos no necesita explicación. El paisaje narrativo es competitivo, y solo los más psicológicamente verdaderos sobreviven, particularmente en el espacio abarrotado de la cosmogonía. Sin embargo, los detalles en los mitos de creación del mundo sugieren que comparten una raíz común profunda en el pasado. De hecho, parecen provenir de aproximadamente el tiempo en que los humanos comenzaron a expresar comportamientos “recursivos”. Esto abre la posibilidad de que no sean precisos por accidente o a pesar de sí mismos. Podrían ser recuerdos de la transición a la sapiencia.
 
 ### La recursión es útil
-
 
 La selección natural funciona porque los rasgos se transmiten de padres a hijos. Si un rasgo permite a un padre tener más hijos, entonces ese rasgo se volverá más común en la población. Entonces, si la capacidad de digerir leche de vaca o pensar pensamientos abstractos es útil, estos rasgos se volverán más prevalentes con cada generación. Dado eso, ¿qué habilidades permite el pensamiento recursivo?
 
@@ -113,7 +107,6 @@ Entonces, la recursión es útil. Con ella, los humanos se convirtieron en seres
 
 ### La recursión es esencial para la conciencia
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!mg1c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F13341dbc-7e72-48cd-9bbe-2fa643923d4f_1131x1600.png)[La representación de Silvia](https://www.kickstarter.com/projects/thisissilvia/invisible-moves-visualized) de la [conciencia testigo](https://www.ramdass.org/cultivating-witness/), una técnica de meditación.
 
 La introspección requiere recursión por definición. Si el yo se percibe a sí mismo, eso es recursión. Así que la frase _“Pienso, luego existo”_ es recursiva en múltiples niveles. La gramática recursiva conecta las dos frases, y la mente se dirige a sí misma.
@@ -142,7 +135,6 @@ En psicología y lingüística, es una opinión dominante que la recursividad su
 
 ### El Giro Original: algunos modelos del primer pensamiento recursivo
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!G7ZF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac940427-65dd-46fc-bad8-860491d4e592_1500x1000.png)
 
 En [The Faculty of Language](https://www.sciencedirect.com/science/article/abs/pii/S0010027704001763), Steven Pinker y Ray Jackendoff discuten por qué evolucionó el pensamiento recursivo: _“Aquí el problema no es una escasez de candidatos para antecedentes evolutivos, sino un exceso.”_ Aun así, ofrecen algunas posibilidades: la música, la cognición social, la descomposición visual de objetos en partes y la formulación de secuencias de acciones complejas. Me gustaría ofrecer una más: que el pensamiento recursivo impulsor fue _“Yo soy.”_
@@ -169,22 +161,17 @@ Eso requeriría que el Génesis proviniera del comienzo del tiempo fenomenológi
 
 ### Teoría de la Conciencia de Eva (EToC)
 
-
 Si el Génesis podría ser un recuerdo cultural del descubrimiento de la condición humana se reduce a dos preguntas:
 
   1. ¿Cuánto tiempo puede durar un mito?
 
   2. ¿Cuándo nos convertimos en humanos?
 
-
-
-
 Si esos son aproximadamente de la misma longitud, entonces el Génesis podría ser un recuerdo de nuestro génesis. Ambas preguntas son difíciles pero no totalmente intratables. Escribo sobre la primera pregunta [aquí](https://www.vectorsofmind.com/p/evidence-for-global-cultural-diffusion), dando varios ejemplos de memes globales que se evidenciaron por primera vez hace unos 30,000 años. Por razones estadísticas, el ejemplo más simple es las Siete Hermanas. En docenas de culturas desde Grecia hasta Australia y América del Norte, el cúmulo estelar de las Pléyades se dice que representa a Siete Hermanas, aunque solo seis estrellas son visibles. La discrepancia a menudo es un punto de la trama en la historia: una hermana desaparecida. Dado este detalle, los mitos de las Siete Hermanas en todo el mundo deben compartir una raíz común. No es una trama que surgiría independientemente.
 
 Las siete estrellas están pintadas en las paredes de cuevas en Francia hace 21 mil años y en Australia en el Holoceno medio, donde también son parte del mito de creación del Tiempo del Sueño. La mayoría de los investigadores interpretan esto como que el mito tiene alrededor de 100,000 años de antigüedad. Como explicaré más adelante, no hay necesidad de postular nada mucho más allá de 30,000 años. En gran parte porque, en relación con la pregunta 2, no hay evidencia convincente de pensamiento recursivo (incluyendo ficción) antes de la Modernidad Conductual hace 40-50 mil años. Esa transición es debatida, a la que volveremos. Pero por ahora, todo lo que necesita establecerse es que hay un considerable solapamiento entre las estimaciones convencionales de 1 y 2. Esbozaré una versión débil y fuerte de cómo podría haberse extendido la cultura recursiva. Comenzando con la débil, que no se basa en ningún texto religioso, y luego pasando a la fuerte, que interpreta detalles comunes de los mitos de creación como significativos.
 
 #### EToC Débil
-
 
 Los humanos de hoy tienen una construcción del yo bastante fluida. Hay grietas alrededor de los bordes, particularmente si consumes drogas, meditas o tienes esquizofrenia. Pero muchos pasan la vida dando por sentado el “yo” desde que tienen alrededor de 18 meses de edad. Al principio, esto no habría sido el caso. Los bucles recursivos son inherentemente inestables. Hay configuraciones estables, pero es poco probable que nuestro cableado cognitivo haya saltado de ninguna recursividad a recursividad como un bucle infinito de carga sin una evolución significativa. Esto tomaría generaciones de selección natural para la construcción fluida del yo a una edad temprana.
 
@@ -205,9 +192,6 @@ En algún momento, se alcanzaría una masa crítica. Suficientes personas experi
   4. La recursividad cambia la relación de uno con el tiempo, permitiendo una planificación más flexible para el futuro. Esto se expresa en el lenguaje con tiempos pasados y futuros, complicando aún más la gramática.
 
   5. La música y la danza [utilizan estructuras recursivas](https://meltingasphalt.com/music-in-human-evolution/).
-
-
-
 
 Este proceso de selección podría haber ocurrido bastante rápido. Digamos que _“la construcción fluida del yo”_ es aproximadamente tan heredable como la esquizofrenia (~50%) y está correlacionada r = 0.1 con la aptitud (número de hijos sobrevivientes). Esto es bastante conservador, ya que hoy en día [las personas con esquizofrenia solo tienen aproximadamente el 50% de tantos hijos](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/1390257) (una gran penalización de aptitud). La ley de la jungla paleolítica puede haber sido aún más dura con aquellos con un agarre fracturado de la realidad.
 
@@ -465,7 +449,6 @@ Muchos académicos, como Buckland, Witzel, [d’Huy](https://www.vectorsofmind.c
 
 ### Mundial
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!_2n7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ee84c51-fe94-4f12-8bcc-9a07cff2478b_564x425.jpeg) Arte rupestre aborigen de la Serpiente Arcoíris. [Según el antropólogo Andreas Lommel](https://www.bradshawfoundation.com/unambal/index.php), la Serpiente Arcoíris “dio a luz a la ‘Creación’ soñando a todas las criaturas que viven en la Tierra, incluidos los ancestros espirituales del pueblo aborigen.”
 
 Todo lo discutido hasta ahora requiere una filogenia de unos 30,000 años enraizada en Eurasia. Un culto a la serpiente podría haberse desarrollado allí y haberse extendido a las Américas con la [cultura Clovis](https://en.wikipedia.org/wiki/Clovis_culture#:~:text=Clovis%20culture%20is%20a%20prehistoric,mammoths%2C%20at%20Blackwater%20Locality%20No.) hace unos 13 mil años. (Este es el momento en que el arte y las herramientas de piedra sofisticadas son [evidenciadas por primera vez](https://www.eurekalert.org/news-releases/1034178), a pesar de que las Américas estaban habitadas [al menos desde hace 23 mil años](https://www.smithsonianmag.com/science-nature/oldest-fossil-human-footprints-in-north-america-are-23000-years-old-study-reaffirms-180983018/), y [quizás](https://youtu.be/N97UyAmrAlU?si=d0O3a8ZJI0HH3KIg) [mucho antes](https://youtu.be/l0ieLFxg0zk?si=DAUaPuPRCe75NtdB).)[^26] Esto cubre la mayor parte del mundo, pero aún quedan las problemáticas regiones del África subsahariana y Australia. Estas a menudo se tratan como islas culturales, y sin embargo, sorprendentemente, tienen [mitos similares sobre serpientes y creación](https://www.mdpi.com/2076-0752/3/2/215). Cuando Witzel escribió _Origins of Mythology_, se propuso encontrar una raíz global para los mitos de creación. Esto lo puso en una situación complicada. Si postula una raíz de ~30 mil años, debe afirmar que la base de la cultura australiana y africana fue importada de Eurasia. Esto obviamente no es muy popular entre los activistas aborígenes, para quienes “50,000 años de cultura continua” es un grito de guerra. Pero las cosmogonías del mundo son realmente muy similares. ¿Qué hacer? Como los antropólogos que proyectan el arte y el matrimonio hace 300,000 años, la solución de Witzel es postular una raíz verdaderamente antigua en África. En este caso, de 100-160 mil años[^27]. No creo que eso se sostenga. 100,000 años es mucho tiempo para que una historia perdure. ¿Esperamos reconocer un mito después de 100,000 años de teléfono descompuesto? Esto está bien dentro de las escalas de tiempo evolutivas según cualquier cálculo; no está claro si los humanos de hace 100,000 años tenían almas, mucho menos una explicación para ellas. Además, no es difícil creer que los australianos y africanos, como otros humanos, han participado en el intercambio cultural en los últimos 30,000 años. ¡La cultura puede difundirse! Lo hace ahora. Debemos recordar que en algún momento del pasado, algunas tribus tenían historias de creación, pronombres y rituales, y otras tribus no. La primera buena explicación para la conciencia habría sido particularmente propensa a difundirse porque no estaba desplazando mitos de creación nativos. Estaba llenando un vacío. Si todo eso no es suficiente, podemos recurrir al mito de creación de los bosquimanos San, que implica difusión.
@@ -500,7 +483,6 @@ Espero haber demostrado que la adoración a las serpientes en todo el mundo es p
 
 ### Antivenenos
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!yEst!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fb589f0-baf2-483a-8a31-7861b8d257b7_1272x944.png) Vishnu el preservador se desliza a través del océano cósmico, descansando sobre un lecho de Nagas. En este estado, Vishnu sueña el universo en la realidad. Es de su ombligo que brota un loto, dando nacimiento a Brahma, el creador, quien hace el mundo.
 
 En el estudio de caso citado anteriormente, un hombre indio acudió a un encantador de serpientes local para obtener su dosis de veneno. Esto se aplicó directamente, colmillo a lengua. Supongo que nuestros antepasados tomaron algunas precauciones y se atiborraron de antivenenos en preparación para luchar contra la serpiente. Esto podría estar preservado en la mitología también. De hecho, una de las primeras cosas que noté en mi investigación fue cuán a menudo las serpientes mitológicas aparecen junto a posibles antivenenos. En el canon PIE, por ejemplo, tomar un trago antes de luchar contra una serpiente es un [tema](https://youtu.be/1nsk7KaIcm8?t=1282) [común](https://www.academia.edu/1419559/The_Drink_and_the_Serpent_A_Comparative_Investigation_of_Two_Connected_Motifs_in_Scandinavian_and_Vedic_Mythologies). Indra bebe Soma para prepararse para la batalla contra la serpiente [Vritra](https://en.wikipedia.org/wiki/Vritra) que ocupa el mismo papel que Jörmungandr del mito nórdico, Tifón del mito griego y Veles del mito eslavo.
@@ -517,7 +499,6 @@ Las serpientes a menudo aparecen junto a antivenenos funcionales en mitos sobre 
 
 ### Interludio Etimológico
 
-
 Las asociaciones de palabras, al igual que los mitos, pueden durar mucho tiempo. Algunos lingüistas sostienen que incluso es posible reconstruir el idioma original. Bengtson y Ruhlen han [propuesto unas pocas docenas de cognados globales](https://www.academia.edu/6223624/Global_Etymologies). En consecuencia, el Proto-Sapiens “pensar” es _mena,_ sobreviviendo hoy en formas como _man_ ([uno que piensa](https://www.etymonline.com/word/man)), _[Minerva](https://www.etymonline.com/word/Minerva)_ (Diosa de la sabiduría), o _[mantra](https://www.etymonline.com/word/mantra)_. O en otros idiomas como _munak_ para “cerebros” (vasco), _mèn_ para “entender” ([Malinke](https://en.wikipedia.org/wiki/Mandinka_people)), y _mena_ preservado como “pensar” entre los nativos americanos Lake Miwok. Es una noción romántica que la cultura moderna esté impregnada de la Lengua Madre, que las palabras de los primeros humanos aún fluyan de nuestros labios. En mi opinión, esta investigación sufre del mismo problema que la mitología comparativa: cualquier cosa global se asume que tiene más de 100 mil años. Si esa es la línea de tiempo, entonces estas similitudes deben ser coincidencia. Es demasiado tiempo para que un cognado perdure, y no hay mucha evidencia de pensamiento hace 100 mil años.
 
 Mi objetivo en esta sección es más limitado; la etimología de las palabras de serpiente puede decirnos qué conceptos estaban asociados con las serpientes hace ~10 mil años. Comenzando con _dragón_, [proviene de](https://www.etymonline.com/word/dragon) PIE _*derk-_ “ver”. De manera similar, Lucifer, la serpiente que tentó a Eva, [literalmente significa](https://www.etymonline.com/word/Lucifer) “portador de luz”. ¿Nombre extraño para el diablo, verdad?
@@ -533,7 +514,6 @@ Para más profundidad y otro ángulo, ver la Tesis de Maestría de Wendy Golding
 La raíz semítica _nhš_ significa tanto serpiente como adivinación, connotando específicamente una ofrenda de libación—una bebida dedicada a una deidad[^34]. Recuerda que “_En su Ofrenda de Libación, Esquilo registra que la Drakaina produjo y administró una mezcla de sangre y leche después de ser mordida en el pecho por una serpiente/dragón.”_ El clasicista Hillman argumenta que esta representación es lo que resultó en el juicio de Esquilo por profanar los misterios. Tanto en las tradiciones griega como hebrea, las serpientes están asociadas con las libaciones. Esto sugiere que su veneno era una bebida sagrada en el pasado antiguo.
 
 ### Otra investigación sobre serpientes
-
 
 _"La adoración a la serpiente desafortunadamente cayó hace años en manos de escritores especulativos, quienes la mezclaron con filosofías ocultas, misterios druídicos, y ese portentoso disparate llamado ‘Simbolismo Arcaico,’ hasta que ahora los estudiantes sobrios escuchan el mismo nombre de ofiolatría con un escalofrío. Sin embargo, es en sí mismo un tema de investigación racional e instructivo, especialmente notable por su amplitud de alcance en la mitología y la religión."_ Edward B. Tylor, 1871
 
@@ -567,9 +547,6 @@ Esto tiene una calificación de 4.7 en Amazon, con 2,200 reseñas. "Las serpient
 
   * [Serpent of Light: Beyond 2012](https://www.amazon.com/Serpent-Light-Beyond-Movement-Kundalini/dp/1578634016)
 
-
-
-
 En el ámbito más sobrio de la mitología comparada, la explicación dominante es que los mitos de serpientes no se basan en nada en particular, pero forman una filogenia. Witzel, como se ha discutido, propone unos 40,000 años para las historias de serpientes fuera de África y Australia. Para una raíz global de cosmogonías, propone 100-160 kya y cita el chamanismo de serpientes entre los San en África y los Aborígenes en Australia como evidencia de que la raíz precede a la migración Fuera de África. De manera similar, [d'Huy propone 100,000 para una raíz global](https://www.vectorsofmind.com/p/contra-dhuy-on-snake-myths) de los mitos de serpientes. El Génesis es tanto un mito de serpientes como una cosmogonía; Witzel y d'Huy afirman que retiene elementos significativos de historias contadas hace más de 100 kya. Estas líneas de tiempo son tan fantásticas como las serpientes siendo antiguos alienígenas. El racionalista Tyler Cowen [pone el contacto alienígena en ~10% de probabilidad](https://web.archive.org/web/20220709025215/https://www.bloomberg.com/opinion/articles/2022-05-25/ufo-hearing-what-are-the-chances-we-ve-been-visited-by-aliens); ¿qué probabilidades darías a que el Génesis tenga 100,000 años?
 
 Para que un mito dure miles de años, debe tener ganchos sociales o psicológicos. La explicación más común desde el sillón es que las serpientes son una metáfora de la vida y el renacimiento porque mudan su piel. Esto a menudo se sigue con el argumento de que están asociadas con el inframundo porque se arrastran sobre sus vientres, cerca del suelo. Apostaría a que este es el tipo de metáfora que vuela en la clase de inglés pero no en un culto al cráneo ([como Gobekli Tepe](https://www.science.org/content/article/carved-human-skulls-found-ancient-stone-temple), el primer templo de serpientes). Además, el uso enteogénico obvia esta explicación. Los hongos psilocibios también están cerca del suelo pero están temáticamente relacionados con el mundo espiritual porque cinco gramos pueden enviarte a otra dimensión.
@@ -583,7 +560,6 @@ Quizás lo más cercano es el trabajo del antropólogo Chris Knight, quien [dice
 No conozco otro tema en el que personas de tantas corrientes ideológicas estén de acuerdo. Durante siglos, poetas, teóricos de la conspiración, revivalistas druídicos, entusiastas arios, apologistas cristianos, marxistas y antropólogos de todo tipo han dicho que el significado cultural del simbolismo de la serpiente tiene que ver con la conciencia. Durante milenios, religiosos de todo tipo—judíos, animistas, politeístas y caníbales—han dicho lo mismo. Las serpientes son parte del aire simbólico que respiramos, por lo que es difícil pensar en su significado original en términos químicos. Para salir de ese bache, es útil imaginar un mundo donde la serpiente en el jardín era más obviamente un enteógeno.
 
 ### Un breve desvío al universo alternativo explorado por el psiconauta Terrence McKenna
-
 
 Imagina si, en todo el mundo, se dijera que los hongos son los progenitores de la condición humana. Quetzalcóatl, el Hongo Emplumado, puso un alma en la primera pareja. Indra obtuvo el Néctar de la Inmortalidad al batir el océano de leche con un bastón de shiitake. La Madre Micelia ofreció a Eva el autoconocimiento. Los rituales más sagrados en Australia fueron establecidos por la Trufa Cósmica, cuyas esporas se convirtieron en las Pléyades. Los primeros poetas griegos se enfrentaron a un antiguo culto misterioso al revelar la psilocibina como su enteógeno de elección. Los textos piramidales describen el Espacio y el Tiempo emanando del Eterno Sombrero, el aglutinante de almas. La raíz etimológica de "hongo" es _humano_, _vida_ o _sacramento_ en media docena de idiomas. En cada continente, el arte rupestre contenía variaciones de:
 
@@ -619,11 +595,7 @@ En resumen, la evidencia del veneno de serpiente como el Soma primordial:
 
   5. Una filogenia de mitos de serpientes de 30,000 años es aceptada por varios mitólogos comparativos, lo cual está cerca del comienzo de la Modernidad Conductual.
 
-
-
-
 ## El Matriarcado Primordial
-
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!MrNi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e14a8ab-022e-4c05-816a-1a85d96f3747_800x567.png)[Eva Tentada por la Serpiente, William Blake](https://artuk.org/discover/artworks/eve-tempted-by-the-serpent-30579) (1757–1827)
 
@@ -703,7 +675,6 @@ A primera vista, “matriarcado primordial como carta social para el patriarcado
 
 ### Zumbador: tótem de los difusionistas
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!ioyW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc253bda0-4ca1-4c90-88b1-2c598535378c_700x203.png)El zumbador estaba atado a una cuerda y girado para producir un ruido zumbante que a menudo se decía que era la voz de Dios. Este está hecho de marfil de mamut del [período Magdaleniense en Europa](https://www.donsmaps.com/musicalinstruments.html)
 
  _“Quizás el símbolo religioso más antiguo, ampliamente difundido y sagrado en el mundo”_ ~Alfred C. Haddon, 1898
@@ -744,7 +715,6 @@ Finalmente, el zumbador puede haber sido incluso un ingrediente activo en la epi
 
 ### Muerte y renacimiento
 
-
  _“¿Cómo puede un hombre nacer cuando es viejo?" preguntó Nicodemo. "¡Seguramente no puede entrar por segunda vez en el vientre de su madre para nacer!”_ Juan 3:4
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!c72a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F524fb1c0-469a-4408-9e7b-0faa12096066_564x588.jpeg)_“Dime, ¿cómo perdió Odín su ojo? Para aprender la magia secreta de las mujeres. Nunca busques los secretos de las mujeres, pero siempre escúchalos. Son las mujeres las que conocen los misterios de los hombres.”_
@@ -764,7 +734,6 @@ He buscado citar a los mejores académicos. Personas como Kerényi o Eliade que 
 Para ser claro, creo que el resultado más probable es el EToC débil, donde la autoconciencia recursiva fue una fuerza impulsora en la autodomesticación humana durante los últimos 50,000 años, y las mujeres tuvieron una ventaja temprana. En ese valle inquietante, el Culto de la Serpiente surgió con una explicación para la vida espiritual, y los Misterios se difundieron. Esas son ideas novedosas que vale la pena desarrollar. La forma más fuerte de EToC sostiene que los rituales asociados ayudaron a los hombres a “ponerse al día,” lo cual debería reflejarse por una fuerte selección en el cromosoma Y en los últimos 15,000 años o así. Eso es considerablemente menos probable pero vale la pena discutirlo porque es una [predicción para falsificar](https://www.vectorsofmind.com/p/y-chromosome-bottleneck).
 
 ## Conclusión
-
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!XYzD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6d95da14-2318-4418-88d9-e45102a33c1a_2048x2048.png)Eva, Madre de Todos los Vivientes. Andrew con Midjourney v6.0
 

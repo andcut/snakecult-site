@@ -14,7 +14,7 @@ keywords:
 - solves
 - sapient
 - paradox
-lang: es
+
 lastmod: '2025-07-05'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144959538'
@@ -62,7 +62,6 @@ Este simple mecanismo resuelve la [Paradoja Sapiente](https://en.wikipedia.org/w
 
 ## El Meme de Eva (El Conocimiento del Bien y del Mal, u otro)
 
-
 En [posts](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness) [anteriores](https://www.vectorsofmind.com/p/eve-theory-of-consciousness-v3), argumenté que “yo soy” se propagó, una idea tan fundamental para la cognición que muchos la consideran innata. La teoría también está admitidamente sobredeterminada e involucra más veneno de serpiente de lo que algunos aprecian. Pero otros descubrimientos podrían calificar a alguien como Eva Memética, y su propagación podría resolver la Paradoja Sapiente. Aquí hay algunos:
 
   1. Yo soy
@@ -93,9 +92,6 @@ En [posts](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness) [ant
 
   14. Una huelga sexual femenina
 
-
-
-
 Como dice Wikipedia, esta lista está incompleta; puedes ayudar ampliándola. ¿Qué ideas fatídicas añadirías? Sé creativo. Hay tomos de 500 páginas que argumentan que la propagación del [primero](https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind) y [último](https://en.wikipedia.org/wiki/Blood_Relations:_Menstruation_and_the_Origins_of_Culture) fundaron la condición humana, y esos eventos se recuerdan en el Génesis[^4]. Estos clásicos de culto han sido citados miles de veces a pesar de adoptar cronologías fantásticas: Julian Jaynes afirma que “yo” se propagó hace 3,200 años, y Chris Knight tiene la huelga sexual precediendo la migración Fuera de África (¿los mitos duran tanto?). En cualquier caso, su propagación cerca del final de la Edad de Hielo resuelve la Paradoja Sapiente. ¿Por qué no entonces?
 
 [Deja un comentario](https://www.vectorsofmind.com/p/memetic-eve-solves-the-sapient-paradox/comments)
@@ -116,7 +112,6 @@ De cualquier manera, los mitos fundacionales en todo el mundo cuentan de un tiem
 
 ## Conclusión
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!k3ss!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01f574ac-859a-4a3f-a0a2-dff1a4ba3c22_1280x1664.jpeg)Adán y Eva, William Blake, 1808
 
 > **Eva Memética**: _La persona que tuvo el primer pensamiento sapiente y logró compartirlo con otros de tal manera que se convirtió en la base de la cultura humana._
@@ -134,9 +129,6 @@ De cara al futuro, el plan es examinar la transición a la sapiencia región por
   3. Los humanos habitaron las Américas durante [decenas de miles de años](https://canadiangeographic.ca/articles/map-depicts-how-humans-could-have-arrived-in-the-western-hemisphere-earlier-than-we-thought/) sin hacer nada tan artístico como una sola cuenta. Luego, hace unos 13,000 años, apareció la [cultura Clovis](https://en.wikipedia.org/wiki/Clovis_culture), difundiendo su kit de herramientas sapiente (incluyendo iniciaciones con bullroarer, adoración de serpientes, y posiblemente el pronombre _na_).
 
   4. Eva Memética requiere la propagación de una idea sobre la cual se pueda construir la cultura humana. Admito que esta no es una sugerencia original. Durante generaciones, los antropólogos han debatido si la religión se propagó desde una raíz común. [La mejor evidencia de difusión es el bullroarer](https://www.vectorsofmind.com/i/136623669/bullroarer-totem-of-the-diffusionists), que los antropólogos han dejado de estudiar desafortunadamente porque están demasiado ocupados entendiendo la condición humana al [volverse realmente buenos en masturbarse](https://journals.sagepub.com/doi/full/10.1177/14687941221096600). Como tal, recopilar y analizar los últimos 150 años de estudios sobre el bullroarer ha recaído en mí, y actualmente estoy lidiando con un post exhaustivo.
-
-
-
 
 Si eso suena interesante, ¡comparte este artículo! Y suscríbete para unirte al viaje.
 

@@ -26,26 +26,26 @@ original_url: "https://www.vectorsofmind.com/p/the-origins-of-human-consciousnes
 
 [Dr. Tom Froese](https://twitter.com/drtomfroese) is a researcher in enactive artificial intelligence investigating the systematic organization of life and mind. He received his PhD in cognitive science from the University of Sussex, did postdoctoral work at the University of Tokyo, and led a research group at UNAM (Mexico's top university) studying embodied cognition and the origins of social complexity in Mesoamerica. He currently serves as faculty at the Okinawa Institute of Science and Technology and as editor-in-chief of the journal Adaptive Behavior.
 
-We primarily discuss [Froese’s Ritualized Mind Alteration Hypothesis](https://www.academia.edu/10396191/The_ritualised_mind_alteration_hypothesis_of_the_origins_and_evolution_of_the_symbolic_human_mind), which holds that in the Upper Paleolithic, rituals were developed that helped establish subject-object separation. These rituals included:
+We primarily discuss [Froese's Ritualized Mind Alteration Hypothesis](https://www.academia.edu/10396191/The_ritualised_mind_alteration_hypothesis_of_the_origins_and_evolution_of_the_symbolic_human_mind), which holds that in the Upper Paleolithic, rituals were developed that helped establish subject-object separation. These rituals included:
 
-  * Extended periods of sensory deprivation (e.g. in caves or through seclusion)
+ * Extended periods of sensory deprivation (e.g. in caves or through seclusion)
 
-  * Physical hardships and pain, which help create subject-object separation by forcing awareness back into the body
+ * Physical hardships and pain, which help create subject-object separation by forcing awareness back into the body
 
-  * Social isolation to disrupt normal modes of being absorbed in the world
+ * Social isolation to disrupt normal modes of being absorbed in the world
 
-  * Psychedelic substances that profoundly interrupt normal mental functioning
+ * Psychedelic substances that profoundly interrupt normal mental functioning
 
-  * Communal ritual aspects involving many participants
+ * Communal ritual aspects involving many participants
 
-  * Often occurring during puberty/adolescence when reflective consciousness becomes more necessary
+ * Often occurring during puberty/adolescence when reflective consciousness becomes more necessary
 
 
 
 
 A key insight from Dr. Froese's 2014 paper captures the core idea:
 
-“The rites’ original purpose could have been related to the facilitation of the ontogenetic development of young initiates’ normally fully situated minds into a more stabilised subject-object dualistic form, one which is more suitable for enculturation into a symbolic culture... Over time this original purpose of socially enhanced mental development would have become less essential as we and our cultural contexts co-evolved to allow individuals to more easily adapt to and reproduce a variety of highly symbolic practices”
+"The rites' original purpose could have been related to the facilitation of the ontogenetic development of young initiates' normally fully situated minds into a more stabilised subject-object dualistic form, one which is more suitable for enculturation into a symbolic culture... Over time this original purpose of socially enhanced mental development would have become less essential as we and our cultural contexts co-evolved to allow individuals to more easily adapt to and reproduce a variety of highly symbolic practices"
 
 You may notice this is precisely what I proposed two years ago in the [Snake Cult of Consciousness](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness). Hard to be unique in this world (though I do make contributions about women, snakes, myths, etc). But in science multiple people coming to the same model is a good thing. That Froese is a domain expert, and his version made it through peer review is a good sign for the Eve Theory of Consciousness. 
 
@@ -56,68 +56,68 @@ At 57:00, I get to tell him my theory that the first drug of choice was snake ve
 
 0:00-5:00
 
-  * Introductions
+ * Introductions
 
-  * Froese's background in engineering, computer science, and cybernetics
+ * Froese's background in engineering, computer science, and cybernetics
 
-  * His journey from AI to studying human evolution
+ * His journey from AI to studying human evolution
 
 
 
 
 5:00-20:00
 
-  * Limitations of current models of human origins
+ * Limitations of current models of human origins
 
-  * Discussion of environmental pressures vs genetic changes
+ * Discussion of environmental pressures vs genetic changes
 
-  * Why pure genetic explanations are unsatisfying
+ * Why pure genetic explanations are unsatisfying
 
 
 
 
 20:00-35:00
 
-  * The Ritualized Mind Alteration Hypothesis
+ * The Ritualized Mind Alteration Hypothesis
 
-  * How animals experience the world without subject-object separation
+ * How animals experience the world without subject-object separation
 
-  * The difference between absorbed states and reflective consciousness
+ * The difference between absorbed states and reflective consciousness
 
 
 
 
 35:00-45:00
 
-  * Discussion of schizophrenia as boundary problem between self and world
+ * Discussion of schizophrenia as boundary problem between self and world
 
-  * Hyperscanning research showing brain coupling during social interaction
+ * Hyperscanning research showing brain coupling during social interaction
 
-  * Early human maturation and development of self
+ * Early human maturation and development of self
 
 
 
 
 45:00-59:00
 
-  * Creation myths and how long they can persist
+ * Creation myths and how long they can persist
 
-  * Discussion of myths about emergence of consciousness
+ * Discussion of myths about emergence of consciousness
 
-  * Cross-cultural patterns in initiation rites
+ * Cross-cultural patterns in initiation rites
 
 
 
 
 59:00-1:07:00
 
-  * Snake venom as psychedelic technology
+ * Snake venom as psychedelic technology
 
-  * Current use in India and historical evidence
+ * Current use in India and historical evidence
 
-  * Convergence between Froese's model and the Snake Cult hypothesis
-
-
+ * Convergence between Froese's model and the Snake Cult hypothesis
 
 
-[Share](https://www.vectorsofmind.com/p/the-origins-of-human-consciousness?utm_source=substack&utm_medium=email&utm_content=share&action=share)
+
+
+[Share](https://www.vectorsofmind.com/p/the-origins-of-human-consciousness?action=share)

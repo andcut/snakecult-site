@@ -13,7 +13,7 @@ keywords:
 - snake
 - cult
 - consciousness
-lang: es
+
 lastmod: '2025-07-05'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '95941288'
@@ -49,7 +49,6 @@ Este post es independiente, pero sigue de la [Teoría de Eva de la Conciencia](h
 
 ## El Árbol del Conocimiento
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!Ifjs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4dcac44-c151-4e44-8969-67e148c4c720_1200x1446.jpeg)Árbol del conocimiento sugerente de un hongo, mosaico de mediados del siglo XII de una [colección italiana](https://www.atlasobscura.com/articles/muscaria-hallucinogenic-mushroom-fresco).
 
 La historia oral de algunos aborígenes australianos que habitan islas [cuenta de un tiempo](https://theconversation.com/ancient-aboriginal-stories-preserve-history-of-a-rise-in-sea-level-36010) cuando su tierra natal estaba conectada al continente. Esto fue de hecho el caso durante la última Edad de Hielo, cuando el nivel del mar era mucho más bajo y la isla era una península. La longevidad de este conocimiento plantea la pregunta sobre la vida útil de los mitos fuera de Australia. ¿Podría haber historias de nuestro pasado profundo que puedan enseñarnos más que la geografía de la Edad de Hielo?
@@ -67,7 +66,6 @@ Y sin embargo, esto es cierto para las serpientes, que son adoradas en todo el m
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!IY8Q!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F321d693d-af42-44ac-bd71-97df4474e986_2610x3142.jpeg)Foto tomada en un centro de visitantes en Tenochtitlán. Este mural fue realizado en 2020, por Claudio Ricardo Bravo, un artista mexica (desafortunadamente no puedo encontrar su presencia en línea). La tribu todavía trabaja con obsidiana en el lugar.
 
 ## Alucinando con veneno
-
 
 Considera el resumen de [Uso de Veneno de Serpiente como Sustituto de Opioides: Un Informe de Caso y Revisión de Literatura](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5968650/).
 
@@ -89,7 +87,6 @@ Ahora, no estoy diciendo que el veneno de serpiente sea el mejor psicodélico, n
 
 ## La serpiente y la manzana
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!Hdep!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21933e29-a3b9-4641-a7da-986d780dbf29_1881x1828.jpeg)_[Heracles y Ladón](https://en.wikipedia.org/wiki/Ladon_\(mythology\)#/media/File:Herakles_Ladon_Staatliche_Antikensammlungen_SL89.jpg)_, placa de relieve romana, era tardía.
 
 En quizás la historia más conocida en la tierra, una serpiente tienta a la mujer con conocimiento, a menudo representado como una manzana. Estos temas no se limitan a Génesis. La vida de Heracles está definida por conflictos con mujeres y serpientes. Como muchos otros, es el hijo bastardo de Zeus. En un intento de apaciguar a Hera, la esposa legítima de su padre, se le da un nombre que significa “[él] que es glorificado a través de Hera.” Esto no funcionó. En su infancia, ella envía dos serpientes venenosas a su cuna, las cuales él despacha. Cuando ha crecido, Hera lo maldice con locura. Bajo este hechizo, mata a su esposa e hijos.
@@ -109,7 +106,6 @@ Enteógeno es una palabra inventada por teóricos psicodélicos que querían alg
 Quiero discutir el papel de las serpientes en otros mitos. Pero primero, es útil explicar cómo creo que los psicodélicos están relacionados con la autoconciencia.
 
 ## Mecanismo propuesto
-
 
 Tu sentido del yo es tu historia de vida tejida junto con un mapa de tu cuerpo y planes para el futuro[^7]. Es una pregunta abierta cómo evolucionó el lenguaje y cómo está relacionado con la autoconciencia. Un orden razonable es que en algún punto de nuestro pasado, primero tuvimos habla audible, un proto-lenguaje sin gramática. Versiones muy simples de esto se comparten con otros animales, como los monos con diferentes llamados para depredadores que están arriba o abajo de ellos. A medida que los cerebros de nuestra línea evolutiva se hicieron más grandes, pudimos agregar gradualmente más vocabulario. No se necesita un cambio de fase. En este punto, que se cree ampliamente que ocurrió hace decenas o cientos de miles de años, la evolución habría seguido el curso descrito por Darwin:
 
@@ -134,7 +130,6 @@ En esta visión, Eva es la Madre de Todos los Vivientes, no como una metáfora d
 (Edición desde el futuro: Cumplí, aquí hay un artículo sobre la [difusión de rituales de iniciación liderados por mujeres](https://www.vectorsofmind.com/p/why-did-male-initiation-rituals-diffuse).)
 
 ## Recursión
-
 
 El problema que el proto-consciente estaba tratando de resolver puede abstraerse a “haz a los demás lo que te gustaría que te hicieran a ti.” Por lo tanto, la selección para un cerebro con voces que capturan el altruismo recíproco es selección para un cerebro que puede computar recursión. Este proceso sería gradual, y los genes y la reconfiguración podrían hacerse durante milenios. La idea de que la Teoría de la Mente produciría la capacidad para la recursión no es nueva. Ver, por ejemplo, [Recursión: ¿Qué es, quién la tiene y cómo evolucionó?](https://pubmed.ncbi.nlm.nih.gov/26302305/)
 

@@ -15,7 +15,7 @@ keywords:
 - allegory
 - religious
 - myth
-lang: es
+
 lastmod: '2025-07-04'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '161215208'
@@ -37,7 +37,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
 ### **Notas del Programa:**
 
-
 **(00:00:23) Introducción y Antecedentes de los Invitados**
 
   * Andrew Cutler: científico de datos que escribe sobre la evolución de la conciencia.
@@ -45,9 +44,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
   * Dan Ackerfeld: Psicólogo, escribe en Mind of Mythos, interesado en psicología, filosofía, mito y narrativismo.
 
   * Roger Bacon: Blogger seudónimo (filosofía, arte, espiritualidad), dirige la revista. Interesado en ideas especulativas.
-
-
-
 
 **(00:03:29) Resumen del Idealismo Analítico de Bernardo Kastrup (Resumen por Roger)**
 
@@ -61,9 +57,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * **Espacio/Tiempo/Materia:** Considerados apariencias o construcciones dentro de la Mente en General, no realidades fundamentales. (00:04:37, 00:08:04)
 
-
-
-
 **(00:06:14) Reacciones Iniciales y Estilo de Kastrup**
 
   * Acuerdo en que Kastrup es articulado pero puede ser agresivo en su crítica al materialismo (por ejemplo, llamándolo "tonterías"). (00:06:41)
@@ -74,9 +67,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * Preferencia por el libro de Kastrup sobre sus apariciones en podcasts expresada por los invitados. (00:06:29)
 
-
-
-
 **(00:09:15) Concepto de Mito y Verdad de Kastrup**
 
   * **Definición de Mito:** Cualquier marco interpretativo utilizado para atribuir significado a las percepciones/experiencias sensoriales. Incluye hipótesis científicas e historias religiosas. (00:09:56, 00:10:24)
@@ -84,9 +74,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
   * **Verdad Literal:** Se refiere a la realidad de consenso compartida por múltiples observadores conscientes. No implica un mundo material externo. (00:11:01)
 
   * **Verdad Trascendente:** Verdades sobre la realidad que no pueden ser completamente capturadas en el lenguaje; a menudo expresadas simbólicamente a través de mitos, sueños y el inconsciente. Habla de realidades más profundas, no literales. (00:11:45, 00:15:04, 00:16:07)
-
-
-
 
 **(00:12:01) Influencia Junguiana e Interpretación Simbólica**
 
@@ -102,9 +89,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
     * Ouroboros: Simboliza la naturaleza paradójica y autorreferencial de la realidad/mente. (00:15:18)
 
-
-
-
 **(00:16:20) Crítica: Difusión del Mito vs. Inconsciente Colectivo (Vista de Andrew)**
 
   * Andrew cuestiona la dependencia del inconsciente colectivo para explicar mitos similares a nivel mundial.
@@ -114,9 +98,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
   * Argumenta que la difusión es una explicación más parsimoniosa que una supermente mística, aunque permanece agnóstico sobre esta última. (00:17:58, 00:18:38)
 
   * Dan señala que Jung también tenía explicaciones de memoria evolutiva/genética para los arquetipos, no solo místicas. (00:18:51, 00:19:03)
-
-
-
 
 **(00:22:14) El Problema de la Regularidad en un Mundo Idealista**
 
@@ -130,9 +111,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * La experiencia personal de Kastrup con el tinnitus potencialmente conduciendo a un cambio de perspectiva. (00:25:07)
 
-
-
-
 **(00:26:22) Re-evaluando el Materialismo (Vista de Roger)**
 
   * Kastrup ve el materialismo como puramente negativo ("mito privado").
@@ -145,9 +123,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * Dan resuena, sintiendo la atracción del idealismo pero reconociendo la realidad persistente del mundo físico en la vida diaria. (00:28:25)
 
-
-
-
 **(00:29:12) Creencia en Eventos Sobrenaturales**
 
   * ¿Cree Kastrup que la física realmente puede ser doblada? Evita ejemplos específicos para prevenir "woo". (00:29:42)
@@ -156,9 +131,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * Roger se inclina a creer que tales eventos ocurren, encajando mejor en un marco idealista donde el "sueño" puede cambiar. (00:31:50)
 
-
-
-
 **(00:32:53) ¿Es la Verdad Trascendente Estática o Evolutiva?**
 
   * Basándose en Philip K. Dick: ¿Podría la naturaleza fundamental de la realidad misma cambiar? (00:32:55)
@@ -166,9 +138,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
   * El Inconsciente Estratificado de Kastrup: Sugiere que las capas más profundas (que contienen leyes físicas) son inaccesibles/inmutables, mientras que las capas superiores son más fluidas. (00:33:36)
 
   * Plantea la cuestión de las restricciones en el sueño de Dios. (00:34:30)
-
-
-
 
 **(00:34:52) El Papel de la Humanidad: Altares y Perspectiva**
 
@@ -180,17 +149,11 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * Enlace a teorías de la metacognición evolucionando a través de rituales traumáticos ([Andrew citando al Dr. Tom Froese](https://www.vectorsofmind.com/p/the-origins-of-human-consciousness)). (00:37:06)
 
-
-
-
 **(00:39:29) La Importancia de la Introspección (Punto de Andrew)**
 
   * Andrew desea que Kastrup explorara más la autoconciencia humana (la mente reflexionando sobre sí misma, el Ouroboros/bucle extraño), viéndola como un cambio de fase clave en el idealismo. (00:39:38)
 
   * Conecta a Eva ("madre de todos los vivientes") con el nacimiento de la introspección. (00:40:01)
-
-
-
 
 **(00:40:34) La Necesidad de Elegir un Mito (Pregunta de Dan)**
 
@@ -204,9 +167,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * Crítica de que Kastrup podría pasar por alto la importancia de las diferencias culturales en los mitos, minimizándolas como estéticas mientras se enfoca en núcleos trascendentes universales. (00:42:37, 00:43:12)
 
-
-
-
 **(00:44:59) Moralidad en el Idealismo Analítico**
 
   * Kastrup sorprendentemente ve la moralidad como una convención humana, no fundamentada en la realidad fundamental. (00:45:06)
@@ -219,9 +179,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * Argumento para la Moralidad Objetiva: Si la realidad refleja la Mente en General, su moralidad también debería hacerlo. La universalidad de la Regla de Oro sugiere un fundamento más profundo. (00:50:04, 00:51:16)
 
-
-
-
 **(00:51:50) Ideas como Entidades Vivas (Concepto de Roger)**
 
   * El ensayo de Roger "[Ideas are Alive and You are Dead](https://www.secretorum.life/p/ideas-are-alive-and-you-are-dead)": Explora las ideas como entidades autónomas, potencialmente entrando en nuestras mentes desde otro lugar (¿inconsciente colectivo?). (00:52:24)
@@ -232,9 +189,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * Dan encuentra que el concepto empuja hacia el idealismo pero lucha con el predeterminado materialista. (00:55:34)
 
-
-
-
 **(00:57:00) Viajes Personales y el Salto de Fe**
 
   * Todos los invitados expresan interés y atracción hacia el idealismo pero reconocen la dificultad de abrazarlo completamente contra el telón de fondo de la experiencia material cotidiana y la formación científica. (00:57:06, 00:58:18)
@@ -243,9 +197,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
 
   * La dificultad de saltar _fuera_ del mito culturalmente dominante (actualmente el materialismo). (01:00:07)
 
-
-
-
 **(01:00:18) ¿Cambia la Realidad de Consenso?**
 
   * ¿Podría la realidad misma cambiar metafísicamente basada en la creencia colectiva? (por ejemplo, ¿El materialismo "mató" a Dios o desterró los milagros?) (01:00:47)
@@ -253,9 +204,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
   * Si es así, la realidad de consenso podría difundirse culturalmente. (01:02:30)
 
   * Contrapunto (Andrew): Falta de evidencia de una física fundamentalmente diferente en el pasado; los relatos históricos sugieren difusión, no intervención divina espontánea basada en la creencia local. Persistencia de creencias en milagros (por ejemplo, Utah) sin eventos correspondientes. (01:01:43, 01:03:32)
-
-
-
 
 **(01:04:16) Pensamientos Finales y Conclusión**
 
@@ -266,9 +214,6 @@ y únete a mí para discutir _[More Than Allegory: On Religious Myth, Truth, and
   * Andrew: Recomienda escuchar/leer a Kastrup directamente. Valora su sinceridad, razonamiento cuidadoso y puente entre antecedentes técnicos/filosóficos. Aún explorando, aún no es un idealista analítico. (01:07:06)
 
   * Acuerdo general sobre el valor de Kastrup como un pensador cuidadoso y responsable que plantea preguntas importantes sobre la conciencia y la realidad. (01:07:54)
-
-
-
 
 **(01:08:21) Recomendación de Libro:** _More Than Allegory: On Religious Myth, Truth, and Belief_ de Bernardo Kastrup.
 

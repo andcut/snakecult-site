@@ -12,7 +12,7 @@ keywords:
 - vectors-of-mind
 - doomsday
 - debate
-lang: es
+
 lastmod: '2025-07-05'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682175'
@@ -36,14 +36,11 @@ Uno de los temas con la peor relación señal-ruido es la perspectiva del apocal
 
   3. En este blog he escrito extensamente sobre la evolución de la [inteligencia general a nivel humano](https://www.vectorsofmind.com/p/deja-you-the-recursive-construction) (que he [conectado con la IA](https://www.vectorsofmind.com/p/the-ai-basis-of-the-eve-theory-of) y [psicometría](https://www.vectorsofmind.com/p/consequences-of-conscience) desde el principio).
 
-
-
 Dicho esto, mis creencias sobre la IA (y la conciencia, en ese caso), todavía están bastante abiertas a cambios, así que no me aten a nada de lo que diga aquí. Además, para aquellos que prefieren el audio, ha narrado esta publicación. Si lo disfrutan, consideren comprarles un café en [Patreon](https://www.patreon.com/AskwhoCastsAI?).
 
 [*[Imagen: Contenido visual del post original]*Askwho Casts AI The Doomsday Debate - Por Andrew CutlerAI Narración de The Doomsday Debate - Por Andrew Cutler… Escuchar ahora hace un año · 1 me gusta · Askwho Casts AI](https://askwhocastsai.substack.com/p/the-doomsday-debate-by-andrew-cutler?utm_source=substack&utm_campaign=post_embed&utm_medium=web)
 
 ## Frankenstein del siglo XXI
-
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!dgza!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03ba7b69-bae6-4539-b527-7598daba7116_1024x1024.png)MidJourney Prompt: “Asistente de IA atractivo de Frankenstein pregunta ‘¿Cómo puedo ayudarte?’” ¿Era lo que pedí? No. ¿Era lo que necesitaba? ¡Sí!
 
@@ -55,7 +52,6 @@ En una [entrevista tuiteada por Elon Musk](https://x.com/elonmusk/status/1801976
 
 ## Doomeros de la IA
 
-
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!hr4e!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d608a6b-8c55-41c1-9bb1-cad96a4be8fe_1600x1159.png)
 
 Doomero es un término peyorativo para alguien que 
@@ -63,9 +59,6 @@ Doomero es un término peyorativo para alguien que
   1. pone mayores probabilidades de que los robots tomen el control que tú, o 
 
   2. toma su predicción demasiado en serio, arruinando el ambiente.
-
-
-
 
 El ejemplo prototípico de una IA “desalineada” es un asistente que mejora recursivamente encargado de producir clips de papel. Se vuelve tan bueno en su trabajo que termina convirtiendo todo el metal en la tierra—el hierro en tu sangre inclusive—en clips de papel. Este escenario no requiere autodirección. La tarea final sigue siendo definida por humanos; simplemente el bot desarrolla subtareas que, desafortunadamente, involucran tu sangre. Otros escenarios tienen bots “despertando” para volverse tan autodirigidos como un humano. Un humano que nunca duerme, ha leído todos los artículos científicos, puede hackear cualquier teléfono en el mundo, y no tiene escrúpulos sobre el chantaje o el [xenocidio](https://en.wikipedia.org/wiki/Xenocide). Tales ideas se remontan al menos[^1] a 1968 en _Odisea del Espacio_ de Stanley Kubrick: “Lo siento, Dave. Me temo que no puedo hacer eso.”
 
@@ -78,7 +71,6 @@ No está mal para un autodidacta que se formó escribiendo [fanfic de Harry Pott
 Una vez que aceptas que los humanos están invocando un dios de silicio, el futuro es una proyección de tus propios valores. Tal vez Dios es Bueno, y traerá la utopía. Tal vez [Dios es un Relojero](https://en.wikipedia.org/wiki/Watchmaker_analogy) que realmente no puede molestarse con los asuntos humanos, y seguiremos adelante como las hormigas viven en el Antropoceno. Quizás Dios mira la cría industrial, [escucha a Morrissey](https://www.youtube.com/watch?v=eviyEJRZX30), y decide que 8 mil millones menos de humanos es más sostenible. O tal vez invocamos a un torturador que viaja en el tiempo que reparte venganza a aquellos que no hicieron su mejor esfuerzo para traerlo a la existencia. [Musk conoció a Grimes bromeando sobre eso](https://www.vice.com/en/article/evkgvz/what-is-rokos-basilisk-elon-musk-grimes).
 
 ## Anti-Doomeros de la IA
-
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!Yw8P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb5821c3-3f38-4235-a4d5-2615350d24c2_1232x928.png)Prompt: “Yann LeCun con Frankenstein en una correa.” ¿Es lo que quería? No. ¿Es lo que necesitaba? Tampoco.
 
@@ -93,7 +85,6 @@ En los años 90 y principios de los 2000, NIPS, la conferencia de IA más import
 En la entrevista, Dwarkesh reconoce bien este punto de acuerdo entre los doomeros de la IA y los incrementalistas. Todas las partes piensan que algún tipo de sistema metacognitivo es necesario, pero no están de acuerdo sobre cuán difícil será producirlo.
 
 ## Mi opinión
-
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!ojLt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c4ad753-707a-4887-85ab-f66691b5b711_678x1200.png)Regla 33: si existe, hay [fan art inexplicablemente bueno de ello.](https://www.reddit.com/r/universalpaperclips/comments/123msul/if_is_follows_ought_itll_do_what_they_thought/)
 
