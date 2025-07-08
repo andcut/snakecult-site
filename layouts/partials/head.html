@@ -16,7 +16,7 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} – {{ site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
 
-  {{ partial "styles.html" . }}
+  {{ partialCached "styles.html" . }}
 
   <style>
     :root{--retro-background:#0a0f0a;--retro-foreground:#00e300;--retro-accent:#33ff33;--retro-glow:0 0 3px rgba(51,255,51,.3);--retro-glow-lg:0 0 5px rgba(51,255,51,.3);}
