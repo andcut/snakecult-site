@@ -10,7 +10,8 @@ help:
 	@echo "  translate-all    Translate all English posts to Spanish"
 	@echo "  build           Build Hugo site"
 	@echo "  build-test      Test build with both languages"
-	@echo "  dev             Start fast Hugo server for development"
+	@echo "  dev             Start fast Hugo server (English-only)"
+	@echo "  dev-full        Start Hugo server with all languages"
 
 install-deps:
 	pip install -r requirements.txt
@@ -36,6 +37,12 @@ dev:
 	HUGO_SKIP_SASS=true \
 	hugo server -D \
 	  --environment dev \
+	  --disableKinds taxonomy,taxonomyTerm,RSS,sitemap
+
+dev-full:
+	HUGO_NUMWORKERMULTIPLIER=2 \
+	HUGO_SKIP_SASS=true \
+	hugo server -D \
 	  --disableKinds taxonomy,taxonomyTerm,RSS,sitemap
 
 # Example: translate a small file for testing

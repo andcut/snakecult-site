@@ -3,7 +3,7 @@ title: "Esoteric Mormonism"
 date: 2025-01-01
 lastmod: 2025-01-01
 slug: esoteric-mormonism
-description: "TODO: Meta description (≤ 160 chars)."
+description: "Explore the hermetic-alchemical roots of early Mormon cosmology in John L. Brooke's Bancroft Prize-winning book, The Refiner's Fire."
 keywords:
  - keyword-one
  - keyword-two
@@ -11,7 +11,7 @@ about:
  - main-theme
 tags:
  - Tag-A
-core_entity: ""  # ≤ 3-word noun phrase. Pick the single, concrete thing that best embodies the post.
+core_entity: "Mormon Cosmology"  # ≤ 3-word noun phrase. Pick the single, concrete thing that best embodies the post.
 quality: 6          # ★ 1‒10 subjective "how good is this?"; 6 = unrated/OK
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"

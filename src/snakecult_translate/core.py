@@ -50,22 +50,30 @@ def translate_text(
         return None
 
 
-def create_spanish_frontmatter(original_fm: dict, target_lang: str = "es", model_name: str = "gpt-4o") -> dict:
-    """Create translated frontmatter from original frontmatter."""
-    spanish_fm = original_fm.copy()
-    
-    # Always set language
-    spanish_fm['lang'] = target_lang
-    # Record which model performed the translation
-    spanish_fm['translation_model'] = model_name
-    # Update last modification date to today (ISO-8601)
-    spanish_fm['lastmod'] = datetime.date.today().isoformat()
-    
-    # Keep English slug for now (as discussed)
-    # spanish_fm['slug'] stays the same
-    
-    # Keep other metadata unchanged (date, tags, etc.)
-    return spanish_fm
+def create_translated_frontmatter(original_fm: dict, target_lang: str, model_name: str = "gpt-4o") -> dict:
+    """Return a copy of front-matter with language/meta fields updated for the translation.
+
+    This keeps most keys intact (date, slug, etc.) and only touches:
+    • lang – new language code
+    • translation_model – which LLM produced the text
+    • lastmod – timestamp of translation
+    """
+
+    fm = original_fm.copy()
+
+    # Required language metadata
+    fm["lang"] = target_lang
+
+    # Track provenance so we can later filter / re-translate if model versions change
+    fm["translation_model"] = model_name
+
+    # Always refresh last modified date
+    fm["lastmod"] = datetime.date.today().isoformat()
+
+    return fm
+
+# Backwards compatibility for old imports
+create_spanish_frontmatter = create_translated_frontmatter
 
 
 def translate_file(
@@ -146,7 +154,7 @@ def translate_file(
         translated_content = "\n\n<!-- CHUNK BREAK -->\n\n".join(translated_chunks)
     
     # Create translated frontmatter
-    spanish_fm = create_spanish_frontmatter(post.metadata, target_lang, model)
+    spanish_fm = create_translated_frontmatter(post.metadata, target_lang, model)
     if translated_title:
         spanish_fm['title'] = translated_title
 
@@ -159,6 +167,24 @@ def translate_file(
         web_format,
         temperature
     )
+
+    # Fallback: core_entity sometimes remains unchanged because the block translator
+    # treats it as a proper noun. If we detect that it's still identical to the
+    # English and the target language is not English, attempt a single-field
+    # translation.
+    if target_lang != "en" and "core_entity" in spanish_fm:
+        original_core = post.metadata.get("core_entity", "")
+        if spanish_fm["core_entity"] == original_core and isinstance(original_core, str):
+            translated_core = translate_text(
+                client,
+                original_core,
+                target_lang,
+                model,
+                web_format,
+                temperature
+            )
+            if translated_core:
+                spanish_fm["core_entity"] = translated_core
 
     # Create new post with translated content
     spanish_post = frontmatter.Post(translated_content, **spanish_fm)
@@ -189,7 +215,7 @@ def translate_frontmatter_block(
     
     # Extract translatable fields
     translatable_fields = {}
-    for field in ['title', 'description', 'keywords', 'tags', 'about']:
+    for field in ['title', 'description', 'keywords', 'tags', 'about', 'core_entity']:
         if field in frontmatter_dict and frontmatter_dict[field]:
             translatable_fields[field] = frontmatter_dict[field]
     
@@ -249,6 +275,13 @@ RULES:
             # Merge back into original frontmatter
             result_fm = frontmatter_dict.copy()
             result_fm.update(translated_fields)
+
+            # Clean up common artefacts – e.g. double apostrophes that sneak in when
+            # the source text contains straight quotes and the French translator
+            # escapes them.
+            if "title" in result_fm and isinstance(result_fm["title"], str):
+                result_fm["title"] = result_fm["title"].replace("''", "'")
+
             return result_fm
             
         except yaml.YAMLError as e:
