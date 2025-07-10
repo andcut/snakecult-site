@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: In this episode I speak with , an Australian psychologist and writer
-  of the Mind & Mythos Substack. Dan's work explores the intersection of psychology,
-  mythology, and narrative, initially focusing on ...
+description: En este episodio hablo con un psicólogo y escritor australiano del Substack
+  Mind & Mythos. El trabajo de Dan explora la intersección de la psicología, la mitología
+  y la narrativa, inicialmente centrándose en ...
 draft: false
 keywords:
-- vectors-of-mind
-- mind
-- mythos
+- vectores-de-la-mente
+- mente
+- mitos
 - ackerfeld
-
-lastmod: '2025-07-04'
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152587817'
 original_url: https://www.vectorsofmind.com/p/mind-and-mythos-with-dan-ackerfeld
 quality: 6
 slug: mind-and-mythos-with-dan-ackerfeld
 tags: []
-title: Mind And Mythos With Dan Ackerfeld
+title: Mente y Mitos con Dan Ackerfeld
 translation_model: gpt-4o
 ---
 

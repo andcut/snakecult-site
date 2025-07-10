@@ -1,7 +1,7 @@
 # snakecult_translate
 
 A modular translation toolkit tailored for Hugo-based static sites.
-It lets you translate Markdown content into Spanish (or any language) using
+It lets you translate Markdown content into **any target language** using
 OpenAI models, with three workflow styles:
 
 | Mode | Script | When to use |
@@ -28,10 +28,10 @@ Translate a single file in place:
 python -m src.snakecult_translate.cli_one content/posts/foo.md
 ```
 
-Translate every Markdown under `content/` into Spanish, **in parallel**:
+Translate every Markdown under `content/` into French (as an example), **in parallel**:
 ```bash
 python -m src.snakecult_translate.cli_parallel --src-root content \
-       --dst-root content/es --model gpt-4o --limit 100
+       --dst-root content/fr --model gpt-4o --limit 100
 ```
 
 ### Batch API (cheap!)
@@ -76,7 +76,7 @@ python -m src.snakecult_translate.cli_batch_async --chunk --no-wait
 # 3. Later, check progress and automatically download if done
 python -m src.snakecult_translate.cli_batch_status --assemble
 
-# 4. Review Spanish posts under content/es/, commit, push, etc.
+# 4. Review translated posts under content/fr/, commit, push, etc.
 ```
 
 ---

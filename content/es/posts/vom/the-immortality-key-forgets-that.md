@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Brian Muraresku’s Immortality Key: The Secret History of the Religion
-  with No Name makes a good case that Jesus is a reincarnation of Dionysus, and early
-  Christianity was a continuation of the millenn...'
+description: 'La Clave de la Inmortalidad de Brian Muraresku: La Historia Secreta
+  de la Religión Sin Nombre presenta un buen argumento de que Jesús es una reencarnación
+  de Dionisio, y el cristianismo primitivo fue una continuación del milenari...'
 draft: false
 keywords:
-- vectors-of-mind
-- immortality
-- forgets
-- that
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- inmortalidad
+- olvida
+- que
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '121549684'
 original_url: https://www.vectorsofmind.com/p/the-immortality-key-forgets-that
 quality: 6
 slug: the-immortality-key-forgets-that
 tags: []
-title: The Immortality Key Forgets That
+title: '# La Clave de la Inmortalidad Olvida Que'
 translation_model: gpt-4o
 ---
 

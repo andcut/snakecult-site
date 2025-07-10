@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Depicted above are several libation cups made in the image of the Ancient
-  Egyptian god Bes. The burgeoning field of archeo-botany allows us to investigate
-  what was consumed from such ritual jugs by an...
+description: Representadas arriba están varias copas de libación hechas a imagen del
+  dios egipcio antiguo Bes. El floreciente campo de la arqueo-botánica nos permite
+  investigar qué se consumía de tales jarras rituales por un...
 draft: false
 keywords:
-- vectors-of-mind
-- drinking
-- gods
-- chemistry
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- bebida
+- dioses
+- química
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '153310338'
 original_url: https://www.vectorsofmind.com/p/drinking-with-the-gods-the-chemistry
 quality: 6
 slug: drinking-with-the-gods-the-chemistry
 tags: []
-title: Drinking With The Gods The Chemistry
+title: Beber con los dioses La química
 translation_model: gpt-4o
 ---
 

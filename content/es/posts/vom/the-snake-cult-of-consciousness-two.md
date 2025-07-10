@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'In the beginning, God created three beings: Man, Antelope, and Snake.
-  There was only one tree, bearing red fruit. Every seven days, God would come down
-  from the sky to pluck the fruit. One day, Snake ...'
+description: 'Al principio, Dios creó tres seres: Hombre, Antílope y Serpiente. Solo
+  había un árbol, que daba frutos rojos. Cada siete días, Dios bajaba del cielo para
+  recoger el fruto. Un día, la Serpiente ...'
 draft: false
 keywords:
-- vectors-of-mind
-- snake
-- cult
-- consciousness
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- serpiente
+- culto
+- conciencia
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '154908424'
 original_url: https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness-two
 quality: 6
 slug: the-snake-cult-of-consciousness-two
 tags: []
-title: The Snake Cult Of Consciousness Two
+title: El Culto de la Serpiente de la Conciencia Dos
 translation_model: gpt-4o
 ---
 
@@ -61,6 +61,7 @@ Si lo deseas, el ensayo original está disponible [aquí](https://www.vectorsofm
 
 ### El Culto a la Serpiente con otro nombre
 
+
 En la edición de 2015 de Rock Art Research, el neurocientífico cognitivo Tom Froese propuso _[La hipótesis de la alteración mental ritualizada del origen y evolución de la mente humana simbólica](https://www.academia.edu/10396191/The_ritualised_mind_alteration_hypothesis_of_the_origins_and_evolution_of_the_symbolic_human_mind)._ Interpreta el arte rupestre del Paleolítico Superior como el comienzo de un tipo de chamanismo que se utilizaba para enseñar la separación sujeto-objeto:
 
 > “Aquí volvemos a un tema que ya hemos discutido anteriormente, a saber, cómo el consumo de psicodélicos interrumpe profundamente el funcionamiento mental normal. Esto no quiere decir que sean la única forma de llevar a cabo tales interrupciones, pero ciertamente son una opción poderosa y, para la mayoría de las culturas, fácilmente disponible. Otro factor a considerar es que la conciencia reflexiva es menos necesaria para los infantes jóvenes, pero se vuelve cada vez más útil y, al menos en el contexto de una cultura altamente simbólica, incluso necesaria a medida que avanza la maduración. Desde este punto de vista, la prevalencia tradicional de intensos ritos de paso durante la pubertad, incluidos tabúes, períodos prolongados de reclusión, aislamiento social, dificultades físicas y la ingestión de sustancias psicodélicas, es decir, prácticas que tienen poco que ver con el proceso de maduración sexual como tal (van Gennep 1908/1960), ya no es tan extraña como podría parecer de otro modo. El propósito original de los ritos podría haber estado relacionado con la facilitación del desarrollo ontogenético de las mentes normalmente completamente situadas de los jóvenes iniciados en una forma dualista sujeto-objeto más estabilizada, una que sea más adecuada para la enculturación en una cultura simbólica (Froese 2013).
@@ -76,6 +77,7 @@ Podrás notar que es precisamente lo que propuse con el Culto a la Serpiente, au
 Para aquellos que llevan la cuenta, esto mueve al Culto a la Serpiente de no ser ni siquiera marginal a estar sólidamente en el margen. ¡Progreso! Otros científicos que han participado son Nick Jikomes en [Mind & Matter](https://mindandmatter.substack.com/p/creation-myths-stoned-apes-and-the) quien tiene experiencia en genética y neurociencia, y la revista en línea [Seeds of Science](https://www.theseedsofscience.pub/p/the-eve-theory-of-consciousness) (dirigida por un doctorado en biología). Una de las cosas que más me ha sorprendido al investigar los orígenes humanos es el grado en que son una pregunta abierta. Simplemente no tenemos un buen modelo de cuándo y cómo evolucionó nuestra inteligencia singular. Y, como veremos pronto, incluso los líderes en el campo dicen que necesitamos modelos muy diferentes que incorporen la evolución reciente.
 
 ### RAVES de Veneno de Serpiente
+
 
 Aparte de decir que la teoría del Culto a la Serpiente tiene más en común con la numerología que con la ciencia, la queja más común ha sido que el veneno de serpiente no es una droga. Lo siento, entonces ¿por qué lo venden en raves?
 
@@ -96,6 +98,7 @@ Eso suena como un disociativo, que es exactamente lo que el doctor ordenó para 
 Cualquiera que simpatice con la Teoría del Mono Colocado debería preferir el Culto a la Serpiente, ya que el veneno puede hacer el trabajo. Además, las serpientes son omnipresentes en los mitos de creación, mientras que los hongos son inexistentes. Quiero decir, está justo ahí en la Biblia. ¡El portador de la luz era una serpiente![^5]
 
 ### ¿Cuándo evolucionó el cerebro humano?
+
 
 Si los mitos de creación recuerdan estados evolutivos anteriores, entonces debe haber habido cantidades extraordinarias de selección en la duración de los mitos. ¿Cuánto tiempo es eso? Bueno, hay evidencia muy sólida de que los mitos pueden durar 10-15,000 años, ya que hay muchos ejemplos de leyendas sobre el aumento del nivel del mar al final de la Edad de Hielo. Los mitólogos comparativos también argumentan que [los patrones globales de mitos que presentan serpientes](https://www.vectorsofmind.com/p/contra-dhuy-on-snake-myths), [matriarcado primordial](https://shs.hal.science/halshs-01790319/document), [creación](https://www.youtube.com/watch?v=nZmEro_ODqc), y el [cúmulo estelar de las Pléyades](https://www.vectorsofmind.com/i/135720028/why-are-there-seven-sisters) indican que estos han durado decenas de miles de años. Eso es controvertido, sin embargo, así que mantengámonos con un límite de 15,000 años. ¿Ha habido una evolución significativa en ese período de tiempo? No según el modelo estándar:
 
@@ -120,6 +123,7 @@ No estoy sugiriendo que los rituales de veneno de serpiente fueran el principal 
 Esta hipótesis hace predicciones comprobables: deberíamos encontrar evidencia de rituales que alteran la conciencia extendiéndose en el Paleolítico tardío, y estas prácticas deberían estar llenas de simbolismo de serpientes. El bullroarer ha sido estudiado durante más de un siglo y nos proporciona precisamente eso.
 
 ### Considera el Bullroarer
+
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!DvYg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ff03ece-9889-48df-aa68-c2fbf61ad753_700x203.jpeg)Un [bullroarer de 14,000 años de Francia](https://www.donsmaps.com/musicalinstruments.html)
 

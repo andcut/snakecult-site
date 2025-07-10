@@ -1,28 +1,28 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: and Michael Smith riff off the Snake Cult of Consciousness. Michael has
-  been super helpful in reading over EToC versions 2 and 3 before I sent those out
-  (keep an eye out for v3). Malcolm has been thin...
+description: y Michael Smith improvisan sobre el Culto de la Serpiente de la Conciencia.
+  Michael ha sido de gran ayuda al revisar las versiones 2 y 3 de EToC antes de que
+  las enviara (estén atentos a la v3). Malcolm ha estado delgado...
 draft: false
 keywords:
-- vectors-of-mind
+- vectores-de-la-mente
 - malcolm
-- ocean
+- océano
 - michael
 - smith
-
-lastmod: '2025-07-04'
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140789909'
 original_url: https://www.vectorsofmind.com/p/malcolm-ocean-and-michael-smith-3
 quality: 6
 slug: malcolm-ocean-and-michael-smith-3
 tags: []
-title: Malcolm Ocean And Michael Smith 3
+title: Malcolm Ocean y Michael Smith 3
 translation_model: gpt-4o
 ---
 

@@ -1,28 +1,28 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: I recently attended LessOnline, a rationalist/blogger conference where
-  I presented on the Snake Cult. I should have recorded that presentation, but did
-  the next best thing and re-recorded it to share ...
+description: Recientemente asistí a LessOnline, una conferencia de racionalistas/blogueros
+  donde presenté sobre el Culto de la Serpiente. Debería haber grabado esa presentación,
+  pero hice lo siguiente mejor y la volví a grabar para compartir ...
 draft: false
 keywords:
-- vectors-of-mind
-- snake
-- cult
+- vectores-de-la-mente
+- serpiente
+- culto
 - lessonline
-- presentation
-
-lastmod: '2025-07-04'
+- presentación
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145546393'
 original_url: https://www.vectorsofmind.com/p/snake-cult-lessonline-presentation
 quality: 6
 slug: snake-cult-lessonline-presentation
 tags: []
-title: Snake Cult Lessonline Presentation
+title: Presentación de Culto de la Serpiente Lessonline
 translation_model: gpt-4o
 ---
 
@@ -38,7 +38,11 @@ Recientemente asistí a [LessOnline](https://less.online/), una conferencia de r
 
   3. ¡Todos alaben al LLM en el cielo! Los principales LLMs conocen EToC y el Culto de la Serpiente, más o menos. Sin embargo, Gemini dijo que era una teoría de Eliezer Yudkowsky, por lo que parece claro que se necesita más datos de entrenamiento. Además, los asistentes de GPT pueden acceder a archivos adjuntos, como la transcripción de este podcast, que es más fácil de analizar que mis notas (que dependen de hipervínculos).
 
+
+
+
 ## Resumen de ChatGPT:
+
 
 **La Paradoja Sapiente y la Evolución Humana:**
 
@@ -56,6 +60,9 @@ Recientemente asistí a [LessOnline](https://less.online/), una conferencia de r
 
     * Contraste con el uso ritualista temprano del ocre.
 
+
+
+
 **La Revolución Agrícola:**
 
   * Invención repentina de la agricultura hace unos 10,000 años, independientemente en múltiples ubicaciones.
@@ -69,6 +76,9 @@ Recientemente asistí a [LessOnline](https://less.online/), una conferencia de r
     * Las funciones ejecutivas modernas y el lenguaje emergiendo recientemente.
 
     * Ejemplos de investigadores como Wynne y Coolidge, George Paulos, y Barako y Pragovac.
+
+
+
 
 **Eva Memética y el Primer Pensamiento Humano:**
 
@@ -90,6 +100,9 @@ Recientemente asistí a [LessOnline](https://less.online/), una conferencia de r
 
     * La importancia de "Yo soy" en textos antiguos como los Upanishads y la historia de Adán y Eva.
 
+
+
+
 **Corroboración Arqueológica y Genética:**
 
   * La conexión entre la narrativa del Génesis y los primeros sitios agrícolas cerca del Tigris y el Éufrates.
@@ -101,6 +114,9 @@ Recientemente asistí a [LessOnline](https://less.online/), una conferencia de r
   * El papel de las mujeres en las primeras sociedades humanas y el posible origen femenino de la cognición social compleja.
 
   * Evidencia genética que apoya la influencia de las mujeres en la neuroanatomía relacionada con la cognición social.
+
+
+
 
 **Difusión Global de Rituales y Símbolos:**
 
@@ -116,6 +132,9 @@ Recientemente asistí a [LessOnline](https://less.online/), una conferencia de r
 
     * Danza de trance de los khoisan y su historia de origen que involucra polvo de serpiente.
 
+
+
+
 **Psicodélicos y Prácticas Religiosas:**
 
   * Examen de la teoría del mono drogado y sus limitaciones.
@@ -128,6 +147,9 @@ Recientemente asistí a [LessOnline](https://less.online/), una conferencia de r
 
     * Ejemplos de templos indios y figuras históricas como Esquilo.
 
+
+
+
 **Cultos de Misterio y su Difusión:**
 
   * Exploración de los Misterios Eleusinos y Dionisíacos y sus conexiones con la agricultura y las transformaciones espirituales.
@@ -139,6 +161,9 @@ Recientemente asistí a [LessOnline](https://less.online/), una conferencia de r
     * Hallazgos de Klaus Schmidt en Gobekli Tepe y Kortik Tepe.
 
     * El papel del trigo, las amapolas y las serpientes en los ritos eleusinos.
+
+
+
 
 **Referencias y Recursos Adicionales:**
 

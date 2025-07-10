@@ -1,28 +1,28 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Chicks still wet from hatching, covered in bits of shell that have been
-  their only home, will run for cover at the sight of a hawk but not a gull, heron,
-  or pigeon. Humans are not foreigners to animal...
+description: Los polluelos aún húmedos por el nacimiento, cubiertos de fragmentos
+  de cáscara que han sido su único hogar, correrán a refugiarse al ver un halcón,
+  pero no una gaviota, garza o paloma. Los humanos no son extranjeros para los animales...
 draft: false
 keywords:
-- vectors-of-mind
+- vectores-de-la-mente
 - joseph
 - campbells
-- view
-- myth
-
-lastmod: '2025-07-04'
+- visión
+- mito
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '147493214'
 original_url: https://www.vectorsofmind.com/p/joseph-campbells-view-of-myth
 quality: 6
 slug: joseph-campbells-view-of-myth
 tags: []
-title: Joseph Campbells View Of Myth
+title: Joseph Campbell y su visión del mito
 translation_model: gpt-4o
 ---
 

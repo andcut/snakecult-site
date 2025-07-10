@@ -21,14 +21,14 @@
       <div class="retro-panel" style="margin-bottom: 20px; padding-bottom: 15px;">
         <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center; justify-content:space-between;">
           <h2 style="margin:0;">
-            {{ if eq $.Site.Language.Lang "es" }}Artículos de Investigación
+            {{ if eq $.Site.Language.Lang "es" }}Investigación
             {{ else if eq $.Site.Language.Lang "zh" }}研究文章
-            {{ else if eq $.Site.Language.Lang "fr" }}Articles de Recherche
-            {{ else if eq $.Site.Language.Lang "de" }}Forschungsartikel
-            {{ else if eq $.Site.Language.Lang "ar" }}مقالات البحث
-            {{ else if eq $.Site.Language.Lang "pt" }}Artigos de Pesquisa
-            {{ else if eq $.Site.Language.Lang "hi" }}अनुसंधान लेख
-            {{ else if eq $.Site.Language.Lang "ru" }}Исследовательские статьи
+            {{ else if eq $.Site.Language.Lang "fr" }}Recherche
+            {{ else if eq $.Site.Language.Lang "de" }}Forschung
+            {{ else if eq $.Site.Language.Lang "ar" }}أبحاث
+            {{ else if eq $.Site.Language.Lang "pt" }}Pesquisa
+            {{ else if eq $.Site.Language.Lang "hi" }}अनुसंधान
+            {{ else if eq $.Site.Language.Lang "ru" }}Исследования
             {{ else }}Research Articles{{ end }}
           </h2>
 
@@ -48,12 +48,12 @@
             <select id="sortSelect" onchange="location.href=this.value" style="font-size:0.9em; padding:2px 4px; background:var(--retro-background); color:var(--retro-accent); border:1px solid var(--retro-accent); font-family:monospace; text-shadow:0 0 3px rgba(51,255,51,0.3);">
               <option value="{{ $recentURL }}">{{ if eq $.Site.Language.Lang "es" }}Reciente
               {{ else if eq $.Site.Language.Lang "zh" }}最近修改
-              {{ else if eq $.Site.Language.Lang "fr" }}Dernière modification
+              {{ else if eq $.Site.Language.Lang "fr" }}Dernière modif
               {{ else if eq $.Site.Language.Lang "de" }}Zuletzt geändert
               {{ else if eq $.Site.Language.Lang "ar" }}آخر تعديل
-              {{ else if eq $.Site.Language.Lang "pt" }}Última modificação
+              {{ else if eq $.Site.Language.Lang "pt" }}Última modif
               {{ else if eq $.Site.Language.Lang "hi" }}अंतिम संशोधन
-              {{ else if eq $.Site.Language.Lang "ru" }}Последнее изменение
+              {{ else if eq $.Site.Language.Lang "ru" }}Обновлён
               {{ else }}Last Modified{{ end }}</option>
               <option value="{{ $.Site.Home.Permalink }}" selected>{{ if eq $.Site.Language.Lang "es" }}Calidad
               {{ else if eq $.Site.Language.Lang "zh" }}质量

@@ -1,26 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Note: I wrote this piece in 2023 for a now-defunct Substack specializing
-  in embryo selection. It appears below unedited.'
+description: 'Nota: Escribí este artículo en 2023 para un Substack ahora desaparecido
+  especializado en la selección de embriones. Aparece a continuación sin editar.'
 draft: false
 keywords:
-- vectors-of-mind
-- embryo
-- selection
-- stone
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- embrión
+- selección
+- piedra
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '129576413'
 original_url: https://www.vectorsofmind.com/p/embryo-selection-and-our-stone-age
 quality: 6
 slug: embryo-selection-and-our-stone-age
 tags: []
-title: Embryo Selection And Our Stone Age
+title: Selección de Embriones y Nuestra Edad de Piedra
 translation_model: gpt-4o
 ---
 

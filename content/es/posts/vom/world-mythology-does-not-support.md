@@ -14,19 +14,19 @@ keywords:
 - mythology
 - does
 - support
-
-lastmod: '2025-07-04'
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '164374918'
 original_url: https://www.vectorsofmind.com/p/world-mythology-does-not-support
 quality: 6
 slug: world-mythology-does-not-support
 tags: []
-title: World Mythology Does Not Support
+title: '# La Mitología Mundial No Apoya'
 translation_model: gpt-4o
 ---
 
-*De [Vectors of Mind](https://www.vectorsofmind.com/p/world-mythology-does-not-support) - imágenes en el original.*
+*From [Vectors of Mind](https://www.vectorsofmind.com/p/world-mythology-does-not-support) - imágenes en el original.*
 
 ---
 

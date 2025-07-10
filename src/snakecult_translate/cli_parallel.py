@@ -119,7 +119,7 @@ def main():
     log(f"Scanning for Markdown files under {args.src_root} …")
     all_md = discover_markdown_files(args.src_root)
 
-    # Remove those already inside dst_root (so we don't double-translate Spanish → Spanish etc.)
+    # Remove those already inside dst_root (avoid re-translating files that are already in the target-language tree)
     all_md = [p for p in all_md if args.dst_root not in p.parents]
 
     # Sort by file size (ascending) so --limit n picks the shortest posts

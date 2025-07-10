@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Not one but two readers have asked me about the Turkish myth of Shahmaran,
-  a mythic snake-woman who lives in a cave. Among other things, she teaches a young
-  man the history of Mankind. She ends up bei...
+description: No uno, sino dos lectores me han preguntado sobre el mito turco de Shahmaran,
+  una mítica mujer-serpiente que vive en una cueva. Entre otras cosas, ella enseña
+  a un joven la historia de la Humanidad. Ella termina siend...
 draft: false
 keywords:
-- vectors-of-mind
-- march
-- subscriber
-- post
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- marzo
+- suscriptor
+- publicación
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '142220138'
 original_url: https://www.vectorsofmind.com/p/march-subscriber-post
 quality: 6
 slug: march-subscriber-post
 tags: []
-title: March Subscriber Post
+title: Publicación para Suscriptores de Marzo
 translation_model: gpt-4o
 ---
 

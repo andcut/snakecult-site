@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: The previous post highlighted the tension between archeologists and what
-  I call ancient aliens researchers. The latter camp argues similarities between far-flung
-  cultures imply a lost global civilizat...
+description: La publicación anterior destacó la tensión entre arqueólogos y lo que
+  yo llamo investigadores de antiguos alienígenas. Este último grupo argumenta que
+  las similitudes entre culturas distantes implican una civilización global perdida...
 draft: false
 keywords:
-- vectors-of-mind
+- vectores-de-la-mente
 - andreas
 - lommel
-- diffusion
-
-lastmod: '2025-07-04'
+- difusión
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144256058'
 original_url: https://www.vectorsofmind.com/p/andreas-lommel-on-the-diffusion-of
 quality: 6
 slug: andreas-lommel-on-the-diffusion-of
 tags: []
-title: Andreas Lommel On The Diffusion Of
+title: Andreas Lommel Sobre La Difusión De
 translation_model: gpt-4o
 ---
 

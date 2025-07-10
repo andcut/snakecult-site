@@ -1,26 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: IQ has a reputation for being the hard-nosed psychometric option. Those
-  who are willing to accept facts over feelings will admit its supremacy. But this
-  is stolen valor! Emotional intelligence is fund...
+description: El CI tiene la reputación de ser la opción psicométrica dura. Aquellos
+  que están dispuestos a aceptar los hechos sobre los sentimientos admitirán su supremacía.
+  ¡Pero esto es un valor robado! La inteligencia emocional es fund...
 draft: false
 keywords:
-- vectors-of-mind
-- forms
-- measures
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- formas
+- medidas
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '130101130'
 original_url: https://www.vectorsofmind.com/p/forms-vs-measures
 quality: 6
 slug: forms-vs-measures
 tags: []
-title: Forms vs. measures
+title: Formas vs. medidas
 translation_model: gpt-4o
 ---
 

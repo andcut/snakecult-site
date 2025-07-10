@@ -1,28 +1,28 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Dr.  Thacker returns to Vectors of Mind for a deep discussion about human
-  evolution and consciousness. Stetson, who holds a PhD in genetics with expertise
-  in cancer and neurodevelopmental disorders, w...
+description: El Dr. Thacker regresa a Vectores de la Mente para una profunda discusión
+  sobre la evolución humana y la conciencia. Stetson, quien tiene un doctorado en
+  genética con experiencia en cáncer y trastornos del neurodesarrollo, ...
 draft: false
 keywords:
-- vectors-of-mind
-- snake
-- cults
-- recent
-- evolution
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- serpiente
+- cultos
+- reciente
+- evolución
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152927046'
 original_url: https://www.vectorsofmind.com/p/snake-cults-and-recent-evolution
 quality: 6
 slug: snake-cults-and-recent-evolution
 tags: []
-title: Snake Cults And Recent Evolution
+title: '# Cultos a las Serpientes y Evolución Reciente'
 translation_model: gpt-4o
 ---
 
@@ -38,6 +38,7 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
 ### Artículos que mencionamos:
 
+
   * VoM: [¿Cuándo creen los genetistas que evolucionó el cerebro humano?](https://www.vectorsofmind.com/p/when-do-geneticists-believe-the-human)
 
   * Stetson: [La paradoja del intelectual público](https://stetson.substack.com/p/the-public-intellectual-paradox)
@@ -52,9 +53,15 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
     * [Culto de la Serpiente de la Conciencia](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness)
 
+
+
+
 ### Resumen:
 
+
   1. Antecedentes del Dr. Thacker
+
+
 
   * Doctorado en genética enfocado en medicina genómica
 
@@ -64,7 +71,11 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
   * Actualmente dirige el Substack y podcast Holodoxa
 
+
+
   2. El artículo del Reich Lab sobre ADN antiguo
+
+
 
   * Análisis de 8,500 genomas antiguos muestra fuerte selección en los últimos 10,000 años
 
@@ -74,7 +85,11 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
   * Discusión sobre los desafíos metodológicos y limitaciones
 
+
+
   3. Debate central: ¿Cuándo se convirtieron los humanos en "humanos"?
+
+
 
   * Cutler: Argumenta a favor de un surgimiento reciente de la autoconciencia recursiva (~50,000 años atrás)
 
@@ -84,7 +99,11 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
   * Debate sobre modelos de cambio gradual vs de fase de la evolución humana
 
+
+
   4. La naturaleza de la singularidad humana
+
+
 
   * Diferentes perspectivas sobre lo que hace especiales a los humanos:
 
@@ -96,7 +115,11 @@ También puedes ver el episodio, para aquellos a quienes les gusta ver las caras
 
   * Debate sobre las habilidades cognitivas de los neandertales
 
+
+
   5. Direcciones futuras de investigación
+
+
 
   * Potencial de la biología sintética y la ingeniería genética
 

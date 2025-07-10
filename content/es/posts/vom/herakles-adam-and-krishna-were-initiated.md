@@ -1,29 +1,29 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Homo Sapiens have been around for about 200,000 years but didn’t do much
-  for the first 185,000 or so. At the end of the Ice Age, there was a “revolution
-  of symbols,” as archeologist Jacques Cauvin cal...
+description: Homo Sapiens han existido durante aproximadamente 200,000 años, pero
+  no hicieron mucho durante los primeros 185,000 o algo así. Al final de la Edad de
+  Hielo, hubo una "revolución de símbolos", como el arqueólogo Jacques Cauvin cal...
 draft: false
 keywords:
-- vectors-of-mind
+- vectores-de-la-mente
 - herakles
 - adam
 - krishna
-- were
-- initiated
-
-lastmod: '2025-07-04'
+- fueron
+- iniciados
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '141291390'
 original_url: https://www.vectorsofmind.com/p/herakles-adam-and-krishna-were-initiated
 quality: 6
 slug: herakles-adam-and-krishna-were-initiated
 tags: []
-title: Herakles Adam And Krishna Were Initiated
+title: Herakles Adam Y Krishna Fueron Iniciados
 translation_model: gpt-4o
 ---
 

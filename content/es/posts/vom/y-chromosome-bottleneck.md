@@ -1,26 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: You may have noticed that men and women think differently. Don’t worry,
-  it’s not a sin. In fact, female preference for people vs things is a well-studied
-  phenomenon in psychology. If the self was disc...
+description: Es posible que hayas notado que hombres y mujeres piensan de manera diferente.
+  No te preocupes, no es un pecado. De hecho, la preferencia femenina por las personas
+  frente a las cosas es un fenómeno bien estudiado en psicología. Si el yo fuera disc...
 draft: false
 keywords:
-- vectors-of-mind
-- chromosome
-- bottleneck
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- cromosoma
+- cuello-de-botella
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '116616676'
 original_url: https://www.vectorsofmind.com/p/y-chromosome-bottleneck
 quality: 6
 slug: y-chromosome-bottleneck
 tags: []
-title: Y Chromosome Bottleneck
+title: Cuello de Botella del Cromosoma Y
 translation_model: gpt-4o
 ---
 

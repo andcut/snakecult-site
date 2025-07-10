@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Stepping back from grand theories, this post revisits the mystery lexical
-  factors. From word loadings, can you describe the general principle that holds a
-  factor together? This exercise gets at the ul...
+description: Alejándose de las grandes teorías, esta publicación revisita los factores
+  léxicos misteriosos. A partir de las cargas de palabras, ¿puedes describir el principio
+  general que mantiene unido a un factor? Este ejercicio aborda el ul...
 draft: false
 keywords:
-- vectors-of-mind
-- mystery
-- factors
-- revisited
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- misterio
+- factores
+- revisitado
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '70046926'
 original_url: https://www.vectorsofmind.com/p/mystery-factors-revisited
 quality: 6
 slug: mystery-factors-revisited
 tags: []
-title: Mystery Factors Revisited
+title: Factores Misteriosos Revisitados
 translation_model: gpt-4o
 ---
 
@@ -37,6 +37,7 @@ Los datos para los factores en cuestión provienen de dos fuentes. Un factor pro
 
 ## **Factor Misterioso 1**
 
+
 **Palabras principales:**_exigente, estricto, decisivo, severo, firme_**vs.** _dócil, laxo, indeciso, crédulo, ingenuo_
 
 Los comentaristas describieron esto como: conciencia, asertividad, laboriosidad y Acción Atendida.
@@ -46,6 +47,7 @@ Los comentaristas describieron esto como: conciencia, asertividad, laboriosidad 
 En mi opinión, un constructo que combina la capacidad de lograr los propios objetivos con el deseo de lograr los objetivos de la sociedad confunde la situación. Creo que la investigación IO, por ejemplo, estaría mejor usando Orden que Conciencia o perseverancia. Los correlatos de interés (como promociones) seguramente están más directamente relacionados con Orden. Nunca he conocido a alguien en la cima que fuera puramente un jugador de equipo. Siempre hay un filo personal.
 
 ## **Factor Misterioso 2**
+
 
 **Palabras principales:**_poco imaginativo, poco sofisticado, moral, empático, con principios_**vs.** _astuto, sagaz, taimado, creativo, ingenioso_
 

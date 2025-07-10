@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: If I follow this trajectory, by next year my titles will be full paragraphs.
-  For those who missed the chatbot piece, I’ve been hanging out on the SenpAI Discord
-  server to discuss the latest in LLM the...
+description: Si sigo esta trayectoria, para el próximo año mis títulos serán párrafos
+  completos. Para aquellos que se perdieron la pieza del chatbot, he estado pasando
+  tiempo en el servidor de Discord de SenpAI para discutir lo último en LLM el...
 draft: false
 keywords:
-- vectors-of-mind
-- september
-- subscriber
-- post
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- septiembre
+- suscriptor
+- publicación
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '147415200'
 original_url: https://www.vectorsofmind.com/p/september-subscriber-post
 quality: 6
 slug: september-subscriber-post
 tags: []
-title: September Subscriber Post
+title: Publicación para Suscriptores de Septiembre
 translation_model: gpt-4o
 ---
 

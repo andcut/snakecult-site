@@ -1,28 +1,29 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: “Language may well have arisen as a mysterious power possessed largely
-  by women—women who spent much more of their waking time together—and, usually, talking—than
-  did men, women who in all societies a...
+description: El lenguaje bien pudo haber surgido como un poder misterioso poseído
+  en gran medida por mujeres—mujeres que pasaban mucho más de su tiempo despiertas
+  juntas—y, generalmente, hablando—que los hombres, mujeres que en todas las sociedades
+  a...
 draft: false
 keywords:
-- vectors-of-mind
+- vectores-de-la-mente
 - social
-- intelligence
-- made
-- human
-
-lastmod: '2025-07-04'
+- inteligencia
+- hecho
+- humano
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '162497369'
 original_url: https://www.vectorsofmind.com/p/if-social-intelligence-made-us-human
 quality: 6
 slug: if-social-intelligence-made-us-human
 tags: []
-title: If Social Intelligence Made Us Human
+title: Si la Inteligencia Social Nos Hizo Humanos
 translation_model: gpt-4o
 ---
 

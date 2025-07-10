@@ -1,28 +1,29 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Polls are an under-used Substack tool, particularly when a post makes
-  a specific argument. Less than 1% of people who read an article will comment, and
-  those who do usually have strong opinions. Polls...
+description: Las encuestas son una herramienta de Substack subutilizada, particularmente
+  cuando una publicación presenta un argumento específico. Menos del 1% de las personas
+  que leen un artículo comentarán, y quienes lo hacen generalmente tienen opiniones
+  firmes. Encuestas...
 draft: false
 keywords:
-- vectors-of-mind
-- recap
-- user
-- polls
-- date
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- recapitulación
+- usuario
+- encuestas
+- fecha
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '143786323'
 original_url: https://www.vectorsofmind.com/p/recap-of-user-polls-to-date
 quality: 6
 slug: recap-of-user-polls-to-date
 tags: []
-title: Recap Of User Polls To Date
+title: Recapitulación de Encuestas de Usuarios Hasta la Fecha
 translation_model: gpt-4o
 ---
 

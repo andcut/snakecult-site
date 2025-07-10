@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Think of this post as a study group on Crecganford's recent mythological
-  analysis. I encourage you to watch the 39-minute video and comment. I’ve mentioned
-  Crecganford a couple of times on the blog. H...
+description: Piensa en esta publicación como un grupo de estudio sobre el reciente
+  análisis mitológico de Crecganford. Te animo a ver el video de 39 minutos y comentar.
+  He mencionado a Crecganford un par de veces en el blog. H...
 draft: false
 keywords:
-- vectors-of-mind
-- review
-- magic
-- wife
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- reseña
+- magia
+- esposa
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144517304'
 original_url: https://www.vectorsofmind.com/p/review-the-magic-wife
 quality: 6
 slug: review-the-magic-wife
 tags: []
-title: Review The Magic Wife
+title: Revisión de The Magic Wife
 translation_model: gpt-4o
 ---
 

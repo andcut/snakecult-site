@@ -1,28 +1,28 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: A language model can learn a lot about language from the streets, so
-  to speak. It is trained on terabytes of PubMed articles, YouTube transcripts, and
-  reddit comments. But it doesn’t know how to behav...
+description: Un modelo de lenguaje puede aprender mucho sobre el lenguaje de las calles,
+  por así decirlo. Está entrenado en terabytes de artículos de PubMed, transcripciones
+  de YouTube y comentarios de reddit. Pero no sabe cómo comportarse...
 draft: false
 keywords:
-- vectors-of-mind
+- vectores-de-la-mente
 - chatgpt
-- takes
-- five
-- inventory
-
-lastmod: '2025-07-04'
+- toma
+- cinco
+- inventario
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '110922907'
 original_url: https://www.vectorsofmind.com/p/chatgpt-takes-the-big-five-inventory
 quality: 6
 slug: chatgpt-takes-the-big-five-inventory
 tags: []
-title: Chatgpt Takes The Big Five Inventory
+title: Chatgpt Toma El Inventario de los Cinco Grandes
 translation_model: gpt-4o
 ---
 

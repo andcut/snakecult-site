@@ -1,24 +1,24 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'I’d like to add a third postulate to Galton’s Lexical Hypothesis:'
+description: 'Me gustaría añadir un tercer postulado a la Hipótesis Léxica de Galton:'
 draft: false
 keywords:
-- vectors-of-mind
-- consequences
-- conscience
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- consecuencias
+- conciencia
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '61742129'
 original_url: https://www.vectorsofmind.com/p/consequences-of-conscience
 quality: 6
 slug: consequences-of-conscience
 tags: []
-title: Consequences Of Conscience
+title: '# Consecuencias de la Conciencia'
 translation_model: gpt-4o
 ---
 
@@ -33,6 +33,9 @@ Me gustaría añadir un tercer postulado a la Hipótesis Lexical de Galton:
   2. Las características de personalidad más importantes tienen más probabilidades de ser codificadas en el lenguaje como una sola palabra.
 
   3. **El factor latente primario representa la dirección de la selección social que nos hizo humanos.**
+
+
+
 
 En el [post anterior](https://vectors.substack.com/p/primary-factor-of-personality-part), argumenté que el Factor Primario de Personalidad (FPP) puede resumirse como la tendencia a seguir la Regla de Oro: tratas a los demás como te gustaría ser tratado. Que debería jugar un papel en nuestra evolución es en realidad una reformulación de una observación hecha por el primo de Galton, Darwin. 
 
@@ -51,6 +54,7 @@ Este post explora la idea de que los humanos evolucionaron el habla interna como
 Como nota epistemológica, el origen del lenguaje interno es más especulativo que el origen del lenguaje externo. [Según Wikipedia](https://en.wikipedia.org/wiki/Origin_of_language), el debate sobre este último experimentó una moratoria de un siglo ya que la escasez de evidencia y la abundancia de teoría es como crack para los académicos (particularmente [físicos](https://www.smbc-comics.com/index.php?db=comics&id=2556#comic)[^2]). En otras palabras, material perfecto para este blog.
 
 ### Una variedad de voces
+
 
 Antes de hipotetizar sobre el comienzo, observemos las muchas formas modernas de voz interna.
 
@@ -82,6 +86,7 @@ Es fascinante que un aspecto tan fundamental de nuestro paisaje mental pueda var
 
 ## Función de la voz interna
 
+
 Geva y Fernyhough ofrecen una visión general de las teorías competidoras para el origen del habla interna en _[A Penny for Your Thoughts: Children’s Inner Speech and Its Neuro-Development](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01708/full)_
 
 >  _Hay debates contenciosos sobre si el lenguaje evolucionó como un mecanismo para el pensamiento simbólico (usando el habla interna) ([Everaert et al., 2015](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01708/full#ref27), [2017](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01708/full#ref26)) o como un medio de comunicación ([Pinker y Jackendoff, 2005](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01708/full#ref90); [Corballis, 2017](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01708/full#ref14)). [Jackendoff (1996)](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01708/full#ref56) y otros ([Rijntjes et al., 2012](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01708/full#ref96)) han discutido la importancia del habla interna en la evolución humana, sugiriendo que el desarrollo del habla interna apoyó un pensamiento más complejo y abstracto. Sin embargo, [Pinker y Jackendoff (2005)](https://www.frontiersin.org/articles/10.3389/fpsyg.2019.01708/full#ref90) enfatizan que, en su opinión, el lenguaje evolucionó inicialmente como un medio de comunicación, y que el habla interna es un “subproducto”: un desarrollo evolutivo posterior que es el resultado de internalizar el habla externa, lo que a su vez apoya un pensamiento más complejo._
@@ -93,6 +98,7 @@ Si bien el razonamiento abstracto[^3], el engaño y una mejor habla externa son 
 El contenido de las demandas es íntimamente familiar para cualquier lector que viva con un ángel en su hombro (más sobre el diablo más tarde). Sin embargo, la forma en que se experimentó el proto-conciencia probablemente sea extranjera. No hay razón para pensar que identificarse con la voz interna vino al mismo tiempo que la voz comenzó a hablar. De hecho, hay evidencia considerable de que tal identificación vino dentro de los límites de la historia oral.
 
 ## Julian Jaynes y la mente bicameral
+
 
 Este es el argumento hecho por Julian Jaynes en _El origen de la conciencia en la ruptura de la mente bicameral_. Él sostiene que hasta hace unos 3,500 años, los humanos alucinaban las demandas de la sociedad en un lado del cerebro, luego las escuchaban y ejecutaban en el otro. No había introspección, rumiación o conciencia. Como se resume en un [artículo reciente](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.811295/full):
 
@@ -118,6 +124,7 @@ En verdad, no puedo creer que gran parte del mundo estuviera poblado por autóma
 
 ## La paradoja de la esquizofrenia
 
+
 Vivir la Regla de Oro requiere teoría de la mente (ToM). _“Si estuviera en su situación, ¿cómo me gustaría ser tratado?”_ La comunicación efectiva, más generalmente, también requiere ToM. _“¿Cómo puedo lograr que entiendan cómo hacer esta punta de flecha? ¿Cuáles son sus conceptos erróneos actuales?”_ El desarrollo del lenguaje debe haber desbloqueado una enorme presión selectiva para mentes que eran cada vez más capaces de simular otras mentes. La biología molecular proporciona algunas pistas sobre las consecuencias colaterales de esta habilidad en [Interrogando la paradoja evolutiva de la esquizofrenia (2019)](https://www.frontiersin.org/articles/10.3389/fgene.2019.00389/full):
 
 > La esquizofrenia es un trastorno psiquiátrico con una prevalencia mundial de ∼1%. La alta heredabilidad y la fertilidad reducida entre los pacientes con esquizofrenia han planteado una paradoja evolutiva: ¿por qué la selección negativa no ha eliminado los alelos asociados a la esquizofrenia durante la evolución?
@@ -133,6 +140,7 @@ GWAS aún es joven, y los autores ofrecen muchas advertencias. Pero esta línea 
 **En cierto umbral, los genes que ayudan a ToM también producen alucinaciones auditivas. Cuando no había voz interna, los alelos de ToM y esquizofrenia estaban bajo selección positiva. Una vez que las alucinaciones auditivas se convirtieron en un fenotipo—en algún momento después del desarrollo del lenguaje—hubo selección contra las alucinaciones (pero aún a favor de ToM).**
 
 ## ¿Cómo eran las voces?
+
 
 Imagina al primer humano en escuchar voces recogiendo bayas. El bosque se vuelve inquietantemente silencioso y una voz grita, “¡Corre! ¡Hay un oso!” No está claro si esta persona habría tenido la capacidad de pensar, “ _¿Qué fue esa voz?_ ” o se identificaría inmediatamente con ella. Incluso si la deliberación abstracta fuera posible, una interpretación probable de la voz sería algún agente espiritual. Estas creencias están presentes en cada cultura hasta el día de hoy.
 
@@ -157,6 +165,7 @@ Quizás, cuando primero escuchamos voces, éramos especialistas en encajar de la
 [¿Suscribirse ahora?](https://www.vectorsofmind.com/subscribe?)
 
 ## Altruismo y selección de grupo
+
 
 Hay un debate en curso sobre si el altruismo requiere selección de grupo. El cálculo de los genes egoístas dicta que debería dar mi vida por dos de mis hermanos o ocho de mis primos. Pero vemos a personas sacrificarse por extraños todo el tiempo. Es una de nuestras características definitorias, sin embargo, muchos artículos aún afirman que fue un error evolutivo. Una explicación para el altruismo es la selección de grupo, que sugiere que los grupos más altruistas tienden a desplazar a los egoístas. Sin embargo, la teoría de la selección de grupo sufre del problema del polizón: la estrategia más apta es ser un miembro egoísta de una tribu altruista. La mayoría de los biólogos evolutivos rechazan la selección de grupo. Entonces, ¿cómo se volvieron los humanos tan altruistas?
 

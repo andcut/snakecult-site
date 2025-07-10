@@ -11,44 +11,44 @@ draft: false
 keywords:
 - origine-de-la-mort
 - mythologie-comparative
-- Inuit
-- Blackfoot
+- inuit
+- blackfoot
 - mythes-africains
 - phylogénétique-du-folklore
 lang: fr
-lastmod: '2025-07-08'
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: old-woman-death-motif
 tags:
 - folklore
-title: Vieille Femme ≘ Motif de la Mort à Travers les Mythes du Monde
+title: Vieille Femme ≘ Motif de la Mort à travers les Mythes du Monde
 translation_model: gpt-4o
 ---
 
 **TL;DR**
 
-- Les Inuits, les peuples des Plaines, plusieurs peuples africains et certains peuples océaniens attribuent la mortalité au choix ou à la maladresse d'une femme âgée.  
-- Aucun exemple solidement attesté en **Amérique du Sud** ou en **Europe** de la même structure de "vieille femme votante".  
+- Les Inuits, les Plaines, plusieurs peuples africains et certains peuples océaniens attribuent la mortalité à un choix ou une erreur d'une femme âgée.  
+- Aucun exemple solidement attesté en **Amérique du Sud** ou en **Europe** de la même structure de "vieille votante".  
 - Berezkin (2019) cartographie le motif selon un gradient de diffusion circumpolaire → Plaines ; les cas africains forment des clusters séparés.  
 - Les variantes océaniques déplacent l'agence : l'*erreur* de la grand-mère (mue de la peau) rend la mort inévitable.  
-- Les meilleurs modèles phylogénétiques utilisent la base de données des motifs de Berezkin et la construction d'arbres bayésiens (par ex. d'Huy 2013 ; Berezkin 2016a).  
+- Les meilleurs modèles phylogénétiques utilisent la base de données de motifs de Berezkin et la construction d'arbres bayésiens (par exemple, d'Huy 2013 ; Berezkin 2016a).  
 
 ---
 
 ## 1 · Cluster central Arctique–Plaines 
 
-> "**Mieux vaut être sans jour, si nous devons être sans mort,**" dit une vieille femme. 
+> "**Mieux vaut être sans jour, si nous devons être sans mort,**" dit une vieille. 
 > "**Non – ayons à la fois la Lumière *et* la Mort !**" répondit l'autre, et **comme elle parlait, il en fut ainsi.** 
-> —*L'arrivée des hommes, il y a très, très longtemps* (Inuits du Groenland) [oai_citation:0‡Project Gutenberg](https://www.gutenberg.org/files/28932/28932-h/28932-h.htm) 
+> —*The Coming of Men, A Long, Long While Ago* (Inuit du Groenland) [oai_citation:0‡Project Gutenberg](https://www.gutenberg.org/files/28932/28932-h/28932-h.htm) 
 
-### Inuits du Groenland (tradition Thulé) 
+### Inuit du Groenland (tradition Thulé) 
 Conte complet dans Rasmussen 1921, pp. 16-18. Deux femmes âgées se disputent ; la demande de la seconde pour le lever du soleil l'emporte sur l'immortalité.
 
 ### Pieds-Noirs (Plaines algonquiennes) 
 
-> Le Vieil Homme a fait flotter une bouse de bison : "Si elle flotte, nous mourons seulement quatre jours." 
-> **La Vieille Femme a jeté une pierre** qui a coulé : "Maintenant nous mourons pour toujours, sinon la pitié périrait." [oai_citation:1‡University of Pittsburgh](https://sites.pitt.edu/~dash/blkftcreation.html)
+> Vieil Homme a fait flotter une bouse de bison : "Si elle flotte, nous mourons seulement quatre jours." 
+> **Vieille Femme a jeté une pierre** qui a coulé : "Maintenant nous mourons pour toujours, sinon la pitié périrait." [oai_citation:1‡University of Pittsburgh](https://sites.pitt.edu/~dash/blkftcreation.html)
 
 Versions de test de flottaison apparentées : Crow, Gros Ventre, Cris des Plaines, Sarcee.
 
@@ -63,11 +63,11 @@ Versions de test de flottaison apparentées : Crow, Gros Ventre, Cris des Plaine
 
 ## 2 · Dispersion africaine  
 
-La monographie d'Abrahamsson (*The Origin of Death*, 1951) rassemble environ 40 textes subsahariens. Exemple Nyamwezi :
+La monographie d'Abrahamsson (*The Origin of Death*, 1951) compile environ 40 textes subsahariens. Exemple Nyamwezi :
 
 > "...il vaudrait **mieux que les gens meurent**, sinon ils ne pourraient pas trouver de bois ni de place dans leurs champs," dit **Mbaela**, la première femme, et ainsi la mort commença.  [oai_citation:2‡The Ethics of Suicide Digital Archive](https://ethicsofsuicide.lib.utah.edu/tradition/indigenous-cultures/african-traditional-subsaharan-cultures/african-origin-myths/)  
 
-Cas parallèles : Haoussa, Bamum, Ngala, Nuer. La Vieille Femme est souvent seule ; pas de contre-voix masculine. Les chercheurs traitent ces cas comme des inventions indépendantes plutôt que des importations.
+Cas parallèles : Hausa, Bamum, Ngala, Nuer. La Vieille Femme est souvent seule ; pas de contre-voix masculine. Les chercheurs considèrent ces cas comme des inventions indépendantes plutôt que des importations.
 
 ---
 
@@ -75,13 +75,13 @@ Cas parallèles : Haoussa, Bamum, Ngala, Nuer. La Vieille Femme est souvent seul
 
 Îles Banks (Vanuatu) :
 
-> "Un jour, **une vieille femme est allée à un ruisseau pour changer de peau**... Son petit-enfant pleura, ne la reconnaissant pas ; elle remit l'ancienne peau, et *depuis lors, les hommes moururent*." [oai_citation:3‡Sacred Texts](https://sacred-texts.com/pac/om/om11.htm) 
+> "Un jour, **une vieille femme est allée à un ruisseau pour changer de peau**… Son petit-enfant pleurait, ne la reconnaissant pas ; elle a remis l'ancienne peau, et *depuis lors, les hommes sont morts*." [oai_citation:3‡Sacred Texts](https://sacred-texts.com/pac/om/om11.htm) 
 
-La variante d'Ambrym laisse deux divinités débattre de l'écorchement vs. l'enterrement ; le **dernier orateur (un esprit féminin dans certains récits)** l'emporte et introduit la mort. L'agence de la vieille femme ici est due à une **erreur**, non à une politique.
+La variante d'Ambrym permet à deux divinités de débattre de l'écorchement vs. l'enterrement ; le **dernier orateur (un esprit féminin dans certaines versions)** l'emporte et introduit la mort. L'agence de la vieille femme ici est due à une **erreur**, non à une politique.
 
 ---
 
-## 4 · Amérique du Sud : Presque mais pas tout à fait  
+## 4 · Amérique du Sud : Proche mais pas tout à fait  
 
 Les recherches dans le catalogue de Berezkin (mise à jour 2023) et les corpus SINIC/ICANH ne trouvent **aucun texte clair de “Vieille Femme vote pour la mort”** au sud de Panama. Le plus proche est le mythe Kurripako (Rio Guainía) :
 
@@ -97,21 +97,21 @@ Oui—principalement par Yuri Berezkin et Julien d'Huy.
 
 | Étude | Ensemble de données | Méthode | Résultat pour ce motif |
 |-------|---------------------|---------|------------------------|
-| Berezkin 2009 "Why Are People Mortal?" | 2 600 motifs | Matrices de présence/absence aréales | Cartographie un noyau arctique ; les cas africains s'isolent. |
-| Berezkin 2016a (*Maths Meets Myths*) | ≥ 4 000 entrées incl. A1335.* | Réseaux Neighbor-Net & MJ | Suggère que le package béringien s'est diffusé vers le sud jusqu'aux Plaines 12–9 k BP. |
-| d'Huy 2013 *Rock Art Research* | 45 mythes, MCMC bayésien | Confirme deux clades : type circumpolaire et type de mue océanique. |
+| Berezkin 2009 "Why Are People Mortal?" | 2 600 motifs | Matrices de présence/absence aréales | Cartographie un noyau arctique ; les cas africains isolent. |
+| Berezkin 2016a (*Maths Meets Myths*) | ≥ 4 000 entrées incl. A1335.* | Réseaux Neighbor-Net & MJ | Suggère que le paquet béringien s'est diffusé vers le sud jusqu'aux Plaines 12–9 k BP. |
+| d'Huy 2013 *Rock Art Research* | 45 mythes, MCMC bayésien | Confirme deux clades : type de mue circumpolaire et océanique. |
 
-Aucune n'essaie un *chronogramme global* limité à "Vieille Femme = Mort," mais le motif A1335.10-14 ("Femme âgée apporte la mort permanente") est un nœud dans les arbres de sortie de ces articles.
+Aucun n'essaie un *chronogramme global* limité à "Vieille Femme = Mort," mais le motif A1335.10-14 ("Femme âgée apporte la mort permanente") est un nœud dans les arbres de sortie de ces articles.
 
 ---
 
 ## 6 · Vagues de migration / diffusion (rapportées, non inférées)
 
-1. **Paleo-Indien initial (~15 ka)** – aucun enregistrement du motif.  
-2. **Paleo-Arctique / Béringien (~8–6 ka)** – Berezkin signale les premières attestations de A1335.* entrant en Alaska.  
-3. **Poussée vers le sud Na-Dene (post-5 ka)** – transporte la variante de test de flottaison vers le Plateau Intérieur.  
-4. **Diffusion Algonquienne/Plaines (derniers 2 ka)** – Pieds-Noirs et al. adoptent la forme “bouse de bison vs. pierre”.  
-5. **Thulé/Inuit (~1,2 ka)** – transporte la cosmogonie à double vieille femme du Groenland vers l'est.  
+1. **Paléo-Indien initial (~15 ka)** – aucun enregistrement du motif.  
+2. **Paléo-Arctique / Béringien (~8–6 ka)** – Berezkin signale les premières attestations de A1335.* entrant en Alaska.  
+3. **Poussée sud Na-Dene (post-5 ka)** – transporte la variante de test de flottaison vers le Plateau Intérieur.  
+4. **Diffusion algonquienne/plaines (derniers 2 ka)** – Pieds-Noirs et al. adoptent la forme “bouse de bison vs. pierre”.  
+5. **Thulé/Inuit (~1.2 ka)** – transporte la cosmogonie à double vieille femme du Groenland vers l'est.  
 6. **Évolutions régionales africaines indépendantes** (aucun lien de migration daté).  
 7. **Descendants Lapita océaniques (~3 ka)** – les récits de mue de la grand-mère se déplacent à travers Vanuatu/Banks.
 
@@ -125,7 +125,7 @@ Aucune n'essaie un *chronogramme global* limité à "Vieille Femme = Mort," mais
 *R.* Les catalogues actuels ne montrent aucun véritable texte de vote de Vieille Femme au sud du Darién ; les chercheurs attribuent cela à une dérive culturelle après des flux de peuplement séparés, et non à un biais d'échantillonnage.
 
 **Q2. Les mythes indo-européens ont-ils déjà utilisé une vieille femme pour créer la mort ?** 
-*R.* Non. Les figures de vieilles femmes européennes (Cailleach, Baba Yaga, Pesta) président à *l'hiver ou à la peste*, mais ne débattent pas de la vie éternelle.
+*R.* Non. Les figures de vieilles femmes européennes (Cailleach, Baba Yaga, Pesta) président à *l'hiver ou la peste*, mais ne débattent pas de la vie éternelle.
 
 ---
 

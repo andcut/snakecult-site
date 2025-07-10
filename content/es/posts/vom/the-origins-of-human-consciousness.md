@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Dr. Tom Froese is a researcher in enactive artificial intelligence investigating
-  the systematic organization of life and mind. He received his PhD in cognitive science
-  from the University of Sussex, d...
+description: El Dr. Tom Froese es un investigador en inteligencia artificial enactiva
+  que investiga la organización sistemática de la vida y la mente. Recibió su doctorado
+  en ciencias cognitivas de la Universidad de Sussex, d...
 draft: false
 keywords:
-- vectors-of-mind
-- origins
-- human
-- consciousness
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- orígenes
+- humano
+- conciencia
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '151560960'
 original_url: https://www.vectorsofmind.com/p/the-origins-of-human-consciousness
 quality: 6
 slug: the-origins-of-human-consciousness
 tags: []
-title: The Origins Of Human Consciousness
+title: '# Los Orígenes de la Conciencia Humana'
 translation_model: gpt-4o
 ---
 

@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: I am in awe at how dense myths can be. The Fall of Adam and Eve occupies
-  just a few pages in Genesis, and yet it richly captures what it would be like to
-  wake up to one’s role as an agent—the Knowledg...
+description: Estoy asombrado por lo densos que pueden ser los mitos. La Caída de Adán
+  y Eva ocupa solo unas pocas páginas en el Génesis, y sin embargo captura ricamente
+  cómo sería despertar al propio papel como agente—el Conocimiento...
 draft: false
 keywords:
-- vectors-of-mind
+- vectores-de-la-mente
 - bonus
 - ghibli
-- consciousness
-
-lastmod: '2025-07-04'
+- conciencia
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '160128913'
 original_url: https://www.vectorsofmind.com/p/bonus-ghibli-eve-theory-of-consciousness
 quality: 6
 slug: bonus-ghibli-eve-theory-of-consciousness
 tags: []
-title: Bonus Ghibli Eve Theory Of Consciousness
+title: Teoría de la Conciencia de Bonus Ghibli Eve
 translation_model: gpt-4o
 ---
 

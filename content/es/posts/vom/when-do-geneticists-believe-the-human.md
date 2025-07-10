@@ -1,28 +1,28 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Humans are unique among animals for their capacity for symbolic thought
-  and their reliance on complex, grammatical language. About 70,000 years ago, our
-  species began producing art and then took over ...
+description: Los humanos son únicos entre los animales por su capacidad de pensamiento
+  simbólico y su dependencia de un lenguaje complejo y gramatical. Hace unos 70,000
+  años, nuestra especie comenzó a producir arte y luego tomó el control ...
 draft: false
 keywords:
-- vectors-of-mind
-- when
-- geneticists
-- believe
-- human
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- cuándo
+- genetistas
+- creen
+- humano
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '148733976'
 original_url: https://www.vectorsofmind.com/p/when-do-geneticists-believe-the-human
 quality: 6
 slug: when-do-geneticists-believe-the-human
 tags: []
-title: When Do Geneticists Believe The Human
+title: '# ¿Cuándo creen los genetistas que el ser humano...'
 translation_model: gpt-4o
 ---
 
@@ -50,6 +50,7 @@ Los animales y los Neandertales no hacen nada que se acerque a esto. Es razonabl
 
 ## Darwin, aún poniendo a prueba nuestra fe
 
+
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!gtFl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ade3dcc-8c44-43e7-9089-9ce541acae70_754x682.jpeg)
 
 El diagrama anterior [que muestra cuándo nos convertimos en completamente humanos](https://theconversation.com/when-did-we-become-fully-human-what-fossils-and-dna-tell-us-about-the-evolution-of-modern-intelligence-143717) fue producido por el biólogo evolutivo Nicholas Longrich. Se destaca que el “ADN moderno” se estableció hace 260,000-350,000 años, cuando se estima que los [Khoi San se separaron del resto del árbol genealógico humano](https://www.science.org/doi/full/10.1126/science.aao6266). El lenguaje, el arte, la música, la espiritualidad, la danza, la narración, el matrimonio, la guerra y el cuidado biparental definen nuestra especie ahora, por lo que se asume que todos esos eran partes fundamentales de la vida entonces también, aunque no se demuestran hasta el Gran Salto, que comienza hace unos 65,000 años. De hecho, la [Paradoja Sapiente](https://en.wikipedia.org/wiki/Sapient_paradox) se pregunta por qué el arte, la religión y el pensamiento abstracto estuvieron ausentes en la mayor parte del mundo hasta hace unos 10,000 años.
@@ -58,6 +59,7 @@ Al igual que Reich, Longrich argumenta que los humanos pasaron un umbral de comp
 
 ## Nuevos Hallazgos sobre la Adaptación Humana
 
+
 Solo dos semanas después de la entrevista, se publicó un artículo preimpreso coautoría de Reich, titulado _[Pervasive Findings of Directional Selection Realize the Promise of Ancient DNA to Elucidate Human Adaptation](https://www.biorxiv.org/content/10.1101/2024.09.14.613021v1)_. Analizando los genomas de miles de muestras de ADN antiguo, el estudio revela una fuerte selección en el cerebro humano durante los últimos 10,000 años.
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!KjDT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3149ac3-7323-4671-9384-cb270d5b62f4_998x478.png)
@@ -65,6 +67,7 @@ Solo dos semanas después de la entrevista, se publicó un artículo preimpreso 
 La línea gris muestra el cambio estimado en las puntuaciones poligénicas promedio (PGS) para inteligencia e ingresos del hogar en Europa durante los últimos 9,000 años. Un PGS se calcula sumando todas las variantes genéticas que contribuyen positiva o negativamente a un rasgo. Aunque es una estimación y está sujeta a posibles errores, tales cambios significativos son poco probables que se deban solo al azar. La magnitud del cambio es sorprendente: hace 9,000 años, el PGS para el coeficiente intelectual era dos desviaciones estándar más bajo que hoy. Si se proyectan cambios similares hace 50,000 años, sugiere que la mayoría de los individuos en esas poblaciones podrían no haber tenido la capacidad cognitiva para un lenguaje gramatical completamente desarrollado o pensamiento abstracto.
 
 ## La Evolución del Lenguaje
+
 
 Esto se alinea con ciertas teorías lingüísticas, como la [siguiente](https://www.sciencedirect.com/science/article/abs/pii/S0271530920300288). No es necesario leerla detenidamente; lo que quiero transmitir es que investigadores serios argumentan que el lenguaje completo no se estableció hasta hace 10,000 años (‘incrustación’ en la etapa final también se conoce como ‘[recursión](https://www.vectorsofmind.com/p/deja-you-the-recursive-construction)’).
 
@@ -93,6 +96,7 @@ Quiero reiterar que tal escenario no es sorprendente. Considere [The Origin and 
 La figura muestra olas de lenguaje más avanzado extendiéndose desde Eurasia en el Paleolítico (con el vasco-denneano en el epicentro). Modelos como este cayeron en desuso porque los genetistas mostraron divisiones genéticas profundas en África, y se asumió que no hubo evolución cognitiva significativa en los últimos 50,000 años (o incluso 350,000 años). Ahora, la genética está demostrando que esa suposición es falsa. La evolución reciente está de vuelta en la mesa. Los humanos no nacen como una pizarra en blanco sobre la cual la cultura escribe lo que quiere.
 
 ## ¿Dices que quieres una revolución?
+
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!dFDS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d12cd2a-62b9-413e-9807-8ad97bd57c2f_731x723.png)Órbita de Mercurio vista desde la Tierra (‘Terre’). De la Astronomie Populaire de Flammarion.
 

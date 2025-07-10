@@ -1,26 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Data scientist Matthew Fisher and I met at the Less Online conference
-  at Lighthaven in Berkeley, where I gave a presentation on the Snake Cult of Consciousness.
-  Between sessions, we discovered we had ...
+description: El científico de datos Matthew Fisher y yo nos conocimos en la conferencia
+  Less Online en Lighthaven en Berkeley, donde di una presentación sobre el Culto
+  de la Serpiente de la Conciencia. Entre sesiones, descubrimos que teníamos ...
 draft: false
 keywords:
-- vectors-of-mind
-- love
-- symposium
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- amor
+- simposio
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '151015187'
 original_url: https://www.vectorsofmind.com/p/the-love-symposium
 quality: 6
 slug: the-love-symposium
 tags: []
-title: The Love Symposium
+title: El Simposio del Amor
 translation_model: gpt-4o
 ---
 
@@ -38,6 +38,7 @@ Si estás en el Área de la Bahía del 15 al 17 de noviembre, únete a nosotros 
 
 ### Enlaces y Referencias:
 
+
   * [Dataclysm](https://en.wikipedia.org/wiki/Dataclysm) de Christian Rudder
 
   * Rasgos de personalidad [The Big Five](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
@@ -46,7 +47,11 @@ Si estás en el Área de la Bahía del 15 al 17 de noviembre, únete a nosotros 
 
   * “[How to Pick Your Life Partner](https://waitbutwhy.com/2014/02/pick-life-partner.html)” de Tim Urban
 
+
+
+
 ### Temas Clave y Tiempos: 
+
 
 (00:00-01:18) Introducción: Cómo Andrew y Matthew se conocieron en la conferencia Less Online, uniéndose por su interés compartido en el aprendizaje automático y la investigación de la personalidad
 
@@ -62,6 +67,9 @@ Si estás en el Área de la Bahía del 15 al 17 de noviembre, únete a nosotros 
 
   * El papel de la tecnología en el cambio de patrones de relación
 
+
+
+
 (20:00-30:00) Enfoques de OkCupid vs eHarmony:
 
   * Christian Rudder (OkCupid): Emparejamiento algorítmico basado en datos
@@ -69,6 +77,9 @@ Si estás en el Área de la Bahía del 15 al 17 de noviembre, únete a nosotros 
   * Neil Clark Warren (eHarmony): Sistema experto basado en experiencia terapéutica
 
   * Discusión del principio de "alta varianza" en perfiles de citas
+
+
+
 
 (30:00-40:00) El Problema de las Apps de Citas:
 
@@ -78,6 +89,9 @@ Si estás en el Área de la Bahía del 15 al 17 de noviembre, únete a nosotros 
 
   * Comparación con los desafíos del sistema de recomendaciones de Netflix
 
+
+
+
 (40:00-50:45) Investigación de TV Tropes:
 
   * Uso de relaciones de personajes de TV/películas para entender dinámicas reales de relaciones
@@ -85,5 +99,8 @@ Si estás en el Área de la Bahía del 15 al 17 de noviembre, únete a nosotros 
   * Construcción de vectores de personalidad y modelos de predicción de relaciones
 
   * Aplicaciones para apps de citas y emparejamiento de relaciones
+
+
+
 
 El evento busca investigadores y fundadores de startups interesados en construir aplicaciones de próxima generación para encontrar amigos, relaciones y conexiones sociales utilizando IA y ciencia de la personalidad.

@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: The blog now has over 100,000 words of content which I want to make easier
-  for newcomers to navigate. Part of that is producing a FAQ answering questions about
-  the timeline, the extent to which a sing...
+description: El blog ahora tiene más de 100,000 palabras de contenido que quiero hacer
+  más accesible para los recién llegados. Parte de eso es producir una FAQ que responda
+  preguntas sobre la línea de tiempo, el grado en que un sing...
 draft: false
 keywords:
-- vectors-of-mind
-- july
-- subscriber
-- post
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- julio
+- suscriptor
+- publicación
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144659799'
 original_url: https://www.vectorsofmind.com/p/july-subscriber-post
 quality: 6
 slug: july-subscriber-post
 tags: []
-title: July Subscriber Post
+title: Publicación para Suscriptores de Julio
 translation_model: gpt-4o
 ---
 
@@ -34,6 +34,7 @@ translation_model: gpt-4o
 El blog ahora tiene más de 100,000 palabras de contenido que quiero hacer más accesible para los recién llegados. Parte de eso es producir un FAQ que responda preguntas sobre la línea de tiempo, hasta qué punto un solo ritual podría producir autoconciencia, por qué la mezcla de psicometría, aprendizaje automático y antropología, y "¿Realmente crees en esto?" Puedes ver el borrador actual [aquí](https://www.vectorsofmind.com/p/faq), si lo deseas. Si tienes alguna pregunta, por menor que sea, por favor pregúntala en los comentarios y "dale me gusta" a cualquiera que desees dar un +1. Esto me ayudará a tener una idea de lo que necesito incluir en el FAQ (o tal vez abordarlo en un futuro post).
 
 ## Anteriormente en Vectors of Mind…
+
 
 Ha sido una temporada productiva. Marca lo que te parezca interesante.
 
@@ -50,6 +51,7 @@ La mayoría de los comentarios en Substack/Notes fueron positivos, y la mayoría
 Al prepararme para la presentación del Culto de la Serpiente en LessOnline, me di cuenta de que es más productivo argumentar sobre si la difusión puede explicar la Paradoja Sapiente que sobre si un paquete cultural altamente sobredeterminado que involucra veneno de serpiente se propagó. Estoy más que feliz de hablar sobre la propagación de mitos de creación (sobre serpientes), calendarios o lenguaje recursivo. E incluso hacer el caso de que un culto de serpientes propagó "Yo soy". Pero es más fácil hacerlo dentro del marco de Eva Memética, que es más general. Facilitarles la entrada, ¿verdad?
 
 ## Enlaces
+
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!95Qh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95174c6a-d1fa-43d9-9f5d-dd0b08a38e1d_1344x896.png)
 
@@ -71,6 +73,7 @@ Everett afirma que los Pirahã no tienen rituales (incluso al enterrar a los mue
 
 ### Varios
 
+
   * [La introgresión neandertal se modela que comenzó hace 47,000 años y duró 7,000 años](https://twitter.com/ChrisStringer65/status/1790442084647727427). Esto aparentemente pone un límite joven a cuando _Homo sapiens_ llegó a Australia, donde los aborígenes comparten la señal neandertal. (¿O tal vez los restos australianos de hace 65,000 años son de otro grupo que luego fue reemplazado?)
 
   * Recientemente tuve que leer sobre Redes Neuronales de Grafos y encontré esta [introducción de alta calidad](https://distill.pub/2021/gnn-intro/). El sitio web parece ser un sistema de revisión por pares para formas exploratorias de comunicar información, como gráficos interactivos o entornos de prueba para jugar con redes neuronales.
@@ -79,11 +82,15 @@ Everett afirma que los Pirahã no tienen rituales (incluso al enterrar a los mue
 
   * [Flint Dibble y Graham Hancock están peleando en X nuevamente](https://twitter.com/FlintDibble/status/1803838516729708974). Flint compartió esta cita de uno de los libros de Hancock. Solo mira la carnicería de esos puntos suspensivos saltando _hacia atrás_ cientos de páginas. No inspira confianza.
 
+
+
+
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!6W-y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e5a8415-b4f3-4a31-a2dd-dad1d71b0507_1173x640.png)
 
 Cubro el fenómeno más amplio en este post:
 
 ### Podcasts religiosos
+
 
 Algo de la historia de Andrew. La primera vez que conocí a un masón fue cuando llamé a su puerta como misionero. Hacía frío; nos dejó entrar, nos dio chocolate caliente y pidió un Libro de Mormón. Volvimos la semana siguiente después de que tuvo la oportunidad de leer algo de él. Dijo que había símbolos encontrados en religiones de todo el mundo que los masones entendían, y también se encontraban en nuestras escrituras. Los márgenes estaban llenos de notas que no nos mostró.
 

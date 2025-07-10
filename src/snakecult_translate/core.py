@@ -72,8 +72,7 @@ def create_translated_frontmatter(original_fm: dict, target_lang: str, model_nam
 
     return fm
 
-# Backwards compatibility for old imports
-create_spanish_frontmatter = create_translated_frontmatter
+# Alias removed; use create_translated_frontmatter everywhere
 
 
 def translate_file(
@@ -154,27 +153,57 @@ def translate_file(
         translated_content = "\n\n<!-- CHUNK BREAK -->\n\n".join(translated_chunks)
     
     # Create translated frontmatter
-    spanish_fm = create_translated_frontmatter(post.metadata, target_lang, model)
+    translated_fm = create_translated_frontmatter(post.metadata, target_lang, model)
     if translated_title:
-        spanish_fm['title'] = translated_title
+        translated_fm['title'] = translated_title
 
     # Translate frontmatter fields in one shot
-    spanish_fm = translate_frontmatter_block(
+    translated_fm = translate_frontmatter_block(
         client,
-        spanish_fm,
+        translated_fm,
         target_lang,
         model,
         web_format,
         temperature
     )
 
+    # Fallback: if certain fields remain identical to English after block translation
+    for fld in ["description", "keywords", "tags", "about"]:
+        if fld in translated_fm:
+            if translated_fm[fld] == post.metadata.get(fld):
+                # For lists translate each item; for str translate direct
+                if isinstance(translated_fm[fld], list):
+                    translated_list = []
+                    for item in translated_fm[fld]:
+                        trans_item = translate_text(
+                            client,
+                            item,
+                            target_lang,
+                            model,
+                            web_format,
+                            temperature
+                        ) or item
+                        translated_list.append(trans_item)
+                    translated_fm[fld] = translated_list
+                elif isinstance(translated_fm[fld], str):
+                    trans_val = translate_text(
+                        client,
+                        translated_fm[fld],
+                        target_lang,
+                        model,
+                        web_format,
+                        temperature
+                    )
+                    if trans_val:
+                        translated_fm[fld] = trans_val
+
     # Fallback: core_entity sometimes remains unchanged because the block translator
     # treats it as a proper noun. If we detect that it's still identical to the
     # English and the target language is not English, attempt a single-field
     # translation.
-    if target_lang != "en" and "core_entity" in spanish_fm:
+    if target_lang != "en" and "core_entity" in translated_fm:
         original_core = post.metadata.get("core_entity", "")
-        if spanish_fm["core_entity"] == original_core and isinstance(original_core, str):
+        if translated_fm["core_entity"] == original_core and isinstance(original_core, str):
             translated_core = translate_text(
                 client,
                 original_core,
@@ -184,10 +213,10 @@ def translate_file(
                 temperature
             )
             if translated_core:
-                spanish_fm["core_entity"] = translated_core
+                translated_fm["core_entity"] = translated_core
 
     # Create new post with translated content
-    spanish_post = frontmatter.Post(translated_content, **spanish_fm)
+    translated_post = frontmatter.Post(translated_content, **translated_fm)
     
     # Ensure destination directory exists
     dst_path.parent.mkdir(parents=True, exist_ok=True)
@@ -195,7 +224,7 @@ def translate_file(
     # Write translated file
     try:
         with open(dst_path, 'w', encoding='utf-8') as f:
-            f.write(frontmatter.dumps(spanish_post))
+            f.write(frontmatter.dumps(translated_post))
         print(f"Saved: {dst_path}")
         return True
     except Exception as e:
@@ -276,9 +305,20 @@ RULES:
             result_fm = frontmatter_dict.copy()
             result_fm.update(translated_fields)
 
-            # Clean up common artefacts – e.g. double apostrophes that sneak in when
-            # the source text contains straight quotes and the French translator
-            # escapes them.
+            # Placeholder cleanup for keywords/tags
+            for field in ("keywords", "tags"):
+                if field in result_fm and isinstance(result_fm[field], list):
+                    cleaned = []
+                    for kw in result_fm[field]:
+                        if kw.lower() in {"keyword-one", "keyword-two", "main-theme"}:
+                            continue
+                        # kebab-case normalisation
+                        cleaned.append(
+                            kw.lower().replace(" ", "-").replace("_", "-")
+                        )
+                    result_fm[field] = cleaned
+
+            # Ensure title doesn't keep doubled apostrophes
             if "title" in result_fm and isinstance(result_fm["title"], str):
                 result_fm["title"] = result_fm["title"].replace("''", "'")
 

@@ -1,26 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: This post steps back from grand claims and asks readers to make a few
-  of their own. One of the most addicting parts of personality research is trying
-  to understand the unifying theme of a factor when ...
+description: Esta publicación se aleja de las grandes afirmaciones y pide a los lectores
+  que hagan algunas propias. Una de las partes más adictivas de la investigación de
+  la personalidad es tratar de entender el tema unificador de un factor cuando ...
 draft: false
 keywords:
-- vectors-of-mind
-- guess
+- vectores-de-la-mente
+- adivinar
 - factor
-
-lastmod: '2025-07-04'
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '54190441'
 original_url: https://www.vectorsofmind.com/p/guess-the-factor
 quality: 6
 slug: guess-the-factor
 tags: []
-title: Guess The Factor
+title: Adivina el Factor
 translation_model: gpt-4o
 ---
 

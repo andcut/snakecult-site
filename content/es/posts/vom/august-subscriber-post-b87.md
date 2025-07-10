@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'The above is what “Snake Cult of Consciousness” yields when run through
-  an AI slop meme generator. Not entirely bad. But alas, I have been beaten to the
-  punch:'
+description: 'Lo anterior es lo que “Culto de la Serpiente de la Conciencia” produce
+  cuando se ejecuta a través de un generador de memes de IA. No está del todo mal.
+  Pero, por desgracia, me han ganado:'
 draft: false
 keywords:
-- vectors-of-mind
-- august
-- subscriber
-- post
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- agosto
+- suscriptor
+- publicación
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682173'
 original_url: https://www.vectorsofmind.com/p/august-subscriber-post-b87
 quality: 6
 slug: august-subscriber-post-b87
 tags: []
-title: August Subscriber Post B87
+title: Agosto Publicación para Suscriptores B87
 translation_model: gpt-4o
 ---
 

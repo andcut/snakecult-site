@@ -1,25 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'I also appeared on the DemystifySci podcast:'
+description: 'También aparecí en el podcast DemystifySci:'
 draft: false
 keywords:
-- vectors-of-mind
-- march
-- subscriber
-- post
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- marzo
+- suscriptor
+- publicación
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '154853879'
 original_url: https://www.vectorsofmind.com/p/march-subscriber-post-9b7
 quality: 6
 slug: march-subscriber-post-9b7
 tags: []
-title: March Subscriber Post 9B7
+title: Publicación para Suscriptores de Marzo 9B7
 translation_model: gpt-4o
 ---
 

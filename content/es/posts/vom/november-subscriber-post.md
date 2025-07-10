@@ -1,25 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
 description: ''
 draft: false
 keywords:
-- vectors-of-mind
-- november
-- subscriber
-- post
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- noviembre
+- suscriptor
+- publicación
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '149539830'
 original_url: https://www.vectorsofmind.com/p/november-subscriber-post
 quality: 6
 slug: november-subscriber-post
 tags: []
-title: November Subscriber Post
+title: Publicación para suscriptores de noviembre
 translation_model: gpt-4o
 ---
 

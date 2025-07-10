@@ -1,25 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'In 1921, Leo Frobenius reported the creation myth of a Bassari tribe
-  in Northern Togo:'
+description: 'En 1921, Leo Frobenius reportó el mito de la creación de una tribu Bassari
+  en el norte de Togo:'
 draft: false
 keywords:
-- vectors-of-mind
-- genesis
+- vectores-de-la-mente
+- génesis
 - togo
-
-lastmod: '2025-07-04'
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682169'
 original_url: https://www.vectorsofmind.com/p/genesis-in-togo
 quality: 6
 slug: genesis-in-togo
 tags: []
-title: Genesis In Togo
+title: Génesis en Togo
 translation_model: gpt-4o
 ---
 
@@ -53,6 +53,7 @@ Dejando de lado las teorías de serpientes drogadas, las similitudes con el Gén
 
 ## Con el sudor de tu frente comerás
 
+
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!dc2n!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a3db901-7a1e-4171-9fdf-39d5a089c4a7_367x500.jpeg)[Mural italiano de mediados del siglo XII](https://www.patheos.com/blogs/biteintheapple/leaving-home/)
 
 Los orígenes de la agricultura, de los cuales ambos mitos se ocupan, proporcionan una pista. Durante los primeros 190,000 años, los humanos anatómicamente modernos eran cazadores y recolectores. Hace unos 10,000 años, eso comenzó a cambiar a medida que las plantas fueron domesticadas en el Cercano Oriente y luego en todo el mundo. Tradicionalmente, esto se ha tratado como un fenómeno independiente.
@@ -69,6 +70,7 @@ Esto no es exactamente un argumento de que el Génesis Bassari entró en África
 
 ## La Caída del Hombre
 
+
 Un punto en contra de que la historia Bassari sea un primo precristiano del Génesis es la retención de tantos detalles, hasta una serpiente tentadora y Dios regresando al séptimo día. Se esperan más modificaciones después de milenios de transmisión, y además, si el mito acompañó la introducción del estilo de vida neolítico, para ahora habría innumerables versiones esparcidas por un área grande. En ese sentido, ningún mito es tan cercano como el relato Bassari. Sin embargo, la idea de que la condición humana se debe a algún accidente o desobediencia es generalizada de maneras que desmienten una conexión filogenética, al menos regionalmente. Hay tales mitos en todo el mundo, pero los mitos en África son más similares entre sí que, por ejemplo, las historias de una Caída en Australia o Mesoamérica. La entrada sobre [La Caída](https://www.encyclopedia.com/philosophy-and-religion/christianity/christianity-general/fall) en la Enciclopedia de Religión nos dice:
 
 > “La caída también puede resultar de fallas humanas. Una vez más, la documentación más importante se encuentra en el África subsahariana. Un mito masai conocido tanto en África como en Madagascar habla de un paquete que Dios dio a los humanos pero que les prohibió abrir; impulsados por la curiosidad, lo abrieron y liberaron la enfermedad y la muerte. La prohibición divina toma otras formas en otras tradiciones. En una historia pigmea de África central, se prohíbe mirar algo; en una historia de los Luba en la República Democrática del Congo, se prohíbe comer ciertos frutos; en un mito Lozi encontrado en la República Democrática del Congo y Malawi, se prohíbe la caza de animales salvajes.
@@ -78,6 +80,7 @@ Un punto en contra de que la historia Bassari sea un primo precristiano del Gén
 La reconstrucción protoindoeuropea para agua es *wódr̥, no tan lejos de la pronunciación en inglés 6,000 años después. El camino hacia el francés, sin embargo, es tortuoso: PIE *wódr̥ → latín “aqua” → francés antiguo “ewe” → francés moderno “eau”. Así es con la evolución de los mitos. Algunas culturas retendrán algo cercano al original, mientras que muchas otras ramas mutan. Aun así, los temas generales serán visibles cuando uno observa el conjunto.
 
 ## Conclusión
+
 
 Pero a Serpiente le fue dado por Unumbotte un medicamento con el cual morder a la gente.
 

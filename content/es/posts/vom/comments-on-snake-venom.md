@@ -1,27 +1,27 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Most of the feedback I got on the Snake Cult of Consciousness was on
-  the pharmacology of venom. The first was from someone who ostensibly works with
-  snake venom:'
+description: 'La mayoría de los comentarios que recibí sobre el Culto de la Serpiente
+  de la Conciencia fueron sobre la farmacología del veneno. El primero fue de alguien
+  que aparentemente trabaja con veneno de serpiente:'
 draft: false
 keywords:
-- vectors-of-mind
-- comments
-- snake
-- venom
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- comentarios
+- serpiente
+- veneno
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '97498400'
 original_url: https://www.vectorsofmind.com/p/comments-on-snake-venom
 quality: 6
 slug: comments-on-snake-venom
 tags: []
-title: Comments On Snake Venom
+title: Comentarios sobre el veneno de serpiente
 translation_model: gpt-4o
 ---
 

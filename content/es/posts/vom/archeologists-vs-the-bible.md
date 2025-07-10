@@ -1,25 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'The FAQ page on Tepe Telegrams, the official blog of Gobekli Tepe (GT),
-  includes this gem:'
+description: 'La página de preguntas frecuentes en Tepe Telegrams, el blog oficial
+  de Gobekli Tepe (GT), incluye esta joya:'
 draft: false
 keywords:
-- vectors-of-mind
-- archeologists
-- bible
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- arqueólogos
+- biblia
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144517305'
 original_url: https://www.vectorsofmind.com/p/archeologists-vs-the-bible
 quality: 6
 slug: archeologists-vs-the-bible
 tags: []
-title: Archeologists Vs The Bible
+title: Arqueólogos Vs La Biblia
 translation_model: gpt-4o
 ---
 
@@ -39,6 +39,7 @@ Esto plantea más preguntas de las que responde. La geografía es correcta, pero
 
 ### La Revolución Simbólica de Cauvin
 
+
 [Jacques Cauvin](https://en.wikipedia.org/wiki/Jacques_Cauvin) fue un arqueólogo francés que se especializó en la prehistoria del Cercano Oriente. Culminando décadas de trabajo de campo, propuso que la Revolución Agrícola resultó de una Revolución de Símbolos previa. Los humanos comenzaron a verse a sí mismos no como miembros pasivos de la naturaleza, sino como agentes que controlaban su entorno[^1]. La domesticación de plantas y animales se construyó sobre esta nueva relación con la naturaleza. En [El Nacimiento de los Dioses y los Orígenes de la Agricultura](https://archive.org/details/cauvin-jacques-the-birth-of-the-gods-and-the-origins-of-agriculture-2000-jacques), Cauvin escribe:
 
 > _“…parece que la ‘religión’, lejos de ser puramente irracional, desarrolló primero una especie de ‘lógica trascendental’ a un nivel no utilitario, una lógica que luego se aplicó al mundo real, imprimiéndole nuevos significados en un sistema de relaciones novedoso y diferente. Este aspecto cognitivo de la Revolución de Símbolos es fundamental.”_
@@ -52,6 +53,7 @@ Estas nuevas ideas sobre la agencia humana se empaquetaron en el culto de la Gra
 Claramente, no es un apologista cristiano, solo un arqueólogo que leyó mitos griegos y hebreos y escuchó ecos del pasado que reconstruyó a partir de capas de tierra levantina. En otros lugares, se pregunta si las máscaras rituales encontradas en todo el Levante (incluyendo GT) son precursoras de las utilizadas para celebrar a Dionisio[^3]. (Y por lo tanto vinculadas a los muchos cultos de misterio mediterráneos, sobre los cuales escribo [aquí](https://www.vectorsofmind.com/i/140565846/proto-indo-european), [aquí](https://www.vectorsofmind.com/p/herakles-adam-and-krishna-were-initiated) y [aquí](https://www.vectorsofmind.com/p/the-immortality-key-forgets-that).)
 
 ### “Solo no lo llames el Jardín del Edén”
+
 
 [Gobekli Tepe](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe) fue primero inspeccionado en 1963, pero su importancia no se realizó hasta que el arqueólogo alemán Klaus Schmidt reevaluó el sitio en 1994 y comenzó las excavaciones. Según Schmidt, los hallazgos probaron que Cauvin tenía razón[^4]. La revolución neolítica fue desencadenada por un cambio en las ideas más que por una causa material como el cambio climático. Hay varias [entrevistas](https://web.archive.org/web/20160331221416/https://www.newyorker.com/magazine/2011/12/19/the-sanctuary) donde Schmidt habla muy bien de Cauvin. Sin embargo, la página de Tepe Telegrams [sobre el Génesis](https://www.dainst.blog/the-tepe-telegrams/2017/04/10/just-dont-call-it-the-garden-of-eden/) resume la posición oficial con una cita de Schmidt: _“Solo no lo llames el Jardín del Edén.”_ ¿Qué pasa?
 
@@ -67,6 +69,9 @@ La ciencia es un proyecto humano con su parte de maniobras personales y polític
 
   *  _The Cygnus Key: The Denisovan Legacy, Göbekli Tepe, and the Birth of Egypt_[^6]
 
+
+
+
 El primer título promete:
 
   * Detallar el diseño, la arquitectura y las exquisitas tallas en Göbekli Tepe
@@ -77,9 +82,13 @@ El primer título promete:
 
   * Revelar la ubicación de los restos del Jardín del Edén en la misma región
 
+
+
+
 Debe ser muy molesto para los arqueólogos ver su trabajo meticuloso ser vendido con más éxito por charlatanes que improvisan. Se entiende el impulso de ponerle fin.
 
 ### Atándose en nudos
+
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!dogO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff20c8d72-a857-4f1e-bc20-0d44baf5a197_1600x897.png)
 
@@ -99,6 +108,7 @@ Esto no es un respaldo de su identificación de Pisón y Guijón. Sin embargo, s
 
 ### Serpientessss
 
+
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!A5Tb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe650c9fd-4dff-47b0-9519-cc306509eae7_562x740.png)Figura 9) **“Objetos simbólicos que definen la comunidad ritual de Göbekli Tepe.”** De un [artículo](https://www.researchgate.net/publication/235799794_The_role_of_cult_and_feasting_in_the_emergence_of_Neolithic_communities_New_evidence_from_Gobekli_Tepe_south-eastern_Turkey) del arqueólogo de GT Jens Notroff, quien escribe Tepe Telegrams. Según mi cuenta, al menos 7/12 de estos objetos representan una serpiente, y dos más (2 y 12) están en el límite. Las serpientes son _el_ símbolo definitorio de GT.
 
 Considere, además, el tratamiento de las serpientes en Tepe Telegrams. El 28.4% de las representaciones en GT [son serpientes](https://www.researchgate.net/publication/237785162_Animals_in_the_Symbolic_World_of_Pre-Pottery_Neolithic_Gobekli_Tepe_South-eastern_Turkey_A_Preliminary_Assessment), el doble del segundo animal más representado, el zorro, con un 14.8%. Y esto cuenta grupos de animales como una sola ocurrencia. Las serpientes, que a menudo se tallan en grupos, representan la mitad de todos los animales identificables si los desglosas como individuos. Esto se aborda:
@@ -110,6 +120,7 @@ Supongo que la única conexión que contaría es una estatua de una sola serpien
 Es un desmentido bíblicamente analfabeto. Más que eso, falla en el estándar básico de búsqueda de la verdad de fortalecer los puntos de vista opuestos. El Génesis sugiere una línea de tiempo donde la autoconciencia produjo alienación cósmica, seguida por la agricultura. Tepe Telegrams trata a las _serpientes_ como lo más importante que el Génesis puede reclamar haber acertado, sin siquiera mencionar las Revoluciones Agrícola o Simbólica. Nuevamente, el autor está familiarizado con Cauvin[^8].
 
 ### El Efecto Escolar
+
 
 [*[Imagen: Contenido visual del post original]*](https://substackcdn.com/image/fetch/$s_!LME3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2f9567c-b109-474d-b2b2-5ab12a028c79.heic)
 

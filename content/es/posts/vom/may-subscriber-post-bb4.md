@@ -1,26 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: If you haven’t taken it, please check out the Moments of Awakening survey.
-  I’ll post it on Reddit and X shortly to get a larger sample (please share with friends),
-  but for now it doubles as a way to l...
+description: Si no lo has tomado, por favor revisa la encuesta Momentos de Despertar.
+  La publicaré en Reddit y X en breve para obtener una muestra más grande (por favor
+  compártela con amigos), pero por ahora también sirve como una forma de l...
 draft: false
 keywords:
-- vectors-of-mind
-- subscriber
-- post
-
-lastmod: '2025-07-04'
+- vectores-de-la-mente
+- suscriptor
+- publicación
+lang: es
+lastmod: '2025-07-09'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '159411213'
 original_url: https://www.vectorsofmind.com/p/may-subscriber-post-bb4
 quality: 6
 slug: may-subscriber-post-bb4
 tags: []
-title: May Subscriber Post Bb4
+title: Mayo Suscriptor Publicación Bb4
 translation_model: gpt-4o
 ---
 

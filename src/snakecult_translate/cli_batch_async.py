@@ -14,7 +14,7 @@ from typing import List, Dict, Any
 import frontmatter
 from openai import OpenAI
 
-from .core import create_spanish_frontmatter, translate_text
+from .core import create_translated_frontmatter, translate_text, translate_frontmatter_block
 from .models import supports_batch_api
 from .prompts import get_system_prompt
 from .utils import discover_markdown_files, load_env_and_key, split_text_into_chunks
@@ -138,15 +138,25 @@ def assemble_outputs(outputs_jsonl: str, args, mapping_path: Path):
             )
 
         # Build translated front matter
-        spanish_meta = create_spanish_frontmatter(post.metadata, args.lang, args.model)
+        translated_meta = create_translated_frontmatter(post.metadata, args.lang, args.model)
         if translated_title:
-            spanish_meta["title"] = translated_title
+            translated_meta["title"] = translated_title
 
-        spanish_post = frontmatter.Post(translated_content, **spanish_meta)
+        # Translate additional front-matter fields (description, keywords, tags, etc.)
+        translated_meta = translate_frontmatter_block(
+            client=client,
+            frontmatter_dict=translated_meta,
+            target_lang=args.lang,
+            model=args.model,
+            web_format=args.web_format,
+            temperature=args.temperature,
+        )
+
+        translated_post = frontmatter.Post(translated_content, **translated_meta)
         dst_path.parent.mkdir(parents=True, exist_ok=True)
         
         with open(dst_path, "w", encoding="utf-8") as f:
-            f.write(frontmatter.dumps(spanish_post))
+            f.write(frontmatter.dumps(translated_post))
         print(f"Saved  → {dst_path}")
 
 
