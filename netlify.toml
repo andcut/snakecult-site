@@ -10,6 +10,8 @@
   # Specify Hugo version (optional, but good practice)
   # Check your local 'hugo version' or Netlify's default if unsure
   HUGO_VERSION = "0.133.0"
+  # Increase Hugo parallelism (2× workers usually matches Netlify CPU allotment)
+  HUGO_NUMWORKERMULTIPLIER = "2"
 
 [context.production.environment]
   HUGO_ENV = "production"
