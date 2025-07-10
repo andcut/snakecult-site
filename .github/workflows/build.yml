@@ -27,8 +27,9 @@ jobs:
           hugo-version: '0.126.1'
           extended: true
 
-      - name: Build site
-        run: hugo --minify
+      - name: Build site (CSS + Hugo)
+        run: npm run build   # ← this runs `build:css` and then `hugo --minify`
 
+# (optional) keep the Brotli step if you still want it
       - name: Compress assets
         run: node scripts/compress_brotli.js
