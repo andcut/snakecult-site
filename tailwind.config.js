@@ -2,8 +2,9 @@
 module.exports = {
   content: [
     './layouts/**/*.html', 
-    './content/**/*.md', 
-    './content/**/*.html'
+    './content/_index.md', // keep homepage animation
+    // './content/**/*.md', // removed to speed up Tailwind compile
+    // './content/**/*.html' // removed (no custom classes here)
   ],
   theme: {
     extend: {
