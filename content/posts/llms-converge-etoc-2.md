@@ -15,7 +15,7 @@ about:
  - Artificial Intelligence
  - Human Origins
 tags:
- - Eve Theory of Consciousness
+ - Consciousness
  - AI research
  - Human Evolution
 core_entity: "Snake"

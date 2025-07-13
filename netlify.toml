@@ -21,3 +21,20 @@
 
 [context.branch-deploy.environment]
   HUGO_ENV = "development" 
+
+# Force all HTTP traffic to HTTPS and add security headers
+[[redirects]]
+  from = "http://*"
+  to   = "https://:splat"
+  status = 301
+  force = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
+    Content-Security-Policy   = "default-src 'self'; img-src 'self' data: https:; script-src 'self' https://plausible.io; style-src 'self' 'unsafe-inline' https:; font-src 'self' https:; connect-src 'self' https://plausible.io; object-src 'none'; base-uri 'self';"
+    X-Frame-Options           = "DENY"
+    X-Content-Type-Options    = "nosniff"
+    Referrer-Policy           = "strict-origin-when-cross-origin"
+    Permissions-Policy        = "geolocation=(), camera=()" 
