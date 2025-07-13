@@ -29,8 +29,8 @@ translation_model: gpt-4o
 
 **TL;DR**
 
-- **Anatomie moderne, comportement archaïque :** *Homo sapiens* a atteint le nord de l'Australie vers **65 ± 6 kya** [oai_citation_attribution:0‡In Africa](https://in-africa.org/wp-content/uploads/2012/12/Foley-Lahr-2003-EvAnth-On-stony-ground.pdf), mais pendant ≥ 40 kyr, leur culture matérielle est restée à des niveaux **Paléolithique inférieur/moyen**.
-- **Désert symbolique :** À part une seule sépulture à l'ocre au lac Mungo (~42 kya) [oai_citation_attribution:1‡Rock Art Australia](https://rockartaustralia.org.au/wp-content/uploads/2020/10/Balme-et-al.-Riwi.pdf), l'art durable et l'ornementation sont pratiquement absents jusqu'au milieu de l'Holocène.
+- **Anatomie moderne, comportement archaïque :** *Homo sapiens* a atteint le nord de l'Australie vers **65 ± 6 kya** [^oai1], mais pendant ≥ 40 kyr, leur culture matérielle est restée à des niveaux **Paléolithique inférieur/moyen**.
+- **Désert symbolique :** À part une seule sépulture à l'ocre au lac Mungo (~42 kya) [^oai2], l'art durable et l'ornementation sont pratiquement absents jusqu'au milieu de l'Holocène.
 - **Révolutions retardées :** La technologie des lames, les microlithes à dos et les floraisons de l'art rupestre apparaissent **des millénaires après** les innovations parallèles eurasiennes, soulignant un retard à l'échelle continentale dans la modernité comportementale.
 
 ---
@@ -38,20 +38,20 @@ translation_model: gpt-4o
 ## 1 Introduction et Premiers Établissements Humains en Sahul (≈ 65 000 – 40 000 BP)
 
 ### 1.1 Le Paradoxe de Renfrew Rencontre le Dossier Australien
-Colin Renfrew a formulé le **Paradoxe Sapient** comme un décalage de 200 kyr entre l'émergence des humains anatomiquement modernes et l'épanouissement ultérieur de la culture symbolique [oai_citation_attribution:2‡Open Research Repository](https://openresearch-repository.anu.edu.au/items/5ce3cb7a-fa13-4f32-aee1-c0178106cc26). L'Australie amplifie ce décalage : des personnes avec des cerveaux modernes traversent la mer vers le Sahul, mais laissent un dossier indiscernable d'un atelier paléolithique inférieur tardif pendant des dizaines de millénaires.
+Colin Renfrew a formulé le **Paradoxe Sapient** comme un décalage de 200 kyr entre l'émergence des humains anatomiquement modernes et l'épanouissement ultérieur de la culture symbolique [^oai3]. L'Australie amplifie ce décalage : des personnes avec des cerveaux modernes traversent la mer vers le Sahul, mais laissent un dossier indiscernable d'un atelier paléolithique inférieur tardif pendant des dizaines de millénaires.
 
 ### 1.2 Chronologie du Premier Atterrissage
 
 | Site (Région) | Âge Sécurisé (kya) | Découvertes Diagnostiques | Signification |
 |---------------|--------------------|--------------------------|---------------|
-| **Madjedbebe** (Terre d'Arnhem) | 65 ± 6 | Artefacts simples de type noyau-et-éclat, ocre broyée, plaques de broyage de graines | Horizon humain le plus ancien accepté en Australie [oai_citation_attribution:3‡In Africa](https://in-africa.org/wp-content/uploads/2012/12/Foley-Lahr-2003-EvAnth-On-stony-ground.pdf) |
+| **Madjedbebe** (Terre d'Arnhem) | 65 ± 6 | Artefacts simples de type noyau-et-éclat, ocre broyée, plaques de broyage de graines | Horizon humain le plus ancien accepté en Australie [^oai1] |
 | **Grotte Riwi** (Kimberley) | 46 ± 4 | Grattoirs unifaciaux, noyaux discoïdaux, foyers | Démontre une dispersion rapide à l'intérieur des terres à travers les marges arides |
-| **Lac Mungo** (Lacs Willandra) | 42 ± 3 | Deux sépultures ; LM3 saupoudré d'ocre rouge | Première utilisation rituelle de pigment en Sahul [oai_citation_attribution:4‡Rock Art Australia](https://rockartaustralia.org.au/wp-content/uploads/2020/10/Balme-et-al.-Riwi.pdf), mais non accompagnée de biens funéraires. |
+| **Lac Mungo** (Lacs Willandra) | 42 ± 3 | Deux sépultures ; LM3 saupoudré d'ocre rouge | Première utilisation rituelle de pigment en Sahul [^oai2], mais non accompagnée de biens funéraires. |
 
 *Observation clé :* aucun de ces niveaux précoces ne contient de lames, d'outils en os, d'art figuratif ou d'ornements personnels.
 
 ### 1.3 Navigation sans un "Big Bang" Technologique
-La traversée Sunda–Sahul nécessitait de parcourir ≥ 70 km d'eau libre même aux niveaux de mer bas de l'ère glaciaire. Davidson & Noble (1992) ont soutenu que cela implique le langage et la planification moderne [oai_citation_attribution:5‡The Guardian](https://www.theguardian.com/science/2018/feb/20/homo-erectus-may-have-been-a-sailor-and-able-to-speak). Pourtant, des traversées comparables par des **hominidés antérieurs** vers Flores et peut-être la Crète montrent que **des outils simples n'excluent pas la navigation opportuniste** [oai_citation_attribution:6‡WIRED](https://www.wired.com/2010/01/ancient-seafarers). Ainsi, la colonisation ≠ preuve automatique d'un ensemble cognitif paléolithique supérieur.
+La traversée Sunda–Sahul nécessitait de parcourir ≥ 70 km d'eau libre même aux niveaux de mer bas de l'ère glaciaire. Davidson & Noble (1992) ont soutenu que cela implique le langage et la planification moderne [^oai4]. Pourtant, des traversées comparables par des **hominidés antérieurs** vers Flores et peut-être la Crète montrent que **des outils simples n'excluent pas la navigation opportuniste** [^oai5]. Ainsi, la colonisation ≠ preuve automatique d'un ensemble cognitif paléolithique supérieur.
 
 ### 1.4 La Base Lithique : Modes 1–3, Rien de Plus
 La typologie mondiale de Foley & Lahr place la plupart des assemblages australiens précoces fermement en **Mode 1** (noyau-et-éclat) avec seulement une réduction préparée de noyau (Mode 3) sporadique :
@@ -80,7 +80,7 @@ Les premiers Australiens ont maintenu un ensemble d'outils résolument **Mode 1-
 
 ### 2.2 La Révolution des Lames Manquante (40 000 – 10 000 BP)
 
-Alors que les Européens lançaient le boom des noyaux à lames **Aurignacien** (~43 kya) avec burins, grattoirs et outils en os [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/wiki/Aurignacian), le Sahul ne montre **aucune industrie de noyaux à lames prismatiques** avant l'Holocène. Même les "pseudo-lames" isolées sont le produit d'un éclatement opportuniste plutôt que d'un design de noyau formel.
+Alors que les Européens lançaient le boom des noyaux à lames **Aurignacien** (~43 kya) avec burins, grattoirs et outils en os [^oai6], le Sahul ne montre **aucune industrie de noyaux à lames prismatiques** avant l'Holocène. Même les "pseudo-lames" isolées sont le produit d'un éclatement opportuniste plutôt que d'un design de noyau formel.
 
 | Région | Début des Noyaux à Lames | Ensemble Culturel |
 |--------|--------------------------|-------------------|
@@ -91,7 +91,7 @@ Alors que les Européens lançaient le boom des noyaux à lames **Aurignacien** 
 
 ### 2.3 Haches à Bord Tranchant : Un Précurseur Précoce, Pas une Révolution
 
-Un fragment de hache à bord tranchant du Kimberley date de **48 – 44 kya**, la **plus ancienne hache de ce type au monde** [oai_citation_attribution:1‡ABC](https://www.abc.net.au/news/science/2016-05-11/worlds-oldest-known-ground-edge-stone-axe-fragments-found/7401728). Pourtant, les haches à bord tranchant restent *de rares curiosités* jusqu'à ce qu'elles prolifèrent dans les zones de forêt tropicale et riveraines après ~8 kya—suggérant une adoption fonctionnelle de niche plutôt qu'un saut technologique à l'échelle du continent.
+Un fragment de hache à bord tranchant du Kimberley date de **48 – 44 kya**, la **plus ancienne hache de ce type au monde** [^oai7]. Pourtant, les haches à bord tranchant restent *de rares curiosités* jusqu'à ce qu'elles prolifèrent dans les zones de forêt tropicale et riveraines après ~8 kya—suggérant une adoption fonctionnelle de niche plutôt qu'un saut technologique à l'échelle du continent.
 
 ### 2.4 Arrivée de la Tradition des Petits Outils (≤ 5 000 BP)
 
@@ -103,7 +103,7 @@ Le passage continental aux **microlithes à dos**—petits éclats géométrique
 | Microlithes classiques | Segments géométriques, triangles scalènes | 6 – 3 kya | Diffusion nationale comme barbes de chasse |
 | Prolifération tardive de l'Holocène | Lames à dos miniatures, herminettes tula | < 2 kya | Souvent liées à la croissance démographique et à l'utilisation intensive des terres |
 
-La datation de > 600 assemblages de microlithes montre une **augmentation à l'échelle du continent seulement après 5 kya** [oai_citation_attribution:2‡Open Research Repository](https://openresearch-repository.anu.edu.au/bitstreams/245ba4bc-9369-42a9-913c-52a7aae7c7a0/download). Pour comparaison, les **industries microlithiques en Afrique** apparaissent vers ~25 kya [oai_citation_attribution:3‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1040618216000586), et les **microlithes aziliens/swideriens d'Europe** fleurissent vers 12 kya.
+La datation de > 600 assemblages de microlithes montre une **augmentation à l'échelle du continent seulement après 5 kya** [^oai8]. Pour comparaison, les **industries microlithiques en Afrique** apparaissent vers ~25 kya [^oai9], et les **microlithes aziliens/swideriens d'Europe** fleurissent vers 12 kya.
 
 ### 2.5 Contexte Mondial : Le Retard Technologique Persistant de l'Australie
 
@@ -126,19 +126,19 @@ Le dossier australien de symbolisme durable est **extrêmement mince** pendant l
 
 | Trouvaille | Site & Âge | Matériau & Forme | Contexte & Remarques |
 |------------|-----------|------------------|----------------------|
-| **Perles en coquille de cône** | Mandu Mandu Creek, WA — 32 kya | 22 coquilles *Conus* perforées | Premier ornement en Sahul ; unique au site [oai_citation_attribution:0‡Western Australian Museum](https://museum.wa.gov.au/explore/online-exhibitions/travellerstraders/treasures-sea) |
-| **Perles en os & os de macropode incisé** | Devil's Lair, WA — 33 kya → 19 kya | Petits os polis ; une phalange de wallaby percée | Horizon unique parmi 30 k ans d'occupation [oai_citation_attribution:1‡Western Australian Museum](https://museum.wa.gov.au/sites/default/files/33%2C000%20YEAR%20OLD%20STONE%20AND%20BONE%20ARTIFACTS%20FROM%20DEVIL%27S%20LAIR%2C%20WESTERN%20 AUSTRALIA_0.pdf), mais toujours tardif en termes mondiaux [oai_citation_attribution:2‡Paleoanthro](https://paleoanthro.org/media/journal/content/PA20190177.pdf) |
-| **Perles de dents de diable de Tasmanie gracile** | Diverses grottes tasmaniennes — < 19 kya | Dents de carnivore perforées | Extrêmement rares ; la Tasmanie perd plus tard complètement la fabrication de perles [oai_citation_attribution:3‡Paleoanthro](https://paleoanthro.org/media/journal/content/PA20190177.pdf) |
-| **Collier d'incisives de kangourou** | Kow Swamp, Vic — 12 kya | 327 incisives collées avec de la résine | Premier ensemble de biens funéraires de taille, mais toujours tardif en termes mondiaux [oai_citation_attribution:4‡Austhrutime](https://austhrutime.com/table_beads_pendants.htm) |
+| **Perles en coquille de cône** | Mandu Mandu Creek, WA — 32 kya | 22 coquilles *Conus* perforées | Premier ornement en Sahul ; unique au site [^oai10] |
+| **Perles en os & os de macropode incisé** | Devil's Lair, WA — 33 kya → 19 kya | Petits os polis ; une phalange de wallaby percée | Horizon unique parmi 30 k ans d'occupation [^oai11], mais toujours tardif en termes mondiaux [^oai12] |
+| **Perles de dents de diable de Tasmanie gracile** | Diverses grottes tasmaniennes — < 19 kya | Dents de carnivore perforées | Extrêmement rares ; la Tasmanie perd plus tard complètement la fabrication de perles [^oai12] |
+| **Collier d'incisives de kangourou** | Kow Swamp, Vic — 12 kya | 327 incisives collées avec de la résine | Premier ensemble de biens funéraires de taille, mais toujours tardif en termes mondiaux [^oai13] |
 
 > *Modèle :* Quatre localités dispersées sur **50 000 ans**—aucune tradition soutenue d'ornement, aucun style interrégional, et des tailles d'échantillons éclipsées par des sites aurignaciens uniques en Europe.
 
 ### 3.2 Art Rupestre : Un Dossier Retardé et Déséquilibré
 
-1. **Motif le plus ancien sécurisé :** Un zigzag au charbon de bois sur une dalle de plafond tombée à **Nawarla Gabarnmang**, Terre d'Arnhem, daté à **≈ 28 kya** [oai_citation_attribution:5‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0305440312003664), l'image est abstraite et isolée.
-2. **Figures Gwion Gwion (Bradshaw) :** Les nids de guêpes radiocarbonés encadrent de nombreuses peintures entre **17 kya et 12 kya**, mais la majorité des 23 nids se regroupent ≤ 13 kya**, avec un seul cas extrême > 16 kya [oai_citation_attribution:6‡ABC](https://www.abc.net.au/news/science/2020-02-06/gwion-rock-art-in-kimberley-dated-using-wasp-nests/11924584) [oai_citation_attribution:7‡The University of Melbourne](https://www.unimelb.edu.au/newsroom/news/2020/february/wasp-nests-used-to-date-ancient-kimberley-rock-art) [oai_citation_attribution:8‡The University of Melbourne](https://www.unimelb.edu.au/newsroom/news/2020/february/wasp-nests-used-to-date-ancient-kimberley-rock-art). Même ceux-ci sont **4–5 kyr plus jeunes** que les lions de Chauvet en Europe.
+1. **Motif le plus ancien sécurisé :** Un zigzag au charbon de bois sur une dalle de plafond tombée à **Nawarla Gabarnmang**, Terre d'Arnhem, daté à **≈ 28 kya** [^oai14], l'image est abstraite et isolée.
+2. **Figures Gwion Gwion (Bradshaw) :** Les nids de guêpes radiocarbonés encadrent de nombreuses peintures entre **17 kya et 12 kya**, mais la majorité des 23 nids se regroupent ≤ 13 kya**, avec un seul cas extrême > 16 kya [^oai15] [^oai16] [^oai16]. Même ceux-ci sont **4–5 kyr plus jeunes** que les lions de Chauvet en Europe.
 3. **Explosion de l'Holocène :**
- - La **tradition X-ray** dans la Terre d'Arnhem s'épanouit **après 4 kya**, représentant des poissons avec des organes internes [oai_citation_attribution:9‡The Metropolitan Museum of Art](https://www.metmuseum.org/essays/x-ray-style-in-arnhem-land-rock-art) [oai_citation_attribution:10‡ANU Press](https://press-files.anu.edu.au/downloads/press/n3991/pdf/ch07.pdf) [oai_citation_attribution:11‡The Metropolitan Museum of Art](https://www.metmuseum.org/essays/x-ray-style-in-arnhem-land-rock-art).
+ - La **tradition X-ray** dans la Terre d'Arnhem s'épanouit **après 4 kya**, représentant des poissons avec des organes internes [^oai17] [^oai18] [^oai17].
  - Les figures d'esprit Wandjina du Kimberley et les "Figures Dynamiques" de l'Arnhem se concentrent également dans les derniers **< 5 kyr**.
 
 | Ère | Production d'Art Rupestre Sécurisée | Comparaison Mondiale |
@@ -167,12 +167,12 @@ Du premier atterrissage au contact européen, les Aborigènes australiens sont r
 ### 4.1 Chasseurs-Cueilleurs avec Agriculture par le Feu
 
 - **Régime alimentaire à large spectre :** kangourous, wallabies, émeus, reptiles, poissons, coquillages, graines, ignames, fruits, nectar.
-- **Agriculture par le feu :** brûlages saisonniers à basse température pour faire sortir le gibier et aménager des prairies en mosaïque ; des tests quantitatifs confirment que le feu était une *stratégie de productivité délibérée*, pas un incendie aléatoire [oai_citation_attribution:0‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0804757105) [oai_citation_attribution:1‡Time](https://time.com/5764521/australia-bushfires-indigenous-fire-practices/).
-- **Intensification aquatique :** le **complexe de pièges à anguilles de Budj Bim** (pays Gunditjmara, Victoria) montre une **aquaculture systématique par 6 600 BP**—barrages en pierre, canaux et installations de fumage [oai_citation_attribution:2‡UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1577) [oai_citation_attribution:3‡National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/budj-bim-cultural-landscape) [oai_citation_attribution:4‡UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1577) [oai_citation_attribution:5‡National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/budj-bim-cultural-landscape). Pourtant, la sophistication de Budj Bim est restée une **exception locale**, pas un passage à la sédentarité à l'échelle du continent.
+- **Agriculture par le feu :** brûlages saisonniers à basse température pour faire sortir le gibier et aménager des prairies en mosaïque ; des tests quantitatifs confirment que le feu était une *stratégie de productivité délibérée*, pas un incendie aléatoire [^oai19] [^oai20].
+- **Intensification aquatique :** le **complexe de pièges à anguilles de Budj Bim** (pays Gunditjmara, Victoria) montre une **aquaculture systématique par 6 600 BP**—barrages en pierre, canaux et installations de fumage [^oai21] [^oai22] [^oai21] [^oai22]. Pourtant, la sophistication de Budj Bim est restée une **exception locale**, pas un passage à la sédentarité à l'échelle du continent.
 
 ### 4.2 Extinction de la Mégafaune : Surchasse ou Aridification ?
 
-Les marsupiaux géants (*Diprotodon*, kangourous à face courte) disparaissent vers ~40 kya. Des synthèses récentes soutiennent que **l'instabilité climatique, et non le blitzkrieg humain**, était le principal moteur—la mégafaune a co-existé avec les humains pendant plusieurs millénaires [oai_citation_attribution:6‡The Guardian](https://www.theguardian.com/science/2020/may/19/humans-australia-megafauna-to-extinction-climate-queensland). Quoi qu'il en soit, leur disparition n'a **pas** entraîné de saut technologique ; les ensembles d'outils restent inchangés.
+Les marsupiaux géants (*Diprotodon*, kangourous à face courte) disparaissent vers ~40 kya. Des synthèses récentes soutiennent que **l'instabilité climatique, et non le blitzkrieg humain**, était le principal moteur—la mégafaune a co-existé avec les humains pendant plusieurs millénaires [^oai23]. Quoi qu'il en soit, leur disparition n'a **pas** entraîné de saut technologique ; les ensembles d'outils restent inchangés.
 
 ### 4.3 Domestication Minimale : Le Seul Dingo
 
@@ -180,13 +180,13 @@ Les marsupiaux géants (*Diprotodon*, kangourous à face courte) disparaissent v
 |---------------------|-------------------|----------------------------|
 | Cultures végétales | **Aucune** domestiquée ; récolte sauvage uniquement | Blé (Asie du Sud-Ouest), millet (Chine), maïs (Mésoamérique) |
 | Animaux de troupeau | **Aucun** | Moutons/chèvres (Asie du Sud-Ouest), bovins (Afrique/Inde) |
-| **Dingo (chien sauvage)** | Arrive **3,5 kya**, probablement via des commerçants asiatiques ; adopté comme compagnon de chasse [oai_citation_attribution:7‡Sci.News: Breaking Science News](https://www.sci.news/archaeology/dingo-arrival-australia-06243.html) [oai_citation_attribution:8‡Nature](https://www.nature.com/articles/s41598-018-28324-x) | Chiens domestiqués dans le monde entier ≥ 15 kya |
+| **Dingo (chien sauvage)** | Arrive **3,5 kya**, probablement via des commerçants asiatiques ; adopté comme compagnon de chasse [^oai24] [^oai25] | Chiens domestiqués dans le monde entier ≥ 15 kya |
 
 ### 4.4 Technologies Jamais Adoptées (ou Adoptées Tardivement et Localement)
 
 | Technologie | Afrique | Eurasie | Amériques | **Australie** |
 |-------------|---------|---------|-----------|---------------|
-| **Poterie** | 10 kya (Nil) | 18 kya (Chine, Jap.) | 7 kya (SE US, Amazonie) | **Absente**, sauf rares **fragments de Lizard Island ~3 kya** via contact papou [oai_citation_attribution:9‡jcu.edu.au](https://www.jcu.edu.au/news/releases/2024/april/discovery-of-pottery-rewrites-aboriginal-history) |
+| **Poterie** | 10 kya (Nil) | 18 kya (Chine, Jap.) | 7 kya (SE US, Amazonie) | **Absente**, sauf rares **fragments de Lizard Island ~3 kya** via contact papou [^oai26] |
 | Arc et flèches | ≥ 64 kya? (Sibudu) | 40 kya | 9 kya | **Jamais adopté** |
 | Métallurgie | 7 kya (Cu, ME) | 5 kya (Bronze) | 3 kya (Andes) | **Jamais** |
 | Roue/Voile | 5 kya | 6 kya | Sporadique | **Jamais** |
@@ -197,7 +197,7 @@ Même les haches à bord tranchant, bien que les plus anciennes au monde dans le
 
 Après l'inondation du détroit de Bass (~12 kya), **≈ 5 000 Tasmaniens** sont devenus les humains les plus isolés sur Terre. Au cours des 8 000 années suivantes, ils :
 
-- **Ont abandonné la fabrication d'outils en os** et **ont cessé de manger du poisson à écailles**—une contraction déroutante de l'ampleur de la subsistance [oai_citation_attribution:10‡Figshare](https://figshare.utas.edu.au/articles/journal_contribution/Archaeology_and_Aboriginal_protest_the_influence_of_Rhys_Jones_s_Tasmanian_work_on_Australian_historiography/22983263/1/files/40729394.pdf) [oai_citation_attribution:11‡JSTOR](https://www.jstor.org/stable/24046726).
+- **Ont abandonné la fabrication d'outils en os** et **ont cessé de manger du poisson à écailles**—une contraction déroutante de l'ampleur de la subsistance [^oai27] [^oai28].
 - N'ont conservé que des lances en bois et des grattoirs simples ; pas de boomerang, pas de propulseur.
 
 Rhys Jones a qualifié cela de **"Paradoxe Tasmanien"**—perte culturelle due à une faible population et à des réseaux de connaissances fragiles plutôt qu'à une limitation cognitive. La Tasmanie illustre clairement comment **l'innovation peut être inversée** dans une isolation extrême.
@@ -212,22 +212,22 @@ L'histoire de l'anthropologie physique et de la linguistique historique de l'Aus
 
 | Groupe Fossile | Plage Datée | Traits Crâniens | Interprétation |
 |----------------|-------------|-----------------|----------------|
-| **Lac Mungo (LM1 & LM3)** | 45 – 40 kya | Voûte crânienne mince, front légèrement courbé, arcade sourcilière modeste | *Les premiers colons du Sahul étaient pleinement modernes et graciles* [oai_citation_attribution:12‡Wikipedia](https://en.wikipedia.org/wiki/Lake_Mungo_remains) |
+| **Lac Mungo (LM1 & LM3)** | 45 – 40 kya | Voûte crânienne mince, front légèrement courbé, arcade sourcilière modeste | *Les premiers colons du Sahul étaient pleinement modernes et graciles* [^oai29] |
 | **Lacs Willandra H50** | 25 – 22 kya | Visage large, supraorbitaires épaisses | Début de la robusticité régionale |
-| **Kow Swamp (KS1-KS7)** | 13 – 9 kya | Arcs sourciliers massifs, frontal fuyant, os épais | Initialement présentés comme des survivants "archaïques" *H. erectus* ; une étude multivariée du fémur montre qu'ils sont **bien dans la variation de H. sapiens** [oai_citation_attribution:13‡PubMed](https://pubmed.ncbi.nlm.nih.gov/6439049/) |
-| **Cohuna & Nacurrie** | 8 – 5 kya | Similaire à Kow Swamp | Certains montrent des marques de déformation crânienne artificielle [oai_citation_attribution:14‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X) |
+| **Kow Swamp (KS1-KS7)** | 13 – 9 kya | Arcs sourciliers massifs, frontal fuyant, os épais | Initialement présentés comme des survivants "archaïques" *H. erectus* ; une étude multivariée du fémur montre qu'ils sont **bien dans la variation de H. sapiens** [^oai30] |
+| **Cohuna & Nacurrie** | 8 – 5 kya | Similaire à Kow Swamp | Certains montrent des marques de déformation crânienne artificielle [^oai31] |
 
 **Perspicacité clé :** Les crânes robustes **post-datent** les crânes graciles—l'inversion directe des attentes. Le groupe de robusticité est maintenant lu comme une **trajectoire microévolutionnaire locale** (petits groupes fondateurs, dérive) et, en partie, **liaison crânienne** plutôt qu'une lignée archaïque.
 
 ### 5.2 Déformation Crânienne Artificielle : La Culture Déguisée en "Archaïque"
 
- * Les morphométriques géométriques sur Kow Swamp 1 & 5 correspondent aux crânes déformés connus de PNG et du Pérou précolombien [oai_citation_attribution:15‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X) [oai_citation_attribution:16‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X).
+ * Les morphométriques géométriques sur Kow Swamp 1 & 5 correspondent aux crânes déformés connus de PNG et du Pérou précolombien [^oai31] [^oai31].
  * Les pratiques de déformation sont ethnographiquement enregistrées parmi certains groupes du Murray-Darling jusqu'au XIXe siècle.
  * Une fois la déformation prise en compte, le **modèle "archaïque" s'évapore**—ne laissant aucun soutien crédible à la survie tardive des hominidés pré-sapiens.
 
 ### 5.3 La Pulsation Linguistique Proto-Australienne (~6 000 BP)
 
-Des travaux récents en linguistique historique par **Harvey & Mailhammer (2023)** reconstruisent un **Proto-Australien** unique parlé **dans le Top End vers 6 kya** qui a ensuite **balayé 90 % du continent** [oai_citation_attribution:17‡au.news.yahoo.com](https://au.news.yahoo.com/evidence-confirms-indigenous-languages-common-192047796.html).
+Des travaux récents en linguistique historique par **Harvey & Mailhammer (2023)** reconstruisent un **Proto-Australien** unique parlé **dans le Top End vers 6 kya** qui a ensuite **balayé 90 % du continent** [^oai32].
 
 | Facteurs Typiques de Diffusion Linguistique à l'Échelle Continentale | Réalité de l'Holocène en Australie |
 |---------------------------------------------------------------------|-----------------------------------|
@@ -288,3 +288,36 @@ L'Australie sape ainsi tout modèle qui attribue la "Révolution Humaine" à une
 33. González-José R. et al. "Cranial deformation at Kow Swamp." *J. Arch. Sci.* 35 (2008).
 34. Harvey M. & Mailhammer R. *Proto-Australian: Reconstruction of a Common Ancestor Language* (DE Gruyter, 2023).
 35. "Indigenous language link reveals common ancestor." *University of Newcastle News* (2018).
+
+[^oai1]: [In-africa](https://in-africa.org/wp-content/uploads/2012/12/Foley-Lahr-2003-EvAnth-On-stony-ground.pdf)
+[^oai2]: [Rockartaustralia](https://rockartaustralia.org.au/wp-content/uploads/2020/10/Balme-et-al.-Riwi.pdf)
+[^oai3]: [Openresearch-repository](https://openresearch-repository.anu.edu.au/items/5ce3cb7a-fa13-4f32-aee1-c0178106cc26)
+[^oai4]: [Theguardian](https://www.theguardian.com/science/2018/feb/20/homo-erectus-may-have-been-a-sailor-and-able-to-speak)
+[^oai5]: [WIRED](https://www.wired.com/2010/01/ancient-seafarers)
+[^oai6]: [Wikipedia](https://en.wikipedia.org/wiki/Aurignacian)
+[^oai7]: [ABC News](https://www.abc.net.au/news/science/2016-05-11/worlds-oldest-known-ground-edge-stone-axe-fragments-found/7401728)
+[^oai8]: [Openresearch-repository](https://openresearch-repository.anu.edu.au/bitstreams/245ba4bc-9369-42a9-913c-52a7aae7c7a0/download)
+[^oai9]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1040618216000586)
+[^oai10]: [WA Museum](https://museum.wa.gov.au/explore/online-exhibitions/travellerstraders/treasures-sea)
+[^oai11]: [WA Museum](https://museum.wa.gov.au/sites/default/files/33%2C000%20YEAR%20OLD%20STONE%20AND%20BONE%20ARTIFACTS%20FROM%20DEVIL%27S%20LAIR%2C%20WESTERN%20 AUSTRALIA_0.pdf)
+[^oai12]: [PaleoAnthro](https://paleoanthro.org/media/journal/content/PA20190177.pdf)
+[^oai13]: [AusThruTime](https://austhrutime.com/table_beads_pendants.htm)
+[^oai14]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0305440312003664)
+[^oai15]: [ABC News](https://www.abc.net.au/news/science/2020-02-06/gwion-rock-art-in-kimberley-dated-using-wasp-nests/11924584)
+[^oai16]: [Unimelb](https://www.unimelb.edu.au/newsroom/news/2020/february/wasp-nests-used-to-date-ancient-kimberley-rock-art)
+[^oai17]: [Met Museum](https://www.metmuseum.org/essays/x-ray-style-in-arnhem-land-rock-art)
+[^oai18]: [Press-files](https://press-files.anu.edu.au/downloads/press/n3991/pdf/ch07.pdf)
+[^oai19]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.0804757105)
+[^oai20]: [Time](https://time.com/5764521/australia-bushfires-indigenous-fire-practices/)
+[^oai21]: [UNESCO](https://whc.unesco.org/en/list/1577)
+[^oai22]: [Nma](https://www.nma.gov.au/defining-moments/resources/budj-bim-cultural-landscape)
+[^oai23]: [Theguardian](https://www.theguardian.com/science/2020/may/19/humans-australia-megafauna-to-extinction-climate-queensland)
+[^oai24]: [Sci.News](https://www.sci.news/archaeology/dingo-arrival-australia-06243.html)
+[^oai25]: [Nature](https://www.nature.com/articles/s41598-018-28324-x)
+[^oai26]: [JCU](https://www.jcu.edu.au/news/releases/2024/april/discovery-of-pottery-rewrites-aboriginal-history)
+[^oai27]: [Figshare](https://figshare.utas.edu.au/articles/journal_contribution/Archaeology_and_Aboriginal_protest_the_influence_of_Rhys_Jones_s_Tasmanian_work_on_Australian_historiography/22983263/1/files/40729394.pdf)
+[^oai28]: [JSTOR](https://www.jstor.org/stable/24046726)
+[^oai29]: [Wikipedia](https://en.wikipedia.org/wiki/Lake_Mungo_remains)
+[^oai30]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/6439049/)
+[^oai31]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X)
+[^oai32]: [Yahoo News AU](https://au.news.yahoo.com/evidence-confirms-indigenous-languages-common-192047796.html)

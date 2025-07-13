@@ -38,11 +38,11 @@ translation_model: gpt-4o
 
 | उपाधि | स्थल / कार्य | चित्रण | स्रोत |
 |-------|--------------|--------|-------|
-| **ज़्यूस मिलिचियोस** | एथेंस, आर्गोस; भूमिगत शांति और धन | राहतों और वेदियों पर **कुंडलीदार सर्प** | [oai_citation_attribution:0‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf) |
-| **ज़्यूस क्टेसियोस / अगाथोस डेमन** | घरेलू मंदिर; पेंट्री संरक्षक | छोटा **सर्प जार (कडिस्कोस)**, दो कुंडलियाँ | [oai_citation_attribution:1‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the) |
-| **ज़्यूस फिलाक्स** | नगर की दीवारें; संरक्षक आत्मा | द्वारों पर चढ़ाए गए सर्प | [oai_citation_attribution:2‡Wikipedia](https://en.wikipedia.org/wiki/Oracle) |
-| **ज़्यूस सबाज़ियोस** (थ्रासियन) | भ्रमणशील रहस्य; उन्मत्त अनुष्ठान | **सर्प से लिपटा कांस्य हाथ** | [oai_citation_attribution:3‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) |
-| **ज़्यूस लिकायोस** | आर्केडियन लिकाया; गूढ़ दीक्षा | वेयर-वुल्फ और नरभक्षण की कथा; छुपा हुआ **राख का ढेर** | [oai_citation_attribution:4‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia) |
+| **ज़्यूस मिलिचियोस** | एथेंस, आर्गोस; भूमिगत शांति और धन | राहतों और वेदियों पर **कुंडलीदार सर्प** | [^oai1] |
+| **ज़्यूस क्टेसियोस / अगाथोस डेमन** | घरेलू मंदिर; पेंट्री संरक्षक | छोटा **सर्प जार (कडिस्कोस)**, दो कुंडलियाँ | [^oai2] |
+| **ज़्यूस फिलाक्स** | नगर की दीवारें; संरक्षक आत्मा | द्वारों पर चढ़ाए गए सर्प | [^oai3] |
+| **ज़्यूस सबाज़ियोस** (थ्रासियन) | भ्रमणशील रहस्य; उन्मत्त अनुष्ठान | **सर्प से लिपटा कांस्य हाथ** | [^oai4] |
+| **ज़्यूस लिकायोस** | आर्केडियन लिकाया; गूढ़ दीक्षा | वेयर-वुल्फ और नरभक्षण की कथा; छुपा हुआ **राख का ढेर** | [^oai5] |
 
 > **पैटर्न:** जहाँ भी ज़्यूस **धन, सुरक्षा, या सीमांतता** का मध्यस्थ होता है, पंथ वहाँ **सर्प** जोड़ देता है।
 
@@ -59,7 +59,7 @@ translation_model: gpt-4o
 
 ### 2.3 दार्शनिक ग्रहण
 - **प्रोक्लस**: ज़्यूस का निगलना और पुनः उत्सर्जन एक बड़ा चक्र है जो छोटे दीक्षाओं का प्रतिबिंब है।
-- **अरस्तू (फ्र. OF 166)** पहले ही ऑर्फिक्स को ज़्यूस को *"सबका सिर-मध्य-अंत"* कहते हुए नोट करता है। [oai_citation_attribution:5‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+- **अरस्तू (फ्र. OF 166)** पहले ही ऑर्फिक्स को ज़्यूस को *"सबका सिर-मध्य-अंत"* कहते हुए नोट करता है। [^oai6]
 
 ---
 
@@ -99,23 +99,35 @@ translation_model: gpt-4o
 
 ## फुटनोट्स
 
-[^zagreus]: *ज़ाग्रेयस* प्रविष्टि ज़्यूस-सर्प पितृत्व का सारांश। [oai_citation_attribution:6‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-[^phanes-swallow]: ऑर्फिक फ्र. 167 & 168 (कर्न): ज़्यूस फेनेस को निगलता है, सभी देवता उसमें समा जाते हैं। [oai_citation_attribution:7‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-[^cleanthes]: क्लीनथेस, *ज़्यूस के लिए भजन* पंक्तियाँ 10-14 (चक्रवातीय वापसी पर)। [oai_citation_attribution:8‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai1]: [Ascs](https://www.ascs.org.au/news/ascs31/Burton.pdf)
+[^oai2]: [Verdantlyviolet](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
+[^oai3]: [Wikipedia](https://en.wikipedia.org/wiki/Oracle)
+[^oai4]: [Wikipedia](https://en.wikipedia.org/wiki/Sabazios)
+[^oai5]: [Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
+[^oai6]: [Ir](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+[^oai7]: [Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
+[^oai8]: [Hellenic Gods](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
+[^oai9]: [Hellenion](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai10]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai11]: [Fulmenquarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
+[^oai12]: [Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
+[^zagreus]: *ज़ाग्रेयस* प्रविष्टि ज़्यूस-सर्प पितृत्व का सारांश। [^oai7]
+[^phanes-swallow]: ऑर्फिक फ्र. 167 & 168 (कर्न): ज़्यूस फेनेस को निगलता है, सभी देवता उसमें समा जाते हैं। [^oai8]
+[^cleanthes]: क्लीनथेस, *ज़्यूस के लिए भजन* पंक्तियाँ 10-14 (चक्रवातीय वापसी पर)। [^oai9]
 [^tablets]: स्वर्ण पट्टिकाएँ: हिप्पोनियन पट्टिका पंक्तियाँ 10-14 *ज़्यूस-पर्सेफोन* वंशावली का आह्वान करती हैं।
 
 ---
 
 ## स्रोत
 
-1. ज़्यूस मिलिचियोस पंथ अध्ययन (बर्टन 2011)। [oai_citation_attribution:9‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf)
-2. "ज़्यूस क्टेसियोस और कडिस्कोस," वर्डेंटलीवायलेट ब्लॉग पोस्ट। [oai_citation_attribution:10‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
-3. ऑर्फिक फ्र. 167–168, ओटो कर्न संकलन। [oai_citation_attribution:11‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-4. *थियोई: फेनेस* — ज़्यूस द्वारा फेनेस को निगलने पर नोट्स। [oai_citation_attribution:12‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)
-5. क्लीनथेस, *ज़्यूस के लिए भजन* (अनुवाद: हेल्लेनियन)। [oai_citation_attribution:13‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
-6. विकिपीडिया "ज़ाग्रेयस" विद्वतापूर्ण सारांश। [oai_citation_attribution:14‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-7. विकिपीडिया "सबाज़ियोस" और फुलमेन क्वार्टरली पर हाथ का प्रतीक। [oai_citation_attribution:15‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) [oai_citation_attribution:16‡Fulmen Quarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
-8. विकिपीडिया "लिकाया" (ज़्यूस लिकायोस अनुष्ठान)। [oai_citation_attribution:17‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
-9. ओरेकल सर्वेक्षण: डोडोना सर्प और डायोन। [oai_citation_attribution:18‡Wikipedia](https://en.wikipedia.org/wiki/Oracle)
-10. प्रोक्लस / डामासियस अंश एथर लेख में (§ऑर्फिक)। [oai_citation_attribution:19‡Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
-11. "ज़्यूस द हेड, ज़्यूस द मिडल" थीसिस (वेस्टर्न ओंटारियो, 2015)। [oai_citation_attribution:20‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+1. ज़्यूस मिलिचियोस पंथ अध्ययन (बर्टन 2011)। [^oai1]
+2. "ज़्यूस क्टेसियोस और कडिस्कोस," वर्डेंटलीवायलेट ब्लॉग पोस्ट। [^oai2]
+3. ऑर्फिक फ्र. 167–168, ओटो कर्न संकलन। [^oai8]
+4. *थियोई: फेनेस* — ज़्यूस द्वारा फेनेस को निगलने पर नोट्स। [^oai10]
+5. क्लीनथेस, *ज़्यूस के लिए भजन* (अनुवाद: हेल्लेनियन)। [^oai9]
+6. विकिपीडिया "ज़ाग्रेयस" विद्वतापूर्ण सारांश। [^oai7]
+7. विकिपीडिया "सबाज़ियोस" और फुलमेन क्वार्टरली पर हाथ का प्रतीक। [^oai4] [^oai11]
+8. विकिपीडिया "लिकाया" (ज़्यूस लिकायोस अनुष्ठान)। [^oai5]
+9. ओरेकल सर्वेक्षण: डोडोना सर्प और डायोन। [^oai3]
+10. प्रोक्लस / डामासियस अंश एथर लेख में (§ऑर्फिक)। [^oai12]
+11. "ज़्यूस द हेड, ज़्यूस द मिडल" थीसिस (वेस्टर्न ओंटारियो, 2015)। [^oai6]

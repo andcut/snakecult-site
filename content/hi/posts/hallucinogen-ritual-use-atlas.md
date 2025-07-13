@@ -120,19 +120,28 @@ translation_model: gpt-4o
 
 ## फुटनोट्स
 
-[^1]: बॉयड, सी. ई. और डेरिंग, पी. जे. 2005. "लोअर पेकॉस पेयोट उपयोग।" *एंटिक्विटी* 79. [oai_citation:0‡विकिपीडिया](https://en.wikipedia.org/wiki/Tassili_Mushroom_Figure) 
-[^2]: मिलर, एम. जे. एट अल. 2019. "पूर्व-कोलंबियन आयाहुआस्का के लिए रासायनिक प्रमाण।" *PNAS* 116. [oai_citation:1‡PLOS](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0090376) 
-[^3]: रक, सी. ए. पी. एट अल. 2023. "क्लासिकल ग्रीक प्याले में एर्गोट अल्कलॉइड्स।" *जर्नल ऑफ आर्कियोलॉजिकल साइंस*। [oai_citation:2‡बर्कले न्यूज़](https://news.berkeley.edu/2025/03/11/investigating-the-psychedelic-blue-lotus-of-egypt-where-ancient-magic-meets-modern-science/) 
-[^4]: रुइज़, जे. एफ. और गुज़मैन, जी. 2011. "न्यूरोट्रोपिक *साइलोसाइब* को दर्शाने वाला प्रागैतिहासिक भित्तिचित्र।" *इकोनॉमिक बॉटनी*। [oai_citation:3‡JSTOR](https://www.jstor.org/stable/41242925) 
-[^5]: डुफोर, एम. 2023. "ब्विटी से इबोगाइन और वापस।" *एक्सपैंडिंग माइंडस्केप्स* में। [oai_citation:4‡रिसर्चगेट](https://www.researchgate.net/publication/376005553_From_Bwiti_to_Ibogaine_and_Back_A_Transnational_History_of_Tabernanthe_iboga) 
-[^6]: "तासिली मशरूम फिगर।" रॉक-आर्ट स्कॉलरशिप का विकिपीडिया सारांश। [oai_citation:5‡विकिपीडिया](https://en.wikipedia.org/wiki/Tassili_Mushroom_Figure) 
-[^7]: हैरॉड, जे. बी. 2025. "मिस्र में साइकोएक्टिव ब्लू लोटस।" *यूसी बर्कले न्यूज़*। [oai_citation:6‡बर्कले न्यूज़](https://news.berkeley.edu/2025/03/11/investigating-the-psychedelic-blue-lotus-of-egypt-where-ancient-magic-meets-modern-science/) 
+[^oai1]: [Wikipedia](https://en.wikipedia.org/wiki/Tassili_Mushroom_Figure)
+[^oai2]: [Journals](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0090376)
+[^oai3]: [News](https://news.berkeley.edu/2025/03/11/investigating-the-psychedelic-blue-lotus-of-egypt-where-ancient-magic-meets-modern-science/)
+[^oai4]: [JSTOR](https://www.jstor.org/stable/41242925)
+[^oai5]: [ResearchGate](https://www.researchgate.net/publication/376005553_From_Bwiti_to_Ibogaine_and_Back_A_Transnational_History_of_Tabernanthe_iboga)
+[^oai6]: [Wikipedia](https://en.wikipedia.org/wiki/Pituri)
+[^oai7]: [Ethnology](https://ethnology.pitt.edu/ojs/index.php/Ethnology/article/viewFile/6111/6321)
+[^oai8]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0378874183900673)
+[^oai9]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9738376/)
+[^1]: बॉयड, सी. ई. और डेरिंग, पी. जे. 2005. "लोअर पेकॉस पेयोट उपयोग।" *एंटिक्विटी* 79. [^oai1] 
+[^2]: मिलर, एम. जे. एट अल. 2019. "पूर्व-कोलंबियन आयाहुआस्का के लिए रासायनिक प्रमाण।" *PNAS* 116. [^oai2] 
+[^3]: रक, सी. ए. पी. एट अल. 2023. "क्लासिकल ग्रीक प्याले में एर्गोट अल्कलॉइड्स।" *जर्नल ऑफ आर्कियोलॉजिकल साइंस*। [^oai3] 
+[^4]: रुइज़, जे. एफ. और गुज़मैन, जी. 2011. "न्यूरोट्रोपिक *साइलोसाइब* को दर्शाने वाला प्रागैतिहासिक भित्तिचित्र।" *इकोनॉमिक बॉटनी*। [^oai4] 
+[^5]: डुफोर, एम. 2023. "ब्विटी से इबोगाइन और वापस।" *एक्सपैंडिंग माइंडस्केप्स* में। [^oai5] 
+[^6]: "तासिली मशरूम फिगर।" रॉक-आर्ट स्कॉलरशिप का विकिपीडिया सारांश। [^oai1] 
+[^7]: हैरॉड, जे. बी. 2025. "मिस्र में साइकोएक्टिव ब्लू लोटस।" *यूसी बर्कले न्यूज़*। [^oai3] 
 [^8]: मिलर, एम. जे. 2010. "बीएमएसी अनुष्ठान में एफेड्रा।" *एंटिक्विटी* 84. 
 [^9]: रेन, आर. एक्स. एट अल. 2019. "सबसे पुराना कैनाबिस धूम्रपान।" *साइंस एडवांसेस* 5. 
-[^10]: सिंह, वी. के. 2022. "भारत में सांप-विष का दुरुपयोग।" *इंडियन जर्नल ऑफ फार्माकोलॉजी*। [oai_citation:7‡विकिपीडिया](https://en.wikipedia.org/wiki/Pituri) 
-[^11]: बेडफोर्ड, एस. एट अल. 2013. "कावा और लापिटा लोग।" *एथनोलॉजी* 50. [oai_citation:8‡ethnology.pitt.edu](https://ethnology.pitt.edu/ojs/index.php/Ethnology/article/viewFile/6111/6321) 
-[^12]: वॉटसन, एल. एट अल. 2010. "पिटुरी कहानी।" *जर्नल ऑफ एथनोफार्माकोलॉजी* 132. [oai_citation:9‡साइंसडायरेक्ट](https://www.sciencedirect.com/science/article/abs/pii/0378874183900673) 
-[^13]: जोवानोविक, ओ. एट अल. 2022. "ऑस्ट्रेलियाई अकेशिया में साइकेडेलिक्स।" *प्लांट्स* 11:3299. [oai_citation:10‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9738376/) 
+[^10]: सिंह, वी. के. 2022. "भारत में सांप-विष का दुरुपयोग।" *इंडियन जर्नल ऑफ फार्माकोलॉजी*। [^oai6] 
+[^11]: बेडफोर्ड, एस. एट अल. 2013. "कावा और लापिटा लोग।" *एथनोलॉजी* 50. [^oai7] 
+[^12]: वॉटसन, एल. एट अल. 2010. "पिटुरी कहानी।" *जर्नल ऑफ एथनोफार्माकोलॉजी* 132. [^oai8] 
+[^13]: जोवानोविक, ओ. एट अल. 2022. "ऑस्ट्रेलियाई अकेशिया में साइकेडेलिक्स।" *प्लांट्स* 11:3299. [^oai9] 
 
 ---
 

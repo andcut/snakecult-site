@@ -39,9 +39,9 @@ translation_model: gpt-4o
 
 ## 1 Цитаты и катехизис чистого листа
 
-> "Не было **никаких биологических изменений у людей за последние 40 000 или 50 000 лет**. Все, что мы называем культурой и цивилизацией, мы построили с тем же телом и мозгом." — *Стивен Джей Гулд*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+> "Не было **никаких биологических изменений у людей за последние 40 000 или 50 000 лет**. Все, что мы называем культурой и цивилизацией, мы построили с тем же телом и мозгом." — *Стивен Джей Гулд*  [^oai1]
 
-> "Доисторические люди были *нашими равными* по умственным способностям; разница чисто культурная." — *Дэвид Дойч*, подкаст Within Reason, 2025  [oai_citation_attribution:1‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+> "Доисторические люди были *нашими равными* по умственным способностям; разница чисто культурная." — *Дэвид Дойч*, подкаст Within Reason, 2025  [^oai2]
 
 Такие заявления рассматриваются как самоочевидные истины во многих классах. Ниже я рассматриваю их как фальсифицируемые гипотезы и провожу расчеты.
 
@@ -80,9 +80,9 @@ translation_model: gpt-4o
 
 Большие наборы данных древней ДНК (~7 000 геномов) позволяют отслеживать полигенные оценки (PGS) для сотен признаков. Наиболее актуальные здесь находки:
 
-* **Когнитивные PGS выросли на ~0.5 SD с 10 тыс. лет назад** — ≈ +35 IQ, если линейное масштабирование сохраняется. [oai_citation_attribution:2‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+* **Когнитивные PGS выросли на ~0.5 SD с 10 тыс. лет назад** — ≈ +35 IQ, если линейное масштабирование сохраняется. [^oai3]
 * Половина из **двенадцати самых сильных голоценовых селекционных волн** связана с признаками, связанными с когнитивными способностями (образовательные достижения, внутричерепной объем и т.д.).
-* Горячие точки на X-хромосоме, такие как **TENM1**, показывают селекционные волны, датируемые < 60 тыс. лет назад, что соответствует изменениям в рекурсии/фонологии у *пост-неандертальских* людей. [oai_citation_attribution:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+* Горячие точки на X-хромосоме, такие как **TENM1**, показывают селекционные волны, датируемые < 60 тыс. лет назад, что соответствует изменениям в рекурсии/фонологии у *пост-неандертальских* людей. [^oai4]
 
 Подстановка **S ≈ 0.2** в уравнение селекционера точно воспроизводит траекторию +35 IQ.
 
@@ -118,17 +118,23 @@ translation_model: gpt-4o
 
 ## Примечания
 
+[^oai1]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+[^oai2]: [Youtube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+[^oai3]: [Cambridge](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+[^oai4]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+[^oai5]: [Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
+[^oai6]: [Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
 [^1]: Оценки h² для психометрического g варьируются от 0.5 до 0.8 во взрослом возрасте (см. Polderman et al., *Nat. Genet.* 2015).
 [^2]: Линн Р. *Дисгенетика* (1996) синтезировал >25 наборов данных по плодовитости и IQ; средний r ≈ –0.2 ⇒ S ≈ -0.8 IQ.
-[^3]: Хью-Джонс Д. и Кёлер Х-П. "Естественный отбор через три поколения американцев". Препринт 2024 года. [oai_citation_attribution:4‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-[^4]: Туркхаймер Э. "Три закона генетики поведения". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [oai_citation_attribution:5‡SAGE Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
+[^3]: Хью-Джонс Д. и Кёлер Х-П. "Естественный отбор через три поколения американцев". Препринт 2024 года. [^oai5]
+[^4]: Туркхаймер Э. "Три закона генетики поведения". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [^oai6]
 
 ---
 
 ## Источники
 
-1. Цитата С. Дж. Гулда в *Остановилась ли эволюция человека?* [oai_citation_attribution:6‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
-2. Д. Дойч и А. О'Коннор, "Ты не умнее пещерного человека", подкаст Within Reason (YouTube 2025). [oai_citation_attribution:7‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
-3. Хью-Джонс Д. и др., сканирование селекции 2024 года – см. примечание 3. [oai_citation_attribution:8‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-4. Сков Л. и др., "Экстраординарная селекция на человеческой X-хромосоме…", *Cell* 2023. [oai_citation_attribution:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
-5. Пиффер Д. "Эволюционные тенденции полигенных оценок в европейских популяциях…", *Twin Res.* 2023. [oai_citation_attribution:10‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+1. Цитата С. Дж. Гулда в *Остановилась ли эволюция человека?* [^oai1]
+2. Д. Дойч и А. О'Коннор, "Ты не умнее пещерного человека", подкаст Within Reason (YouTube 2025). [^oai2]
+3. Хью-Джонс Д. и др., сканирование селекции 2024 года – см. примечание 3. [^oai5]
+4. Сков Л. и др., "Экстраординарная селекция на человеческой X-хромосоме…", *Cell* 2023. [^oai4]
+5. Пиффер Д. "Эволюционные тенденции полигенных оценок в европейских популяциях…", *Twin Res.* 2023. [^oai3]

@@ -42,11 +42,11 @@ translation_model: gpt-4o
 | 楔形文字 | 音译 | 字面释义 | 注释 |
 |-----------|-----------------|---------------|------|
 | *Enūma* | enūma | 当 | 时间副词 |
-| *eliš* | eliš | 在上 | 位置“楼上” |
+| *eliš* | eliš | 在上 | 位置"楼上" |
 | *lā* | lā | 不 | 否定 |
-| *nabû* | nabû | （已被）命名 | G-完成时，词根“呼叫” |
+| *nabû* | nabû | （已被）命名 | G-完成时，词根"呼叫" |
 | *šamāmu* | šamāmu | 天空 | 双重天穹 |
-| *šaplīš ammatu* | šaplīš ammatu | 下方地面 | “地下水”泥浆 |
+| *šaplīš ammatu* | šaplīš ammatu | 下方地面 | "地下水"泥浆 |
 | *šumma lā zakratū* | šumma … zakratū | 尚未被称呼 | *nabû* 的诗意同义词 |
 
 <small>文本引自W. G. Lambert，《巴比伦创造神话》（2013）。</small>
@@ -59,7 +59,7 @@ translation_model: gpt-4o
 2. 神祇获得**头衔**（𒌓 *dUTU* “太阳神”，𒀭𒀀𒉡 *dAN* “天空神”），这些头衔同时也是功能说明。
 3. 马尔杜克战后荣誉榜（“他应被称为……”）将他的五十个名字与领域——风、医学、正义——联系起来，祭司可以据此进行祈祷。
 
-> *“语言不是描述宇宙；它**稳定**宇宙。”* —Robson，《希腊和美索不达米亚的语言与宇宙》（2023）。 [oai_citation:0‡cambridge.org](https://www.cambridge.org/core/books/language-and-cosmos-in-greece-and-mesopotamia/language-and-cosmos-in-the-epic-of-creation/F9C41567F74F95C1F57304FBEDC150A7?utm_source=chatgpt.com)
+> *“语言不是描述宇宙；它**稳定**宇宙。”* —Robson，《希腊和美索不达米亚的语言与宇宙》（2023）。 [^oai1]
 
 ---
 
@@ -79,10 +79,10 @@ translation_model: gpt-4o
 
 | 文本 | 宇宙前线 | 第一个创造动作 |
 |------|-----------------|---------------------|
-| 《埃努玛·埃利什》 | “当在上方的天空尚未被*命名*……” | 马尔杜克击败提亚马特 → 命名一切 |
-| **《创世纪》1** | “地球是无形的” | 以罗欣分离，然后**称呼**昼/夜 |
-| **《梨俱吠陀》10.129** | “既无非存在亦无存在” | 众神**命名**四方 |
-| **赫西俄德，《神谱》** | “混沌首先出现” | 实体出现时**已被命名**—希腊跳过了悬念 |
+| 《埃努玛·埃利什》 | "当在上方的天空尚未被*命名*……" | 马尔杜克击败提亚马特 → 命名一切 |
+| **《创世纪》1** | "地球是无形的" | 以罗欣分离，然后**称呼**昼/夜 |
+| **《梨俱吠陀》10.129** | "既无非存在亦无存在" | 众神**命名**四方 |
+| **赫西俄德，《神谱》** | "混沌首先出现" | 实体出现时**已被命名**—希腊跳过了悬念 |
 
 ---
 
@@ -101,6 +101,11 @@ translation_model: gpt-4o
 
 ## 脚注
 
+[^oai1]: [Cambridge](https://www.cambridge.org/core/books/language-and-cosmos-in-greece-and-mesopotamia/language-and-cosmos-in-the-epic-of-creation/F9C41567F74F95C1F57304FBEDC150A7)
+[^oai2]: [Cambridge](https://www.cambridge.org/core/books/language-and-cosmos-in-greece-and-mesopotamia/language-and-cosmos-in-the-epic-of-creation/F9C41567F74F95C1F57304FBEDC150A7)
+[^oai3]: [Usu](https://www.usu.edu/markdamen/ane/lectures/10.1.pdf)
+[^oai4]: [Brill](https://brill.com/display/book/edcoll/9789004445215/BP000013.xml?language=en&srsltid=AfmBOootbSkXcBgdsX5fKz0oBE4GJjIznG0rbP0jDY2pSQ6IE6zQ4K5b)
+[^oai5]: [Wikipedia](https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1)
 [^1]: Lambert，《巴比伦创造神话》（2013）第231页。
 [^2]: Robson，《希腊和美索不达米亚的语言与宇宙》（剑桥，2023）。
 [^3]: Heidel，《巴比伦创世记》（1951）第2章。
@@ -110,8 +115,8 @@ translation_model: gpt-4o
 ## 参考文献
 
 1. Lambert, W. G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
-2. Robson, E. "Language and Cosmos in the Epic of Creation." In *Language and Cosmos in Greece and Mesopotamia*, Cambridge UP, 2023. [oai_citation:1‡cambridge.org](https://www.cambridge.org/core/books/language-and-cosmos-in-greece-and-mesopotamia/language-and-cosmos-in-the-epic-of-creation/F9C41567F74F95C1F57304FBEDC150A7)
+2. Robson, E. "Language and Cosmos in the Epic of Creation." In *Language and Cosmos in Greece and Mesopotamia*, Cambridge UP, 2023. [^oai2]
 3. Heidel, A. *The Babylonian Genesis*. University of Chicago Press, 1951.
-4. Mark Damen, "Mesopotamian Literature: *Enūma Eliš*." Utah State University lecture notes, 2024. [oai_citation:2‡usu.edu](https://www.usu.edu/markdamen/ane/lectures/10.1.pdf)
-5. Brill, *A History of Akkadian Onomastics*, 2021. [oai_citation:3‡brill.com](https://brill.com/display/book/edcoll/9789004445215/BP000013.xml?language=en&srsltid=AfmBOootbSkXcBgdsX5fKz0oBE4GJjIznG0rbP0jDY2pSQ6IE6zQ4K5b)
-6. Wikipedia contributors. "Enūma Eliš." Last modified 2025-05-30. [oai_citation:4‡en.wikipedia.org](https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1)
+4. Mark Damen, "Mesopotamian Literature: *Enūma Eliš*." Utah State University lecture notes, 2024. [^oai3]
+5. Brill, *A History of Akkadian Onomastics*, 2021. [^oai4]
+6. Wikipedia contributors. "Enūma Eliš." Last modified 2025-05-30. [^oai5]

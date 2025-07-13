@@ -113,13 +113,19 @@ translation_model: gpt-4o
 
 ## फुटनोट्स
 
-[^ladon]: अपोलोडोरस, *बिब्लियोथेका* 2.5.11; पाउसैनियास 6.19.8; तुलना करें [oai_citation_attribution:0‡विकिपीडिया](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)।
+[^oai1]: [Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
+[^oai2]: [Scribd](https://www.scribd.com/document/754009730/18-1-song)
+[^oai3]: [Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
+[^oai4]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai5]: [Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs)
+[^oai6]: [Citeseerx](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+[^ladon]: अपोलोडोरस, *बिब्लियोथेका* 2.5.11; पाउसैनियास 6.19.8; तुलना करें [^oai1]।
 [^cornutus]: कॉर्नुटस, *थियोलोगिया ग्रेका* 25–26 (स्टोइक हेराक्लेस = विश्व-अग्नि)।
-[^rhapsodies]: डामासियस, *डी प्रिंसिपीस* I 316 = ऑर्फ. फ्र. 78 [oai_citation_attribution:1‡स्क्रिब्ड](https://www.scribd.com/document/754009730/18-1-song)।
-[^waggish]: क्रोनोस-सर्प चित्रण का विश्लेषणात्मक अवलोकन [oai_citation_attribution:2‡वाग्गिश](https://www.waggish.org/2013/father-time-chronos-and-kronos/)।
-[^phanes]: फेन्स चित्रलिपि के रूप में सर्प-लिपटे एंड्रोजाइन [oai_citation_attribution:3‡थियोई](https://www.theoi.com/Protogenos/Phanes.html)।
-[^olymp]: ओलंपियोडोरस, *इन फेडोनम* I 3, टाइटन राख मानव उत्पत्ति पर [oai_citation_attribution:4‡ब्रिन मावर कॉलेज रिपॉजिटरी](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs)।
-[^edmonds]: एडमंड्स 1999, "जाग्रेयस मिथक को अलग करना," मानव उत्पत्ति की देर से उत्पत्ति को नोट करता है [oai_citation_attribution:5‡साइटसीयरएक्स](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)।
+[^rhapsodies]: डामासियस, *डी प्रिंसिपीस* I 316 = ऑर्फ. फ्र. 78 [^oai2]।
+[^waggish]: क्रोनोस-सर्प चित्रण का विश्लेषणात्मक अवलोकन [^oai3]।
+[^phanes]: फेन्स चित्रलिपि के रूप में सर्प-लिपटे एंड्रोजाइन [^oai4]।
+[^olymp]: ओलंपियोडोरस, *इन फेडोनम* I 3, टाइटन राख मानव उत्पत्ति पर [^oai5]।
+[^edmonds]: एडमंड्स 1999, "जाग्रेयस मिथक को अलग करना," मानव उत्पत्ति की देर से उत्पत्ति को नोट करता है [^oai6]।
 [^cutler-gt]: एंड्रयू कटलर, "हेराक्लेस, आदम और कृष्णा सभी गोबेकली टेपे में दीक्षित हुए," पांडुलिपि तैयारी में। 2025।
 
 ---
@@ -130,8 +136,8 @@ translation_model: gpt-4o
 2. कॉर्नुटस। *थियोलोगिया ग्रेका* §25-26।
 3. ओलंपियोडोरस। *प्लेटो के फेडो पर टिप्पणी* I 3।
 4. अपोलोडोरस। *बिब्लियोथेका* 2.5.11।
-5. फेन्स डॉसियर, **थियोई प्रोजेक्ट**। [oai_citation_attribution:6‡थियोई](https://www.theoi.com/Protogenos/Phanes.html)
-6. "फादर टाइम: क्रोनोस और क्रोनोस," वाग्गिश.ऑर्ग। [oai_citation_attribution:7‡वाग्गिश](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
-7. "लाडोन (मिथक)," *माइथोपेडिया* + संदर्भ। [oai_citation_attribution:8‡विकिपीडिया](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
-8. रैडक्लिफ जी. एडमंड्स III। "जाग्रेयस मिथक को अलग करना," *क्लासिकल एंटिक्विटी* 18 (1999)। [oai_citation_attribution:9‡साइटसीयरएक्स](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+5. फेन्स डॉसियर, **थियोई प्रोजेक्ट**। [^oai4]
+6. "फादर टाइम: क्रोनोस और क्रोनोस," वाग्गिश.ऑर्ग। [^oai3]
+7. "लाडोन (मिथक)," *माइथोपेडिया* + संदर्भ। [^oai1]
+8. रैडक्लिफ जी. एडमंड्स III। "जाग्रेयस मिथक को अलग करना," *क्लासिकल एंटिक्विटी* 18 (1999)। [^oai6]
 9. एंड्रयू कटलर। *हेराक्लेस, आदम और कृष्णा गोबेकली टेपे में* (आगामी)।

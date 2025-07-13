@@ -29,33 +29,33 @@ translation_model: gpt-4o
 
 **TL;DR**
 
-- Os ossos de galinha mais antigos e seguros nas Américas são espanhóis, **mas** uma camada chilena em El Arenal (^14C ~ 1320-1400 EC) mais o mtDNA polinésio correspondente mantém viva a hipótese pré-colombiana. [oai_citation:0‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104?utm_source=chatgpt.com) [oai_citation:1‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1965514/?utm_source=chatgpt.com)  
-- Correções de reservatório, tamanho de amostra pequeno e possível contaminação moderna são as principais objeções. [oai_citation:2‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/?utm_source=chatgpt.com) [oai_citation:3‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111?utm_source=chatgpt.com)  
-- Indícios etno-históricos (rituais incas, palavras mapuche) sugerem familiaridade com galinhas antes de 1532, mas nenhum é decisivo. [oai_citation:4‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html?utm_source=chatgpt.com)  
-- Nenhum outro sítio no Novo Mundo produziu ossos de Gallus definitivamente pré-1492, mas vários "talvez" (Peru, Califórnia) estão sob reanálise. [oai_citation:5‡ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile?utm_source=chatgpt.com)  
+- Os ossos de galinha mais antigos e seguros nas Américas são espanhóis, **mas** uma camada chilena em El Arenal (^14C ~ 1320-1400 EC) mais o mtDNA polinésio correspondente mantém viva a hipótese pré-colombiana. [^oai1] [^oai2] 
+- Correções de reservatório, tamanho de amostra pequeno e possível contaminação moderna são as principais objeções. [^oai3] [^oai4] 
+- Indícios etno-históricos (rituais incas, palavras mapuche) sugerem familiaridade com galinhas antes de 1532, mas nenhum é decisivo. [^oai5] 
+- Nenhum outro sítio no Novo Mundo produziu ossos de Gallus definitivamente pré-1492, mas vários "talvez" (Peru, Califórnia) estão sob reanálise. [^oai6] 
 - Se genuínos, marinheiros polinésios provavelmente transportaram aves para o leste nos séculos 13-14, paralelamente à transferência da batata-doce. Caso contrário, os europeus recebem todo o crédito.
 
 ---
 
 ## 1 Como a Questão Surgiu
 
-Cronistas espanhóis descreveram **"gallinas de Castilla"** chegando com a conquista, mas alguns relatos sugerem que os povos andinos já mantinham galinhas para uso ritual. [oai_citation:6‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html) Tal testemunho é escasso, mas plantou a semente para arqueólogos que mais tarde vasculharam os depósitos sul-americanos em busca de ossos que correspondessem ao galo-da-selva do Velho Mundo.
+Cronistas espanhóis descreveram **"gallinas de Castilla"** chegando com a conquista, mas alguns relatos sugerem que os povos andinos já mantinham galinhas para uso ritual. [^oai7] Tal testemunho é escasso, mas plantou a semente para arqueólogos que mais tarde vasculharam os depósitos sul-americanos em busca de ossos que correspondessem ao galo-da-selva do Velho Mundo.
 
-Em 2007, Storey et al. eletrificaram o campo: um único tarsometatarso de **El Arenal-1 (Península de Arauco, Chile)** produziu uma idade ^14C não calibrada de 622 ± 35 BP e um haplótipo mitocondrial ("E") conhecido apenas na Polinésia pré-histórica. [oai_citation:7‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104) De repente, a ave doméstica parecia uma arma fumegante trans-Pacífico.
+Em 2007, Storey et al. eletrificaram o campo: um único tarsometatarso de **El Arenal-1 (Península de Arauco, Chile)** produziu uma idade ^14C não calibrada de 622 ± 35 BP e um haplótipo mitocondrial ("E") conhecido apenas na Polinésia pré-histórica. [^oai8] De repente, a ave doméstica parecia uma arma fumegante trans-Pacífico.
 
 ### 1.1 O Debate de El Arenal
 
 Campo pró-contato 
 : • A data precede Magalhães por um século, mesmo após correções de dieta marinha. 
  • O mtDNA agrupa-se com sequências polinésias antigas, não com raças ibéricas. 
- • Os polinésios já moveram a batata-doce de leste para oeste; por que não galinhas? [oai_citation:8‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4156719/) 
+ • Os polinésios já moveram a batata-doce de leste para oeste; por que não galinhas? [^oai9] 
 
 Céticos 
 : • A amostra (n = 1) é muito pequena; o contexto foi perturbado pela migração de dunas. 
  • Correções de reservatório poderiam empurrar o osso para depois de 1492. 
- • O haplogrupo E também aparece em estoques europeus modernos—possível contaminação. [oai_citation:9‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/) [oai_citation:10‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111) 
+ • O haplogrupo E também aparece em estoques europeus modernos—possível contaminação. [^oai10] [^oai11] 
 
-Uma reescavação em 2023 refinou a estratigrafia, mas, frustrantemente, não produziu **novos restos de galinha**, mantendo o impasse intacto. [oai_citation:11‡ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile)
+Uma reescavação em 2023 refinou a estratigrafia, mas, frustrantemente, não produziu **novos restos de galinha**, mantendo o impasse intacto. [^oai12]
 
 ### 1.2 Os Indícios Linguísticos e Iconográficos
 
@@ -101,19 +101,35 @@ Mesmo que El Arenal se dissolva sob escrutínio adicional, o episódio destaca c
 
 ## Notas de Rodapé
 
+[^oai1]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104?utm_source=chatgpt.com)
+[^oai2]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1965514/?utm_source=chatgpt.com)
+[^oai3]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/?utm_source=chatgpt.com)
+[^oai4]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111?utm_source=chatgpt.com)
+[^oai5]: [Gmatclub](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html?utm_source=chatgpt.com)
+[^oai6]: [ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile?utm_source=chatgpt.com)
+[^oai7]: [Gmatclub](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html)
+[^oai8]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104)
+[^oai9]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4156719/)
+[^oai10]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/)
+[^oai11]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111)
+[^oai12]: [ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile)
+[^oai13]: [ResearchGate](https://www.researchgate.net/publication/261656806_Polynesian_Chickens_in_the_New_World_a_detailed_application_of_a_commensal_approach)
+[^oai14]: [Academia](https://www.academia.edu/61029989/Pre_Columbian_chickens_dates_isotopes_and_mtDNA)
+[^oai15]: [Languagelog](https://languagelog.ldc.upenn.edu/nll/?p=57706)
+[^oai16]: [Cordis](https://cordis.europa.eu/project/id/895107)
 [^1]: Para uma introdução sobre correções de reservatório e calibração, veja Thompson et al., *Journal of Archaeological Science* **41** (2014): 118-125.
 
 ---
 
 ## Fontes
 
-1. Storey, A.A., et al. "Radiocarbon and DNA Evidence for a Pre-Columbian Introduction of Polynesian Chickens to Chile." *PNAS* 104 (2007): 10335-10339. [oai_citation:12‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104) 
-2. Thomson, V.A., et al. "No Evidence Against Polynesian Dispersal of Chickens to Pre-Columbian South America." *PNAS* 111 (2014): E4836-E4837. [oai_citation:13‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111) 
-3. Gongora, J., et al. "Indo-European and Asian Contribution to the Genetic Diversity of Mainland South American Chickens." *Molecular Biology and Evolution* 37 (2020): 114-125. [oai_citation:14‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/) 
-4. Oyanedel, F., et al. "Revisiting the Evidence of the Arenal-1 Site: Chronologies and Human Interactions in Central-Southern Chile." *Heritage & Society* 16 (2023): 45-68. [oai_citation:15‡ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile) 
-5. Storey, A.A., & Matisoo-Smith, E. "Polynesian Chickens in the New World: A Detailed Application of a Commensal Approach." *Asian Perspectives* 52 (2013): 205-228. [oai_citation:16‡ResearchGate](https://www.researchgate.net/publication/261656806_Polynesian_Chickens_in_the_New_World_a_detailed_application_of_a_commensal_approach) 
+1. Storey, A.A., et al. "Radiocarbon and DNA Evidence for a Pre-Columbian Introduction of Polynesian Chickens to Chile." *PNAS* 104 (2007): 10335-10339. [^oai8] 
+2. Thomson, V.A., et al. "No Evidence Against Polynesian Dispersal of Chickens to Pre-Columbian South America." *PNAS* 111 (2014): E4836-E4837. [^oai11] 
+3. Gongora, J., et al. "Indo-European and Asian Contribution to the Genetic Diversity of Mainland South American Chickens." *Molecular Biology and Evolution* 37 (2020): 114-125. [^oai10] 
+4. Oyanedel, F., et al. "Revisiting the Evidence of the Arenal-1 Site: Chronologies and Human Interactions in Central-Southern Chile." *Heritage & Society* 16 (2023): 45-68. [^oai12] 
+5. Storey, A.A., & Matisoo-Smith, E. "Polynesian Chickens in the New World: A Detailed Application of a Commensal Approach." *Asian Perspectives* 52 (2013): 205-228. [^oai13] 
 6. Dillehay, T.D. *The Settlement of the Americas: A New Prehistory*. Basic Books, 2009. 
-7. Langley, M.C. "Pre-Columbian Chickens, Dates, Isotopes, and mtDNA." *Antiquity* 82 (2008): 176-190. [oai_citation:17‡Academia](https://www.academia.edu/61029989/Pre_Columbian_chickens_dates_isotopes_and_mtDNA) 
-8. "A Group of Anthropologists Has Argued that Europeans May Not Have Been the First to Bring Chickens to South America." GMAT Club forum summary, 2024. [oai_citation:18‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html) 
-9. Language Log. "Polynesian Sweet Potatoes and Jungle Chickens: Verbal Vectors." Blog post, 2023. [oai_citation:19‡Language Log](https://languagelog.ldc.upenn.edu/nll/?p=57706) 
-10. EU CORDIS. "Araucana Project: Unravelling Chickens Using Genomics." Project ID 895107, 2024. [oai_citation:20‡cordis.europa.eu](https://cordis.europa.eu/project/id/895107)
+7. Langley, M.C. "Pre-Columbian Chickens, Dates, Isotopes, and mtDNA." *Antiquity* 82 (2008): 176-190. [^oai14] 
+8. "A Group of Anthropologists Has Argued that Europeans May Not Have Been the First to Bring Chickens to South America." GMAT Club forum summary, 2024. [^oai7] 
+9. Language Log. "Polynesian Sweet Potatoes and Jungle Chickens: Verbal Vectors." Blog post, 2023. [^oai15] 
+10. EU CORDIS. "Araucana Project: Unravelling Chickens Using Genomics." Project ID 895107, 2024. [^oai16]

@@ -1,4 +1,16 @@
 {{ define "main" }}
+  {{/* Determine quality threshold (default 6 if not set) */}}
+  {{ $qualityThreshold := int (or $.Site.Params.qualityThreshold 6) }}
+
+  {{/* Build the page collection, filtering for taxonomy term pages */}}
+  {{ $pages := .Pages }}
+  {{ if eq .Kind "taxonomy" }}
+    {{ $pages = where $pages "Params.quality" ">=" $qualityThreshold }}
+  {{ end }}
+
+  {{/* Always create a paginator so .Paginator is available later */}}
+  {{ $paginator := .Paginate $pages }}
+
   {{ with .Content }}
     <div class="index-content mb-8">
       {{ . | markdownify }}
@@ -6,7 +18,7 @@
   {{ end }}
 
   <div class="posts space-y-10">
-    {{ range .Paginator.Pages }}
+    {{ range $paginator.Pages }}
       <article class="post-on-list border border-retro-accent/50 p-6 shadow-lg shadow-retro-accent/10">
         {{ $titleContent := printf `<a href="%s">%s</a>` .RelPermalink (.Title | markdownify) }}
         {{ partial "heading-with-symbols.html" (dict "level" 2 "anchor" (.Title | urlize) "text" $titleContent "page" .) }}

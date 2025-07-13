@@ -29,10 +29,10 @@ translation_model: gpt-4o
 
 **TL;DR**
 
-- Tylor a introduit le rhombe dans l'anthropologie victorienne comme une *survivance* reliant la Grèce classique aux rituels "sauvages" vivants.  
-- Dans *Primitive Culture* (1871 / 1873), il a assemblé des cas ethnographiques d'Australie, de Nouvelle-Zélande, du Nouveau-Mexique, du Zoulouland et de Grèce, arguant que les fonctions mythiques partagées pointaient vers la diffusion plutôt que l'invention indépendante.  
-- Des discours présidentiels ultérieurs (1879 – 1893) ont élargi la carte à l'Afrique de l'Ouest et à l'Amazonie supérieure.  
-- Il a constamment présenté l'instrument comme preuve que les idées et les rites peuvent voyager plus vite que les peuples qui les pratiquent.  
+- Tylor a introduit le rhombe dans l'anthropologie victorienne comme une *survivance* reliant la Grèce classique aux rituels "sauvages" vivants. 
+- Dans *Primitive Culture* (1871 / 1873), il a assemblé des cas ethnographiques d'Australie, de Nouvelle-Zélande, du Nouveau-Mexique, du Zoulouland et de Grèce, arguant que les fonctions mythiques partagées pointaient vers la diffusion plutôt que l'invention indépendante. 
+- Des discours présidentiels ultérieurs (1879 – 1893) ont élargi la carte à l'Afrique de l'Ouest et à l'Amazonie supérieure. 
+- Il a constamment présenté l'instrument comme preuve que les idées et les rites peuvent voyager plus vite que les peuples qui les pratiquent. 
 
 ---
 
@@ -42,10 +42,10 @@ translation_model: gpt-4o
 > Parmi les 'faiseurs de pluie' Zuñi, le même instrument, *'une latte sonore,'* appelle les nuages. 
 > Les Grecs employaient le **rhombos** dans les mystères dionysiaques. 
 > Qu'un objet si particulier, remplissant le même devoir sacré, réapparaisse ainsi de l'Attique à la brousse tend fortement à montrer la transmission de la coutume." 
-> —*Primitive Culture*, vol. I, pp. 325-326 [oai_citation:0‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
+> —*Primitive Culture*, vol. I, pp. 325-326 [^oai1] 
 
 > "Nous avons maintenant suivi le rhombe presque autour du monde…L'hypothèse de l'unité psychique obligerait chaque tribu à réinventer à la fois la latte et le mythe; l'hypothèse de *l'interaction culturelle* explique les faits à bien moindre coût." 
-> —Discours présidentiel, Institut anthropologique, 21 août 1879, p. 6 [oai_citation:1‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf) 
+> —Discours présidentiel, Institut anthropologique, 21 août 1879, p. 6 [^oai2] 
 
 Tylor n'a jamais réduit la distribution à un seul point d'origine; il parlait plutôt de "plusieurs pulsations d'emprunt se déplaçant le long des sillons de la migration et du commerce."
 
@@ -55,11 +55,11 @@ Tylor n'a jamais réduit la distribution à un seul point d'origine; il parlait 
 
 ### 2.1 Instrument-Techne
 
-> "L'objet est un rhomboïde de bois léger, de huit ou dix pouces de long, les bords parfois crénelés; une extrémité est percée pour une lanière.  
-> Tourné rapidement, il devient invisible et émet un grondement que les auditeurs civilisés comparent au 'rugissement d'un taureau lointain.'"  
-> —vol. I, p. 325  [oai_citation:2‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)  
+> "L'objet est un rhomboïde de bois léger, de huit ou dix pouces de long, les bords parfois crénelés; une extrémité est percée pour une lanière. 
+> Tourné rapidement, il devient invisible et émet un grondement que les auditeurs civilisés comparent au 'rugissement d'un taureau lointain.'" 
+> —vol. I, p. 325 [^oai1] 
 
-| Lieu        | Nom indigène | Rite principal          | Précis de Tylor |
+| Lieu | Nom indigène | Rite principal | Précis de Tylor |
 |-------------|--------------|-------------------------|-----------------|
 | SE Australie | **turndun** | Initiation masculine | "Voix de Baiame / Daramulun; tabou mortel pour les femmes." |
 | Nouvelle-Zélande | **purerehua** | Magie météorologique | "Tourné pour 'attirer le vent.'" |
@@ -72,20 +72,20 @@ Tylor n'a jamais réduit la distribution à un seul point d'origine; il parlait 
 Tylor met en avant trois idées récurrentes :
 
 1. **Voix du surnaturel.** 
- > "Son grondement est constamment interprété comme la parole du dieu ou de l'ancêtre." —p. 326 [oai_citation:3‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
+ > "Son grondement est constamment interprété comme la parole du dieu ou de l'ancêtre." —p. 326 [^oai1] 
 
 2. **Secret rituel / Division de genre.** 
  Les punitions pour regard profane "vont du fouet à la mort"; la Grèce garde le *rhombos* derrière des rideaux, l'Australie derrière des menaces de mort par lance.
 
 3. **Contrôle météorologique.** 
- Les rites polynésiens et pueblo "balancent la latte pour *'appeler le vent et la pluie.'*" —p. 327 n. 1 [oai_citation:4‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
+ Les rites polynésiens et pueblo "balancent la latte pour *'appeler le vent et la pluie.'*" —p. 327 n. 1 [^oai1] 
 
 ---
 
 ## 3 Diffusion vs. Convergence — L'argument de Tylor
 
 > "Concevez cinquante tribus non connectées chacune trouvant un charme en bois identique, complet avec le même tabou du tonnerre, le même mythe du père-ciel : la coïncidence serait monstrueuse."  
-> —Discours présidentiel 1879, p. 7  [oai_citation:5‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf?utm_source=chatgpt.com)  
+> —Discours présidentiel 1879, p. 7  [^oai3]  
 
 Il concède que l'invention indépendante est *possible*—"la latte est mécaniquement simple"—mais insiste sur le fait que les éléments annexes (mythe, tabou, cadre d'initiation) font de la diffusion "l'économie de l'hypothèse."
 
@@ -128,6 +128,11 @@ Oui—des spécimens paléolithiques (Ukraine c. 18 ka) montrent que la forme pr
 
 ## Notes de bas de page
 
+[^oai1]: [Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)
+[^oai2]: [Ia801501](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf)
+[^oai3]: [Ia801501](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf?utm_source=chatgpt.com)
+[^oai4]: [Archive](https://archive.org/download/custommyth00lang/custommyth00lang_djvu.txt)
+[^oai5]: [Archive](https://archive.org/download/studyofman00hadduoft/studyofman00hadduoft.pdf)
 [^1]: Toutes les citations de Tylor proviennent de *Primitive Culture*, 2e éd. (1873) sauf indication contraire; les numéros de page suivent cette édition.  
 [^2]: Discours présidentiel publié dans le *Journal of the Anthropological Institute*, vol. 9 (1880).  
 [^3]: Exemples australiens de Fison & Howitt, *Kamilaroi and Kurnai* (1880) pp. 267-268.  
@@ -138,11 +143,11 @@ Oui—des spécimens paléolithiques (Ukraine c. 18 ka) montrent que la forme pr
 
 ## Sources
 
-1. Tylor, E.B. *Primitive Culture*, 2 vols., 2e éd., Londres : Murray, 1873. [oai_citation:6‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
-2. Tylor, E.B. "Address to the Department of Anthropology," Sheffield, 21 août 1879. [oai_citation:7‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf) 
+1. Tylor, E.B. *Primitive Culture*, 2 vols., 2e éd., Londres : Murray, 1873. [^oai1] 
+2. Tylor, E.B. "Address to the Department of Anthropology," Sheffield, 21 août 1879. [^oai2] 
 3. Fison, L., & Howitt, A.W. *Kamilaroi and Kurnai*. Melbourne : Gordon & Gotch, 1880. 
-4. Lang, A. "The Bull-Roarer," in *Custom and Myth*. Londres : Longmans, 1884, pp. 29-44. [oai_citation:8‡Internet Archive](https://archive.org/download/custommyth00lang/custommyth00lang_djvu.txt) 
+4. Lang, A. "The Bull-Roarer," in *Custom and Myth*. Londres : Longmans, 1884, pp. 29-44. [^oai4] 
 5. Cushing, F.H. "A Priest-hood of Zuñi," *Century Magazine* 26 (1883) : 282-300. 
-6. Haddon, A.C. *The Study of Man*. Londres : Smith Elder, 1898, p. 219. [oai_citation:9‡Internet Archive](https://archive.org/download/studyofman00hadduoft/studyofman00hadduoft.pdf) 
+6. Haddon, A.C. *The Study of Man*. Londres : Smith Elder, 1898, p. 219. [^oai5] 
 7. Boas, F. "The Limitations of the Comparative Method," *Science* 4 (1896) : 901-908. 
 8. Boyd, M. "Palaeolithic Bull-Roarers," *Antiquity* 94 (2020) : 1366-1381.

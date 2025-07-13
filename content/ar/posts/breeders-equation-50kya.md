@@ -37,9 +37,9 @@ translation_model: gpt-4o
 
 ## 1 اقتباسات وكتاب اللوح الفارغ
 
-> "لم يحدث **أي تغيير بيولوجي في البشر منذ 40,000 أو 50,000 سنة**. كل ما نسميه ثقافة وحضارة بنيناه بنفس الجسد والعقل." — *ستيفن جاي جولد*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+> "لم يحدث **أي تغيير بيولوجي في البشر منذ 40,000 أو 50,000 سنة**. كل ما نسميه ثقافة وحضارة بنيناه بنفس الجسد والعقل." — *ستيفن جاي جولد*  [^oai1]
 
-> "كان الناس في عصور ما قبل التاريخ *مساوين لنا* في القدرة العقلية؛ الفرق هو ثقافي بحت." — *ديفيد دويتش*، بودكاست Within Reason، 2025  [oai_citation_attribution:1‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+> "كان الناس في عصور ما قبل التاريخ *مساوين لنا* في القدرة العقلية؛ الفرق هو ثقافي بحت." — *ديفيد دويتش*، بودكاست Within Reason، 2025  [^oai2]
 
 تُعامل مثل هذه التصريحات كحقائق بديهية في العديد من الفصول الدراسية. أدناه أتعامل معها كفرضيات قابلة للدحض وأجري الحسابات.
 
@@ -78,9 +78,9 @@ translation_model: gpt-4o
 
 تسمح مجموعات البيانات الكبيرة للحمض النووي القديم (~7,000 جينوم) بتتبع الدرجات متعددة الجينات (PGS) لمئات السمات. النتائج الأكثر صلة هنا:
 
-* **ارتفعت PGS الإدراكية ~0.5 SD منذ 10 آلاف سنة**—≈ +35 IQ إذا كانت القياس الخطي صحيحًا. [oai_citation_attribution:2‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+* **ارتفعت PGS الإدراكية ~0.5 SD منذ 10 آلاف سنة**—≈ +35 IQ إذا كانت القياس الخطي صحيحًا. [^oai3]
 * نصف **أقوى اثني عشر انتقاء في الهولوسين** تتعلق بسمات مرتبطة بالإدراك (التحصيل التعليمي، حجم الجمجمة، إلخ).
-* تظهر النقاط الساخنة على الكروموسوم X مثل **TENM1** انتقاءات تعود إلى < 60 ألف سنة، متوافقة مع تعديلات في التكرار/الفونولوجيا في البشر *بعد النياندرتال*. [oai_citation_attribution:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+* تظهر النقاط الساخنة على الكروموسوم X مثل **TENM1** انتقاءات تعود إلى < 60 ألف سنة، متوافقة مع تعديلات في التكرار/الفونولوجيا في البشر *بعد النياندرتال*. [^oai4]
 
 إدخال **S ≈ 0.2** في معادلة المربي يعيد إنتاج مسار +35 IQ بشكل أنيق.
 
@@ -116,17 +116,23 @@ translation_model: gpt-4o
 
 ## الحواشي
 
+[^oai1]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+[^oai2]: [Youtube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+[^oai3]: [Cambridge](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+[^oai4]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+[^oai5]: [Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
+[^oai6]: [Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
 [^1]: تتراوح تقديرات h² للذكاء النفسي بين 0.5–0.8 في مرحلة البلوغ (انظر Polderman et al., *Nat. Genet.* 2015).
 [^2]: قام لين R. *Dysgenics* (1996) بتجميع >25 مجموعة بيانات عن الخصوبة والذكاء؛ متوسط r ≈ –0.2 ⇒ S ≈ -0.8 IQ.
-[^3]: Hugh-Jones D. & Kohler H-P. "Natural Selection across Three Generations of Americans". 2024 pre-print. [oai_citation_attribution:4‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-[^4]: Turkheimer E. "Three Laws of Behaviour Genetics". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [oai_citation_attribution:5‡SAGE Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
+[^3]: Hugh-Jones D. & Kohler H-P. "Natural Selection across Three Generations of Americans". 2024 pre-print. [^oai5]
+[^4]: Turkheimer E. "Three Laws of Behaviour Genetics". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [^oai6]
 
 ---
 
 ## المصادر
 
-1. اقتباس S.J. Gould في *هل توقفت تطور الإنسان؟* [oai_citation_attribution:6‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
-2. D. Deutsch & A. O'Connor, "أنت لست أذكى من إنسان الكهف"، بودكاست Within Reason (YouTube 2025). [oai_citation_attribution:7‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
-3. Hugh-Jones D. et al., 2024 selection scan – انظر الحاشية 3. [oai_citation_attribution:8‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-4. Skov L. et al., "انتقاء استثنائي على الكروموسوم X البشري…"، *Cell* 2023. [oai_citation_attribution:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
-5. Piffer D. "اتجاهات تطورية للدرجات متعددة الجينات في السكان الأوروبيين…"، *Twin Res.* 2023. [oai_citation_attribution:10‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+1. اقتباس S.J. Gould في *هل توقفت تطور الإنسان؟* [^oai1]
+2. D. Deutsch & A. O'Connor, "أنت لست أذكى من إنسان الكهف"، بودكاست Within Reason (YouTube 2025). [^oai2]
+3. Hugh-Jones D. et al., 2024 selection scan – انظر الحاشية 3. [^oai5]
+4. Skov L. et al., "انتقاء استثنائي على الكروموسوم X البشري…"، *Cell* 2023. [^oai4]
+5. Piffer D. "اتجاهات تطورية للدرجات متعددة الجينات في السكان الأوروبيين…"، *Twin Res.* 2023. [^oai3]

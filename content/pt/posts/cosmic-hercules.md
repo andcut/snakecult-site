@@ -113,13 +113,19 @@ Daí a popularidade do serpente-Herácles entre os **neoplatônicos**: ele ofere
 
 ## Notas de Rodapé
 
-[^ladon]: Apolodoro, *Biblioteca* 2.5.11; Pausânias 6.19.8; cf. resumo [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29).
+[^oai1]: [Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
+[^oai2]: [Scribd](https://www.scribd.com/document/754009730/18-1-song)
+[^oai3]: [Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
+[^oai4]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai5]: [Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs)
+[^oai6]: [Citeseerx](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+[^ladon]: Apolodoro, *Biblioteca* 2.5.11; Pausânias 6.19.8; cf. resumo [^oai1].
 [^cornutus]: Cornuto, *Theologia Graeca* 25–26 (Herácles estóico = fogo mundial).
-[^rhapsodies]: Damáscio, *De Principiis* I 316 = Orph. fr. 78 [oai_citation_attribution:1‡Scribd](https://www.scribd.com/document/754009730/18-1-song).
-[^waggish]: Visão analítica da imagem da serpente Chronos [oai_citation_attribution:2‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/).
-[^phanes]: Iconografia de Phanes como andrógino envolto em serpente [oai_citation_attribution:3‡Theoi](https://www.theoi.com/Protogenos/Phanes.html).
-[^olymp]: Olimpiodoro, *In Phaedonem* I 3, sobre antropogonia da fuligem titânica [oai_citation_attribution:4‡Bryn Mawr College Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs).
-[^edmonds]: Edmonds 1999, "Tearing Apart the Zagreus Myth," observa a origem tardia da antropogonia [oai_citation_attribution:5‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf).
+[^rhapsodies]: Damáscio, *De Principiis* I 316 = Orph. fr. 78 [^oai2].
+[^waggish]: Visão analítica da imagem da serpente Chronos [^oai3].
+[^phanes]: Iconografia de Phanes como andrógino envolto em serpente [^oai4].
+[^olymp]: Olimpiodoro, *In Phaedonem* I 3, sobre antropogonia da fuligem titânica [^oai5].
+[^edmonds]: Edmonds 1999, "Tearing Apart the Zagreus Myth," observa a origem tardia da antropogonia [^oai6].
 [^cutler-gt]: Andrew Cutler, "Herakles, Adam & Krishna Were All Initiated at Göbekli Tepe," ms. em prep. 2025.
 
 ---
@@ -130,8 +136,8 @@ Daí a popularidade do serpente-Herácles entre os **neoplatônicos**: ele ofere
 2. Cornuto. *Theologia Graeca* §25-26.
 3. Olimpiodoro. *Comentário sobre o Fédon de Platão* I 3.
 4. Apolodoro. *Biblioteca* 2.5.11.
-5. Dossiê de Phanes, **Theoi Project**. [oai_citation_attribution:6‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)
-6. "Father Time: Chronos and Kronos," Waggish.org. [oai_citation_attribution:7‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
-7. "Ladon (mythology),", *Mythopedia* + refs. [oai_citation_attribution:8‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
-8. Radcliffe G. Edmonds III. "Tearing Apart the Zagreus Myth," *Classical Antiquity* 18 (1999). [oai_citation_attribution:9‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+5. Dossiê de Phanes, **Theoi Project**. [^oai4]
+6. "Father Time: Chronos and Kronos," Waggish.org. [^oai3]
+7. "Ladon (mythology),", *Mythopedia* + refs. [^oai1]
+8. Radcliffe G. Edmonds III. "Tearing Apart the Zagreus Myth," *Classical Antiquity* 18 (1999). [^oai6]
 9. Andrew Cutler. *Herakles, Adam & Krishna at Göbekli Tepe* (a ser publicado).

@@ -38,11 +38,11 @@ translation_model: gpt-4o
 
 | اللقب | الموقع / الوظيفة | الأيقونات | المصدر |
 |-------|------------------|-----------|--------|
-| **زيوس ميليخيوس** | أثينا، أرغوس؛ التهدئة الجوفية والثروة | **ثعبان ملفوف** على النقوش والمذابح | [oai_citation_attribution:0‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf) |
-| **زيوس كتيسيوس / أغاثوس دايمون** | الأضرحة المنزلية؛ حامي المخزن | **جرة ثعبان صغيرة (كاديسكوس)**، لفتان | [oai_citation_attribution:1‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the) |
-| **زيوس فيلاكس** | جدران المدينة؛ روح حارسة | ثعابين نذرية فوق البوابات | [oai_citation_attribution:2‡Wikipedia](https://en.wikipedia.org/wiki/Oracle) |
-| **زيوس سابازيوس** (تراقي) | أسرار متنقلة؛ طقوس نشوة | **يد برونزية** ملفوفة بثعبان | [oai_citation_attribution:3‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) |
-| **زيوس ليكيوس** | ليكايا الأركادية؛ مبادرة غامضة | أسطورة المستذئب وأكل لحوم البشر؛ **كومة رماد** مخفية | [oai_citation_attribution:4‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia) |
+| **زيوس ميليخيوس** | أثينا، أرغوس؛ التهدئة الجوفية والثروة | **ثعبان ملفوف** على النقوش والمذابح | [^oai1] |
+| **زيوس كتيسيوس / أغاثوس دايمون** | الأضرحة المنزلية؛ حامي المخزن | **جرة ثعبان صغيرة (كاديسكوس)**، لفتان | [^oai2] |
+| **زيوس فيلاكس** | جدران المدينة؛ روح حارسة | ثعابين نذرية فوق البوابات | [^oai3] |
+| **زيوس سابازيوس** (تراقي) | أسرار متنقلة؛ طقوس نشوة | **يد برونزية** ملفوفة بثعبان | [^oai4] |
+| **زيوس ليكيوس** | ليكايا الأركادية؛ مبادرة غامضة | أسطورة المستذئب وأكل لحوم البشر؛ **كومة رماد** مخفية | [^oai5] |
 
 > **النمط:** حيثما يتوسط زيوس **الثروة، الحماية، أو الحدود**، تلتصق الطائفة بـ **ثعبان**.
 
@@ -59,7 +59,7 @@ translation_model: gpt-4o
 
 ### 2.3 التفسير الفلسفي
 - **بروكلوس**: ابتلاع زيوس وإعادة إصداره هو الدورة الكبرى التي تعكس المبادرات الصغيرة.
-- **أرسطو (الشذرة OF 166)** يلاحظ بالفعل أن الأورفيين يطلقون على زيوس *"رأس-وسط-نهاية الكل."* [oai_citation_attribution:5‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+- **أرسطو (الشذرة OF 166)** يلاحظ بالفعل أن الأورفيين يطلقون على زيوس *"رأس-وسط-نهاية الكل."* [^oai6]
 
 ---
 
@@ -99,23 +99,35 @@ translation_model: gpt-4o
 
 ## الهوامش
 
-[^zagreus]: *زاغريوس* ملخص دخول زيوس كثعبان كأبوة. [oai_citation_attribution:6‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-[^phanes-swallow]: الشذرتان الأورفيتان 167 و168 (كيرن): زيوس يبتلع فانيس، تنهار كل الآلهة فيه. [oai_citation_attribution:7‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-[^cleanthes]: كلينثيس، *نشيد لزيوس* الأسطر 10-14 (حول العودة الدورية). [oai_citation_attribution:8‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai1]: [Ascs](https://www.ascs.org.au/news/ascs31/Burton.pdf)
+[^oai2]: [Verdantlyviolet](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
+[^oai3]: [Wikipedia](https://en.wikipedia.org/wiki/Oracle)
+[^oai4]: [Wikipedia](https://en.wikipedia.org/wiki/Sabazios)
+[^oai5]: [Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
+[^oai6]: [Ir](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+[^oai7]: [Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
+[^oai8]: [Hellenic Gods](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
+[^oai9]: [Hellenion](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai10]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai11]: [Fulmenquarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
+[^oai12]: [Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
+[^zagreus]: *زاغريوس* ملخص دخول زيوس كثعبان كأبوة. [^oai7]
+[^phanes-swallow]: الشذرتان الأورفيتان 167 و168 (كيرن): زيوس يبتلع فانيس، تنهار كل الآلهة فيه. [^oai8]
+[^cleanthes]: كلينثيس، *نشيد لزيوس* الأسطر 10-14 (حول العودة الدورية). [^oai9]
 [^tablets]: ألواح ذهبية: خطوط لوح هيبونيون 10-14 تستدعي نسب *زيوس-بيرسيفوني*.
 
 ---
 
 ## المصادر
 
-1. دراسة طائفة زيوس ميليخيوس (بيرتون 2011). [oai_citation_attribution:9‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf)
-2. "زيوس كتيسيوس والكاديسكوس"، منشور مدونة verdantlyviolet. [oai_citation_attribution:10‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
-3. الشذرتان الأورفيتان 167-168، تجميع أوتو كيرن. [oai_citation_attribution:11‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-4. *Theoi: Phanes* — ملاحظات حول زيوس يبتلع فانيس. [oai_citation_attribution:12‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)
-5. كلينثيس، *نشيد لزيوس* (ترجمة هيلينيون). [oai_citation_attribution:13‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
-6. ملخص علمي عن "زاغريوس" في ويكيبيديا. [oai_citation_attribution:14‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-7. ويكيبيديا "سابازيوس" وFulmen Quarterly حول أيقونة اليد. [oai_citation_attribution:15‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) [oai_citation_attribution:16‡Fulmen Quarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
-8. ويكيبيديا "ليكيا" (طقوس زيوس ليكيوس). [oai_citation_attribution:17‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
-9. استعراض الأوراكل: ثعابين دودونا وديون. [oai_citation_attribution:18‡Wikipedia](https://en.wikipedia.org/wiki/Oracle)
-10. مقتطفات بروكلوس / داماسيوس في مقال الأثير (§أورفي). [oai_citation_attribution:19‡Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
-11. أطروحة "زيوس الرأس، زيوس الوسط" (جامعة أونتاريو الغربية، 2015). [oai_citation_attribution:20‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+1. دراسة طائفة زيوس ميليخيوس (بيرتون 2011). [^oai1]
+2. "زيوس كتيسيوس والكاديسكوس"، منشور مدونة verdantlyviolet. [^oai2]
+3. الشذرتان الأورفيتان 167-168، تجميع أوتو كيرن. [^oai8]
+4. *Theoi: Phanes* — ملاحظات حول زيوس يبتلع فانيس. [^oai10]
+5. كلينثيس، *نشيد لزيوس* (ترجمة هيلينيون). [^oai9]
+6. ملخص علمي عن "زاغريوس" في ويكيبيديا. [^oai7]
+7. ويكيبيديا "سابازيوس" وFulmen Quarterly حول أيقونة اليد. [^oai4] [^oai11]
+8. ويكيبيديا "ليكيا" (طقوس زيوس ليكيوس). [^oai5]
+9. استعراض الأوراكل: ثعابين دودونا وديون. [^oai3]
+10. مقتطفات بروكلوس / داماسيوس في مقال الأثير (§أورفي). [^oai12]
+11. أطروحة "زيوس الرأس، زيوس الوسط" (جامعة أونتاريو الغربية، 2015). [^oai6]

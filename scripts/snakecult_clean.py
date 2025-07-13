@@ -72,10 +72,146 @@ def remove_utm_params(url:str)->str:
         return f"{base}?{'&'.join(params)}"
     return base
 
+def clean_oai_citations(text: str) -> str:
+    """
+    Clean up oai_citation format links by converting them to footnotes.
+    
+    Converts patterns like:
+    [oai_citation:3‡publishing.cdlib.org](https://publishing.cdlib.org/...)
+    [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/...)
+    
+    To footnote references [^1], [^2], etc. and adds footnote definitions at the end.
+    """
+    import re
+    from urllib.parse import urlparse
+    
+    # Pattern to match oai_citation links
+    # Matches: [oai_citation:N‡domain](url) or [oai_citation_attribution:N‡domain](url)
+    pattern = r'\[oai_citation(?:_attribution)?:\d+‡([^\]]+)\]\(([^)]+)\)'
+    
+    # Find all citations
+    citations = []
+    
+    def collect_citation(match):
+        domain_hint = match.group(1).strip()
+        url = match.group(2).strip()
+        
+        # Extract meaningful text from domain hint
+        domain_text = domain_hint.lower()
+        
+        # Map common domains to cleaner names
+        domain_mappings = {
+            'wikipedia': 'Wikipedia',
+            'en.wikipedia.org': 'Wikipedia',
+            'pubmed': 'PubMed',
+            'pmc': 'PMC',
+            'pnas': 'PNAS',
+            'sciencedirect': 'ScienceDirect',
+            'researchgate': 'ResearchGate',
+            'jstor': 'JSTOR',
+            'nature': 'Nature',
+            'science': 'Science',
+            'theoi.com': 'Theoi',
+            'topostext.org': 'ToposText',
+            'hellenicgods.org': 'Hellenic Gods',
+            'atheologica.wordpress.com': 'Atheologica',
+            'dainst.blog': 'Tepe Telegrams',
+            'scientific american': 'Scientific American',
+            'vectors of mind': 'Vectors of Mind',
+            'royal society publishing': 'Royal Society',
+            'j-stage': 'J-STAGE',
+            'berkeley news': 'UC Berkeley News',
+            'gmat club': 'GMAT Club',
+            'ethnology.pitt.edu': 'Ethnology',
+            'bible hub': 'Bible Hub',
+            'uc davis': 'UC Davis',
+            'smithsonian magazine': 'Smithsonian',
+            'norse mythology for smart people': 'Norse Mythology',
+            'psymposia': 'Psymposia',
+            'amazon': 'Amazon',
+            'organism earth': 'Organism Earth',
+            'encyclopedia britannica': 'Britannica',
+            'aaron cheak': 'Aaron Cheak',
+            'bryn mawr classical review': 'Bryn Mawr Classical Review',
+            'penelope': 'Penelope (U. Chicago)',
+            'semper initiativus unum': 'Semper Initiativus Unum',
+            'the guardian': 'The Guardian',
+            'wired': 'WIRED',
+            'abc': 'ABC News',
+            'western australian museum': 'WA Museum',
+            'paleoanthro': 'PaleoAnthro',
+            'austhrutime': 'AusThruTime',
+            'the metropolitan museum of art': 'Met Museum',
+            'anu press': 'ANU Press',
+            'time': 'Time',
+            'unesco world heritage centre': 'UNESCO',
+            'national museum of australia': 'National Museum of Australia',
+            'sci.news: breaking science news': 'Sci.News',
+            'jcu.edu.au': 'JCU',
+            'figshare': 'Figshare',
+            'au.news.yahoo.com': 'Yahoo News AU'
+        }
+        
+        # Find the best match for domain text
+        display_text = domain_mappings.get(domain_text, domain_hint)
+        
+        # If we couldn't find a mapping, try to extract from the actual URL
+        if display_text == domain_hint:
+            try:
+                parsed = urlparse(url)
+                domain = parsed.netloc.lower()
+                # Remove www. prefix
+                if domain.startswith('www.'):
+                    domain = domain[4:]
+                
+                # Try common domain mappings
+                for key, value in domain_mappings.items():
+                    if key in domain:
+                        display_text = value
+                        break
+                else:
+                    # Fallback: capitalize first letter of domain
+                    display_text = domain.split('.')[0].capitalize()
+            except:
+                # If URL parsing fails, use the domain hint as-is
+                display_text = domain_hint
+        
+        # Check if we already have this exact citation
+        citation_entry = (display_text, url)
+        if citation_entry not in citations:
+            citations.append(citation_entry)
+        
+        # Return footnote reference
+        footnote_num = citations.index(citation_entry) + 1
+        return f"[^oai{footnote_num}]"
+    
+    # Replace all citations with footnote references
+    result_text = re.sub(pattern, collect_citation, text)
+    
+    # If we found citations, add footnotes section
+    if citations:
+        # Check if there's already a footnotes section
+        footnote_section_exists = re.search(r'^\[?\^[^\]]*\]?:', result_text, re.MULTILINE)
+        
+        # Build footnotes
+        footnotes = []
+        for i, (display_text, url) in enumerate(citations, 1):
+            footnotes.append(f"[^oai{i}]: [{display_text}]({url})")
+        
+        # Add footnotes to the end of the document
+        if footnote_section_exists:
+            # Insert before existing footnotes
+            result_text = re.sub(r'(\n\[?\^[^\]]*\]?:.*)', r'\n' + '\n'.join(footnotes) + r'\1', result_text, count=1)
+        else:
+            # Add at the end
+            if not result_text.endswith('\n'):
+                result_text += '\n'
+            result_text += '\n' + '\n'.join(footnotes) + '\n'
+    
+    return result_text
+
 # Core cleaning functions
 def scrub(text:str)->str:
-    # Debug: Print code points of characters in the first 100 chars
-    print("DEBUG - First 100 chars code points:", [ord(c) for c in text[:100]])
     for bad, good in RE_MAP.items():
         text = text.replace(bad, good)
     text = re.sub(r"[ ]{2,}", " ", text)
@@ -147,14 +283,11 @@ def main():
     p.add_argument("--inplace", action="store_true")
     args = p.parse_args()
 
-    # Debug: Print raw bytes
-    with open(args.file, 'rb') as f:
-        raw_bytes = f.read()
-        print("DEBUG - First 100 bytes:", raw_bytes[:100])
-        print("DEBUG - Hex representation:", raw_bytes[:100].hex())
-
     text = args.file.read_text(encoding="utf-8")
 
+    # Clean oai_citation format links BEFORE freezing anything
+    text = clean_oai_citations(text)
+    
     # Freeze dangerous content
     text, blocks = freeze_special_blocks(text)
     text, urls = freeze_urls(text)

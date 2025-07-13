@@ -120,19 +120,28 @@ Le symbolisme convergent **serpent-liane-utérus** suit probablement le "coiling
 
 ## Notes de bas de page
 
-[^1]: Boyd, C. E. & Dering, P. J. 2005. "Utilisation du peyotl dans le Lower Pecos." *Antiquity* 79. [oai_citation:0‡Wikipedia](https://en.wikipedia.org/wiki/Tassili_Mushroom_Figure) 
-[^2]: Miller, M. J. et al. 2019. "Preuves chimiques de l'ayahuasca précolombienne." *PNAS* 116. [oai_citation:1‡PLOS](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0090376) 
-[^3]: Ruck, C. A. P. et al. 2023. "Alcaloïdes de l'ergot dans un calice grec classique." *Journal of Archaeological Science*. [oai_citation:2‡Berkeley News](https://news.berkeley.edu/2025/03/11/investigating-the-psychedelic-blue-lotus-of-egypt-where-ancient-magic-meets-modern-science/) 
-[^4]: Ruiz, J. F. & Guzmán, G. 2011. "Fresque préhistorique représentant *Psilocybe* neurotropique." *Economic Botany*. [oai_citation:3‡JSTOR](https://www.jstor.org/stable/41242925) 
-[^5]: Dufour, M. 2023. "De Bwiti à l'ibogaïne et retour." Dans *Expanding Mindscapes*. [oai_citation:4‡ResearchGate](https://www.researchgate.net/publication/376005553_From_Bwiti_to_Ibogaine_and_Back_A_Transnational_History_of_Tabernanthe_iboga) 
-[^6]: "Figure de champignon de Tassili." Résumé Wikipedia de la recherche sur l'art rupestre. [oai_citation:5‡Wikipedia](https://en.wikipedia.org/wiki/Tassili_Mushroom_Figure) 
-[^7]: Harrod, J. B. 2025. "Lotus bleu psychoactif en Égypte." *UC Berkeley News*. [oai_citation:6‡Berkeley News](https://news.berkeley.edu/2025/03/11/investigating-the-psychedelic-blue-lotus-of-egypt-where-ancient-magic-meets-modern-science/) 
+[^oai1]: [Wikipedia](https://en.wikipedia.org/wiki/Tassili_Mushroom_Figure)
+[^oai2]: [Journals](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0090376)
+[^oai3]: [UC Berkeley News](https://news.berkeley.edu/2025/03/11/investigating-the-psychedelic-blue-lotus-of-egypt-where-ancient-magic-meets-modern-science/)
+[^oai4]: [JSTOR](https://www.jstor.org/stable/41242925)
+[^oai5]: [ResearchGate](https://www.researchgate.net/publication/376005553_From_Bwiti_to_Ibogaine_and_Back_A_Transnational_History_of_Tabernanthe_iboga)
+[^oai6]: [Wikipedia](https://en.wikipedia.org/wiki/Pituri)
+[^oai7]: [Ethnology](https://ethnology.pitt.edu/ojs/index.php/Ethnology/article/viewFile/6111/6321)
+[^oai8]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0378874183900673)
+[^oai9]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9738376/)
+[^1]: Boyd, C. E. & Dering, P. J. 2005. "Utilisation du peyotl dans le Lower Pecos." *Antiquity* 79. [^oai1] 
+[^2]: Miller, M. J. et al. 2019. "Preuves chimiques de l'ayahuasca précolombienne." *PNAS* 116. [^oai2] 
+[^3]: Ruck, C. A. P. et al. 2023. "Alcaloïdes de l'ergot dans un calice grec classique." *Journal of Archaeological Science*. [^oai3] 
+[^4]: Ruiz, J. F. & Guzmán, G. 2011. "Fresque préhistorique représentant *Psilocybe* neurotropique." *Economic Botany*. [^oai4] 
+[^5]: Dufour, M. 2023. "De Bwiti à l'ibogaïne et retour." Dans *Expanding Mindscapes*. [^oai5] 
+[^6]: "Figure de champignon de Tassili." Résumé Wikipedia de la recherche sur l'art rupestre. [^oai1] 
+[^7]: Harrod, J. B. 2025. "Lotus bleu psychoactif en Égypte." *UC Berkeley News*. [^oai3] 
 [^8]: Miller, M. J. 2010. "Ephedra dans le rituel BMAC." *Antiquity* 84. 
 [^9]: Ren, R. X. et al. 2019. "Première consommation de cannabis." *Science Advances* 5. 
-[^10]: Singh, V. K. 2022. "Abus de venin de serpent en Inde." *Indian Journal of Pharmacology*. [oai_citation:7‡Wikipedia](https://en.wikipedia.org/wiki/Pituri) 
-[^11]: Bedford, S. et al. 2013. "Kava et les peuples Lapita." *Ethnology* 50. [oai_citation:8‡ethnology.pitt.edu](https://ethnology.pitt.edu/ojs/index.php/Ethnology/article/viewFile/6111/6321) 
-[^12]: Watson, L. et al. 2010. "L'histoire du Pituri." *Journal of Ethnopharmacology* 132. [oai_citation:9‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0378874183900673) 
-[^13]: Jovanović, O. et al. 2022. "Psychédéliques dans l'Acacia australien." *Plants* 11:3299. [oai_citation:10‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9738376/) 
+[^10]: Singh, V. K. 2022. "Abus de venin de serpent en Inde." *Indian Journal of Pharmacology*. [^oai6] 
+[^11]: Bedford, S. et al. 2013. "Kava et les peuples Lapita." *Ethnology* 50. [^oai7] 
+[^12]: Watson, L. et al. 2010. "L'histoire du Pituri." *Journal of Ethnopharmacology* 132. [^oai8] 
+[^13]: Jovanović, O. et al. 2022. "Psychédéliques dans l'Acacia australien." *Plants* 11:3299. [^oai9] 
 
 ---
 

@@ -39,9 +39,9 @@ translation_model: gpt-4o
 
 ## 1 Citações & o Catecismo da Tábula Rasa
 
-> "Não houve **nenhuma mudança biológica nos humanos em 40.000 ou 50.000 anos**. Tudo o que chamamos de cultura e civilização construímos com o mesmo corpo e cérebro." — *Stephen Jay Gould*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+> "Não houve **nenhuma mudança biológica nos humanos em 40.000 ou 50.000 anos**. Tudo o que chamamos de cultura e civilização construímos com o mesmo corpo e cérebro." — *Stephen Jay Gould*  [^oai1]
 
-> "Os povos pré-históricos eram *nossos iguais* em capacidade mental; a diferença é puramente cultural." — *David Deutsch*, podcast Within Reason, 2025  [oai_citation_attribution:1‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+> "Os povos pré-históricos eram *nossos iguais* em capacidade mental; a diferença é puramente cultural." — *David Deutsch*, podcast Within Reason, 2025  [^oai2]
 
 Tais pronunciamentos são tratados como verdades evidentes em muitas salas de aula. Abaixo, trato-os como hipóteses falsificáveis e faço os cálculos.
 
@@ -80,9 +80,9 @@ Magnitude ≈ 1 no regime de seleção *relaxada* do final do século 20. Afirma
 
 Grandes conjuntos de dados de aDNA (~7.000 genomas) nos permitem rastrear pontuações poligênicas (PGS) para centenas de traços. Descobertas mais relevantes aqui:
 
-* **PGS cognitivo aumentou ~0,5 DP desde 10 mil anos atrás**—≈ +35 QI se a escala linear se mantiver. [oai_citation_attribution:2‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+* **PGS cognitivo aumentou ~0,5 DP desde 10 mil anos atrás**—≈ +35 QI se a escala linear se mantiver. [^oai3]
 * Metade dos **doze mais fortes varreduras do Holoceno** envolvem traços ligados à cognição (nível educacional, volume intracraniano, etc.).
-* Hotspots do cromossomo X, como **TENM1**, mostram varreduras seletivas datando de < 60 mil anos, consistentes com ajustes de recursão/fonologia em humanos *pós-Neandertais*. [oai_citation_attribution:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+* Hotspots do cromossomo X, como **TENM1**, mostram varreduras seletivas datando de < 60 mil anos, consistentes com ajustes de recursão/fonologia em humanos *pós-Neandertais*. [^oai4]
 
 Inserindo **S ≈ 0,2** na Equação do Criador reproduz a trajetória de +35 QI de forma precisa.
 
@@ -118,17 +118,23 @@ Assim como Darwin adiou *A Descendência do Homem* por medo de indignação, os 
 
 ## Notas de Rodapé
 
+[^oai1]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+[^oai2]: [Youtube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+[^oai3]: [Cambridge](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+[^oai4]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+[^oai5]: [Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
+[^oai6]: [Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
 [^1]: Estimativas de h² para g psicométrico variam de 0,5 a 0,8 na idade adulta (veja Polderman et al., *Nat. Genet.* 2015).
 [^2]: Lynn R. *Dysgenics* (1996) sintetizou >25 conjuntos de dados de fertilidade-QI; média r ≈ –0,2 ⇒ S ≈ -0,8 QI.
-[^3]: Hugh-Jones D. & Kohler H-P. "Seleção Natural ao Longo de Três Gerações de Americanos". Pré-impressão de 2024. [oai_citation_attribution:4‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-[^4]: Turkheimer E. "Três Leis da Genética do Comportamento". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [oai_citation_attribution:5‡SAGE Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
+[^3]: Hugh-Jones D. & Kohler H-P. "Seleção Natural ao Longo de Três Gerações de Americanos". Pré-impressão de 2024. [^oai5]
+[^4]: Turkheimer E. "Três Leis da Genética do Comportamento". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [^oai6]
 
 ---
 
 ## Fontes
 
-1. Citação de S.J. Gould em *A Evolução Humana Parou?* [oai_citation_attribution:6‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
-2. D. Deutsch & A. O'Connor, "Você Não é Mais Esperto que um Homem das Cavernas", podcast Within Reason (YouTube 2025). [oai_citation_attribution:7‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
-3. Hugh-Jones D. et al., varredura de seleção de 2024 – veja nota de rodapé 3. [oai_citation_attribution:8‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-4. Skov L. et al., "Seleção extraordinária no cromossomo X humano…", *Cell* 2023. [oai_citation_attribution:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
-5. Piffer D. "Tendências Evolutivas de Pontuações Poligênicas em Populações Europeias…", *Twin Res.* 2023. [oai_citation_attribution:10‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+1. Citação de S.J. Gould em *A Evolução Humana Parou?* [^oai1]
+2. D. Deutsch & A. O'Connor, "Você Não é Mais Esperto que um Homem das Cavernas", podcast Within Reason (YouTube 2025). [^oai2]
+3. Hugh-Jones D. et al., varredura de seleção de 2024 – veja nota de rodapé 3. [^oai5]
+4. Skov L. et al., "Seleção extraordinária no cromossomo X humano…", *Cell* 2023. [^oai4]
+5. Piffer D. "Tendências Evolutivas de Pontuações Poligênicas em Populações Europeias…", *Twin Res.* 2023. [^oai3]

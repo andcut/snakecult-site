@@ -38,11 +38,11 @@ translation_model: gpt-4o
 
 | Эпитет | Место / функция | Иконография | Источник |
 |--------|-----------------|-------------|----------|
-| **Зевс Мейлихий** | Афины, Аргос; хтонное умиротворение и богатство | **Свернувшаяся змея** на рельефах и алтарях | [oai_citation_attribution:0‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf) |
-| **Зевс Ктесий / Агафос Даймон** | Домашние святилища; защитник кладовой | Маленький **змеиный сосуд (кадискос)**, две спирали | [oai_citation_attribution:1‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the) |
-| **Зевс Филакс** | Городские стены; дух-хранитель | Вотивные змеи над воротами | [oai_citation_attribution:2‡Wikipedia](https://en.wikipedia.org/wiki/Oracle) |
-| **Зевс Сабазий** (Фракийский) | Странствующие мистерии; экстатические обряды | **Бронзовая рука**, обвитая змеей | [oai_citation_attribution:3‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) |
-| **Зевс Ликайос** | Аркадия Ликайя; криптическое посвящение | Легенды о вервольфах и каннибализме; скрытый **курган из пепла** | [oai_citation_attribution:4‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia) |
+| **Зевс Мейлихий** | Афины, Аргос; хтонное умиротворение и богатство | **Свернувшаяся змея** на рельефах и алтарях | [^oai1] |
+| **Зевс Ктесий / Агафос Даймон** | Домашние святилища; защитник кладовой | Маленький **змеиный сосуд (кадискос)**, две спирали | [^oai2] |
+| **Зевс Филакс** | Городские стены; дух-хранитель | Вотивные змеи над воротами | [^oai3] |
+| **Зевс Сабазий** (Фракийский) | Странствующие мистерии; экстатические обряды | **Бронзовая рука**, обвитая змеей | [^oai4] |
+| **Зевс Ликайос** | Аркадия Ликайя; криптическое посвящение | Легенды о вервольфах и каннибализме; скрытый **курган из пепла** | [^oai5] |
 
 > **Шаблон:** где бы Зевс ни посредничал **богатством, защитой или лиминальностью**, культ добавляет **змею**.
 
@@ -59,7 +59,7 @@ translation_model: gpt-4o
 
 ### 2.3 Философское восприятие
 - **Прокл**: Поглощение и повторное извержение Зевса — это макроцикл, отражающий микроинициации.
-- **Аристотель (фр. OF 166)** уже отмечает, что орфики называют Зевса *"головой-серединой-концом всего."* [oai_citation_attribution:5‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+- **Аристотель (фр. OF 166)** уже отмечает, что орфики называют Зевса *"головой-серединой-концом всего."* [^oai6]
 
 ---
 
@@ -99,23 +99,35 @@ translation_model: gpt-4o
 
 ## Примечания
 
-[^zagreus]: *Загрей* — запись, резюмирующая отцовство Зевса в образе змеи. [oai_citation_attribution:6‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-[^phanes-swallow]: Орфический фр. 167 и 168 (Керн): Зевс поглощает Фанеса, все боги сливаются в него. [oai_citation_attribution:7‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-[^cleanthes]: Клеанф, *Гимн Зевсу* строки 10-14 (о циклическом возвращении). [oai_citation_attribution:8‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai1]: [Ascs](https://www.ascs.org.au/news/ascs31/Burton.pdf)
+[^oai2]: [Verdantlyviolet](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
+[^oai3]: [Wikipedia](https://en.wikipedia.org/wiki/Oracle)
+[^oai4]: [Wikipedia](https://en.wikipedia.org/wiki/Sabazios)
+[^oai5]: [Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
+[^oai6]: [Ir](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+[^oai7]: [Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
+[^oai8]: [Hellenic Gods](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
+[^oai9]: [Hellenion](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai10]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai11]: [Fulmenquarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
+[^oai12]: [Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
+[^zagreus]: *Загрей* — запись, резюмирующая отцовство Зевса в образе змеи. [^oai7]
+[^phanes-swallow]: Орфический фр. 167 и 168 (Керн): Зевс поглощает Фанеса, все боги сливаются в него. [^oai8]
+[^cleanthes]: Клеанф, *Гимн Зевсу* строки 10-14 (о циклическом возвращении). [^oai9]
 [^tablets]: Золотые ламеллы: строки 10-14 таблички из Гиппониона призывают родословную *Зевса-Персефоны*.
 
 ---
 
 ## Источники
 
-1. Исследование культа Зевса Мейлихия (Бертон 2011). [oai_citation_attribution:9‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf)
-2. "Зевс Ктесий и Кадискос," блог verdantlyviolet. [oai_citation_attribution:10‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
-3. Орфический фр. 167–168, компиляция Отто Керна. [oai_citation_attribution:11‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-4. *Theoi: Phanes* — заметки о Зевсе, поглощающем Фанеса. [oai_citation_attribution:12‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)
-5. Клеанф, *Гимн Зевсу* (перевод Hellenion). [oai_citation_attribution:13‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
-6. Википедия "Загрей" научное резюме. [oai_citation_attribution:14‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-7. Википедия "Сабазий" и Fulmen Quarterly о иконографии руки. [oai_citation_attribution:15‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) [oai_citation_attribution:16‡Fulmen Quarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
-8. Википедия "Ликайя" (обряд Зевса Ликайоса). [oai_citation_attribution:17‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
-9. Обзор оракулов: змеи Додоны и Диона. [oai_citation_attribution:18‡Wikipedia](https://en.wikipedia.org/wiki/Oracle)
-10. Прокл / Дамасций в статье Aether (§Орфический). [oai_citation_attribution:19‡Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
-11. "Зевс — Голова, Зевс — Середина" диссертация (Западный Онтарио, 2015). [oai_citation_attribution:20‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+1. Исследование культа Зевса Мейлихия (Бертон 2011). [^oai1]
+2. "Зевс Ктесий и Кадискос," блог verdantlyviolet. [^oai2]
+3. Орфический фр. 167–168, компиляция Отто Керна. [^oai8]
+4. *Theoi: Phanes* — заметки о Зевсе, поглощающем Фанеса. [^oai10]
+5. Клеанф, *Гимн Зевсу* (перевод Hellenion). [^oai9]
+6. Википедия "Загрей" научное резюме. [^oai7]
+7. Википедия "Сабазий" и Fulmen Quarterly о иконографии руки. [^oai4] [^oai11]
+8. Википедия "Ликайя" (обряд Зевса Ликайоса). [^oai5]
+9. Обзор оракулов: змеи Додоны и Диона. [^oai3]
+10. Прокл / Дамасций в статье Aether (§Орфический). [^oai12]
+11. "Зевс — Голова, Зевс — Середина" диссертация (Западный Онтарио, 2015). [^oai6]

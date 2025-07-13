@@ -29,33 +29,33 @@ translation_model: gpt-4o
 
 **संक्षेप में**
 
-- अमेरिका में सबसे पहले सुरक्षित चिकन की हड्डियाँ स्पेनिश हैं, **लेकिन** चिली के एल एरेनल ( ^14C ~ 1320-1400 CE) की परत और मेल खाते पोलिनेशियन mtDNA ने पूर्व-कोलंबियन सिद्धांत को जीवित रखा है। [oai_citation:0‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104?utm_source=chatgpt.com) [oai_citation:1‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1965514/?utm_source=chatgpt.com)  
-- रिजर्वायर सुधार, छोटे नमूने का आकार, और संभावित आधुनिक संदूषण मुख्य आपत्तियाँ हैं। [oai_citation:2‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/?utm_source=chatgpt.com) [oai_citation:3‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111?utm_source=chatgpt.com)  
-- एथ्नोहिस्टोरिकल संकेत (इंका अनुष्ठान, मापुचे शब्द) 1532 से पहले मुर्गियों के साथ परिचय का सुझाव देते हैं, फिर भी कोई निर्णायक नहीं है। [oai_citation:4‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html?utm_source=chatgpt.com)  
-- कोई अन्य न्यू-वर्ल्ड साइट निश्चित रूप से पूर्व-1492 गैलस हड्डियाँ नहीं दे पाई है, लेकिन कई "संभावनाएँ" (पेरू, कैलिफोर्निया) पुनः विश्लेषण के अधीन हैं। [oai_citation:5‡ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile?utm_source=chatgpt.com)  
+- अमेरिका में सबसे पहले सुरक्षित चिकन की हड्डियाँ स्पेनिश हैं, **लेकिन** चिली के एल एरेनल ( ^14C ~ 1320-1400 CE) की परत और मेल खाते पोलिनेशियन mtDNA ने पूर्व-कोलंबियन सिद्धांत को जीवित रखा है। [^oai1] [^oai2] 
+- रिजर्वायर सुधार, छोटे नमूने का आकार, और संभावित आधुनिक संदूषण मुख्य आपत्तियाँ हैं। [^oai3] [^oai4] 
+- एथ्नोहिस्टोरिकल संकेत (इंका अनुष्ठान, मापुचे शब्द) 1532 से पहले मुर्गियों के साथ परिचय का सुझाव देते हैं, फिर भी कोई निर्णायक नहीं है। [^oai5] 
+- कोई अन्य न्यू-वर्ल्ड साइट निश्चित रूप से पूर्व-1492 गैलस हड्डियाँ नहीं दे पाई है, लेकिन कई "संभावनाएँ" (पेरू, कैलिफोर्निया) पुनः विश्लेषण के अधीन हैं। [^oai6] 
 - यदि वास्तविक है, तो पोलिनेशियन नाविकों ने संभवतः 13-14वीं सदी में मुर्गियों को पूर्व की ओर ले जाया, जो मीठे आलू के स्थानांतरण के समानांतर है। अन्यथा, यूरोपीय सभी श्रेय प्राप्त करते हैं।
 
 ---
 
 ## 1 प्रश्न कैसे उत्पन्न हुआ
 
-स्पेनिश इतिहासकारों ने **"गालिनास डी कास्टिला"** का वर्णन किया जो विजय के साथ आईं, फिर भी कुछ विवरणों से संकेत मिलता है कि एंडियन लोग पहले से ही अनुष्ठानिक उपयोग के लिए मुर्गियाँ रखते थे। [oai_citation:6‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html) ऐसी गवाही पतली है, लेकिन इसने पुरातत्वविदों के लिए बीज बोया जिन्होंने बाद में दक्षिण-अमेरिकी मिडेंस में पुरानी दुनिया के जंगलफाउल से मेल खाने वाली हड्डियों की खोज की।
+स्पेनिश इतिहासकारों ने **"गालिनास डी कास्टिला"** का वर्णन किया जो विजय के साथ आईं, फिर भी कुछ विवरणों से संकेत मिलता है कि एंडियन लोग पहले से ही अनुष्ठानिक उपयोग के लिए मुर्गियाँ रखते थे। [^oai7] ऐसी गवाही पतली है, लेकिन इसने पुरातत्वविदों के लिए बीज बोया जिन्होंने बाद में दक्षिण-अमेरिकी मिडेंस में पुरानी दुनिया के जंगलफाउल से मेल खाने वाली हड्डियों की खोज की।
 
-2007 में, स्टोरी एट अल. ने क्षेत्र को विद्युतीकृत किया: **एल एरेनल-1 (अराउको प्रायद्वीप, चिली)** से एकल टारसोमेटाटारस ने 622 ± 35 BP की एक अंशांकित ^14C आयु और एक माइटोकॉन्ड्रियल हैप्लोटाइप ("E") दिया जो केवल प्रागैतिहासिक पोलिनेशिया में जाना जाता था। [oai_citation:7‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104) अचानक खलिहान पक्षी एक ट्रांस-पैसिफिक स्मोकिंग गन की तरह दिखने लगा।
+2007 में, स्टोरी एट अल. ने क्षेत्र को विद्युतीकृत किया: **एल एरेनल-1 (अराउको प्रायद्वीप, चिली)** से एकल टारसोमेटाटारस ने 622 ± 35 BP की एक अंशांकित ^14C आयु और एक माइटोकॉन्ड्रियल हैप्लोटाइप ("E") दिया जो केवल प्रागैतिहासिक पोलिनेशिया में जाना जाता था। [^oai8] अचानक खलिहान पक्षी एक ट्रांस-पैसिफिक स्मोकिंग गन की तरह दिखने लगा।
 
 ### 1.1 एल एरेनल बहस
 
 प्रो-कॉन्टैक्ट शिविर 
 : • तारीख मैगेलन से एक सदी पहले की है, यहां तक कि समुद्री-आहार सुधारों के बाद भी। 
  • mtDNA प्राचीन पोलिनेशियन अनुक्रमों के साथ क्लस्टर करता है, न कि इबेरियन नस्लों के साथ। 
- • पोलिनेशियन पहले से ही मीठे आलू को पूर्व से पश्चिम ले गए थे; मुर्गियाँ क्यों नहीं? [oai_citation:8‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4156719/) 
+ • पोलिनेशियन पहले से ही मीठे आलू को पूर्व से पश्चिम ले गए थे; मुर्गियाँ क्यों नहीं? [^oai9] 
 
 संशयवादी 
 : • नमूना (n = 1) बहुत छोटा है; संदर्भ टिब्बा प्रवास द्वारा बाधित। 
  • रिजर्वायर सुधार हड्डी को 1492 के बाद धकेल सकते हैं। 
- • हैप्लोग्रुप E आधुनिक यूरोपीय स्टॉक में भी मिलता है—संभावित संदूषण। [oai_citation:9‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/) [oai_citation:10‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111) 
+ • हैप्लोग्रुप E आधुनिक यूरोपीय स्टॉक में भी मिलता है—संभावित संदूषण। [^oai10] [^oai11] 
 
-2023 की पुनः-उत्खनन ने स्तरीकरण को परिष्कृत किया लेकिन, निराशाजनक रूप से, **कोई नई चिकन अवशेष** नहीं मिला, जिससे गतिरोध बरकरार रहा। [oai_citation:11‡ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile)
+2023 की पुनः-उत्खनन ने स्तरीकरण को परिष्कृत किया लेकिन, निराशाजनक रूप से, **कोई नई चिकन अवशेष** नहीं मिला, जिससे गतिरोध बरकरार रहा। [^oai12]
 
 ### 1.2 भाषाई और चित्रात्मक संकेत
 
@@ -101,19 +101,35 @@ translation_model: gpt-4o
 
 ## फुटनोट्स
 
+[^oai1]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104?utm_source=chatgpt.com)
+[^oai2]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC1965514/?utm_source=chatgpt.com)
+[^oai3]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/?utm_source=chatgpt.com)
+[^oai4]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111?utm_source=chatgpt.com)
+[^oai5]: [Gmatclub](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html?utm_source=chatgpt.com)
+[^oai6]: [ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile?utm_source=chatgpt.com)
+[^oai7]: [Gmatclub](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html)
+[^oai8]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104)
+[^oai9]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4156719/)
+[^oai10]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/)
+[^oai11]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111)
+[^oai12]: [ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile)
+[^oai13]: [ResearchGate](https://www.researchgate.net/publication/261656806_Polynesian_Chickens_in_the_New_World_a_detailed_application_of_a_commensal_approach)
+[^oai14]: [Academia](https://www.academia.edu/61029989/Pre_Columbian_chickens_dates_isotopes_and_mtDNA)
+[^oai15]: [Languagelog](https://languagelog.ldc.upenn.edu/nll/?p=57706)
+[^oai16]: [Cordis](https://cordis.europa.eu/project/id/895107)
 [^1]: रिजर्वायर सुधार और अंशांकन पर एक प्राइमर के लिए, थॉम्पसन एट अल., *जर्नल ऑफ आर्कियोलॉजिकल साइंस* **41** (2014): 118-125 देखें।
 
 ---
 
 ## स्रोत
 
-1. स्टोरी, ए.ए., एट अल. "चिली में पोलिनेशियन मुर्गियों की पूर्व-कोलंबियन परिचय के लिए रेडियोकार्बन और डीएनए साक्ष्य।" *PNAS* 104 (2007): 10335-10339। [oai_citation:12‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0703993104) 
-2. थॉमसन, वी.ए., एट अल. "पोलिनेशियन मुर्गियों के पूर्व-कोलंबियन दक्षिण अमेरिका में प्रसार के खिलाफ कोई साक्ष्य नहीं।" *PNAS* 111 (2014): E4836-E4837। [oai_citation:13‡PNAS](https://www.pnas.org/doi/10.1073/pnas.1410780111) 
-3. गोंगोरा, जे., एट अल. "मुख्य भूमि दक्षिण अमेरिकी मुर्गियों की आनुवंशिक विविधता में इंडो-यूरोपीय और एशियाई योगदान।" *मॉलिक्यूलर बायोलॉजी एंड इवोल्यूशन* 37 (2020): 114-125। [oai_citation:14‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7062093/) 
-4. ओयानडेल, एफ., एट अल. "एरेनल-1 साइट के साक्ष्य की पुनः समीक्षा: मध्य-दक्षिणी चिली में कालक्रम और मानव अंतःक्रियाएँ।" *हेरिटेज एंड सोसाइटी* 16 (2023): 45-68। [oai_citation:15‡ResearchGate](https://www.researchgate.net/publication/378964194_Revisiting_the_evidence_of_the_Arenal_1_site_Chronologies_and_human_interactions_in_central_southern_Chile) 
-5. स्टोरी, ए.ए., और मैटिसू-स्मिथ, ई. "न्यू वर्ल्ड में पोलिनेशियन मुर्गियाँ: सहवासी दृष्टिकोण का एक विस्तृत अनुप्रयोग।" *एशियन पर्सपेक्टिव्स* 52 (2013): 205-228। [oai_citation:16‡ResearchGate](https://www.researchgate.net/publication/261656806_Polynesian_Chickens_in_the_New_World_a_detailed_application_of_a_commensal_approach) 
+1. स्टोरी, ए.ए., एट अल. "चिली में पोलिनेशियन मुर्गियों की पूर्व-कोलंबियन परिचय के लिए रेडियोकार्बन और डीएनए साक्ष्य।" *PNAS* 104 (2007): 10335-10339। [^oai8] 
+2. थॉमसन, वी.ए., एट अल. "पोलिनेशियन मुर्गियों के पूर्व-कोलंबियन दक्षिण अमेरिका में प्रसार के खिलाफ कोई साक्ष्य नहीं।" *PNAS* 111 (2014): E4836-E4837। [^oai11] 
+3. गोंगोरा, जे., एट अल. "मुख्य भूमि दक्षिण अमेरिकी मुर्गियों की आनुवंशिक विविधता में इंडो-यूरोपीय और एशियाई योगदान।" *मॉलिक्यूलर बायोलॉजी एंड इवोल्यूशन* 37 (2020): 114-125। [^oai10] 
+4. ओयानडेल, एफ., एट अल. "एरेनल-1 साइट के साक्ष्य की पुनः समीक्षा: मध्य-दक्षिणी चिली में कालक्रम और मानव अंतःक्रियाएँ।" *हेरिटेज एंड सोसाइटी* 16 (2023): 45-68। [^oai12] 
+5. स्टोरी, ए.ए., और मैटिसू-स्मिथ, ई. "न्यू वर्ल्ड में पोलिनेशियन मुर्गियाँ: सहवासी दृष्टिकोण का एक विस्तृत अनुप्रयोग।" *एशियन पर्सपेक्टिव्स* 52 (2013): 205-228। [^oai13] 
 6. डिल्लेहाय, टी.डी. *द सेटलमेंट ऑफ द अमेरिका: ए न्यू प्रीहिस्ट्री*. बेसिक बुक्स, 2009। 
-7. लैंगली, एम.सी. "पूर्व-कोलंबियन मुर्गियाँ, तिथियाँ, समस्थानिक, और mtDNA।" *एंटीक्विटी* 82 (2008): 176-190। [oai_citation:17‡Academia](https://www.academia.edu/61029989/Pre_Columbian_chickens_dates_isotopes_and_mtDNA) 
-8. "एक समूह मानवविज्ञानियों ने तर्क दिया है कि यूरोपीय लोग दक्षिण अमेरिका में मुर्गियाँ लाने वाले पहले नहीं हो सकते।" GMAT क्लब फोरम सारांश, 2024। [oai_citation:18‡GMAT Club](https://gmatclub.com/forum/a-group-of-anthropologists-has-argued-that-europeans-may-not-have-been-423642.html) 
-9. लैंग्वेज लॉग। "पोलिनेशियन स्वीट पोटैटोज़ और जंगल चिकन्स: वर्बल वेक्टर्स।" ब्लॉग पोस्ट, 2023। [oai_citation:19‡Language Log](https://languagelog.ldc.upenn.edu/nll/?p=57706) 
-10. ईयू कॉर्डिस। "अराउकाना प्रोजेक्ट: जीनोमिक्स का उपयोग करके मुर्गियों का अनावरण।" प्रोजेक्ट आईडी 895107, 2024। [oai_citation:20‡cordis.europa.eu](https://cordis.europa.eu/project/id/895107)
+7. लैंगली, एम.सी. "पूर्व-कोलंबियन मुर्गियाँ, तिथियाँ, समस्थानिक, और mtDNA।" *एंटीक्विटी* 82 (2008): 176-190। [^oai14] 
+8. "एक समूह मानवविज्ञानियों ने तर्क दिया है कि यूरोपीय लोग दक्षिण अमेरिका में मुर्गियाँ लाने वाले पहले नहीं हो सकते।" GMAT क्लब फोरम सारांश, 2024। [^oai7] 
+9. लैंग्वेज लॉग। "पोलिनेशियन स्वीट पोटैटोज़ और जंगल चिकन्स: वर्बल वेक्टर्स।" ब्लॉग पोस्ट, 2023। [^oai15] 
+10. ईयू कॉर्डिस। "अराउकाना प्रोजेक्ट: जीनोमिक्स का उपयोग करके मुर्गियों का अनावरण।" प्रोजेक्ट आईडी 895107, 2024। [^oai16]

@@ -38,10 +38,10 @@ translation_model: gpt-4o
 
 | 神话节拍 | 赫拉克勒斯（第十一项任务） | 亚当/伊甸园线索 | Göbekli Tepe 回声 |
 |-----------|---------------------|--------------------|-------------------|
-| **乐园花园** | 海洋彼岸的**赫斯珀里得斯花园** | 东方的**伊甸园** | 第三级围栏的围墙“花园”图像 |
+| **乐园花园** | 海洋彼岸的**赫斯珀里得斯花园** | 东方的**伊甸园** | 第三级围栏的围墙"花园"图像 |
 | **蛇的守护者** | **拉冬**，多头龙[^ladon] | **Nachash**诱惑夏娃 | 雕刻在围栏D上的柱子蛇 |
 | **不朽的苹果** | 金苹果=赫拉的婚礼礼物 | 知识/生命之果 | 与收获周期相关的生育符号和牛头 |
-| **启蒙的盗窃** | 英雄偷苹果，获得神化 | 人类夫妇获得自我知识，被放逐 | 假设的萨满“第一次偷火/果”的仪式 |
+| **启蒙的盗窃** | 英雄偷苹果，获得神化 | 人类夫妇获得自我知识，被放逐 | 假设的萨满"第一次偷火/果"的仪式 |
 | **后果** | 阿特拉斯/天空主题；英雄肩负宇宙 | 亚当耕种被诅咒的土地 | 从采集者崇拜向农业劳作的过渡 |
 
 > **主张：**第十一项任务凝结了一个**近东蛇果启蒙戏剧**，其建筑记忆保存在**Göbekli Tepe**；该神话随后在*创世纪*和希腊英雄循环中浮现。[^cutler-gt]
@@ -55,7 +55,7 @@ translation_model: gpt-4o
 
 ## 2 奥尔菲克神谱中的宇宙赫拉克勒斯
 
-> “一个有翼的**蛇**，具有狮子和牛头，被称为**永恒的克罗诺斯和赫拉克勒斯**，拥抱必然性并**产生了一个巨大的世界蛋**。” — 奥尔菲克狂想曲（fr. 78）[^rhapsodies]
+> "一个有翼的**蛇**，具有狮子和牛头，被称为**永恒的克罗诺斯和赫拉克勒斯**，拥抱必然性并**产生了一个巨大的世界蛋**。" — 奥尔菲克狂想曲（fr. 78）[^rhapsodies]
 
 ### 2.1 五步创造链
 
@@ -103,7 +103,7 @@ translation_model: gpt-4o
 ## 常见问题 <!-- 保留FAQPage模式支持 -->
 
 **问题 1. 泰坦灰烬人类起源真的是奥尔菲克的吗？**
-**回答：** 完整的“人类来自泰坦灰烬”仅在奥林匹奥多罗斯（公元6世纪）中*明确*出现。早期有暗示，但完整的原罪模板是晚期且有争议的。[^edmonds]
+**回答：** 完整的"人类来自泰坦灰烬"仅在奥林匹奥多罗斯（公元6世纪）中*明确*出现。早期有暗示，但完整的原罪模板是晚期且有争议的。[^edmonds]
 
 **问题 2. 在Göbekli Tepe有赫拉克勒斯崇拜的硬证据吗？**
 **回答：** 没有。这个联系是解释性的：围栏雕刻展示了蛇树图像，Cutler（2024）认为这个神话凝结成后来的亚当/赫拉克勒斯循环。[^cutler-gt]
@@ -112,13 +112,19 @@ translation_model: gpt-4o
 
 ## 注释
 
-[^ladon]: 阿波罗多罗斯，*书库* 2.5.11；保萨尼亚斯 6.19.8；参见总结 [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)。
+[^oai1]: [Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
+[^oai2]: [Scribd](https://www.scribd.com/document/754009730/18-1-song)
+[^oai3]: [Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
+[^oai4]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai5]: [Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs)
+[^oai6]: [Citeseerx](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+[^ladon]: 阿波罗多罗斯，*书库* 2.5.11；保萨尼亚斯 6.19.8；参见总结 [^oai1]。
 [^cornutus]: Cornutus, *Theologia Graeca* 25–26 (斯多葛派赫拉克勒斯=世界之火)。
-[^rhapsodies]: 达马西乌斯，*De Principiis* I 316 = Orph. fr. 78 [oai_citation_attribution:1‡Scribd](https://www.scribd.com/document/754009730/18-1-song)。
-[^waggish]: 克罗诺斯-蛇意象的分析概述 [oai_citation_attribution:2‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)。
-[^phanes]: 法涅斯图像作为蛇缠绕的双性人 [oai_citation_attribution:3‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)。
-[^olymp]: 奥林匹奥多罗斯，*In Phaedonem* I 3，关于泰坦灰烬人类起源 [oai_citation_attribution:4‡Bryn Mawr College Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs)。
-[^edmonds]: Edmonds 1999，“撕裂扎格柔斯神话”，指出人类起源的晚期起源 [oai_citation_attribution:5‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)。
+[^rhapsodies]: 达马西乌斯，*De Principiis* I 316 = Orph. fr. 78 [^oai2]。
+[^waggish]: 克罗诺斯-蛇意象的分析概述 [^oai3]。
+[^phanes]: 法涅斯图像作为蛇缠绕的双性人 [^oai4]。
+[^olymp]: 奥林匹奥多罗斯，*In Phaedonem* I 3，关于泰坦灰烬人类起源 [^oai5]。
+[^edmonds]: Edmonds 1999，“撕裂扎格柔斯神话”，指出人类起源的晚期起源 [^oai6]。
 [^cutler-gt]: Andrew Cutler，“赫拉克勒斯、亚当和克里希那都在Göbekli Tepe接受启蒙”，手稿准备中。2025。
 
 ---
@@ -129,8 +135,8 @@ translation_model: gpt-4o
 2. Cornutus。*Theologia Graeca* §25-26。
 3. 奥林匹奥多罗斯。*柏拉图《斐多篇》注释* I 3。
 4. 阿波罗多罗斯。*书库* 2.5.11。
-5. 法涅斯档案，**Theoi Project**。 [oai_citation_attribution:6‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)
-6. “时间之父：克罗诺斯和克洛诺斯”，Waggish.org。 [oai_citation_attribution:7‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
-7. “拉冬（神话）,”，*神话百科* + 参考文献。 [oai_citation_attribution:8‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
-8. Radcliffe G. Edmonds III。“撕裂扎格柔斯神话，” *古典古代* 18 (1999)。 [oai_citation_attribution:9‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+5. 法涅斯档案，**Theoi Project**。 [^oai4]
+6. "时间之父：克罗诺斯和克洛诺斯"，Waggish.org。 [^oai3]
+7. "拉冬（神话）,"，*神话百科* + 参考文献。 [^oai1]
+8. Radcliffe G. Edmonds III。"撕裂扎格柔斯神话，" *古典古代* 18 (1999)。 [^oai6]
 9. Andrew Cutler。*赫拉克勒斯、亚当和克里希那在Göbekli Tepe*（即将出版）。

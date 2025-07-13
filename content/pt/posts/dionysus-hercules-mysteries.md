@@ -38,7 +38,7 @@ translation_model: gpt-4o
 |--------|--------|----------------|-----------------|
 | **Cósmica** | Liga espaço-tempo | **Chronos/Herakles** enrolado no ovo | Rapsódias Órficas fr. 78 |
 | **Titânica** | Explica o pecado original | Titãs despedaçam **Zagreus-Dionísio** | Olimpiodoro *In Phaed.* I 3 |
-| **Ritual de mistério** | Oferece reversão | Iniciado = *Bakchos-Herakleidēs* | Tábuas de ouro (Hipponion, Thurii) [oai_citation_attribution:0‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/) |
+| **Ritual de mistério** | Oferece reversão | Iniciado = *Bakchos-Herakleidēs* | Tábuas de ouro (Hipponion, Thurii) [^oai1] |
 
 Chronos-Herakles fornece uma **estrutura metafísica** ("por que existe tempo"); Dionísio fornece a **saída existencial** ("como escapar de suas voltas").
 
@@ -47,13 +47,13 @@ Chronos-Herakles fornece uma **estrutura metafísica** ("por que existe tempo");
 ## 2 Iconografias e Motivos Compartilhados
 
 ### 2.1 Energia da Serpente
-* Zeus toma a forma de serpente para gerar Zagreus; Dionísio brinca com brinquedos de cobra; Herakles veste o veneno da Hidra e luta com Ladon no jardim das maçãs.* [oai_citation_attribution:1‡Penelope](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
+* Zeus toma a forma de serpente para gerar Zagreus; Dionísio brinca com brinquedos de cobra; Herakles veste o veneno da Hidra e luta com Ladon no jardim das maçãs.* [^oai2]
 
 ### 2.2 Modelos de Katabasis
-* **Trabalho XII:** Herakles arrasta **Cérbero** do Hades → dramatiza a passagem segura para as almas. Iniciados dionisíacos ensaiam a mesma descida em frenesi báquico e citam linhas das tábuas: "**Eu voei para fora do círculo triste de pesada tristeza…**" [oai_citation_attribution:2‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html) [oai_citation_attribution:3‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/)
+* **Trabalho XII:** Herakles arrasta **Cérbero** do Hades → dramatiza a passagem segura para as almas. Iniciados dionisíacos ensaiam a mesma descida em frenesi báquico e citam linhas das tábuas: "**Eu voei para fora do círculo triste de pesada tristeza…**" [^oai3] [^oai1]
 
 ### 2.3 Vinho, Loucura, Pureza
-Diodoro até mistura seus mitos: um **jarro de Dionísio de quatro gerações** é aberto para Herakles, desencadeando a batalha dos Centauros e santificando o vinho como heróico e também extático. [oai_citation_attribution:4‡Penelope](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
+Diodoro até mistura seus mitos: um **jarro de Dionísio de quatro gerações** é aberto para Herakles, desencadeando a batalha dos Centauros e santificando o vinho como heróico e também extático. [^oai2]
 
 ---
 
@@ -65,7 +65,7 @@ Diodoro até mistura seus mitos: um **jarro de Dionísio de quatro gerações** 
 | **Tiasos órfico-báquicos** | Invocam "forte Herakles" para proteção | Fórmulas katabáticas dirigem-se ao iniciado como *Bakchos* | Roteiro pós-morte |
 | **Aion leonto-cefálico mitraico** | Leão-serpente = Herakles-Tempo | Taças de libação de vinho em mitreus | Liberação zodiacal |
 
-Allegoristas estóicos apertaram o nó: **Os Doze Trabalhos de Herakles = doze ciclos cósmicos**, enquanto **entusiasmo dionisíaco** liquida resíduos kármicos a cada rodada. [oai_citation_attribution:5‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html)
+Allegoristas estóicos apertaram o nó: **Os Doze Trabalhos de Herakles = doze ciclos cósmicos**, enquanto **entusiasmo dionisíaco** liquida resíduos kármicos a cada rodada. [^oai3]
 
 ---
 
@@ -73,8 +73,8 @@ Allegoristas estóicos apertaram o nó: **Os Doze Trabalhos de Herakles = doze c
 
 | Época | Evidência de fusão |
 |-------|--------------------|
-| Helenística Inicial | Lâminas de ouro instruem os mortos a reivindicar **"Eu sou filho de Zeus e Perséfone — Eu sou Bacchos!"** mas chamam seu guardião de **Herakles** em tábuas variantes. [oai_citation_attribution:6‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/) |
-| Imperial Romana | *Dionisíaca* de Nono classifica Dionísio acima de **Heracles, Perseu, Minos** (Livro 25) mas enquadra sua campanha como uma conquista *heracléica*. [oai_citation_attribution:7‡Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca) |
+| Helenística Inicial | Lâminas de ouro instruem os mortos a reivindicar **"Eu sou filho de Zeus e Perséfone — Eu sou Bacchos!"** mas chamam seu guardião de **Herakles** em tábuas variantes. [^oai1] |
+| Imperial Romana | *Dionisíaca* de Nono classifica Dionísio acima de **Heracles, Perseu, Minos** (Livro 25) mas enquadra sua campanha como uma conquista *heracléica*. [^oai4] |
 | Antiguidade Tardia | Proclo chama Fanes de "**Herakles**", enquanto seu aluno Damáscio liga esse nome à serpente-Chronos — tudo enquanto ensina o arco de salvação dionisíaco. |
 
 ---
@@ -94,6 +94,10 @@ Allegoristas estóicos apertaram o nó: **Os Doze Trabalhos de Herakles = doze c
 
 ## Notas de Rodapé
 
+[^oai1]: [Bmcr](https://bmcr.brynmawr.edu/2008/2008.10.16/)
+[^oai2]: [Penelope (U. Chicago)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
+[^oai3]: [Initiativeone](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html)
+[^oai4]: [Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca)
 [^orpic-egg]: Damáscio, *De Principiis* I 316; serpente Chronos-Herakles quebra o ovo.
 
 ---
@@ -101,9 +105,9 @@ Allegoristas estóicos apertaram o nó: **Os Doze Trabalhos de Herakles = doze c
 ## Fontes
 
 1. Rapsódias Órficas fr. 78 (Damáscio).
-2. Tábuas de ouro órficas, ed. Graf–Johnston(2007). [oai_citation_attribution:8‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/)
-3. Diodoro Sículo *Bibl.* 4.34-38 (jarro de Dionísio/Herakles). [oai_citation_attribution:9‡Penelope](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
+2. Tábuas de ouro órficas, ed. Graf–Johnston(2007). [^oai1]
+3. Diodoro Sículo *Bibl.* 4.34-38 (jarro de Dionísio/Herakles). [^oai2]
 4. Cornuto *Theologia Graeca* 25-26 (trabalhos estóicos).
-5. Nono *Dionisíaca* 24-25. [oai_citation_attribution:10‡Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca)
+5. Nono *Dionisíaca* 24-25. [^oai4]
 6. Proclo *In Cratylum* 36; Damáscio *In Philebum* fr. 125.
-7. "Submundo Mítico: Cérbero e Mistérios," blog InitiativeOne (2017). [oai_citation_attribution:11‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html)
+7. "Submundo Mítico: Cérbero e Mistérios," blog InitiativeOne (2017). [^oai3]

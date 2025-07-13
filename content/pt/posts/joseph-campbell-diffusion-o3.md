@@ -27,11 +27,11 @@ translation_model: gpt-4o
 
 **TL;DR**
 
-- Campbell amava Jung pela hermenêutica, **não** por histórias de origem.  
-- A partir de *Primitive Mythology* (1959), ele enquadra os motivos do Oriente Próximo ➜ globais como uma difusão de "base única".[^1]  
-- Ele descarta a "unidade psíquica" sempre que as datas de radiocarbono e os ventos comerciais se alinham—famosamente o pacote porco/touro/cavalo através da Eurásia e até o Peru.[^2]  
-- Entrevistas (*An Open Life*, 1990) repetem o mantra: "Estou **muito mais interessado em difusão** … do que Jung jamais esteve."[^3]  
-- O *Historical Atlas* (1983-88) começa com um prólogo repleto de mapas intitulado "Difusão, Convergência e Paralelismo."[^4]  
+- Campbell amava Jung pela hermenêutica, **não** por histórias de origem. 
+- A partir de *Primitive Mythology* (1959), ele enquadra os motivos do Oriente Próximo ➜ globais como uma difusão de "base única".[^1] 
+- Ele descarta a "unidade psíquica" sempre que as datas de radiocarbono e os ventos comerciais se alinham—famosamente o pacote porco/touro/cavalo através da Eurásia e até o Peru.[^2] 
+- Entrevistas (*An Open Life*, 1990) repetem o mantra: "Estou **muito mais interessado em difusão** … do que Jung jamais esteve."[^3] 
+- O *Historical Atlas* (1983-88) começa com um prólogo repleto de mapas intitulado "Difusão, Convergência e Paralelismo."[^4] 
 - Resultado final: o modelo padrão de Campbell é caravanas, canoas de balancim e casamentos interétnicos; arquétipos apenas explicam *ressonância*, nunca *distribuição*.
 
 ---
@@ -137,11 +137,15 @@ Ele mantém o arquétipo (Mãe/Morte/Renascimento) mas atribui sua disseminaçã
 
 ## Notas de Rodapé
 
-[^1]: Campbell, *The Masks of God: Primitive Mythology* (1959), cap. 5 "Parallelism or Diffusion?" pp. 202-203. [oai_citation:0‡Path to the Maypole of Wisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf) 
-[^2]: Ibid., cap. 10 "The Great Diffusion," p. 444. [oai_citation:1‡Path to the Maypole of Wisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf) 
-[^3]: Campbell & Toms, *An Open Life* (1990) p. 119. [oai_citation:2‡miembrosadepac.org](https://www.miembrosadepac.org/wp-content/uploads/2015Copia/09/Rensma-Innateness-of-Myth.pdf) 
-[^4]: Campbell, *Historical Atlas of World Mythology* Vol 2 Pt 1 (1983) Prologue title page. [oai_citation:3‡PINES](https://www.gapines.org/eg/opac/record/5528480) 
-[^5]: Campbell, "The Symbol Without Meaning," in *Flight of the Wild Gander* (1969). [oai_citation:4‡SpringerLink](https://link.springer.com/10.1007/978-0-387-71802-6_93) 
+[^oai1]: [Maypoleofwisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf)
+[^oai2]: [Miembrosadepac](https://www.miembrosadepac.org/wp-content/uploads/2015Copia/09/Rensma-Innateness-of-Myth.pdf)
+[^oai3]: [Gapines](https://www.gapines.org/eg/opac/record/5528480)
+[^oai4]: [Link](https://link.springer.com/10.1007/978-0-387-71802-6_93)
+[^1]: Campbell, *The Masks of God: Primitive Mythology* (1959), cap. 5 "Parallelism or Diffusion?" pp. 202-203. [^oai1] 
+[^2]: Ibid., cap. 10 "The Great Diffusion," p. 444. [^oai1] 
+[^3]: Campbell & Toms, *An Open Life* (1990) p. 119. [^oai2] 
+[^4]: Campbell, *Historical Atlas of World Mythology* Vol 2 Pt 1 (1983) Prologue title page. [^oai3] 
+[^5]: Campbell, "The Symbol Without Meaning," in *Flight of the Wild Gander* (1969). [^oai4] 
 
 ---
 

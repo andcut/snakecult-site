@@ -38,9 +38,9 @@ translation_model: gpt-4o
 
 ## 1 Citas y el Catecismo de la Tabla Rasa
 
-> "No ha habido **cambio biológico en los humanos en 40,000 o 50,000 años**. Todo lo que llamamos cultura y civilización lo hemos construido con el mismo cuerpo y cerebro." — *Stephen Jay Gould*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+> "No ha habido **cambio biológico en los humanos en 40,000 o 50,000 años**. Todo lo que llamamos cultura y civilización lo hemos construido con el mismo cuerpo y cerebro." — *Stephen Jay Gould*  [^oai1]
 
-> "Las personas prehistóricas eran *nuestros iguales* en capacidad mental; la diferencia es puramente cultural." — *David Deutsch*, Within Reason podcast, 2025  [oai_citation_attribution:1‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+> "Las personas prehistóricas eran *nuestros iguales* en capacidad mental; la diferencia es puramente cultural." — *David Deutsch*, Within Reason podcast, 2025  [^oai2]
 
 Tales declaraciones son tratadas como verdades evidentes en muchas aulas. A continuación, las trato como hipótesis falsificables y hago los cálculos.
 
@@ -49,7 +49,7 @@ Tales declaraciones son tratadas como verdades evidentes en muchas aulas. A cont
 ## 2 La Ecuación de Breeder en un Posavasos
 
 \[
-\Delta Z \;=\; h^{2}\,S
+\Delta Z \;=\;  h^{2}\,S
 \]
 
 - **ΔZ** – cambio por generación en la media del rasgo.
@@ -79,9 +79,9 @@ Magnitud ≈ 1 en el régimen de *selección relajada* de finales del siglo XX. 
 
 Grandes conjuntos de datos de ADN antiguo (~7,000 genomas) nos permiten rastrear puntajes poligénicos (PGS) para cientos de rasgos. Hallazgos más relevantes aquí:
 
-* **El PGS cognitivo aumentó ~0.5 SD desde hace 10 mil años**—≈ +35 IQ si se mantiene la escala lineal. [oai_citation_attribution:2‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+* **El PGS cognitivo aumentó ~0.5 SD desde hace 10 mil años**—≈ +35 IQ si se mantiene la escala lineal. [^oai3]
 * La mitad de los **doce barridos más fuertes del Holoceno** involucran rasgos vinculados a la cognición (logro educativo, volumen intracraneal, etc.).
-* Puntos calientes del cromosoma X como **TENM1** muestran barridos selectivos que datan de < 60 mil años, consistentes con ajustes de recursión/fonología en humanos *post-Neandertal*. [oai_citation_attribution:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+* Puntos calientes del cromosoma X como **TENM1** muestran barridos selectivos que datan de < 60 mil años, consistentes con ajustes de recursión/fonología en humanos *post-Neandertal*. [^oai4]
 
 Insertar **S ≈ 0.2** en la Ecuación de Breeder reproduce la trayectoria de +35 IQ de manera ordenada.
 
@@ -117,17 +117,23 @@ Así como Darwin retrasó *El origen del hombre* por temor a la indignación, lo
 
 ## Notas al pie
 
+[^oai1]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+[^oai2]: [Youtube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+[^oai3]: [Cambridge](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+[^oai4]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+[^oai5]: [Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
+[^oai6]: [Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
 [^1]: Las estimaciones de h² para g psicométrico varían de 0.5 a 0.8 en la adultez (ver Polderman et al., *Nat. Genet.* 2015).
 [^2]: Lynn R. *Dysgenics* (1996) sintetizó >25 conjuntos de datos de fertilidad-IQ; media r ≈ –0.2 ⇒ S ≈ -0.8 IQ.
-[^3]: Hugh-Jones D. & Kohler H-P. "Natural Selection across Three Generations of Americans". Preimpresión de 2024. [oai_citation_attribution:4‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-[^4]: Turkheimer E. "Three Laws of Behaviour Genetics". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [oai_citation_attribution:5‡SAGE Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
+[^3]: Hugh-Jones D. & Kohler H-P. "Natural Selection across Three Generations of Americans". Preimpresión de 2024. [^oai5]
+[^4]: Turkheimer E. "Three Laws of Behaviour Genetics". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [^oai6]
 
 ---
 
 ## Fuentes
 
-1. Cita de S.J. Gould en *Has Human Evolution Stopped?* [oai_citation_attribution:6‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
-2. D. Deutsch & A. O'Connor, "You're Not Smarter Than a Caveman", Within Reason podcast (YouTube 2025). [oai_citation_attribution:7‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
-3. Hugh-Jones D. et al., escaneo de selección de 2024 – ver nota al pie 3. [oai_citation_attribution:8‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-4. Skov L. et al., "Extraordinary selection on the human X chromosome…", *Cell* 2023. [oai_citation_attribution:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
-5. Piffer D. "Evolutionary Trends of Polygenic Scores in European Populations…", *Twin Res.* 2023. [oai_citation_attribution:10‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+1. Cita de S.J. Gould en *Has Human Evolution Stopped?* [^oai1]
+2. D. Deutsch & A. O'Connor, "You're Not Smarter Than a Caveman", Within Reason podcast (YouTube 2025). [^oai2]
+3. Hugh-Jones D. et al., escaneo de selección de 2024 – ver nota al pie 3. [^oai5]
+4. Skov L. et al., "Extraordinary selection on the human X chromosome…", *Cell* 2023. [^oai4]
+5. Piffer D. "Evolutionary Trends of Polygenic Scores in European Populations…", *Twin Res.* 2023. [^oai3]

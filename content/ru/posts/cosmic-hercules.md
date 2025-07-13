@@ -113,13 +113,19 @@ translation_model: gpt-4o
 
 ## Примечания
 
-[^ladon]: Аполлодор, *Библиотека* 2.5.11; Павсаний 6.19.8; ср. резюме [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29).
+[^oai1]: [Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
+[^oai2]: [Scribd](https://www.scribd.com/document/754009730/18-1-song)
+[^oai3]: [Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
+[^oai4]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai5]: [Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs)
+[^oai6]: [Citeseerx](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+[^ladon]: Аполлодор, *Библиотека* 2.5.11; Павсаний 6.19.8; ср. резюме [^oai1].
 [^cornutus]: Корнут, *Теология Грека* 25–26 (стоический Геракл = мировой огонь).
-[^rhapsodies]: Дамаский, *О началах* I 316 = Орф. фр. 78 [oai_citation_attribution:1‡Scribd](https://www.scribd.com/document/754009730/18-1-song).
-[^waggish]: Аналитический обзор образов змея-Хроноса [oai_citation_attribution:2‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/).
-[^phanes]: Иконография Фанеса как змея-обвитого андрогина [oai_citation_attribution:3‡Theoi](https://www.theoi.com/Protogenos/Phanes.html).
-[^olymp]: Олимпиодор, *Комментарий на Платонов Федон* I 3, о антропогонии из титанической золы [oai_citation_attribution:4‡Bryn Mawr College Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs).
-[^edmonds]: Эдмондс 1999, "Разрывая миф о Загрее," отмечает позднее происхождение антропогонии [oai_citation_attribution:5‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf).
+[^rhapsodies]: Дамаский, *О началах* I 316 = Орф. фр. 78 [^oai2].
+[^waggish]: Аналитический обзор образов змея-Хроноса [^oai3].
+[^phanes]: Иконография Фанеса как змея-обвитого андрогина [^oai4].
+[^olymp]: Олимпиодор, *Комментарий на Платонов Федон* I 3, о антропогонии из титанической золы [^oai5].
+[^edmonds]: Эдмондс 1999, "Разрывая миф о Загрее," отмечает позднее происхождение антропогонии [^oai6].
 [^cutler-gt]: Эндрю Катлер, "Геракл, Адам и Кришна были инициированы в Гёбекли-Тепе," рукопись в подготовке, 2025.
 
 ---
@@ -130,8 +136,8 @@ translation_model: gpt-4o
 2. Корнут. *Теология Грека* §25-26.
 3. Олимпиодор. *Комментарий на Платонов Федон* I 3.
 4. Аполлодор. *Библиотека* 2.5.11.
-5. Досье Фанеса, **Проект Theoi**. [oai_citation_attribution:6‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)
-6. "Отец Время: Хронос и Кронос," Waggish.org. [oai_citation_attribution:7‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
-7. "Ладон (мифология),", *Мифопедия* + ссылки. [oai_citation_attribution:8‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
-8. Рэдклифф Г. Эдмондс III. "Разрывая миф о Загрее," *Классическая античность* 18 (1999). [oai_citation_attribution:9‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+5. Досье Фанеса, **Проект Theoi**. [^oai4]
+6. "Отец Время: Хронос и Кронос," Waggish.org. [^oai3]
+7. "Ладон (мифология),", *Мифопедия* + ссылки. [^oai1]
+8. Рэдклифф Г. Эдмондс III. "Разрывая миф о Загрее," *Классическая античность* 18 (1999). [^oai6]
 9. Эндрю Катлер. *Геракл, Адам и Кришна в Гёбекли-Тепе* (в подготовке).

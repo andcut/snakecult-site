@@ -39,7 +39,7 @@ draft: false
 
 > "**Better to be without day, if so we be without death,**" said one crone. 
 > "**Nay – let us have both Light *and* Death!**" answered the other, and **as she spoke, it was so.** 
-> —*The Coming of Men, A Long, Long While Ago* (Greenland Inuit) [oai_citation:0‡Project Gutenberg](https://www.gutenberg.org/files/28932/28932-h/28932-h.htm) 
+> —*The Coming of Men, A Long, Long While Ago* (Greenland Inuit) [^oai1] 
 
 ### Greenland Inuit (Thule tradition) 
 Full tale in Rasmussen 1921, pp. 16-18. Two elder women argue; the second's demand for sunrise overrules immortality.
@@ -47,7 +47,7 @@ Full tale in Rasmussen 1921, pp. 16-18. Two elder women argue; the second's dema
 ### Blackfoot (Algonquian Plains) 
 
 > Old Man floated a buffalo-chip: "If it rides, we die only four days." 
-> **Old Woman threw a stone** that sank: "Now we die forever, else pity would perish." [oai_citation:1‡University of Pittsburgh](https://sites.pitt.edu/~dash/blkftcreation.html)
+> **Old Woman threw a stone** that sank: "Now we die forever, else pity would perish." [^oai2]
 
 Cognate float-test versions: Crow, Gros Ventre, Plains Cree, Sarcee.
 
@@ -64,7 +64,7 @@ Cognate float-test versions: Crow, Gros Ventre, Plains Cree, Sarcee.
 
 Abrahamsson’s monograph (*The Origin of Death*, 1951) collates ~40 Sub-Saharan texts. Nyamwezi example:
 
-> “…it would be **better if people died**, else they could not find wood nor room in their fields,” said **Mbaela**, the first woman, and so death began.  [oai_citation:2‡The Ethics of Suicide Digital Archive](https://ethicsofsuicide.lib.utah.edu/tradition/indigenous-cultures/african-traditional-subsaharan-cultures/african-origin-myths/)  
+> “…it would be **better if people died**, else they could not find wood nor room in their fields,” said **Mbaela**, the first woman, and so death began.  [^oai3]  
 
 Parallel cases: Hausa, Bamum, Ngala, Nuer. Old Woman is often alone; no male counter-voice. Scholars treat these as independent inventions rather than imports.
 
@@ -74,7 +74,7 @@ Parallel cases: Hausa, Bamum, Ngala, Nuer. Old Woman is often alone; no male cou
 
 Banks Islands (Vanuatu):
 
-> "One day **an old woman went to a stream to change her skin**… Her grand-child wailed, not knowing her; she put the old hide back on, and *thereafter men died*." [oai_citation:3‡Sacred Texts](https://sacred-texts.com/pac/om/om11.htm) 
+> "One day **an old woman went to a stream to change her skin**… Her grand-child wailed, not knowing her; she put the old hide back on, and *thereafter men died*." [^oai4] 
 
 Ambrym variant lets two deities debate flaying vs. burial; the **last speaker (a female spirit in some tellings)** wins and introduces death. Old-woman agency here is through **mistake**, not policy.
 
@@ -84,7 +84,7 @@ Ambrym variant lets two deities debate flaying vs. burial; the **last speaker (a
 
 Searches of Berezkin’s catalogue (2023 update) and SINIC/ICANH corpora find **no clear “Old Woman votes for death”** text below Panama. The nearest is the Kurripako (Rio Guainía) myth:
 
-> A **mother** breaks taboo, weeps over her hidden son → he dissolves, and the culture-hero pronounces, “Now death will reign forever.”  [oai_citation:4‡mitosla.blogspot.com](https://mitosla.blogspot.com/2008/10/colombia-mito-kurripako-origen-de-la.html)  
+> A **mother** breaks taboo, weeps over her hidden son → he dissolves, and the culture-hero pronounces, “Now death will reign forever.”  [^oai5]  
 
 Here the elder female *causes* death indirectly; there is no deliberative opposition as in the Arctic-Plains type.
 
@@ -130,13 +130,20 @@ None attempts a *global chronogram* confined to "Old Woman = Death," but motif A
 
 ## Footnotes  
 
-[^1]: Knud Rasmussen, *Eskimo Folk-Tales* (1921) chap. 3 “The Coming of Men”.  [oai_citation:5‡Project Gutenberg](https://www.gutenberg.org/files/28932/28932-h/28932-h.htm)  
-[^2]: Clark Wissler & D.C. Duvall, *Mythology of the Blackfoot Indians* (AMNH 1908) pp. 19-21.  [oai_citation:6‡University of Pittsburgh](https://sites.pitt.edu/~dash/blkftcreation.html?utm_source=chatgpt.com)  
-[^3]: Hans Abrahamsson, *The Origin of Death: Studies in African Mythology* (1951) sect. I.  [oai_citation:7‡The Ethics of Suicide Digital Archive](https://ethicsofsuicide.lib.utah.edu/tradition/indigenous-cultures/african-traditional-subsaharan-cultures/african-origin-myths/)  
-[^4]: “Colombia – Mito Kurripako – Origen de la muerte” (SINIC, 2008).  [oai_citation:8‡mitosla.blogspot.com](https://mitosla.blogspot.com/2008/10/colombia-mito-kurripako-origen-de-la.html)  
-[^5]: R. Codrington, *Melanesian Mythology* in *Mythology of All Races* vol. IX (1916) pp. 117-118.  [oai_citation:9‡Sacred Texts](https://sacred-texts.com/pac/om/om11.htm)  
-[^6]: Yuri Berezkin, “Peopling of the New World in Light of Folklore Motifs,” in *Maths Meets Myths* (2016) 71-89.  [oai_citation:10‡De Gruyter Brill](https://www.degruyter.com/document/doi/10.1515/fabula-2023-0013/html?lang=de)  
-[^7]: Julien d’Huy, “A Phylogenetic Approach of Mythology,” *Rock Art Research* 30(1), 2013.  [oai_citation:11‡De Gruyter Brill](https://www.degruyter.com/document/doi/10.1515/fabula-2023-0013/html?lang=de)  
+[^oai1]: [Gutenberg](https://www.gutenberg.org/files/28932/28932-h/28932-h.htm)
+[^oai2]: [Sites](https://sites.pitt.edu/~dash/blkftcreation.html)
+[^oai3]: [Ethicsofsuicide](https://ethicsofsuicide.lib.utah.edu/tradition/indigenous-cultures/african-traditional-subsaharan-cultures/african-origin-myths/)
+[^oai4]: [Sacred-texts](https://sacred-texts.com/pac/om/om11.htm)
+[^oai5]: [Mitosla](https://mitosla.blogspot.com/2008/10/colombia-mito-kurripako-origen-de-la.html)
+[^oai6]: [Sites](https://sites.pitt.edu/~dash/blkftcreation.html?utm_source=chatgpt.com)
+[^oai7]: [Degruyter](https://www.degruyter.com/document/doi/10.1515/fabula-2023-0013/html?lang=de)
+[^1]: Knud Rasmussen, *Eskimo Folk-Tales* (1921) chap. 3 “The Coming of Men”.  [^oai1]  
+[^2]: Clark Wissler & D.C. Duvall, *Mythology of the Blackfoot Indians* (AMNH 1908) pp. 19-21.  [^oai6]  
+[^3]: Hans Abrahamsson, *The Origin of Death: Studies in African Mythology* (1951) sect. I.  [^oai3]  
+[^4]: “Colombia – Mito Kurripako – Origen de la muerte” (SINIC, 2008).  [^oai5]  
+[^5]: R. Codrington, *Melanesian Mythology* in *Mythology of All Races* vol. IX (1916) pp. 117-118.  [^oai4]  
+[^6]: Yuri Berezkin, “Peopling of the New World in Light of Folklore Motifs,” in *Maths Meets Myths* (2016) 71-89.  [^oai7]  
+[^7]: Julien d’Huy, “A Phylogenetic Approach of Mythology,” *Rock Art Research* 30(1), 2013.  [^oai7]  
 
 ---
 

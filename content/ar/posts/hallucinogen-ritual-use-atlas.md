@@ -120,19 +120,28 @@ translation_model: gpt-4o
 
 ## الحواشي
 
-[^1]: بويد، سي. إي. & ديرينغ، ب. ج. 2005. "استخدام البيوت في لوار بيكوس." *العصور القديمة* 79. [oai_citation:0‡Wikipedia](https://en.wikipedia.org/wiki/Tassili_Mushroom_Figure) 
-[^2]: ميلر، م. ج. وآخرون. 2019. "دليل كيميائي على أيواساكا قبل كولومبوس." *PNAS* 116. [oai_citation:1‡PLOS](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0090376) 
-[^3]: روك، سي. أ. ب. وآخرون. 2023. "قلويدات الإرغوت في كأس يوناني كلاسيكي." *مجلة العلوم الأثرية*. [oai_citation:2‡Berkeley News](https://news.berkeley.edu/2025/03/11/investigating-the-psychedelic-blue-lotus-of-egypt-where-ancient-magic-meets-modern-science/) 
-[^4]: رويز، ج. ف. & غوزمان، ج. 2011. "جدارية ما قبل التاريخ تصور *بسيليسيب* العصبي." *النباتات الاقتصادية*. [oai_citation:3‡JSTOR](https://www.jstor.org/stable/41242925) 
-[^5]: دوفور، م. 2023. "من بويتي إلى إيبوجين والعودة." في *توسيع المناظر العقلية*. [oai_citation:4‡ResearchGate](https://www.researchgate.net/publication/376005553_From_Bwiti_to_Ibogaine_and_Back_A_Transnational_History_of_Tabernanthe_iboga) 
-[^6]: "شخصية الفطر في تاسيلي." ملخص ويكيبيديا للمنح الدراسية للفن الصخري. [oai_citation:5‡Wikipedia](https://en.wikipedia.org/wiki/Tassili_Mushroom_Figure) 
-[^7]: هارود، ج. ب. 2025. "اللوتس الأزرق المهلوس في مصر." *أخبار جامعة كاليفورنيا في بيركلي*. [oai_citation:6‡Berkeley News](https://news.berkeley.edu/2025/03/11/investigating-the-psychedelic-blue-lotus-of-egypt-where-ancient-magic-meets-modern-science/) 
+[^oai1]: [Wikipedia](https://en.wikipedia.org/wiki/Tassili_Mushroom_Figure)
+[^oai2]: [Journals](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0090376)
+[^oai3]: [UC Berkeley News](https://news.berkeley.edu/2025/03/11/investigating-the-psychedelic-blue-lotus-of-egypt-where-ancient-magic-meets-modern-science/)
+[^oai4]: [JSTOR](https://www.jstor.org/stable/41242925)
+[^oai5]: [ResearchGate](https://www.researchgate.net/publication/376005553_From_Bwiti_to_Ibogaine_and_Back_A_Transnational_History_of_Tabernanthe_iboga)
+[^oai6]: [Wikipedia](https://en.wikipedia.org/wiki/Pituri)
+[^oai7]: [Ethnology](https://ethnology.pitt.edu/ojs/index.php/Ethnology/article/viewFile/6111/6321)
+[^oai8]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0378874183900673)
+[^oai9]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9738376/)
+[^1]: بويد، سي. إي. & ديرينغ، ب. ج. 2005. "استخدام البيوت في لوار بيكوس." *العصور القديمة* 79. [^oai1] 
+[^2]: ميلر، م. ج. وآخرون. 2019. "دليل كيميائي على أيواساكا قبل كولومبوس." *PNAS* 116. [^oai2] 
+[^3]: روك، سي. أ. ب. وآخرون. 2023. "قلويدات الإرغوت في كأس يوناني كلاسيكي." *مجلة العلوم الأثرية*. [^oai3] 
+[^4]: رويز، ج. ف. & غوزمان، ج. 2011. "جدارية ما قبل التاريخ تصور *بسيليسيب* العصبي." *النباتات الاقتصادية*. [^oai4] 
+[^5]: دوفور، م. 2023. "من بويتي إلى إيبوجين والعودة." في *توسيع المناظر العقلية*. [^oai5] 
+[^6]: "شخصية الفطر في تاسيلي." ملخص ويكيبيديا للمنح الدراسية للفن الصخري. [^oai1] 
+[^7]: هارود، ج. ب. 2025. "اللوتس الأزرق المهلوس في مصر." *أخبار جامعة كاليفورنيا في بيركلي*. [^oai3] 
 [^8]: ميلر، م. ج. 2010. "الإفيدرا في طقوس BMAC." *العصور القديمة* 84. 
 [^9]: رين، ر. إكس. وآخرون. 2019. "أقدم تدخين للقنب." *التقدم في العلوم* 5. 
-[^10]: سينغ، ف. ك. 2022. "إساءة استخدام سم الأفعى في الهند." *المجلة الهندية لعلم الأدوية*. [oai_citation:7‡Wikipedia](https://en.wikipedia.org/wiki/Pituri) 
-[^11]: بيدفورد، س. وآخرون. 2013. "الكافا وشعب لابيتا." *الإثنولوجيا* 50. [oai_citation:8‡ethnology.pitt.edu](https://ethnology.pitt.edu/ojs/index.php/Ethnology/article/viewFile/6111/6321) 
-[^12]: واتسون، ل. وآخرون. 2010. "قصة بيتوري." *مجلة علم الأدوية الإثني* 132. [oai_citation:9‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/0378874183900673) 
-[^13]: يوفانوفيتش، أ. وآخرون. 2022. "المهلوسات في أكاسيا الأسترالية." *النباتات* 11:3299. [oai_citation:10‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9738376/) 
+[^10]: سينغ، ف. ك. 2022. "إساءة استخدام سم الأفعى في الهند." *المجلة الهندية لعلم الأدوية*. [^oai6] 
+[^11]: بيدفورد، س. وآخرون. 2013. "الكافا وشعب لابيتا." *الإثنولوجيا* 50. [^oai7] 
+[^12]: واتسون، ل. وآخرون. 2010. "قصة بيتوري." *مجلة علم الأدوية الإثني* 132. [^oai8] 
+[^13]: يوفانوفيتش، أ. وآخرون. 2022. "المهلوسات في أكاسيا الأسترالية." *النباتات* 11:3299. [^oai9] 
 
 ---
 

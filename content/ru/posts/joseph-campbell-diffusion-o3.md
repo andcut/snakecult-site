@@ -27,11 +27,11 @@ translation_model: gpt-4o
 
 **Краткое содержание**
 
-- Кэмпбелл любил Юнга за герменевтику, **а не** за истории происхождения.  
-- Начиная с *Primitive Mythology* (1959) он рассматривает мотивы Ближнего Востока ➜ глобальные мотивы как "единую базу" диффузии.[^1]  
-- Он отказывается от "психической единства", когда радиоуглеродные даты и торговые ветры совпадают — знаменитый пакет свинья/бык/лошадь по Евразии и в Перу.[^2]  
-- Интервью (*An Open Life*, 1990) повторяют мантру: "Меня **гораздо больше интересует диффузия** … чем когда-либо Юнга."[^3]  
-- *Historical Atlas* (1983-88) открывается прологом, насыщенным картами, под названием "Диффузия, Конвергенция и Параллелизм."[^4]  
+- Кэмпбелл любил Юнга за герменевтику, **а не** за истории происхождения. 
+- Начиная с *Primitive Mythology* (1959) он рассматривает мотивы Ближнего Востока ➜ глобальные мотивы как "единую базу" диффузии.[^1] 
+- Он отказывается от "психической единства", когда радиоуглеродные даты и торговые ветры совпадают — знаменитый пакет свинья/бык/лошадь по Евразии и в Перу.[^2] 
+- Интервью (*An Open Life*, 1990) повторяют мантру: "Меня **гораздо больше интересует диффузия** … чем когда-либо Юнга."[^3] 
+- *Historical Atlas* (1983-88) открывается прологом, насыщенным картами, под названием "Диффузия, Конвергенция и Параллелизм."[^4] 
 - Итог: модель Кэмпбелла по умолчанию — это караваны, каноэ с аутригерами и межэтнические браки; архетипы объясняют только *резонанс*, но никогда *распространение*.
 
 ---
@@ -137,11 +137,15 @@ translation_model: gpt-4o
 
 ## Примечания
 
-[^1]: Кэмпбелл, *The Masks of God: Primitive Mythology* (1959), гл. 5 "Параллелизм или диффузия?" стр. 202-203. [oai_citation:0‡Path to the Maypole of Wisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf) 
-[^2]: Там же, гл. 10 "Великая диффузия," стр. 444. [oai_citation:1‡Path to the Maypole of Wisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf) 
-[^3]: Кэмпбелл и Томс, *An Open Life* (1990) стр. 119. [oai_citation:2‡miembrosadepac.org](https://www.miembrosadepac.org/wp-content/uploads/2015Copia/09/Rensma-Innateness-of-Myth.pdf) 
-[^4]: Кэмпбелл, *Historical Atlas of World Mythology* Том 2 Часть 1 (1983) Титульная страница пролога. [oai_citation:3‡PINES](https://www.gapines.org/eg/opac/record/5528480) 
-[^5]: Кэмпбелл, "Символ без значения," в *Flight of the Wild Gander* (1969). [oai_citation:4‡SpringerLink](https://link.springer.com/10.1007/978-0-387-71802-6_93) 
+[^oai1]: [Maypoleofwisdom](https://maypoleofwisdom.com/wp-content/uploads/2021/01/themasksofgodprimitivemythologycampbell.pdf)
+[^oai2]: [Miembrosadepac](https://www.miembrosadepac.org/wp-content/uploads/2015Copia/09/Rensma-Innateness-of-Myth.pdf)
+[^oai3]: [Gapines](https://www.gapines.org/eg/opac/record/5528480)
+[^oai4]: [Link](https://link.springer.com/10.1007/978-0-387-71802-6_93)
+[^1]: Кэмпбелл, *The Masks of God: Primitive Mythology* (1959), гл. 5 "Параллелизм или диффузия?" стр. 202-203. [^oai1] 
+[^2]: Там же, гл. 10 "Великая диффузия," стр. 444. [^oai1] 
+[^3]: Кэмпбелл и Томс, *An Open Life* (1990) стр. 119. [^oai2] 
+[^4]: Кэмпбелл, *Historical Atlas of World Mythology* Том 2 Часть 1 (1983) Титульная страница пролога. [^oai3] 
+[^5]: Кэмпбелл, "Символ без значения," в *Flight of the Wild Gander* (1969). [^oai4] 
 
 ---
 

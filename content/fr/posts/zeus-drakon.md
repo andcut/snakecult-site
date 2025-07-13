@@ -38,11 +38,11 @@ translation_model: gpt-4o
 
 | Épithète | Site / fonction | Iconographie | Source |
 |----------|-----------------|--------------|--------|
-| **Zeus Meilichios** | Athènes, Argos ; apaisement chthonien & richesse | **Serpent enroulé** sur reliefs & autels | [oai_citation_attribution:0‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf) |
-| **Zeus Ktesios / Agathos Daimon** | Sanctuaires domestiques ; protecteur du garde-manger | Petit **pot à serpent (kadiskos)**, deux enroulements | [oai_citation_attribution:1‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the) |
-| **Zeus Phylax** | Murs de la ville ; esprit gardien | Serpents votifs sur les portes | [oai_citation_attribution:2‡Wikipedia](https://en.wikipedia.org/wiki/Oracle) |
-| **Zeus Sabazios** (Thrace) | Mystères itinérants ; rites extatiques | **Main en bronze** entourée par un serpent | [oai_citation_attribution:3‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) |
-| **Zeus Lykaios** | Lykaia arcadien ; initiation cryptique | Loup-garou & folklore cannibale ; **monticule de cendres** caché | [oai_citation_attribution:4‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia) |
+| **Zeus Meilichios** | Athènes, Argos ; apaisement chthonien & richesse | **Serpent enroulé** sur reliefs & autels | [^oai1] |
+| **Zeus Ktesios / Agathos Daimon** | Sanctuaires domestiques ; protecteur du garde-manger | Petit **pot à serpent (kadiskos)**, deux enroulements | [^oai2] |
+| **Zeus Phylax** | Murs de la ville ; esprit gardien | Serpents votifs sur les portes | [^oai3] |
+| **Zeus Sabazios** (Thrace) | Mystères itinérants ; rites extatiques | **Main en bronze** entourée par un serpent | [^oai4] |
+| **Zeus Lykaios** | Lykaia arcadien ; initiation cryptique | Loup-garou & folklore cannibale ; **monticule de cendres** caché | [^oai5] |
 
 > **Motif :** partout où Zeus médie **richesse, protection ou liminalité**, le culte y associe un **serpent**.
 
@@ -59,7 +59,7 @@ Il **re-crée** ensuite le monde de l'intérieur, devenant un cosmos *panenthéi
 
 ### 2.3 Appropriation philosophique
 - **Proclus** : l'avalement et la réémission de Zeus sont le macro-cycle reflétant les micro-initiations.
-- **Aristote (fr. OF 166)** note déjà que les orphiques appellent Zeus *"tête-milieu-fin de tout."* [oai_citation_attribution:5‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+- **Aristote (fr. OF 166)** note déjà que les orphiques appellent Zeus *"tête-milieu-fin de tout."* [^oai6]
 
 ---
 
@@ -99,23 +99,35 @@ En termes rituels :
 
 ## Notes de bas de page
 
-[^zagreus]: *Zagreus* entrée résumant la paternité de Zeus en tant que serpent. [oai_citation_attribution:6‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-[^phanes-swallow]: Orphic Fr. 167 & 168 (Kern) : Zeus dévore Phanès, tous les dieux s'effondrent en lui. [oai_citation_attribution:7‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-[^cleanthes]: Cléanthe, *Hymne à Zeus* ll. 10-14 (sur le retour cyclique). [oai_citation_attribution:8‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai1]: [Ascs](https://www.ascs.org.au/news/ascs31/Burton.pdf)
+[^oai2]: [Verdantlyviolet](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
+[^oai3]: [Wikipedia](https://en.wikipedia.org/wiki/Oracle)
+[^oai4]: [Wikipedia](https://en.wikipedia.org/wiki/Sabazios)
+[^oai5]: [Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
+[^oai6]: [Ir](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+[^oai7]: [Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
+[^oai8]: [Hellenic Gods](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
+[^oai9]: [Hellenion](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai10]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai11]: [Fulmenquarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
+[^oai12]: [Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
+[^zagreus]: *Zagreus* entrée résumant la paternité de Zeus en tant que serpent. [^oai7]
+[^phanes-swallow]: Orphic Fr. 167 & 168 (Kern) : Zeus dévore Phanès, tous les dieux s'effondrent en lui. [^oai8]
+[^cleanthes]: Cléanthe, *Hymne à Zeus* ll. 10-14 (sur le retour cyclique). [^oai9]
 [^tablets]: Lamelles d'or : les lignes 10-14 de la tablette d'Hipponion invoquent la lignée *Zeus-Perséphone*.
 
 ---
 
 ## Sources
 
-1. Étude du culte de Zeus Meilichios (Burton 2011). [oai_citation_attribution:9‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf)
-2. "Zeus Ktesios & le Kadiskos," article de blog verdantlyviolet. [oai_citation_attribution:10‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
-3. Orphic Fr. 167–168, compilation d'Otto Kern. [oai_citation_attribution:11‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-4. *Theoi: Phanès* — notes sur Zeus avalant Phanès. [oai_citation_attribution:12‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)
-5. Cléanthe, *Hymne à Zeus* (trad. Hellenion). [oai_citation_attribution:13‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
-6. Résumé savant de Wikipédia "Zagreus". [oai_citation_attribution:14‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-7. Wikipédia "Sabazios" & Fulmen Quarterly sur l'icône de la main. [oai_citation_attribution:15‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) [oai_citation_attribution:16‡Fulmen Quarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
-8. Wikipédia "Lykaia" (rite de Zeus Lykaios). [oai_citation_attribution:17‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
-9. Enquête sur les oracles : serpents de Dodone & Dione. [oai_citation_attribution:18‡Wikipedia](https://en.wikipedia.org/wiki/Oracle)
-10. Extraits de Proclus / Damascius dans l'article Aether (§Orphic). [oai_citation_attribution:19‡Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
-11. Thèse "Zeus la Tête, Zeus le Milieu" (Western Ontario, 2015). [oai_citation_attribution:20‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+1. Étude du culte de Zeus Meilichios (Burton 2011). [^oai1]
+2. "Zeus Ktesios & le Kadiskos," article de blog verdantlyviolet. [^oai2]
+3. Orphic Fr. 167–168, compilation d'Otto Kern. [^oai8]
+4. *Theoi: Phanès* — notes sur Zeus avalant Phanès. [^oai10]
+5. Cléanthe, *Hymne à Zeus* (trad. Hellenion). [^oai9]
+6. Résumé savant de Wikipédia "Zagreus". [^oai7]
+7. Wikipédia "Sabazios" & Fulmen Quarterly sur l'icône de la main. [^oai4] [^oai11]
+8. Wikipédia "Lykaia" (rite de Zeus Lykaios). [^oai5]
+9. Enquête sur les oracles : serpents de Dodone & Dione. [^oai3]
+10. Extraits de Proclus / Damascius dans l'article Aether (§Orphic). [^oai12]
+11. Thèse "Zeus la Tête, Zeus le Milieu" (Western Ontario, 2015). [^oai6]

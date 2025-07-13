@@ -112,14 +112,22 @@ A. It widens the frame: pharmacology supplied the spark; human meaning-making fa
 
 ## Footnotes
 
-[^1]: *Neurological complications of venomous snake bites: a review*, **Acta Neurol Scand** 125(6):363‑72 (2012).  [oai_citation:0‡PubMed](https://pubmed.ncbi.nlm.nih.gov/21999367/)  
-[^2]: Isbell, L. A. *The Fruit, the Tree, and the Serpent* (Harvard UP, 2009).  [oai_citation:1‡Wikipedia](https://en.wikipedia.org/wiki/Snake_detection_theory?utm_source=chatgpt.com)  
-[^3]: Mehra A. et al., “Snake Venom Use as a Substitute for Opioids,” **Indian J Psychol Med** 40(3):269‑71 (2018).  [oai_citation:2‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5968650/)  
-[^4]: Akbari A. et al., “Visual Hallucinations following Snakebite,” **J Surgery & Trauma** 6(2):73‑76 (2018).  [oai_citation:3‡jsurgery.bums.ac.ir](https://jsurgery.bums.ac.ir/article-1-138-en.pdf)  
-[^5]: “Deliberate Snake Venom Use: A Systematic Review,” **Addicta** 9(1):71‑80 (2025).  [oai_citation:4‡Addicta](https://www.addicta.com.tr/Content/files/sayilar/42/71-80.pdf?utm_source=chatgpt.com)  
-[^6]: Senthilkumaran M. *et al.*, “Snakes and Their Relevance to Psychiatry,” **Arch Indian Psychiatry** 30 (2019).  [oai_citation:5‡Lippincott Journals](https://journals.lww.com/aips/fulltext/2019/03010/snakes_and_their_relevance_to_psychiatry.15.aspx?utm_source=chatgpt.com)  
-[^7]: Hebrew lexeme *‘ārûm* (“crafty/prudent”) in Gen 3:1; see BibleHub entry 6175.  [oai_citation:6‡Bible Hub](https://biblehub.com/hebrew/6175.htm?utm_source=chatgpt.com)  
-[^8]: “Snake Detection Theory,” UC Davis news release (2013) summarising Isbell’s primate‑vision research.  [oai_citation:7‡UC Davis](https://www.ucdavis.edu/news/snakes-brain-are-primates-hard-wired-see-snakes?utm_source=chatgpt.com)  
+[^oai1]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/21999367/)
+[^oai2]: [Wikipedia](https://en.wikipedia.org/wiki/Snake_detection_theory?utm_source=chatgpt.com)
+[^oai3]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5968650/)
+[^oai4]: [Jsurgery](https://jsurgery.bums.ac.ir/article-1-138-en.pdf)
+[^oai5]: [Addicta](https://www.addicta.com.tr/Content/files/sayilar/42/71-80.pdf?utm_source=chatgpt.com)
+[^oai6]: [Journals](https://journals.lww.com/aips/fulltext/2019/03010/snakes_and_their_relevance_to_psychiatry.15.aspx?utm_source=chatgpt.com)
+[^oai7]: [Biblehub](https://biblehub.com/hebrew/6175.htm?utm_source=chatgpt.com)
+[^oai8]: [Ucdavis](https://www.ucdavis.edu/news/snakes-brain-are-primates-hard-wired-see-snakes?utm_source=chatgpt.com)
+[^1]: *Neurological complications of venomous snake bites: a review*, **Acta Neurol Scand** 125(6):363‑72 (2012).  [^oai1]  
+[^2]: Isbell, L. A. *The Fruit, the Tree, and the Serpent* (Harvard UP, 2009).  [^oai2]  
+[^3]: Mehra A. et al., “Snake Venom Use as a Substitute for Opioids,” **Indian J Psychol Med** 40(3):269‑71 (2018).  [^oai3]  
+[^4]: Akbari A. et al., “Visual Hallucinations following Snakebite,” **J Surgery & Trauma** 6(2):73‑76 (2018).  [^oai4]  
+[^5]: “Deliberate Snake Venom Use: A Systematic Review,” **Addicta** 9(1):71‑80 (2025).  [^oai5]  
+[^6]: Senthilkumaran M. *et al.*, “Snakes and Their Relevance to Psychiatry,” **Arch Indian Psychiatry** 30 (2019).  [^oai6]  
+[^7]: Hebrew lexeme *‘ārûm* (“crafty/prudent”) in Gen 3:1; see BibleHub entry 6175.  [^oai7]  
+[^8]: “Snake Detection Theory,” UC Davis news release (2013) summarising Isbell’s primate‑vision research.  [^oai8]  
 
 ---
 

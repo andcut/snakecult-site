@@ -29,8 +29,8 @@ translation_model: gpt-4o
 
 **TL;DR**
 
-- **Anatomia moderna, comportamento arcaico:** *Homo sapiens* alcançou o norte da Austrália por **65 ± 6 mil anos atrás** [oai_citation_attribution:0‡In Africa](https://in-africa.org/wp-content/uploads/2012/12/Foley-Lahr-2003-EvAnth-On-stony-ground.pdf), mas por ≥ 40 mil anos sua cultura material permaneceu nos níveis **Paleolítico Inferior/Médio**.
-- **Deserto simbólico:** Exceto por um único sepultamento com ocre no Lago Mungo (~42 mil anos atrás) [oai_citation_attribution:1‡Rock Art Australia](https://rockartaustralia.org.au/wp-content/uploads/2020/10/Balme-et-al.-Riwi.pdf), arte durável e ornamentação são virtualmente ausentes até o Holoceno médio.
+- **Anatomia moderna, comportamento arcaico:** *Homo sapiens* alcançou o norte da Austrália por **65 ± 6 mil anos atrás** [^oai1], mas por ≥ 40 mil anos sua cultura material permaneceu nos níveis **Paleolítico Inferior/Médio**.
+- **Deserto simbólico:** Exceto por um único sepultamento com ocre no Lago Mungo (~42 mil anos atrás) [^oai2], arte durável e ornamentação são virtualmente ausentes até o Holoceno médio.
 - **"Revoluções" atrasadas:** Tecnologia de lâminas, micrólitos apoiados e florescimento de arte rupestre aparecem **milênios após** inovações paralelas na Eurásia, destacando um atraso em escala continental na modernidade comportamental.
 
 ---
@@ -38,22 +38,22 @@ translation_model: gpt-4o
 ## 1 Introdução e Primeiro Assentamento Humano em Sahul (≈ 65 000 – 40 000 AP)
 
 ### 1.1 O Paradoxo de Renfrew Encontra o Registro Australiano
-Colin Renfrew enquadrou o **Paradoxo Sapiente** como um desconexão de 200 mil anos entre o surgimento de humanos anatomicamente modernos e o posterior florescimento da cultura simbólica [oai_citation_attribution:2‡Open Research Repository](https://openresearch-repository.anu.edu.au/items/5ce3cb7a-fa13-4f32-aee1-c0178106cc26). 
+Colin Renfrew enquadrou o **Paradoxo Sapiente** como um desconexão de 200 mil anos entre o surgimento de humanos anatomicamente modernos e o posterior florescimento da cultura simbólica [^oai3]. 
 A Austrália amplifica essa desconexão: pessoas com cérebros modernos cruzam o mar para Sahul, mas deixam um registro indistinguível de uma oficina do final do Paleolítico Inferior por dezenas de milênios.
 
 ### 1.2 Cronologia do Primeiro Desembarque
 
 | Local (Região) | Idade Segura (mil anos atrás) | Achados Diagnósticos | Significado |
 |----------------|-------------------------------|----------------------|-------------|
-| **Madjedbebe** (Arnhem Land) | 65 ± 6 | Artefatos simples de núcleo e lasca, ocre moído, lajes de moagem de sementes | Horizonte humano mais antigo aceito na Austrália [oai_citation_attribution:3‡In Africa](https://in-africa.org/wp-content/uploads/2012/12/Foley-Lahr-2003-EvAnth-On-stony-ground.pdf) |
+| **Madjedbebe** (Arnhem Land) | 65 ± 6 | Artefatos simples de núcleo e lasca, ocre moído, lajes de moagem de sementes | Horizonte humano mais antigo aceito na Austrália [^oai1] |
 | **Caverna Riwi** (Kimberley) | 46 ± 4 | Raspadores unifaciais, núcleos discoidais, lareiras | Demonstra rápida dispersão para o interior através de margens áridas |
-| **Lago Mungo** (Lagos Willandra) | 42 ± 3 | Dois sepultamentos; LM3 polvilhado com ocre vermelho | Uso de pigmento ritual mais antigo em Sahul [oai_citation_attribution:4‡Rock Art Australia](https://rockartaustralia.org.au/wp-content/uploads/2020/10/Balme-et-al.-Riwi.pdf), ainda sem bens funerários. |
+| **Lago Mungo** (Lagos Willandra) | 42 ± 3 | Dois sepultamentos; LM3 polvilhado com ocre vermelho | Uso de pigmento ritual mais antigo em Sahul [^oai2], ainda sem bens funerários. |
 
 *Observação chave:* nenhum desses níveis iniciais contém lâminas, ferramentas de osso, arte figurativa ou ornamentos pessoais.
 
 ### 1.3 Navegação sem um "Big Bang" Tecnológico
-A travessia Sunda–Sahul exigia atravessar ≥ 70 km de águas abertas mesmo nos níveis baixos do mar da Era do Gelo. Davidson & Noble (1992) argumentaram que isso implica linguagem e planejamento moderno [oai_citation_attribution:5‡The Guardian](https://www.theguardian.com/science/2018/feb/20/homo-erectus-may-have-been-a-sailor-and-able-to-speak). 
-No entanto, travessias comparáveis por **hominídeos anteriores** para Flores e talvez Creta mostram que **ferramentas simples não excluem navegação oportunista** [oai_citation_attribution:6‡WIRED](https://www.wired.com/2010/01/ancient-seafarers). 
+A travessia Sunda–Sahul exigia atravessar ≥ 70 km de águas abertas mesmo nos níveis baixos do mar da Era do Gelo. Davidson & Noble (1992) argumentaram que isso implica linguagem e planejamento moderno [^oai4]. 
+No entanto, travessias comparáveis por **hominídeos anteriores** para Flores e talvez Creta mostram que **ferramentas simples não excluem navegação oportunista** [^oai5]. 
 Portanto, colonização ≠ prova automática de um pacote cognitivo do Paleolítico Superior.
 
 ### 1.4 A Linha de Base Lítica: Modos 1–3, Nada Além
@@ -84,7 +84,7 @@ Os primeiros australianos mantiveram um kit de ferramentas resolutamente **Modo 
 
 ### 2.2 A Revolução da Lâmina Ausente (40 000 – 10 000 AP)
 
-Enquanto os europeus lançaram o boom de núcleos de lâmina **Aurignaciano** (~43 mil anos atrás) completo com burins, raspadores e ferramentas de osso [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/wiki/Aurignacian), Sahul não mostra **nenhuma indústria de lâmina prismática antes do Holoceno**. 
+Enquanto os europeus lançaram o boom de núcleos de lâmina **Aurignaciano** (~43 mil anos atrás) completo com burins, raspadores e ferramentas de osso [^oai6], Sahul não mostra **nenhuma indústria de lâmina prismática antes do Holoceno**. 
 Mesmo "pseudo-lâminas" isoladas são produtos de lascamento oportunista em vez de design formal de núcleo.
 
 | Região | Início do Núcleo de Lâmina | Pacote Cultural |
@@ -96,7 +96,7 @@ Mesmo "pseudo-lâminas" isoladas são produtos de lascamento oportunista em vez 
 
 ### 2.3 Machados de Borda Afiada: Um Outlier Inicial, Não uma Revolução
 
-Um machado de borda afiada fragmentário de Kimberley data de **48 – 44 mil anos atrás**, o **machado mais antigo do mundo** [oai_citation_attribution:1‡ABC](https://www.abc.net.au/news/science/2016-05-11/worlds-oldest-known-ground-edge-stone-axe-fragments-found/7401728). 
+Um machado de borda afiada fragmentário de Kimberley data de **48 – 44 mil anos atrás**, o **machado mais antigo do mundo** [^oai7]. 
 No entanto, machados de borda afiada permanecem *curiosidades raras* até proliferarem em zonas de floresta tropical e ribeirinhas após ~8 mil anos atrás—sugerindo adoção funcional de nicho em vez de salto tecnológico em escala continental.
 
 ### 2.4 Chegada da Tradição de Pequenas Ferramentas (≤ 5 000 AP)
@@ -109,8 +109,8 @@ A mudança continental para **micrólitos apoiados**—pequenos flocos geométri
 | Micrólitos clássicos | Segmentos geométricos, triângulos escaleno | 6 – 3 mil anos atrás | Disseminação nacional como farpas de caça |
 | Proliferação do Holoceno tardio | Lâminas apoiadas em miniatura, enxós tula | < 2 mil anos atrás | Frequentemente ligados ao crescimento populacional e uso intensificado da terra |
 
-A datação de > 600 conjuntos de micrólitos mostra um **aumento em escala continental apenas após 5 mil anos atrás** [oai_citation_attribution:2‡Open Research Repository](https://openresearch-repository.anu.edu.au/bitstreams/245ba4bc-9369-42a9-913c-52a7aae7c7a0/download). 
-Para comparação, **indústrias microlíticas na África** aparecem por ~25 mil anos atrás [oai_citation_attribution:3‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1040618216000586), e **micrólitos Azilianos/Swiderianos da Europa** florescem por 12 mil anos atrás.
+A datação de > 600 conjuntos de micrólitos mostra um **aumento em escala continental apenas após 5 mil anos atrás** [^oai8]. 
+Para comparação, **indústrias microlíticas na África** aparecem por ~25 mil anos atrás [^oai9], e **micrólitos Azilianos/Swiderianos da Europa** florescem por 12 mil anos atrás.
 
 ### 2.5 Contexto Global: O Persistente Atraso Tecnológico da Austrália
 
@@ -133,19 +133,19 @@ O registro de simbolismo durável da Austrália é **extremamente fino** para a 
 
 | Achado | Local e Idade | Material e Forma | Contexto e Notas |
 |--------|---------------|------------------|------------------|
-| **Contas de concha cônica** | Mandu Mandu Creek, WA — 32 mil anos atrás | 22 conchas *Conus* perfuradas | Ornamento mais antigo em Sahul; único no local [oai_citation_attribution:0‡Western Australian Museum](https://museum.wa.gov.au/explore/online-exhibitions/travellerstraders/treasures-sea) |
-| **Contas de osso e osso de macrópode incisa** | Devil's Lair, WA — 33 mil anos atrás → 19 mil anos atrás | Pequenos ossos polidos; uma falange de wallaby perfurada | Horizonte único entre 30 mil anos de ocupação [oai_citation_attribution:1‡Western Australian Museum](https://museum.wa.gov.au/sites/default/files/33%2C000%20YEAR%20OLD%20STONE%20AND%20BONE%20ARTIFACTS%20FROM%20DEVIL%27S%20LAIR%2C%20WESTERN%20 AUSTRALIA_0.pdf), ainda assim tardio em termos globais [oai_citation_attribution:2‡Paleoanthro](https://paleoanthro.org/media/journal/content/PA20190177.pdf) |
-| **Contas de dentes de diabo-da-tasmânia gracil** | Várias cavernas da Tasmânia — < 19 mil anos atrás | Dentes de carnívoros perfurados | Extremamente escassos; Tasmânia mais tarde perde completamente a fabricação de contas [oai_citation_attribution:3‡Paleoanthro](https://paleoanthro.org/media/journal/content/PA20190177.pdf) |
-| **Colar de incisivos de canguru** | Kow Swamp, Vic — 12 mil anos atrás | 327 incisivos colados com resina | Primeiro conjunto considerável de bens funerários, ainda assim tardio em termos globais [oai_citation_attribution:4‡Austhrutime](https://austhrutime.com/table_beads_pendants.htm) |
+| **Contas de concha cônica** | Mandu Mandu Creek, WA — 32 mil anos atrás | 22 conchas *Conus* perfuradas | Ornamento mais antigo em Sahul; único no local [^oai10] |
+| **Contas de osso e osso de macrópode incisa** | Devil's Lair, WA — 33 mil anos atrás → 19 mil anos atrás | Pequenos ossos polidos; uma falange de wallaby perfurada | Horizonte único entre 30 mil anos de ocupação [^oai11], ainda assim tardio em termos globais [^oai12] |
+| **Contas de dentes de diabo-da-tasmânia gracil** | Várias cavernas da Tasmânia — < 19 mil anos atrás | Dentes de carnívoros perfurados | Extremamente escassos; Tasmânia mais tarde perde completamente a fabricação de contas [^oai12] |
+| **Colar de incisivos de canguru** | Kow Swamp, Vic — 12 mil anos atrás | 327 incisivos colados com resina | Primeiro conjunto considerável de bens funerários, ainda assim tardio em termos globais [^oai13] |
 
 > *Padrão:* Quatro localidades dispersas ao longo de **50 000 anos**—nenhuma tradição sustentada de ornamentos, nenhum estilo trans-regional, e tamanhos de amostra ofuscados por locais Aurignacianos individuais na Europa.
 
 ### 3.2 Arte Rupestre: Um Registro Atrasado e Desigual
 
-1. **Motivo mais antigo seguro:** Um zigue-zague de carvão em uma laje de teto caída em **Nawarla Gabarnmang**, Arnhem Land, datado de **≈ 28 mil anos atrás** [oai_citation_attribution:5‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0305440312003664), a imagem é abstrata e isolada.
-2. **Figuras Gwion Gwion (Bradshaw):** Radiocarbono de ninhos de vespas de lama delimita muitas pinturas entre **17 mil anos atrás e 12 mil anos atrás**, mas a maioria dos 23 ninhos se concentra ≤ 13 mil anos atrás**, com apenas um outlier > 16 mil anos atrás [oai_citation_attribution:6‡ABC](https://www.abc.net.au/news/science/2020-02-06/gwion-rock-art-in-kimberley-dated-using-wasp-nests/11924584) [oai_citation_attribution:7‡The University of Melbourne](https://www.unimelb.edu.au/newsroom/news/2020/february/wasp-nests-used-to-date-ancient-kimberley-rock-art) [oai_citation_attribution:8‡The University of Melbourne](https://www.unimelb.edu.au/newsroom/news/2020/february/wasp-nests-used-to-date-ancient-kimberley-rock-art). Mesmo estes são **4–5 mil anos mais jovens** que os leões de Chauvet na Europa.
+1. **Motivo mais antigo seguro:** Um zigue-zague de carvão em uma laje de teto caída em **Nawarla Gabarnmang**, Arnhem Land, datado de **≈ 28 mil anos atrás** [^oai14], a imagem é abstrata e isolada.
+2. **Figuras Gwion Gwion (Bradshaw):** Radiocarbono de ninhos de vespas de lama delimita muitas pinturas entre **17 mil anos atrás e 12 mil anos atrás**, mas a maioria dos 23 ninhos se concentra ≤ 13 mil anos atrás**, com apenas um outlier > 16 mil anos atrás [^oai15] [^oai16] [^oai16]. Mesmo estes são **4–5 mil anos mais jovens** que os leões de Chauvet na Europa.
 3. **Explosão do Holoceno:** 
- - A **tradição de raios-X** em Arnhem Land floresce **após 4 mil anos atrás**, retratando peixes com órgãos internos [oai_citation_attribution:9‡The Metropolitan Museum of Art](https://www.metmuseum.org/essays/x-ray-style-in-arnhem-land-rock-art) [oai_citation_attribution:10‡ANU Press](https://press-files.anu.edu.au/downloads/press/n3991/pdf/ch07.pdf) [oai_citation_attribution:11‡The Metropolitan Museum of Art](https://www.metmuseum.org/essays/x-ray-style-in-arnhem-land-rock-art).
+ - A **tradição de raios-X** em Arnhem Land floresce **após 4 mil anos atrás**, retratando peixes com órgãos internos [^oai17] [^oai18] [^oai17].
  - Figuras de espírito Wandjina de Kimberley e "Figuras Dinâmicas" de Arnhem também se concentram nos últimos **< 5 mil anos**.
 
 | Era | Produção Segura de Arte Rupestre | Comparação Global |
@@ -174,12 +174,12 @@ Desde o primeiro desembarque até o contato europeu, os aborígenes australianos
 ### 4.1 Caçadores-Coletores com Agricultura de Fogo
 
 - **Dieta de amplo espectro:** cangurus, wallabies, emas, répteis, peixes, mariscos, sementes, inhames, frutas, néctar.
-- **Agricultura de fogo:** queimadas sazonais de baixa temperatura para espantar caça e criar mosaicos de pastagens; testes quantitativos confirmam que o fogo era uma *estratégia deliberada de produtividade*, não incêndios aleatórios [oai_citation_attribution:0‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0804757105) [oai_citation_attribution:1‡Time](https://time.com/5764521/australia-bushfires-indigenous-fire-practices/).
-- **Intensificação aquática:** o **complexo de armadilhas para enguias Budj Bim** (País Gunditjmara, Victoria) mostra **aquicultura sistemática por 6 600 AP**—diques de pedra, canais e instalações de defumação [oai_citation_attribution:2‡UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1577) [oai_citation_attribution:3‡National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/budj-bim-cultural-landscape) [oai_citation_attribution:4‡UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1577) [oai_citation_attribution:5‡National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/budj-bim-cultural-landscape). No entanto, a sofisticação de Budj Bim permaneceu uma **exceção local**, não uma mudança em escala continental para o sedentarismo.
+- **Agricultura de fogo:** queimadas sazonais de baixa temperatura para espantar caça e criar mosaicos de pastagens; testes quantitativos confirmam que o fogo era uma *estratégia deliberada de produtividade*, não incêndios aleatórios [^oai19] [^oai20].
+- **Intensificação aquática:** o **complexo de armadilhas para enguias Budj Bim** (País Gunditjmara, Victoria) mostra **aquicultura sistemática por 6 600 AP**—diques de pedra, canais e instalações de defumação [^oai21] [^oai22] [^oai21] [^oai22]. No entanto, a sofisticação de Budj Bim permaneceu uma **exceção local**, não uma mudança em escala continental para o sedentarismo.
 
 ### 4.2 Extinção de Megafauna: Excesso de Caça ou Aridificação?
 
-Marsupiais gigantes (*Diprotodon*, cangurus de face curta) desaparecem por ~40 mil anos atrás. Sínteses recentes argumentam que **instabilidade climática, não blitzkrieg humana**, foi o principal motor—a megafauna coexistiu com pessoas por vários milênios [oai_citation_attribution:6‡The Guardian](https://www.theguardian.com/science/2020/may/19/humans-australia-megafauna-to-extinction-climate-queensland). Independentemente disso, seu desaparecimento não provocou um salto tecnológico; kits de ferramentas permanecem inalterados.
+Marsupiais gigantes (*Diprotodon*, cangurus de face curta) desaparecem por ~40 mil anos atrás. Sínteses recentes argumentam que **instabilidade climática, não blitzkrieg humana**, foi o principal motor—a megafauna coexistiu com pessoas por vários milênios [^oai23]. Independentemente disso, seu desaparecimento não provocou um salto tecnológico; kits de ferramentas permanecem inalterados.
 
 ### 4.3 Domesticação Mínima: O Solitário Dingo
 
@@ -187,13 +187,13 @@ Marsupiais gigantes (*Diprotodon*, cangurus de face curta) desaparecem por ~40 m
 |-----------------------|--------------------|------------------------------------|
 | Culturas de plantas | **Nenhuma** domesticada; apenas colheita selvagem | Trigo (SO Ásia), milheto (China), milho (Mesoamérica) |
 | Animais de rebanho | **Nenhum** | Ovelhas/cabras (SO Ásia), gado (África/Índia) |
-| **Dingo (cão selvagem)** | Chega **3,5 mil anos atrás**, provavelmente via comerciantes asiáticos; adotado como companheiro de caça [oai_citation_attribution:7‡Sci.News: Breaking Science News](https://www.sci.news/archaeology/dingo-arrival-australia-06243.html) [oai_citation_attribution:8‡Nature](https://www.nature.com/articles/s41598-018-28324-x) | Cães domesticados mundialmente ≥ 15 mil anos atrás |
+| **Dingo (cão selvagem)** | Chega **3,5 mil anos atrás**, provavelmente via comerciantes asiáticos; adotado como companheiro de caça [^oai24] [^oai25] | Cães domesticados mundialmente ≥ 15 mil anos atrás |
 
 ### 4.4 Tecnologias Nunca Adotadas (ou Adotadas Tarde e Localmente)
 
 | Tecnologia | África | Eurásia | Américas | **Austrália** |
 |------------|--------|---------|----------|---------------|
-| **Cerâmica** | 10 mil anos atrás (Nilo) | 18 mil anos atrás (China, Jap.) | 7 mil anos atrás (SE EUA, Amazônia) | **Ausente**, exceto raros **fragmentos de Lizard Island ~3 mil anos atrás** via contato papuano [oai_citation_attribution:9‡jcu.edu.au](https://www.jcu.edu.au/news/releases/2024/april/discovery-of-pottery-rewrites-aboriginal-history) |
+| **Cerâmica** | 10 mil anos atrás (Nilo) | 18 mil anos atrás (China, Jap.) | 7 mil anos atrás (SE EUA, Amazônia) | **Ausente**, exceto raros **fragmentos de Lizard Island ~3 mil anos atrás** via contato papuano [^oai26] |
 | Arco e flecha | ≥ 64 mil anos atrás? (Sibudu) | 40 mil anos atrás | 9 mil anos atrás | **Nunca adotado** |
 | Metalurgia | 7 mil anos atrás (Cu, ME) | 5 mil anos atrás (Bronze) | 3 mil anos atrás (Andes) | **Nunca** |
 | Roda/Vela | 5 mil anos atrás | 6 mil anos atrás | Esporádico | **Nunca** |
@@ -204,7 +204,7 @@ Mesmo machados de borda afiada, embora os mais antigos do mundo em Kimberley (~4
 
 Após o Estreito de Bass inundar (~12 mil anos atrás), **≈ 5 000 tasmanianos** tornaram-se os humanos mais isolados da Terra. Nos próximos 8 000 anos eles:
 
-- **Abandonaram a fabricação de ferramentas de osso** e **cessaram de comer peixes com escamas**—uma contração enigmática da amplitude de subsistência [oai_citation_attribution:10‡Figshare](https://figshare.utas.edu.au/articles/journal_contribution/Archaeology_and_Aboriginal_protest_the_influence_of_Rhys_Jones_s_Tasmanian_work_on_Australian_historiography/22983263/1/files/40729394.pdf) [oai_citation_attribution:11‡JSTOR](https://www.jstor.org/stable/24046726).
+- **Abandonaram a fabricação de ferramentas de osso** e **cessaram de comer peixes com escamas**—uma contração enigmática da amplitude de subsistência [^oai27] [^oai28].
 - Retiveram apenas lanças de madeira e raspadores simples; sem bumerangue, sem lançador de lanças.
 
 Rhys Jones chamou isso de **"Paradoxo da Tasmânia"**—perda cultural devido à baixa população e redes de conhecimento frágeis em vez de limitação cognitiva. A Tasmânia ilustra claramente como **a inovação pode ser revertida** em isolamento extremo.
@@ -219,22 +219,22 @@ A história da antropologia física e linguística histórica da Austrália refo
 
 | Cluster de Fósseis | Intervalo Datado | Traços Cranianos | Interpretação |
 |--------------------|------------------|------------------|---------------|
-| **Lago Mungo (LM1 & LM3)** | 45 – 40 mil anos atrás | Abóbada craniana fina, testa suavemente curva, sobrancelha modesta | *Os primeiros colonos de Sahul eram totalmente modernos e graciosos* [oai_citation_attribution:12‡Wikipedia](https://en.wikipedia.org/wiki/Lake_Mungo_remains) |
+| **Lago Mungo (LM1 & LM3)** | 45 – 40 mil anos atrás | Abóbada craniana fina, testa suavemente curva, sobrancelha modesta | *Os primeiros colonos de Sahul eram totalmente modernos e graciosos* [^oai29] |
 | **Lagos Willandra H50** | 25 – 22 mil anos atrás | Face larga, supraorbitais espessos | Início da robusticidade regional |
-| **Kow Swamp (KS1-KS7)** | 13 – 9 mil anos atrás | Sobrancelhas maciças, frontal recuado, osso espesso | Inicialmente considerados como "arcaicos" remanescentes de *H. erectus*; estudo multivariado de fêmur posterior mostra **bem dentro da variação de H. sapiens** [oai_citation_attribution:13‡PubMed](https://pubmed.ncbi.nlm.nih.gov/6439049/) |
-| **Cohuna & Nacurrie** | 8 – 5 mil anos atrás | Semelhante a Kow Swamp | Alguns mostram marcas de deformação craniana artificial [oai_citation_attribution:14‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X) |
+| **Kow Swamp (KS1-KS7)** | 13 – 9 mil anos atrás | Sobrancelhas maciças, frontal recuado, osso espesso | Inicialmente considerados como "arcaicos" remanescentes de *H. erectus*; estudo multivariado de fêmur posterior mostra **bem dentro da variação de H. sapiens** [^oai30] |
+| **Cohuna & Nacurrie** | 8 – 5 mil anos atrás | Semelhante a Kow Swamp | Alguns mostram marcas de deformação craniana artificial [^oai31] |
 
 **Insight chave:** Crânios robustos **pós-datam** crânios graciosos—inversão direta das expectativas. O cluster de robusticidade agora é interpretado como uma **trajetória microevolutiva local** (pequenos grupos fundadores, deriva) e, em parte, **ligação craniana** em vez de uma linhagem arcaica.
 
 ### 5.2 Deformação Craniana Artificial: Cultura Disfarçada de "Arcaica"
 
- * Morfometria geométrica em Kow Swamp 1 & 5 combina com crânios deformados conhecidos de PNG e Peru pré-colombiano [oai_citation_attribution:15‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X) [oai_citation_attribution:16‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X).
+ * Morfometria geométrica em Kow Swamp 1 & 5 combina com crânios deformados conhecidos de PNG e Peru pré-colombiano [^oai31] [^oai31].
  * Práticas de deformação são registradas etnograficamente entre alguns grupos do Murray-Darling até o século XIX.
  * Uma vez que a deformação é considerada, o **padrão "arcaico" evapora**—não deixando suporte credível para a sobrevivência tardia de hominídeos pré-sapiens.
 
 ### 5.3 O Pulso da Língua Proto-Australiana (~6 000 AP)
 
-Trabalho recente de linguística histórica por **Harvey & Mailhammer (2023)** reconstrói uma única **Proto-Australiana** falada **no Top End c. 6 mil anos atrás** que posteriormente **varreu 90% do continente** [oai_citation_attribution:17‡au.news.yahoo.com](https://au.news.yahoo.com/evidence-confirms-indigenous-languages-common-192047796.html).
+Trabalho recente de linguística histórica por **Harvey & Mailhammer (2023)** reconstrói uma única **Proto-Australiana** falada **no Top End c. 6 mil anos atrás** que posteriormente **varreu 90% do continente** [^oai32].
 
 | Motores Típicos de Disseminação Linguística em Escala Continental | Realidade do Holoceno da Austrália |
 |-------------------------------------------------------------------|------------------------------------|
@@ -295,3 +295,36 @@ A Austrália, portanto, refuta qualquer modelo que atribua a "Revolução Humana
 33. González-José R. et al. "Cranial deformation at Kow Swamp." *J. Arch. Sci.* 35 (2008).
 34. Harvey M. & Mailhammer R. *Proto-Australian: Reconstruction of a Common Ancestor Language* (DE Gruyter, 2023).
 35. "Indigenous language link reveals common ancestor." *University of Newcastle News* (2018).
+
+[^oai1]: [In-africa](https://in-africa.org/wp-content/uploads/2012/12/Foley-Lahr-2003-EvAnth-On-stony-ground.pdf)
+[^oai2]: [Rockartaustralia](https://rockartaustralia.org.au/wp-content/uploads/2020/10/Balme-et-al.-Riwi.pdf)
+[^oai3]: [Openresearch-repository](https://openresearch-repository.anu.edu.au/items/5ce3cb7a-fa13-4f32-aee1-c0178106cc26)
+[^oai4]: [Theguardian](https://www.theguardian.com/science/2018/feb/20/homo-erectus-may-have-been-a-sailor-and-able-to-speak)
+[^oai5]: [WIRED](https://www.wired.com/2010/01/ancient-seafarers)
+[^oai6]: [Wikipedia](https://en.wikipedia.org/wiki/Aurignacian)
+[^oai7]: [ABC News](https://www.abc.net.au/news/science/2016-05-11/worlds-oldest-known-ground-edge-stone-axe-fragments-found/7401728)
+[^oai8]: [Openresearch-repository](https://openresearch-repository.anu.edu.au/bitstreams/245ba4bc-9369-42a9-913c-52a7aae7c7a0/download)
+[^oai9]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1040618216000586)
+[^oai10]: [WA Museum](https://museum.wa.gov.au/explore/online-exhibitions/travellerstraders/treasures-sea)
+[^oai11]: [WA Museum](https://museum.wa.gov.au/sites/default/files/33%2C000%20YEAR%20OLD%20STONE%20AND%20BONE%20ARTIFACTS%20FROM%20DEVIL%27S%20LAIR%2C%20WESTERN%20 AUSTRALIA_0.pdf)
+[^oai12]: [PaleoAnthro](https://paleoanthro.org/media/journal/content/PA20190177.pdf)
+[^oai13]: [AusThruTime](https://austhrutime.com/table_beads_pendants.htm)
+[^oai14]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0305440312003664)
+[^oai15]: [ABC News](https://www.abc.net.au/news/science/2020-02-06/gwion-rock-art-in-kimberley-dated-using-wasp-nests/11924584)
+[^oai16]: [Unimelb](https://www.unimelb.edu.au/newsroom/news/2020/february/wasp-nests-used-to-date-ancient-kimberley-rock-art)
+[^oai17]: [Met Museum](https://www.metmuseum.org/essays/x-ray-style-in-arnhem-land-rock-art)
+[^oai18]: [Press-files](https://press-files.anu.edu.au/downloads/press/n3991/pdf/ch07.pdf)
+[^oai19]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.0804757105)
+[^oai20]: [Time](https://time.com/5764521/australia-bushfires-indigenous-fire-practices/)
+[^oai21]: [UNESCO](https://whc.unesco.org/en/list/1577)
+[^oai22]: [Nma](https://www.nma.gov.au/defining-moments/resources/budj-bim-cultural-landscape)
+[^oai23]: [Theguardian](https://www.theguardian.com/science/2020/may/19/humans-australia-megafauna-to-extinction-climate-queensland)
+[^oai24]: [Sci.News](https://www.sci.news/archaeology/dingo-arrival-australia-06243.html)
+[^oai25]: [Nature](https://www.nature.com/articles/s41598-018-28324-x)
+[^oai26]: [JCU](https://www.jcu.edu.au/news/releases/2024/april/discovery-of-pottery-rewrites-aboriginal-history)
+[^oai27]: [Figshare](https://figshare.utas.edu.au/articles/journal_contribution/Archaeology_and_Aboriginal_protest_the_influence_of_Rhys_Jones_s_Tasmanian_work_on_Australian_historiography/22983263/1/files/40729394.pdf)
+[^oai28]: [JSTOR](https://www.jstor.org/stable/24046726)
+[^oai29]: [Wikipedia](https://en.wikipedia.org/wiki/Lake_Mungo_remains)
+[^oai30]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/6439049/)
+[^oai31]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X)
+[^oai32]: [Yahoo News AU](https://au.news.yahoo.com/evidence-confirms-indigenous-languages-common-192047796.html)

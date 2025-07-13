@@ -41,10 +41,10 @@ translation_model: gpt-4o
 > Entre os 'fazedores de chuva' Zuñi, o mesmo implemento, *'uma tábua sonora,'* chama as nuvens.
 > Os gregos empregavam o **rhombos** nos mistérios dionisíacos.
 > Que um objeto tão peculiar, cumprindo o mesmo dever sagrado, deva assim reaparecer de Ática ao mato tende fortemente a mostrar a transmissão do costume."
-> —*Primitive Culture*, vol. I, pp. 325-326 [oai_citation:0‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)
+> —*Primitive Culture*, vol. I, pp. 325-326 [^oai1]
 
 > "Agora rastreamos o chocalho de touro quase ao redor do mundo... A hipótese de unidade psíquica obrigaria cada tribo a reinventar tanto a tábua quanto o mito; a hipótese de *intercâmbio cultural* explica os fatos a um custo muito menor."
-> —Discurso Presidencial, Instituto Antropológico, 21 de agosto de 1879, p. 6 [oai_citation:1‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf)
+> —Discurso Presidencial, Instituto Antropológico, 21 de agosto de 1879, p. 6 [^oai2]
 
 Tylor nunca reduziu a distribuição a um único ponto de origem; em vez disso, ele falou de "vários pulsos de empréstimo movendo-se ao longo dos sulcos de migração e comércio."
 
@@ -56,35 +56,35 @@ Tylor nunca reduziu a distribuição a um único ponto de origem; em vez disso, 
 
 > "O objeto é um romboide de madeira leve, de oito ou dez polegadas de comprimento, às vezes com as bordas entalhadas; uma extremidade é perfurada para uma correia.
 > Girado rapidamente, torna-se invisível e emite um som retumbante que os ouvintes civilizados comparam ao 'rugido de um touro distante.'"
-> —vol. I, p. 325  [oai_citation:2‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)
+> —vol. I, p. 325 [^oai1]
 
-| Localidade    | Nome indígena | Rito principal         | Resumo de Tylor |
+| Localidade | Nome indígena | Rito principal | Resumo de Tylor |
 |---------------|---------------|------------------------|-----------------|
-| SE Austrália  | **turndun**   | Iniciação masculina    | "Voz de Baiame / Daramulun; tabu mortal para mulheres." |
-| Nova Zelândia | **purerehua** | Magia do tempo         | "Girado para 'atrair o vento.'" |
-| Zuñi (N.M.)   | *w'ä-tsina slat*| Chamada de nuvens, kiva | "Convoca o Kapina para a dança da chuva." |
-| Zululândia    | *ingungu*     | Puberdade feminina (Intonjane) | "O som avisa os homens para evitarem a cabana." |
-| Grécia Antiga | **rhombos**   | Dionisíaco, Eleusis    | "Ouvido atrás de véus na *telete*; classificado como *'mystica vannus Iacchi.'*" |
+| SE Austrália | **turndun** | Iniciação masculina | "Voz de Baiame / Daramulun; tabu mortal para mulheres." |
+| Nova Zelândia | **purerehua** | Magia do tempo | "Girado para 'atrair o vento.'" |
+| Zuñi (N.M.) | *w'ä-tsina slat*| Chamada de nuvens, kiva | "Convoca o Kapina para a dança da chuva." |
+| Zululândia | *ingungu* | Puberdade feminina (Intonjane) | "O som avisa os homens para evitarem a cabana." |
+| Grécia Antiga | **rhombos** | Dionisíaco, Eleusis | "Ouvido atrás de véus na *telete*; classificado como *'mystica vannus Iacchi.'*" |
 
 ### 2.2 Lógica Mítica Compartilhada
 
 Tylor destaca três ideias recorrentes:
 
 1. **Voz do Sobrenatural.**
- > "Seu rugido é consistentemente interpretado como a fala do deus ou do ancestral." —p. 326 [oai_citation:3‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)
+ > "Seu rugido é consistentemente interpretado como a fala do deus ou do ancestral." —p. 326 [^oai1]
 
 2. **Segredo Ritual / Divisão de Gênero.**
  Punições para o olhar profano "vão de flagelação à morte"; a Grécia mantém o *rhombos* atrás de cortinas, a Austrália atrás de ameaças de morte por lança.
 
 3. **Controle do Tempo.**
- Tanto os ritos polinésios quanto os pueblos "balançam a tábua para *'chamar o vento e a chuva.'*" —p. 327 n. 1 [oai_citation:4‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)
+ Tanto os ritos polinésios quanto os pueblos "balançam a tábua para *'chamar o vento e a chuva.'*" —p. 327 n. 1 [^oai1]
 
 ---
 
 ## 3 Difusão vs. Convergência — O Caso de Tylor
 
 > "Conceba cinquenta tribos desconectadas cada uma chegando a um amuleto de madeira idêntico, completo com o mesmo tabu de trovão, o mesmo mito do pai do céu: a coincidência seria monstruosa."
-> —Discurso Presidencial 1879, p. 7  [oai_citation:5‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf?utm_source=chatgpt.com)
+> —Discurso Presidencial 1879, p. 7  [^oai3]
 
 Ele concede que a invenção independente é *possível*—"a tábua é mecanicamente simples"—mas insiste que os acessórios (mito, tabu, cenário de iniciação) tornam a difusão "a economia da hipótese."
 
@@ -92,11 +92,11 @@ Ele concede que a invenção independente é *possível*—"a tábua é mecanica
 
 ## 4 Recepção e Crítica 1870-1920
 
-| Acadêmico    | Posição sobre Tylor | Texto chave | Nota |
+| Acadêmico | Posição sobre Tylor | Texto chave | Nota |
 |--------------|---------------------|-------------|------|
 | Lorimer Fison & A. W. Howitt | Apoio | *Kamilaroi & Kurnai* (1880) | Fornecem dados australianos mais completos. |
-| Andrew Lang  | Apoio (qualificado) | "The Bull-Roarer," em *Custom & Myth* (1884) | Elogia Tylor, mas brinca com a cláusula de escape da unidade psíquica. |
-| Franz Boas   | Cético              | *"The Limitations of the Comparative Method"* (1896) | Chama o objeto de "simples demais para exigir empréstimo." |
+| Andrew Lang | Apoio (qualificado) | "The Bull-Roarer," em *Custom & Myth* (1884) | Elogia Tylor, mas brinca com a cláusula de escape da unidade psíquica. |
+| Franz Boas | Cético | *"The Limitations of the Comparative Method"* (1896) | Chama o objeto de "simples demais para exigir empréstimo." |
 | A. C. Haddon | Moderadamente favorável | *The Study of Man* (1898) p. 219 | Credita Tylor pela nomeação, observa achados paleolíticos. |
 
 ---
@@ -127,6 +127,11 @@ Sim—especímenes paleolíticos (Ucrânia c. 18 ka) mostram que a forma anteced
 
 ## Notas de Rodapé
 
+[^oai1]: [Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)
+[^oai2]: [Ia801501](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf)
+[^oai3]: [Ia801501](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf?utm_source=chatgpt.com)
+[^oai4]: [Archive](https://archive.org/download/custommyth00lang/custommyth00lang_djvu.txt)
+[^oai5]: [Archive](https://archive.org/download/studyofman00hadduoft/studyofman00hadduoft.pdf)
 [^1]: Todas as citações de Tylor de *Primitive Culture*, 2ª ed. (1873), a menos que indicado; os números de página seguem essa edição.
 [^2]: Discurso Presidencial publicado no *Journal of the Anthropological Institute*, vol. 9 (1880).
 [^3]: Exemplos australianos de Fison & Howitt, *Kamilaroi and Kurnai* (1880) pp. 267-268.
@@ -137,11 +142,11 @@ Sim—especímenes paleolíticos (Ucrânia c. 18 ka) mostram que a forma anteced
 
 ## Fontes
 
-1. Tylor, E.B. *Primitive Culture*, 2 vols., 2ª ed., Londres: Murray, 1873. [oai_citation:6‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)
-2. Tylor, E.B. "Address to the Department of Anthropology," Sheffield, 21 de agosto de 1879. [oai_citation:7‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf)
+1. Tylor, E.B. *Primitive Culture*, 2 vols., 2ª ed., Londres: Murray, 1873. [^oai1]
+2. Tylor, E.B. "Address to the Department of Anthropology," Sheffield, 21 de agosto de 1879. [^oai2]
 3. Fison, L., & Howitt, A.W. *Kamilaroi and Kurnai*. Melbourne: Gordon & Gotch, 1880.
-4. Lang, A. "The Bull-Roarer," em *Custom and Myth*. Londres: Longmans, 1884, pp. 29-44. [oai_citation:8‡Internet Archive](https://archive.org/download/custommyth00lang/custommyth00lang_djvu.txt)
+4. Lang, A. "The Bull-Roarer," em *Custom and Myth*. Londres: Longmans, 1884, pp. 29-44. [^oai4]
 5. Cushing, F.H. "A Priest-hood of Zuñi," *Century Magazine* 26 (1883): 282-300.
-6. Haddon, A.C. *The Study of Man*. Londres: Smith Elder, 1898, p. 219. [oai_citation:9‡Internet Archive](https://archive.org/download/studyofman00hadduoft/studyofman00hadduoft.pdf)
+6. Haddon, A.C. *The Study of Man*. Londres: Smith Elder, 1898, p. 219. [^oai5]
 7. Boas, F. "The Limitations of the Comparative Method," *Science* 4 (1896): 901-908.
 8. Boyd, M. "Palaeolithic Bull-Roarers," *Antiquity* 94 (2020): 1366-1381.

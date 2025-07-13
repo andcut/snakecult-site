@@ -28,10 +28,10 @@ translation_model: gpt-4o
 
 **Resumen**
 
-- Tylor introdujo el zumbador a la antropología victoriana como una *supervivencia* que vincula la Grecia clásica con el ritual "salvaje" vivo.  
-- En *Primitive Culture* (1871 / 1873) reunió casos etnográficos de Australia, Nueva Zelanda, Nuevo México, Zululandia y Grecia, argumentando que las funciones míticas compartidas apuntaban a la difusión más que a la invención independiente.  
-- Posteriores discursos presidenciales (1879 – 1893) expandieron el mapa a África Occidental y el Alto Amazonas.  
-- Consistentemente enmarcó el instrumento como evidencia de que las ideas y los ritos pueden viajar más rápido que los pueblos que los practican.  
+- Tylor introdujo el zumbador a la antropología victoriana como una *supervivencia* que vincula la Grecia clásica con el ritual "salvaje" vivo. 
+- En *Primitive Culture* (1871 / 1873) reunió casos etnográficos de Australia, Nueva Zelanda, Nuevo México, Zululandia y Grecia, argumentando que las funciones míticas compartidas apuntaban a la difusión más que a la invención independiente. 
+- Posteriores discursos presidenciales (1879 – 1893) expandieron el mapa a África Occidental y el Alto Amazonas. 
+- Consistentemente enmarcó el instrumento como evidencia de que las ideas y los ritos pueden viajar más rápido que los pueblos que los practican. 
 
 ---
 
@@ -41,10 +41,10 @@ translation_model: gpt-4o
 > Entre los 'hacedores de lluvia' Zuñi el mismo implemento, *'una tablilla sonora,'* llama a las nubes. 
 > Los griegos empleaban el **rhombos** en los misterios dionisíacos. 
 > Que un objeto tan peculiar, cumpliendo el mismo deber sagrado, reaparezca así desde Ática hasta el monte sugiere fuertemente la transmisión de la costumbre." 
-> —*Primitive Culture*, vol. I, pp. 325-326 [oai_citation:0‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
+> —*Primitive Culture*, vol. I, pp. 325-326 [^oai1] 
 
 > "Ahora hemos rastreado el zumbador casi por todo el mundo… La hipótesis de la unidad psíquica obligaría a cada tribu a reinventar tanto la tablilla como el mito; la hipótesis de *intercambio cultural* explica los hechos a un costo mucho menor." 
-> —Discurso Presidencial, Instituto Antropológico, 21 Ago 1879, p. 6 [oai_citation:1‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf) 
+> —Discurso Presidencial, Instituto Antropológico, 21 Ago 1879, p. 6 [^oai2] 
 
 Tylor nunca redujo la distribución a un solo punto de origen; en cambio, habló de "varios pulsos de préstamo moviéndose a lo largo de los surcos de migración y comercio."
 
@@ -54,11 +54,11 @@ Tylor nunca redujo la distribución a un solo punto de origen; en cambio, habló
 
 ### 2.1 Instrumento-Tecné
 
-> "El objeto es un romboide de madera ligera, de ocho o diez pulgadas de largo, a veces con los bordes dentados; un extremo está perforado para una correa.  
-> Girado rápidamente, se vuelve invisible y emite un zumbido que los oyentes civilizados comparan con 'el rugido de un toro distante.'"  
-> —vol. I, p. 325  [oai_citation:2‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)  
+> "El objeto es un romboide de madera ligera, de ocho o diez pulgadas de largo, a veces con los bordes dentados; un extremo está perforado para una correa. 
+> Girado rápidamente, se vuelve invisible y emite un zumbido que los oyentes civilizados comparan con 'el rugido de un toro distante.'" 
+> —vol. I, p. 325 [^oai1] 
 
-| Lugar        | Nombre indígena | Rito principal          | Resumen de Tylor |
+| Lugar | Nombre indígena | Rito principal | Resumen de Tylor |
 |--------------|-----------------|-------------------------|------------------|
 | SE Australia | **turndun** | Iniciación masculina | "Voz de Baiame / Daramulun; tabú mortal para mujeres." |
 | Nueva Zelanda | **purerehua** | Magia del clima | "Girado para 'atraer el viento.'" |
@@ -71,20 +71,20 @@ Tylor nunca redujo la distribución a un solo punto de origen; en cambio, habló
 Tylor destaca tres ideas recurrentes:
 
 1. **Voz de lo Sobrenatural.** 
- > "Su rugido se interpreta consistentemente como el habla del dios o del ancestro." —p. 326 [oai_citation:3‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
+ > "Su rugido se interpreta consistentemente como el habla del dios o del ancestro." —p. 326 [^oai1] 
 
 2. **Secreto Ritual / División de Género.** 
  Los castigos por la mirada profana "van desde azotes hasta la muerte"; Grecia mantiene el *rhombos* detrás de cortinas, Australia detrás de amenazas de muerte por lanza.
 
 3. **Control del Clima.** 
- Tanto los ritos polinesios como los pueblo "balancean la tablilla para *'llamar al viento y la lluvia.'*" —p. 327 n. 1 [oai_citation:4‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
+ Tanto los ritos polinesios como los pueblo "balancean la tablilla para *'llamar al viento y la lluvia.'*" —p. 327 n. 1 [^oai1] 
 
 ---
 
 ## 3 Difusión vs. Convergencia — El Caso de Tylor
 
 > "Conciban cincuenta tribus no conectadas cada una encontrando un amuleto de madera idéntico, completo con el mismo tabú de trueno, el mismo mito del padre del cielo: la coincidencia sería monstruosa."  
-> —Discurso Presidencial 1879, p. 7  [oai_citation:5‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf?utm_source=chatgpt.com)  
+> —Discurso Presidencial 1879, p. 7  [^oai3]  
 
 Concede que la invención independiente es *posible*—"la tablilla es mecánicamente simple"—pero insiste en que los elementos auxiliares (mito, tabú, contexto de iniciación) hacen de la difusión "la economía de la hipótesis."
 
@@ -127,6 +127,11 @@ Sí—especímenes paleolíticos (Ucrania c. 18 ka) muestran que la forma preced
 
 ## Notas al Pie
 
+[^oai1]: [Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)
+[^oai2]: [Ia801501](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf)
+[^oai3]: [Ia801501](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf?utm_source=chatgpt.com)
+[^oai4]: [Archive](https://archive.org/download/custommyth00lang/custommyth00lang_djvu.txt)
+[^oai5]: [Archive](https://archive.org/download/studyofman00hadduoft/studyofman00hadduoft.pdf)
 [^1]: Todas las citas de Tylor son de *Primitive Culture*, 2ª ed. (1873) a menos que se indique; los números de página siguen esa edición.  
 [^2]: Discurso Presidencial publicado en *Journal of the Anthropological Institute*, vol. 9 (1880).  
 [^3]: Ejemplos australianos de Fison & Howitt, *Kamilaroi and Kurnai* (1880) pp. 267-268.  
@@ -137,11 +142,11 @@ Sí—especímenes paleolíticos (Ucrania c. 18 ka) muestran que la forma preced
 
 ## Fuentes
 
-1. Tylor, E.B. *Primitive Culture*, 2 vols., 2ª ed., Londres: Murray, 1873. [oai_citation:6‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
-2. Tylor, E.B. "Address to the Department of Anthropology," Sheffield, 21 Ago 1879. [oai_citation:7‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf) 
+1. Tylor, E.B. *Primitive Culture*, 2 vols., 2ª ed., Londres: Murray, 1873. [^oai1] 
+2. Tylor, E.B. "Address to the Department of Anthropology," Sheffield, 21 Ago 1879. [^oai2] 
 3. Fison, L., & Howitt, A.W. *Kamilaroi and Kurnai*. Melbourne: Gordon & Gotch, 1880. 
-4. Lang, A. "The Bull-Roarer," en *Custom and Myth*. Londres: Longmans, 1884, pp. 29-44. [oai_citation:8‡Internet Archive](https://archive.org/download/custommyth00lang/custommyth00lang_djvu.txt) 
+4. Lang, A. "The Bull-Roarer," en *Custom and Myth*. Londres: Longmans, 1884, pp. 29-44. [^oai4] 
 5. Cushing, F.H. "A Priest-hood of Zuñi," *Century Magazine* 26 (1883): 282-300. 
-6. Haddon, A.C. *The Study of Man*. Londres: Smith Elder, 1898, p. 219. [oai_citation:9‡Internet Archive](https://archive.org/download/studyofman00hadduoft/studyofman00hadduoft.pdf) 
+6. Haddon, A.C. *The Study of Man*. Londres: Smith Elder, 1898, p. 219. [^oai5] 
 7. Boas, F. "The Limitations of the Comparative Method," *Science* 4 (1896): 901-908. 
 8. Boyd, M. "Palaeolithic Bull-Roarers," *Antiquity* 94 (2020): 1366-1381.

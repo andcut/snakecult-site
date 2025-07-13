@@ -9,16 +9,21 @@
     {{ end }}
 
     <div class="matrix-tag-cloud grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4 md:gap-6 text-center">
+      {{ $qualityThreshold := int (or $.Site.Params.qualityThreshold 6) }}
       {{ $tags := site.Taxonomies.tags.Alphabetical }}
       {{ range $tag := $tags }}
-        <a href="{{ $tag.Page.RelPermalink }}" 
-           class="matrix-tag block p-3 border border-retro-accent/30 rounded 
-                  hover:border-retro-accent/70 hover:bg-retro-accent/10 
-                  transition-all duration-200 ease-in-out 
-                  text-sm md:text-base shadow-retro-glow hover:shadow-retro-glow-lg">
-          {{ $tag.Page.Title }}
-          <span class="matrix-tag-count block text-xs text-retro-foreground/60 mt-1">({{ $tag.Count }})</span>
-        </a>
+        {{ $hqPages := where $tag.Pages "Params.quality" ">=" $qualityThreshold }}
+        {{ $count := len $hqPages }}
+        {{ if gt $count 0 }}
+          <a href="{{ $tag.Page.RelPermalink }}" 
+             class="matrix-tag block p-3 border border-retro-accent/30 rounded 
+                    hover:border-retro-accent/70 hover:bg-retro-accent/10 
+                    transition-all duration-200 ease-in-out 
+                    text-sm md:text-base shadow-retro-glow hover:shadow-retro-glow-lg">
+            {{ $tag.Page.Title }}
+            <span class="matrix-tag-count block text-xs text-retro-foreground/60 mt-1">({{ $count }})</span>
+          </a>
+        {{ end }}
       {{ end }}
     </div>
 

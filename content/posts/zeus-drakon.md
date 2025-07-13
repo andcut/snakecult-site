@@ -35,11 +35,11 @@ quality: 6
 
 | Epithet | Site / function | Iconography | Source |
 |---------|-----------------|-------------|--------|
-| **Zeus Meilichios** | Athens, Argos; chthonic appeasement & wealth | **Coiled serpent** on reliefs & altars | [oai_citation_attribution:0‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf) |
-| **Zeus Ktesios / Agathos Daimon** | Domestic shrines; pantry protector | Small **snake jar (kadiskos)**, two coils | [oai_citation_attribution:1‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the) |
-| **Zeus Phylax** | Town walls; guardian spirit | Votive snakes over gates | [oai_citation_attribution:2‡Wikipedia](https://en.wikipedia.org/wiki/Oracle) |
-| **Zeus Sabazios** (Thracian) | Itinerant mysteries; ecstatic rites | **Bronze hand** wrapped by serpent | [oai_citation_attribution:3‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) |
-| **Zeus Lykaios** | Arcadian Lykaia; cryptic initiation | Were-wolf & cannibalism lore; hidden **ash-mound** | [oai_citation_attribution:4‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia) |
+| **Zeus Meilichios** | Athens, Argos; chthonic appeasement & wealth | **Coiled serpent** on reliefs & altars | [^oai1] |
+| **Zeus Ktesios / Agathos Daimon** | Domestic shrines; pantry protector | Small **snake jar (kadiskos)**, two coils | [^oai2] |
+| **Zeus Phylax** | Town walls; guardian spirit | Votive snakes over gates | [^oai3] |
+| **Zeus Sabazios** (Thracian) | Itinerant mysteries; ecstatic rites | **Bronze hand** wrapped by serpent | [^oai4] |
+| **Zeus Lykaios** | Arcadian Lykaia; cryptic initiation | Were-wolf & cannibalism lore; hidden **ash-mound** | [^oai5] |
 
 > **Pattern:** wherever Zeus mediates **wealth, protection, or liminality**, the cult sticks a **snake** on it.
 
@@ -56,7 +56,7 @@ He then **re-creates** the world from within, becoming *pan-entheistic* cosmos.
 
 ### 2.3 Philosophical Uptake
 - **Proclus**: Zeus' swallow-and-re-emit is the macro-cycle mirroring micro-initiations.
-- **Aristotle (fr. OF 166)** already notes Orphics calling Zeus *"head-middle-end of all."* [oai_citation_attribution:5‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+- **Aristotle (fr. OF 166)** already notes Orphics calling Zeus *"head-middle-end of all."* [^oai6]
 
 ---
 
@@ -96,23 +96,35 @@ In ritual terms:
 
 ## Footnotes
 
-[^zagreus]: *Zagreus* entry summarising Zeus-as-snake paternity. [oai_citation_attribution:6‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-[^phanes-swallow]: Orphic Fr. 167 & 168 (Kern): Zeus devours Phanes, all gods collapse into him. [oai_citation_attribution:7‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-[^cleanthes]: Cleanthes, *Hymn to Zeus* ll. 10-14 (on cyclical return). [oai_citation_attribution:8‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai1]: [Ascs](https://www.ascs.org.au/news/ascs31/Burton.pdf)
+[^oai2]: [Verdantlyviolet](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
+[^oai3]: [Wikipedia](https://en.wikipedia.org/wiki/Oracle)
+[^oai4]: [Wikipedia](https://en.wikipedia.org/wiki/Sabazios)
+[^oai5]: [Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
+[^oai6]: [Ir](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+[^oai7]: [Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
+[^oai8]: [Hellenic Gods](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
+[^oai9]: [Hellenion](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
+[^oai10]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai11]: [Fulmenquarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
+[^oai12]: [Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
+[^zagreus]: *Zagreus* entry summarising Zeus-as-snake paternity. [^oai7]
+[^phanes-swallow]: Orphic Fr. 167 & 168 (Kern): Zeus devours Phanes, all gods collapse into him. [^oai8]
+[^cleanthes]: Cleanthes, *Hymn to Zeus* ll. 10-14 (on cyclical return). [^oai9]
 [^tablets]: Gold lamellae: Hipponion tablet lines 10-14 invoke *Zeus-Persephone* lineage.
 
 ---
 
 ## Sources
 
-1. Zeus Meilichios cult study (Burton 2011). [oai_citation_attribution:9‡ascs.org.au](https://www.ascs.org.au/news/ascs31/Burton.pdf)
-2. "Zeus Ktesios & the Kadiskos," verdantlyviolet blog post. [oai_citation_attribution:10‡Tumblr](https://verdantlyviolet.tumblr.com/post/643083523253829632/zeus-ktesios-and-the-kadiskos-zeus-ktesios-of-the)
-3. Orphic Fr. 167–168, Otto Kern compilation. [oai_citation_attribution:11‡HellenicGods.org](https://www.hellenicgods.org/the-orphic-fragments-of-otto-kern)
-4. *Theoi: Phanes* — notes on Zeus swallowing Phanes. [oai_citation_attribution:12‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)
-5. Cleanthes, *Hymn to Zeus* (trans. Hellenion). [oai_citation_attribution:13‡hellenion.org](https://www.hellenion.org/zeus/cleanthes-hymn-to-zeus/)
-6. Wikipedia "Zagreus" scholarly summary. [oai_citation_attribution:14‡Wikipedia](https://en.wikipedia.org/wiki/Zagreus)
-7. Wikipedia "Sabazios" & Fulmen Quarterly on the hand icon. [oai_citation_attribution:15‡Wikipedia](https://en.wikipedia.org/wiki/Sabazios) [oai_citation_attribution:16‡Fulmen Quarterly](https://www.fulmenquarterly.com/the-hand-of-sabazios)
-8. Wikipedia "Lykaia" (Zeus Lykaios rite). [oai_citation_attribution:17‡Wikipedia](https://en.wikipedia.org/wiki/Lykaia)
-9. Oracle survey: Dodona snakes & Dione. [oai_citation_attribution:18‡Wikipedia](https://en.wikipedia.org/wiki/Oracle)
-10. Proclus / Damascius excerpts in Aether article (§Orphic). [oai_citation_attribution:19‡Wikipedia](https://en.wikipedia.org/wiki/Aether_%28mythology%29)
-11. "Zeus the Head, Zeus the Middle" thesis (Western Ontario, 2015). [oai_citation_attribution:20‡Scholarship@Western](https://ir.lib.uwo.ca/context/etd/article/4619/viewcontent/Zeus_the_Head_Zeus_the_Middle___Studies_in_the_Orphic_Theogonies.pdf)
+1. Zeus Meilichios cult study (Burton 2011). [^oai1]
+2. "Zeus Ktesios & the Kadiskos," verdantlyviolet blog post. [^oai2]
+3. Orphic Fr. 167–168, Otto Kern compilation. [^oai8]
+4. *Theoi: Phanes* — notes on Zeus swallowing Phanes. [^oai10]
+5. Cleanthes, *Hymn to Zeus* (trans. Hellenion). [^oai9]
+6. Wikipedia "Zagreus" scholarly summary. [^oai7]
+7. Wikipedia "Sabazios" & Fulmen Quarterly on the hand icon. [^oai4] [^oai11]
+8. Wikipedia "Lykaia" (Zeus Lykaios rite). [^oai5]
+9. Oracle survey: Dodona snakes & Dione. [^oai3]
+10. Proclus / Damascius excerpts in Aether article (§Orphic). [^oai12]
+11. "Zeus the Head, Zeus the Middle" thesis (Western Ontario, 2015). [^oai6]

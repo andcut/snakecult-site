@@ -28,8 +28,8 @@ translation_model: gpt-4o
 
 **ملخص**
 
-- **تشريح حديث، سلوك قديم:** وصل *الإنسان العاقل* إلى شمال أستراليا بحلول **65 ± 6 ألف سنة مضت** [oai_citation_attribution:0‡In Africa](https://in-africa.org/wp-content/uploads/2012/12/Foley-Lahr-2003-EvAnth-On-stony-ground.pdf)، ومع ذلك بقيت ثقافتهم المادية عند مستويات **العصر الحجري القديم الأدنى/الوسطى** لمدة ≥ 40 ألف سنة.
-- **صحراء رمزية:** باستثناء دفن واحد بالأوكر في بحيرة مونجو (~42 ألف سنة مضت) [oai_citation_attribution:1‡Rock Art Australia](https://rockartaustralia.org.au/wp-content/uploads/2020/10/Balme-et-al.-Riwi.pdf)، فإن الفن الدائم والزخرفة غائبان تقريبًا حتى منتصف الهولوسين.
+- **تشريح حديث، سلوك قديم:** وصل *الإنسان العاقل* إلى شمال أستراليا بحلول **65 ± 6 ألف سنة مضت** [^oai1]، ومع ذلك بقيت ثقافتهم المادية عند مستويات **العصر الحجري القديم الأدنى/الوسطى** لمدة ≥ 40 ألف سنة.
+- **صحراء رمزية:** باستثناء دفن واحد بالأوكر في بحيرة مونجو (~42 ألف سنة مضت) [^oai2]، فإن الفن الدائم والزخرفة غائبان تقريبًا حتى منتصف الهولوسين.
 - **ثورات مؤجلة:** تظهر تقنية الشفرات، والميكروليثات المدعومة، وازدهار الفن الصخري **بعد آلاف السنين** من الابتكارات الموازية في أوراسيا، مما يبرز تأخرًا على مستوى القارة في الحداثة السلوكية.
 
 ---
@@ -37,22 +37,22 @@ translation_model: gpt-4o
 ## 1 المقدمة وأقدم استيطان بشري في سهول (≈ 65 000 – 40 000 قبل الحاضر)
 
 ### 1.1 مفارقة رينفرو تسلط الضوء على السجل الأسترالي
-وصف كولين رينفرو **مفارقة الإنسان العاقل** بأنها انفصال لمدة 200 ألف سنة بين ظهور البشر الحديثين تشريحيًا والازدهار اللاحق للثقافة الرمزية [oai_citation_attribution:2‡Open Research Repository](https://openresearch-repository.anu.edu.au/items/5ce3cb7a-fa13-4f32-aee1-c0178106cc26). 
+وصف كولين رينفرو **مفارقة الإنسان العاقل** بأنها انفصال لمدة 200 ألف سنة بين ظهور البشر الحديثين تشريحيًا والازدهار اللاحق للثقافة الرمزية [^oai3]. 
 تضخم أستراليا هذا الانفصال: يعبر الناس ذوو العقول الحديثة البحر إلى سهول، ومع ذلك يتركون سجلًا لا يمكن تمييزه عن ورشة عمل من العصر الحجري القديم الأدنى المتأخر لعشرات الآلاف من السنين.
 
 ### 1.2 التسلسل الزمني لأول هبوط بري
 
 | الموقع (المنطقة) | العمر المضمون (ألف سنة) | الاكتشافات التشخيصية | الأهمية |
 |------------------|-------------------------|----------------------|---------|
-| **مادجدبيبي** (أرض أرنهيم) | 65 ± 6 | أدوات بسيطة من النواة والرقائق، أوكر مطحون، ألواح طحن البذور | أقدم أفق بشري مقبول في أستراليا [oai_citation_attribution:3‡In Africa](https://in-africa.org/wp-content/uploads/2012/12/Foley-Lahr-2003-EvAnth-On-stony-ground.pdf) |
+| **مادجدبيبي** (أرض أرنهيم) | 65 ± 6 | أدوات بسيطة من النواة والرقائق، أوكر مطحون، ألواح طحن البذور | أقدم أفق بشري مقبول في أستراليا [^oai1] |
 | **كهف ريواي** (كيمبرلي) | 46 ± 4 | كاشطات أحادية الوجه، نوى دائرية، مواقد | يوضح الانتشار السريع إلى الداخل عبر الحواف القاحلة |
-| **بحيرة مونجو** (بحيرات ويلاندرا) | 42 ± 3 | دفنتان؛ LM3 مرشوشة بالأوكر الأحمر | أقدم استخدام للصبغة الطقسية في سهول [oai_citation_attribution:4‡Rock Art Australia](https://rockartaustralia.org.au/wp-content/uploads/2020/10/Balme-et-al.-Riwi.pdf)، ومع ذلك غير مصحوبة بسلع جنائزية. |
+| **بحيرة مونجو** (بحيرات ويلاندرا) | 42 ± 3 | دفنتان؛ LM3 مرشوشة بالأوكر الأحمر | أقدم استخدام للصبغة الطقسية في سهول [^oai2]، ومع ذلك غير مصحوبة بسلع جنائزية. |
 
 *ملاحظة رئيسية:* لا تحتوي أي من هذه المستويات المبكرة على شفرات، أو أدوات عظمية، أو فن تصويري، أو زينة شخصية.
 
 ### 1.3 الإبحار بدون "انفجار كبير" تكنولوجي
-تطلب عبور سوندا–سهول عبور ≥ 70 كم من المياه المفتوحة حتى في مستويات البحر المنخفضة خلال العصر الجليدي. جادل ديفيدسون ونوبل (1992) بأن هذا يشير إلى وجود لغة وتخطيط حديث [oai_citation_attribution:5‡The Guardian](https://www.theguardian.com/science/2018/feb/20/homo-erectus-may-have-been-a-sailor-and-able-to-speak). 
-ومع ذلك، فإن العبور المماثل بواسطة **الإنسان المبكر** إلى فلوريس وربما كريت يظهر أن **الأدوات البسيطة لا تستبعد الإبحار الانتهازي** [oai_citation_attribution:6‡WIRED](https://www.wired.com/2010/01/ancient-seafarers). 
+تطلب عبور سوندا–سهول عبور ≥ 70 كم من المياه المفتوحة حتى في مستويات البحر المنخفضة خلال العصر الجليدي. جادل ديفيدسون ونوبل (1992) بأن هذا يشير إلى وجود لغة وتخطيط حديث [^oai4]. 
+ومع ذلك، فإن العبور المماثل بواسطة **الإنسان المبكر** إلى فلوريس وربما كريت يظهر أن **الأدوات البسيطة لا تستبعد الإبحار الانتهازي** [^oai5]. 
 لذلك، فإن الاستعمار ≠ دليل تلقائي على حزمة معرفية من العصر الحجري القديم الأعلى.
 
 ### 1.4 الأساس الحجري: الأنماط 1–3، لا شيء أكثر
@@ -83,7 +83,7 @@ translation_model: gpt-4o
 
 ### 2.2 ثورة الشفرات المفقودة (40 000 – 10 000 قبل الحاضر)
 
-بينما أطلق الأوروبيون طفرة **الأوريجناسيان** في النواة الشفرية (~43 ألف سنة مضت) كاملة مع البورينات، والكاشطات النهائية، والأدوات العظمية [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/wiki/Aurignacian)، لا تظهر سهول **أي صناعات نواة شفرية على الإطلاق** قبل الهولوسين. 
+بينما أطلق الأوروبيون طفرة **الأوريجناسيان** في النواة الشفرية (~43 ألف سنة مضت) كاملة مع البورينات، والكاشطات النهائية، والأدوات العظمية [^oai6]، لا تظهر سهول **أي صناعات نواة شفرية على الإطلاق** قبل الهولوسين. 
 حتى "الشفرات الزائفة" المعزولة هي نتاج تقطيع انتهازي بدلاً من تصميم نواة رسمي.
 
 | المنطقة | بداية النواة الشفرية | الحزمة الثقافية |
@@ -95,7 +95,7 @@ translation_model: gpt-4o
 
 ### 2.3 الفؤوس ذات الحافة الأرضية: استثناء مبكر، وليس ثورة
 
-يعود تاريخ فأس ذو حافة أرضية مجزأ من كيمبرلي إلى **48 – 44 ألف سنة مضت**، وهو **أقدم فأس من نوعه في العالم** [oai_citation_attribution:1‡ABC](https://www.abc.net.au/news/science/2016-05-11/worlds-oldest-known-ground-edge-stone-axe-fragments-found/7401728). 
+يعود تاريخ فأس ذو حافة أرضية مجزأ من كيمبرلي إلى **48 – 44 ألف سنة مضت**، وهو **أقدم فأس من نوعه في العالم** [^oai7]. 
 ومع ذلك، تبقى الفؤوس الأرضية *نادرة وغريبة* حتى تنتشر في مناطق الغابات المطيرة والأنهار بعد ~8 آلاف سنة مضت—مما يشير إلى تبني وظيفي متخصص بدلاً من قفزة تكنولوجية على مستوى القارة.
 
 ### 2.4 وصول تقليد الأدوات الصغيرة (≤ 5 000 قبل الحاضر)
@@ -108,8 +108,8 @@ translation_model: gpt-4o
 | الميكروليثات الكلاسيكية | قطاعات هندسية، مثلثات متساوية الساقين | 6 – 3 آلاف سنة مضت | انتشار وطني كأطراف صيد |
 | انتشار الهولوسين المتأخر | شفرات مدعومة صغيرة، أزاميل تولا | < 2 ألف سنة مضت | غالبًا ما ترتبط بالنمو السكاني واستخدام الأرض المكثف |
 
-يظهر تأريخ > 600 مجموعة ميكروليثية **ارتفاعًا واسع النطاق في القارة فقط بعد 5 آلاف سنة مضت** [oai_citation_attribution:2‡Open Research Repository](https://openresearch-repository.anu.edu.au/bitstreams/245ba4bc-9369-42a9-913c-52a7aae7c7a0/download). 
-للمقارنة، تظهر **الصناعات الميكروليثية في أفريقيا** بحلول ~25 ألف سنة مضت [oai_citation_attribution:3‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1040618216000586)، و**الميكروليثات الأزيليانية/السفيديرية في أوروبا** تزدهر بحلول 12 ألف سنة مضت.
+يظهر تأريخ > 600 مجموعة ميكروليثية **ارتفاعًا واسع النطاق في القارة فقط بعد 5 آلاف سنة مضت** [^oai8]. 
+للمقارنة، تظهر **الصناعات الميكروليثية في أفريقيا** بحلول ~25 ألف سنة مضت [^oai9]، و**الميكروليثات الأزيليانية/السفيديرية في أوروبا** تزدهر بحلول 12 ألف سنة مضت.
 
 ### 2.5 السياق العالمي: التأخر التكنولوجي المستمر لأستراليا
 
@@ -132,19 +132,19 @@ translation_model: gpt-4o
 
 | الاكتشاف | الموقع والعمر | المادة والشكل | السياق والملاحظات |
 |----------|--------------|---------------|-------------------|
-| **خرز الصدف المخروطي** | ماندو ماندو كريك، WA — 32 ألف سنة مضت | 22 صدفة *كونوس* مثقوبة | أقدم زينة في سهول؛ فريدة من نوعها للموقع [oai_citation_attribution:0‡Western Australian Museum](https://museum.wa.gov.au/explore/online-exhibitions/travellerstraders/treasures-sea) |
-| **خرز العظام والعظم الماكروبود المحفور** | كهف الشيطان، WA — 33 ألف سنة مضت → 19 ألف سنة مضت | عظام صغيرة مصقولة؛ عظم والابي مثقوب | أفق واحد بين 30 ألف سنة من الاحتلال [oai_citation_attribution:1‡Western Australian Museum](https://museum.wa.gov.au/sites/default/files/33%2C000%20YEAR%20OLD%20STONE%20AND%20BONE%20ARTIFACTS%20FROM%20DEVIL%27S%20LAIR%2C%20WESTERN%20 AUSTRALIA_0.pdf)، ومع ذلك لا يزال متأخرًا في المصطلحات العالمية [oai_citation_attribution:2‡Paleoanthro](https://paleoanthro.org/media/journal/content/PA20190177.pdf) |
-| **خرز أسنان شيطان تسمانيا الرشيقة** | كهوف تسمانيا المختلفة — < 19 ألف سنة مضت | أسنان حيوانات مفترسة مثقوبة | نادرة للغاية؛ تسمانيا تفقد لاحقًا صناعة الخرز تمامًا [oai_citation_attribution:3‡Paleoanthro](https://paleoanthro.org/media/journal/content/PA20190177.pdf) |
-| **قلادة من قواطع الكنغر** | كاو سوامب، فيكتوريا — 12 ألف سنة مضت | 327 قاطعًا ملتصقًا بالراتنج | أول مجموعة سلع جنائزية كبيرة، ومع ذلك لا تزال متأخرة في المصطلحات العالمية [oai_citation_attribution:4‡Austhrutime](https://austhrutime.com/table_beads_pendants.htm) |
+| **خرز الصدف المخروطي** | ماندو ماندو كريك، WA — 32 ألف سنة مضت | 22 صدفة *كونوس* مثقوبة | أقدم زينة في سهول؛ فريدة من نوعها للموقع [^oai10] |
+| **خرز العظام والعظم الماكروبود المحفور** | كهف الشيطان، WA — 33 ألف سنة مضت → 19 ألف سنة مضت | عظام صغيرة مصقولة؛ عظم والابي مثقوب | أفق واحد بين 30 ألف سنة من الاحتلال [^oai11]، ومع ذلك لا يزال متأخرًا في المصطلحات العالمية [^oai12] |
+| **خرز أسنان شيطان تسمانيا الرشيقة** | كهوف تسمانيا المختلفة — < 19 ألف سنة مضت | أسنان حيوانات مفترسة مثقوبة | نادرة للغاية؛ تسمانيا تفقد لاحقًا صناعة الخرز تمامًا [^oai12] |
+| **قلادة من قواطع الكنغر** | كاو سوامب، فيكتوريا — 12 ألف سنة مضت | 327 قاطعًا ملتصقًا بالراتنج | أول مجموعة سلع جنائزية كبيرة، ومع ذلك لا تزال متأخرة في المصطلحات العالمية [^oai13] |
 
 > *النمط:* أربع مواقع متفرقة عبر **50 ألف سنة**—لا تقليد زينة مستدام، لا أنماط عبر المناطق، وأحجام عينات تقلصها مواقع أوريجناسيان الفردية في أوروبا.
 
 ### 3.2 الفن الصخري: سجل متأخر وغير متوازن
 
-1. **أقدم نمط مؤكد:** زجزاج فحم على لوح سقف ساقط في **ناوارلا جابارنمانج**، أرض أرنهيم، مؤرخ إلى **≈ 28 ألف سنة مضت** [oai_citation_attribution:5‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0305440312003664)، الصورة مجردة ومعزولة. 
-2. **أشكال جوين جوين (برادشو):** أقواس الكربون المشع لعش الدبابير الطينية العديد من اللوحات بين **17 ألف سنة مضت و12 ألف سنة مضت**، لكن غالبية 23 عشًا تتجمع ≤ 13 ألف سنة مضت**، مع وجود استثناء واحد فقط > 16 ألف سنة مضت [oai_citation_attribution:6‡ABC](https://www.abc.net.au/news/science/2020-02-06/gwion-rock-art-in-kimberley-dated-using-wasp-nests/11924584) [oai_citation_attribution:7‡The University of Melbourne](https://www.unimelb.edu.au/newsroom/news/2020/february/wasp-nests-used-to-date-ancient-kimberley-rock-art) [oai_citation_attribution:8‡The University of Melbourne](https://www.unimelb.edu.au/newsroom/news/2020/february/wasp-nests-used-to-date-ancient-kimberley-rock-art). حتى هذه **أصغر بـ 4–5 آلاف سنة** من أسود شوفيه في أوروبا. 
+1. **أقدم نمط مؤكد:** زجزاج فحم على لوح سقف ساقط في **ناوارلا جابارنمانج**، أرض أرنهيم، مؤرخ إلى **≈ 28 ألف سنة مضت** [^oai14]، الصورة مجردة ومعزولة. 
+2. **أشكال جوين جوين (برادشو):** أقواس الكربون المشع لعش الدبابير الطينية العديد من اللوحات بين **17 ألف سنة مضت و12 ألف سنة مضت**، لكن غالبية 23 عشًا تتجمع ≤ 13 ألف سنة مضت**، مع وجود استثناء واحد فقط > 16 ألف سنة مضت [^oai15] [^oai16] [^oai16]. حتى هذه **أصغر بـ 4–5 آلاف سنة** من أسود شوفيه في أوروبا. 
 3. **انفجار الهولوسين:** 
- - **تقليد الأشعة السينية** في أرض أرنهيم يزدهر **بعد 4 آلاف سنة مضت**، يصور الأسماك بأعضائها الداخلية [oai_citation_attribution:9‡The Metropolitan Museum of Art](https://www.metmuseum.org/essays/x-ray-style-in-arnhem-land-rock-art) [oai_citation_attribution:10‡ANU Press](https://press-files.anu.edu.au/downloads/press/n3991/pdf/ch07.pdf) [oai_citation_attribution:11‡The Metropolitan Museum of Art](https://www.metmuseum.org/essays/x-ray-style-in-arnhem-land-rock-art). 
+ - **تقليد الأشعة السينية** في أرض أرنهيم يزدهر **بعد 4 آلاف سنة مضت**، يصور الأسماك بأعضائها الداخلية [^oai17] [^oai18] [^oai17]. 
  - شخصيات أرواح وانجينا في كيمبرلي و"الأشكال الديناميكية" في أرنهيم تتركز أيضًا في آخر **< 5 آلاف سنة**. 
 
 | العصر | إنتاج الفن الصخري المؤكد | المقارنة العالمية |
@@ -173,12 +173,12 @@ translation_model: gpt-4o
 ### 4.1 صيادون وجامعون مع زراعة العصا النارية
 
 - **نظام غذائي واسع النطاق:** الكنغر، الولابي، الإيمو، الزواحف، الأسماك، المحار، البذور، اليام، الفواكه، الرحيق. 
-- **زراعة العصا النارية:** حروق موسمية منخفضة الحرارة لطرد اللعبة وهندسة المراعي الفسيفسائية؛ تؤكد الاختبارات الكمية أن النار كانت *استراتيجية إنتاجية متعمدة*، وليست حرقًا عشوائيًا [oai_citation_attribution:0‡PNAS](https://www.pnas.org/doi/10.1073/pnas.0804757105) [oai_citation_attribution:1‡Time](https://time.com/5764521/australia-bushfires-indigenous-fire-practices/). 
-- **تكثيف مائي:** يظهر **مجمع مصائد الأنقليس بودج بيم** (بلد جنديتجمارة، فيكتوريا) **تربية مائية منهجية بحلول 6 600 قبل الحاضر**—حواجز حجرية، قنوات، ومرافق تدخين [oai_citation_attribution:2‡UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1577) [oai_citation_attribution:3‡National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/budj-bim-cultural-landscape) [oai_citation_attribution:4‡UNESCO World Heritage Centre](https://whc.unesco.org/en/list/1577) [oai_citation_attribution:5‡National Museum of Australia](https://www.nma.gov.au/defining-moments/resources/budj-bim-cultural-landscape). ومع ذلك، بقيت براعة بودج بيم **استثناء محليًا**، وليس تحولًا على مستوى القارة إلى الاستقرار.
+- **زراعة العصا النارية:** حروق موسمية منخفضة الحرارة لطرد اللعبة وهندسة المراعي الفسيفسائية؛ تؤكد الاختبارات الكمية أن النار كانت *استراتيجية إنتاجية متعمدة*، وليست حرقًا عشوائيًا [^oai19] [^oai20]. 
+- **تكثيف مائي:** يظهر **مجمع مصائد الأنقليس بودج بيم** (بلد جنديتجمارة، فيكتوريا) **تربية مائية منهجية بحلول 6 600 قبل الحاضر**—حواجز حجرية، قنوات، ومرافق تدخين [^oai21] [^oai22] [^oai21] [^oai22]. ومع ذلك، بقيت براعة بودج بيم **استثناء محليًا**، وليس تحولًا على مستوى القارة إلى الاستقرار.
 
 ### 4.2 انقراض الحيوانات الضخمة: قتل جماعي أم جفاف؟
 
-تختفي الجرابيات العملاقة (*ديبروتودون*، الكنغر قصير الوجه) بحلول ~40 ألف سنة مضت. تشير التركيبات الحديثة إلى أن **عدم استقرار المناخ، وليس الهجوم البشري السريع**، كان المحرك الرئيسي—تعايشت الحيوانات الضخمة مع البشر لعدة آلاف من السنين [oai_citation_attribution:6‡The Guardian](https://www.theguardian.com/science/2020/may/19/humans-australia-megafauna-to-extinction-climate-queensland). بغض النظر، لم يؤد اختفاؤها إلى **قفزة تكنولوجية**؛ تبقى مجموعات الأدوات دون تغيير.
+تختفي الجرابيات العملاقة (*ديبروتودون*، الكنغر قصير الوجه) بحلول ~40 ألف سنة مضت. تشير التركيبات الحديثة إلى أن **عدم استقرار المناخ، وليس الهجوم البشري السريع**، كان المحرك الرئيسي—تعايشت الحيوانات الضخمة مع البشر لعدة آلاف من السنين [^oai23]. بغض النظر، لم يؤد اختفاؤها إلى **قفزة تكنولوجية**؛ تبقى مجموعات الأدوات دون تغيير.
 
 ### 4.3 الترويض الأدنى: الدنغو الوحيد
 
@@ -186,13 +186,13 @@ translation_model: gpt-4o
 |-----------------|-----------------|-------------------------------|
 | المحاصيل النباتية | **لا شيء** مستأنس؛ حصاد بري فقط | القمح (جنوب غرب آسيا)، الدخن (الصين)، الذرة (أمريكا الوسطى) |
 | حيوانات القطيع | **لا شيء** | الأغنام/الماعز (جنوب غرب آسيا)، الماشية (أفريقيا/الهند) |
-| **الدنغو (الكلب البري)** | يصل **3.5 ألف سنة مضت**، على الأرجح عبر تجار آسيويين؛ تم تبنيه كرفيق صيد [oai_citation_attribution:7‡Sci.News: Breaking Science News](https://www.sci.news/archaeology/dingo-arrival-australia-06243.html) [oai_citation_attribution:8‡Nature](https://www.nature.com/articles/s41598-018-28324-x) | الكلاب مستأنسة في جميع أنحاء العالم ≥ 15 ألف سنة مضت |
+| **الدنغو (الكلب البري)** | يصل **3.5 ألف سنة مضت**، على الأرجح عبر تجار آسيويين؛ تم تبنيه كرفيق صيد [^oai24] [^oai25] | الكلاب مستأنسة في جميع أنحاء العالم ≥ 15 ألف سنة مضت |
 
 ### 4.4 تقنيات لم يتم تبنيها (أو تم تبنيها متأخرًا ومحليًا)
 
 | التقنية | أفريقيا | أوراسيا | الأمريكتان | **أستراليا** |
 |---------|--------|--------|-----------|---------------|
-| **الفخار** | 10 آلاف سنة مضت (النيل) | 18 ألف سنة مضت (الصين، اليابان) | 7 آلاف سنة مضت (جنوب شرق الولايات المتحدة، الأمازون) | **غائب**، باستثناء **شظايا جزيرة ليزارد النادرة ~3 آلاف سنة مضت** عبر الاتصال البابوي [oai_citation_attribution:9‡jcu.edu.au](https://www.jcu.edu.au/news/releases/2024/april/discovery-of-pottery-rewrites-aboriginal-history) |
+| **الفخار** | 10 آلاف سنة مضت (النيل) | 18 ألف سنة مضت (الصين، اليابان) | 7 آلاف سنة مضت (جنوب شرق الولايات المتحدة، الأمازون) | **غائب**، باستثناء **شظايا جزيرة ليزارد النادرة ~3 آلاف سنة مضت** عبر الاتصال البابوي [^oai26] |
 | القوس والسهم | ≥ 64 ألف سنة مضت؟ (سيبودو) | 40 ألف سنة مضت | 9 آلاف سنة مضت | **لم يتم تبنيه أبدًا** |
 | التعدين | 7 آلاف سنة مضت (النحاس، الشرق الأوسط) | 5 آلاف سنة مضت (البرونز) | 3 آلاف سنة مضت (الأنديز) | **لم يتم تبنيه أبدًا** |
 | العجلة/الشراع | 5 آلاف سنة مضت | 6 آلاف سنة مضت | متقطع | **لم يتم تبنيه أبدًا** |
@@ -203,7 +203,7 @@ translation_model: gpt-4o
 
 بعد فيضان مضيق باس (~12 ألف سنة مضت)، أصبح **≈ 5 000 تسماني** أكثر البشر عزلة على وجه الأرض. على مدى الـ 8 000 سنة التالية:
 
-- **تخلوا عن صناعة الأدوات العظمية** و**توقفوا عن أكل الأسماك ذات القشور**—انكماش محير في نطاق الكفاف [oai_citation_attribution:10‡Figshare](https://figshare.utas.edu.au/articles/journal_contribution/Archaeology_and_Aboriginal_protest_the_influence_of_Rhys_Jones_s_Tasmanian_work_on_Australian_historiography/22983263/1/files/40729394.pdf) [oai_citation_attribution:11‡JSTOR](https://www.jstor.org/stable/24046726). 
+- **تخلوا عن صناعة الأدوات العظمية** و**توقفوا عن أكل الأسماك ذات القشور**—انكماش محير في نطاق الكفاف [^oai27] [^oai28]. 
 - احتفظوا فقط بالرماح الخشبية والكاشطات البسيطة؛ لا بوميرانج، لا قاذف رماح. 
 
 أطلق ريس جونز على هذا اسم **"مفارقة تسمانيا"**—فقدان ثقافي بسبب انخفاض عدد السكان وشبكات المعرفة الهشة بدلاً من القصور المعرفي. توضح تسمانيا بشكل صارخ كيف يمكن **عكس الابتكار** في العزلة الشديدة.
@@ -218,22 +218,22 @@ translation_model: gpt-4o
 
 | مجموعة الحفريات | النطاق المؤرخ | السمات القحفية | التفسير |
 |-----------------|---------------|----------------|---------|
-| **بحيرة مونجو (LM1 & LM3)** | 45 – 40 ألف سنة مضت | قبو قحفي رقيق، جبهة منحنية بلطف، حاجب متواضع | *كان المستوطنون الأوائل في سهول حديثين تمامًا ورشيقين* [oai_citation_attribution:12‡Wikipedia](https://en.wikipedia.org/wiki/Lake_Mungo_remains) |
+| **بحيرة مونجو (LM1 & LM3)** | 45 – 40 ألف سنة مضت | قبو قحفي رقيق، جبهة منحنية بلطف، حاجب متواضع | *كان المستوطنون الأوائل في سهول حديثين تمامًا ورشيقين* [^oai29] |
 | **بحيرات ويلاندرا H50** | 25 – 22 ألف سنة مضت | وجه عريض، حواجب فوقية سميكة | بداية القوة الإقليمية |
-| **كاو سوامب (KS1-KS7)** | 13 – 9 ألف سنة مضت | حواجب ضخمة، جبهة متراجعة، عظم سميك | تم الترويج لها في البداية كـ "بقايا" *H. erectus*؛ أظهرت دراسة الفخذ متعددة المتغيرات لاحقًا أنها **ضمن تباين H. sapiens** [oai_citation_attribution:13‡PubMed](https://pubmed.ncbi.nlm.nih.gov/6439049/) |
-| **كوهونا وناكوري** | 8 – 5 آلاف سنة مضت | مشابهة لكاو سوامب | تظهر بعض العلامات على تشوه الجمجمة الاصطناعي [oai_citation_attribution:14‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X) |
+| **كاو سوامب (KS1-KS7)** | 13 – 9 ألف سنة مضت | حواجب ضخمة، جبهة متراجعة، عظم سميك | تم الترويج لها في البداية كـ "بقايا" *H. erectus*؛ أظهرت دراسة الفخذ متعددة المتغيرات لاحقًا أنها **ضمن تباين H. sapiens** [^oai30] |
+| **كوهونا وناكوري** | 8 – 5 آلاف سنة مضت | مشابهة لكاو سوامب | تظهر بعض العلامات على تشوه الجمجمة الاصطناعي [^oai31] |
 
 **البصيرة الرئيسية:** الجماجم القوية **تأتي بعد** الجماجم الرشيقة—عكس مباشر للتوقعات. تُقرأ الآن مجموعة القوة كـ **مسار تطوري دقيق محلي** (مجموعات مؤسسين صغيرة، انجراف) وجزئيًا **ربط الجمجمة** بدلاً من سلالة قديمة.
 
 ### 5.2 تشوه الجمجمة الاصطناعي: الثقافة تتنكر كـ "قديمة"
 
- * تتطابق القياسات الهندسية على كاو سوامب 1 و5 مع الجماجم المشوهة المعروفة من بابوا غينيا الجديدة وبيرو قبل الكولومبية [oai_citation_attribution:15‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X) [oai_citation_attribution:16‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X). 
+ * تتطابق القياسات الهندسية على كاو سوامب 1 و5 مع الجماجم المشوهة المعروفة من بابوا غينيا الجديدة وبيرو قبل الكولومبية [^oai31] [^oai31]. 
  * تم تسجيل ممارسات التشوه إثنوغرافيًا بين بعض مجموعات موراي-دارلينج حتى القرن التاسع عشر. 
  * بمجرد أخذ التشوه في الاعتبار، **يتبخر النمط "القديم"**—مما يترك عدم دعم موثوق لبقاء متأخر للبشر قبل الإنسان العاقل.
 
 ### 5.3 نبضة اللغة البروتو-أسترالية (~6 000 قبل الحاضر)
 
-أعمال اللغويات التاريخية الحديثة بواسطة **هارفي ومايلهامر (2023)** تعيد بناء **لغة بروتو-أسترالية** واحدة تحدثت في **الطرف العلوي حوالي 6 آلاف سنة مضت** والتي **اجتاحت بعد ذلك 90 % من القارة** [oai_citation_attribution:17‡au.news.yahoo.com](https://au.news.yahoo.com/evidence-confirms-indigenous-languages-common-192047796.html). 
+أعمال اللغويات التاريخية الحديثة بواسطة **هارفي ومايلهامر (2023)** تعيد بناء **لغة بروتو-أسترالية** واحدة تحدثت في **الطرف العلوي حوالي 6 آلاف سنة مضت** والتي **اجتاحت بعد ذلك 90 % من القارة** [^oai32]. 
 
 | المحركات النموذجية لانتشار اللغة على مستوى القارة | واقع الهولوسين في أستراليا |
 |--------------------------------------------------|----------------------------|
@@ -291,3 +291,36 @@ translation_model: gpt-4o
 33. González-José R. et al. "Cranial deformation at Kow Swamp." *J. Arch. Sci.* 35 (2008).
 34. Harvey M. & Mailhammer R. *Proto-Australian: Reconstruction of a Common Ancestor Language* (DE Gruyter, 2023).
 35. "Indigenous language link reveals common ancestor." *University of Newcastle News* (2018).
+
+[^oai1]: [In-africa](https://in-africa.org/wp-content/uploads/2012/12/Foley-Lahr-2003-EvAnth-On-stony-ground.pdf)
+[^oai2]: [Rockartaustralia](https://rockartaustralia.org.au/wp-content/uploads/2020/10/Balme-et-al.-Riwi.pdf)
+[^oai3]: [Openresearch-repository](https://openresearch-repository.anu.edu.au/items/5ce3cb7a-fa13-4f32-aee1-c0178106cc26)
+[^oai4]: [Theguardian](https://www.theguardian.com/science/2018/feb/20/homo-erectus-may-have-been-a-sailor-and-able-to-speak)
+[^oai5]: [WIRED](https://www.wired.com/2010/01/ancient-seafarers)
+[^oai6]: [Wikipedia](https://en.wikipedia.org/wiki/Aurignacian)
+[^oai7]: [ABC News](https://www.abc.net.au/news/science/2016-05-11/worlds-oldest-known-ground-edge-stone-axe-fragments-found/7401728)
+[^oai8]: [Openresearch-repository](https://openresearch-repository.anu.edu.au/bitstreams/245ba4bc-9369-42a9-913c-52a7aae7c7a0/download)
+[^oai9]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1040618216000586)
+[^oai10]: [WA Museum](https://museum.wa.gov.au/explore/online-exhibitions/travellerstraders/treasures-sea)
+[^oai11]: [WA Museum](https://museum.wa.gov.au/sites/default/files/33%2C000%20YEAR%20OLD%20STONE%20AND%20BONE%20ARTIFACTS%20FROM%20DEVIL%27S%20LAIR%2C%20WESTERN%20 AUSTRALIA_0.pdf)
+[^oai12]: [PaleoAnthro](https://paleoanthro.org/media/journal/content/PA20190177.pdf)
+[^oai13]: [AusThruTime](https://austhrutime.com/table_beads_pendants.htm)
+[^oai14]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0305440312003664)
+[^oai15]: [ABC News](https://www.abc.net.au/news/science/2020-02-06/gwion-rock-art-in-kimberley-dated-using-wasp-nests/11924584)
+[^oai16]: [Unimelb](https://www.unimelb.edu.au/newsroom/news/2020/february/wasp-nests-used-to-date-ancient-kimberley-rock-art)
+[^oai17]: [Met Museum](https://www.metmuseum.org/essays/x-ray-style-in-arnhem-land-rock-art)
+[^oai18]: [Press-files](https://press-files.anu.edu.au/downloads/press/n3991/pdf/ch07.pdf)
+[^oai19]: [PNAS](https://www.pnas.org/doi/10.1073/pnas.0804757105)
+[^oai20]: [Time](https://time.com/5764521/australia-bushfires-indigenous-fire-practices/)
+[^oai21]: [UNESCO](https://whc.unesco.org/en/list/1577)
+[^oai22]: [Nma](https://www.nma.gov.au/defining-moments/resources/budj-bim-cultural-landscape)
+[^oai23]: [Theguardian](https://www.theguardian.com/science/2020/may/19/humans-australia-megafauna-to-extinction-climate-queensland)
+[^oai24]: [Sci.News](https://www.sci.news/archaeology/dingo-arrival-australia-06243.html)
+[^oai25]: [Nature](https://www.nature.com/articles/s41598-018-28324-x)
+[^oai26]: [JCU](https://www.jcu.edu.au/news/releases/2024/april/discovery-of-pottery-rewrites-aboriginal-history)
+[^oai27]: [Figshare](https://figshare.utas.edu.au/articles/journal_contribution/Archaeology_and_Aboriginal_protest_the_influence_of_Rhys_Jones_s_Tasmanian_work_on_Australian_historiography/22983263/1/files/40729394.pdf)
+[^oai28]: [JSTOR](https://www.jstor.org/stable/24046726)
+[^oai29]: [Wikipedia](https://en.wikipedia.org/wiki/Lake_Mungo_remains)
+[^oai30]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/6439049/)
+[^oai31]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0018442X0800036X)
+[^oai32]: [Yahoo News AU](https://au.news.yahoo.com/evidence-confirms-indigenous-languages-common-192047796.html)

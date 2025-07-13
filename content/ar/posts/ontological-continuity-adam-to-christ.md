@@ -149,26 +149,38 @@ translation_model: gpt-4o
 ---
 ## المصادر
 
-1. [جوليان جينز، *أصل الوعي في انهيار العقل الثنائي*](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) — أطروحة جينز بأن الوعي التأملي هو اختراع ثقافي متأخر وليس معطى بيولوجيًا قديمًا. [oai_citation:0‡Amazon](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072)
+1. [جوليان جينز، *أصل الوعي في انهيار العقل الثنائي*](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) — أطروحة جينز بأن الوعي التأملي هو اختراع ثقافي متأخر وليس معطى بيولوجيًا قديمًا. [^oai1]
 
-2. [أندرو كاتلر، "نظرية حواء للوعي"، *متجهات العقل* Substack](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) — يقترح ظهورًا ميميًا، بقيادة النساء للوعي الذاتي عند حدود البليستوسين-الهولوسين. [oai_citation:1‡Ask Who Casts AI](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by)
+2. [أندرو كاتلر، "نظرية حواء للوعي"، *متجهات العقل* Substack](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) — يقترح ظهورًا ميميًا، بقيادة النساء للوعي الذاتي عند حدود البليستوسين-الهولوسين. [^oai2]
 
-3. [برناردو كاستروب، *أكثر من استعارة: حول الأسطورة الدينية، الحقيقة والإيمان*](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) — حجة متأثرة بجونغ بأن الأساطير تنقل حقائق نفسية حرفية؛ يعامل السقوط كبداية للعقل التأملي. [oai_citation:2‡Amazon](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873)
+3. [برناردو كاستروب، *أكثر من استعارة: حول الأسطورة الدينية، الحقيقة والإيمان*](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) — حجة متأثرة بجونغ بأن الأساطير تنقل حقائق نفسية حرفية؛ يعامل السقوط كبداية للعقل التأملي. [^oai3]
 
-4. [كارل جاسبرز، *أصل وهدف التاريخ*](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) — يصيغ **العصر المحوري**؛ يدعي أن البشرية أصبحت واعية بالوجود والنفس حوالي 800-200 قبل الميلاد. [oai_citation:3‡Amazon](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X)
+4. [كارل جاسبرز، *أصل وهدف التاريخ*](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) — يصيغ **العصر المحوري**؛ يدعي أن البشرية أصبحت واعية بالوجود والنفس حوالي 800-200 قبل الميلاد. [^oai4]
 
-5. [*إنجيل يوحنا* 1:1-14 (بوابة الكتاب المقدس)](https://www.biblegateway.com/passage/?search=John+1&version=NIV) — ترنيمة اللوغوس التي تؤطر الخلق كفعل أونطولوجي للكلمة/العقل. [oai_citation:4‡Bible Gateway](https://www.biblegateway.com/passage/?search=John+1&version=NIV)
+5. [*إنجيل يوحنا* 1:1-14 (بوابة الكتاب المقدس)](https://www.biblegateway.com/passage/?search=John+1&version=NIV) — ترنيمة اللوغوس التي تؤطر الخلق كفعل أونطولوجي للكلمة/العقل. [^oai5]
 
-6. [توم باتلر-بودون، "هيراقليطس وولادة اللوغوس"، *الرواقية الحديثة*](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) — يشرح لوغوس هيراقليطس كعقل كوني، يتنبأ بكل من الطاو ويوحنا 1. [oai_citation:5‡Modern Stoicism](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/)
+6. [توم باتلر-بودون، "هيراقليطس وولادة اللوغوس"، *الرواقية الحديثة*](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) — يشرح لوغوس هيراقليطس كعقل كوني، يتنبأ بكل من الطاو ويوحنا 1. [^oai6]
 
-7. [فرانسيس يونغ، *حضور الله: إعادة صياغة معاصرة للمسيحية المبكرة*](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) — يستكشف صور الحكمة المسيح-الثعبان وانقلابات الغنوصيين لسفر التكوين. [oai_citation:6‡Amazon](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787)
+7. [فرانسيس يونغ، *حضور الله: إعادة صياغة معاصرة للمسيحية المبكرة*](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) — يستكشف صور الحكمة المسيح-الثعبان وانقلابات الغنوصيين لسفر التكوين. [^oai7]
 
-8. ["الأوفيتيون"، *الموسوعة اليهودية* (1906)](https://www.jewishencyclopedia.com/directory/O/11718) — مسح للطوائف الغنوصية التي تكرم الثعبان (الأوفيتيون/الناسين)، كوزمولوجيتهم، وكتابهم من القديسين المتمردين. [oai_citation:7‡Jewish Encyclopedia](https://www.jewishencyclopedia.com/directory/O/11718)
+8. ["الأوفيتيون"، *الموسوعة اليهودية* (1906)](https://www.jewishencyclopedia.com/directory/O/11718) — مسح للطوائف الغنوصية التي تكرم الثعبان (الأوفيتيون/الناسين)، كوزمولوجيتهم، وكتابهم من القديسين المتمردين. [^oai8]
 
-9. [*مكتبة نجع حمادي باللغة الإنجليزية*، ترجمة جيمس م. روبنسون (PDF)](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) — نصوص غنوصية أولية (مثل *هيبوستاسيس الأرخبن*) تعيد صياغة عدن بثعبان-روح محرر. [oai_citation:8‡Gnosis Study](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf)
+9. [*مكتبة نجع حمادي باللغة الإنجليزية*، ترجمة جيمس م. روبنسون (PDF)](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) — نصوص غنوصية أولية (مثل *هيبوستاسيس الأرخبن*) تعيد صياغة عدن بثعبان-روح محرر. [^oai9]
 
-10. ["تعليق أودين ويسوع - التشابهات"، *التاريخ المفقود: الآلهة التي تموت وتقوم*](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) — يقارن تضحية أودين ذات التسع ليالٍ مع رواية الصلب، مسلطًا الضوء على الرمزية المشتركة للبدء. [oai_citation:9‡Mythology & Folklore Stack Exchange](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t)
+10. ["تعليق أودين ويسوع - التشابهات"، *التاريخ المفقود: الآلهة التي تموت وتقوم*](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) — يقارن تضحية أودين ذات التسع ليالٍ مع رواية الصلب، مسلطًا الضوء على الرمزية المشتركة للبدء. [^oai10]
 
-11. [ميرتشا إلياد، *طقوس ورموز البدء*](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) — دراسة كلاسيكية لأنماط البدء العالمية، الموت والولادة من جديد الشامانية، ووظيفتها النفسية. [oai_citation:10‡Amazon](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581)
+11. [ميرتشا إلياد، *طقوس ورموز البدء*](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) — دراسة كلاسيكية لأنماط البدء العالمية، الموت والولادة من جديد الشامانية، ووظيفتها النفسية. [^oai11]
 
 12. [إلين باجلز، *الإنجيل الغنوصي*](https://www.amazon.com
+
+[^oai1]: [Amazon](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072)
+[^oai2]: [Askwhocastsai](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by)
+[^oai3]: [Amazon](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873)
+[^oai4]: [Amazon](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X)
+[^oai5]: [Biblegateway](https://www.biblegateway.com/passage/?search=John+1&version=NIV)
+[^oai6]: [Modernstoicism](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/)
+[^oai7]: [Amazon](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787)
+[^oai8]: [Jewishencyclopedia](https://www.jewishencyclopedia.com/directory/O/11718)
+[^oai9]: [Gnosis](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf)
+[^oai10]: [Mythology](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t)
+[^oai11]: [Amazon](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581)

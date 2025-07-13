@@ -1,0 +1,26 @@
+{{ define "main" }}
+  <div class="terms">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}
+      <div class="index-content">
+        {{ . }}
+      </div>
+    {{ end }}
+    <ul>
+      {{ $qualityThreshold := int (or $.Site.Params.qualityThreshold 6) }}
+      {{ $type := .Type }}
+      {{ range $key, $value := .Data.Terms.Alphabetical }}
+        {{ $name := .Name }}
+        {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
+          {{ $hqPages := where .Pages "Params.quality" ">=" $qualityThreshold }}
+          {{ $count := len $hqPages }}
+          {{ if gt $count 0 }}
+            <li>
+              <a class="terms-title" href="{{ .Permalink }}">{{ .Name }} [{{ $count }}]</a>
+            </li>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+{{ end }} 

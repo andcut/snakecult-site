@@ -153,30 +153,45 @@ EToC даже предлагает конкретный сценарий для 
 ---
 ## Источники 
 
-1. [Джулиан Джейнс, *Происхождение сознания в распаде бикамерального разума*](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) — Тезис Джейнса о том, что интроспективное сознание является поздним культурным изобретением, а не древним биологическим данностью. [oai_citation:0‡Amazon](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) 
+1. [Джулиан Джейнс, *Происхождение сознания в распаде бикамерального разума*](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) — Тезис Джейнса о том, что интроспективное сознание является поздним культурным изобретением, а не древним биологическим данностью. [^oai1] 
 
-2. [Эндрю Катлер, "Теория Евы о сознании," *Vectors of Mind* Substack](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) — Предлагает меметическое, женское возникновение самосознания на границе плейстоцена и голоцена. [oai_citation:1‡Ask Who Casts AI](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) 
+2. [Эндрю Катлер, "Теория Евы о сознании," *Vectors of Mind* Substack](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) — Предлагает меметическое, женское возникновение самосознания на границе плейстоцена и голоцена. [^oai2] 
 
-3. [Бернардо Каструп, *Больше, чем аллегория: О религиозном мифе, истине и вере*](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) — Аргумент, вдохновленный Юнгом, что мифы передают буквальные психологические истины; рассматривает Падение как начало рефлексивного разума. [oai_citation:2‡Amazon](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) 
+3. [Бернардо Каструп, *Больше, чем аллегория: О религиозном мифе, истине и вере*](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) — Аргумент, вдохновленный Юнгом, что мифы передают буквальные психологические истины; рассматривает Падение как начало рефлексивного разума. [^oai3] 
 
-4. [Карл Ясперс, *Происхождение и цель истории*](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) — Вводит термин **Осевая эпоха**; утверждает, что человечество осознало Бытие и себя около 800-200 гг. до н.э. [oai_citation:3‡Amazon](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) 
+4. [Карл Ясперс, *Происхождение и цель истории*](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) — Вводит термин **Осевая эпоха**; утверждает, что человечество осознало Бытие и себя около 800-200 гг. до н.э. [^oai4] 
 
-5. [*Евангелие от Иоанна* 1:1-14 (Bible Gateway)](https://www.biblegateway.com/passage/?search=John+1&version=NIV) — Гимн Логосу, оформляющий творение как онтологический акт Слова/Разума. [oai_citation:4‡Bible Gateway](https://www.biblegateway.com/passage/?search=John+1&version=NIV) 
+5. [*Евангелие от Иоанна* 1:1-14 (Bible Gateway)](https://www.biblegateway.com/passage/?search=John+1&version=NIV) — Гимн Логосу, оформляющий творение как онтологический акт Слова/Разума. [^oai5] 
 
-6. [Том Батлер-Боудон, "Гераклит и рождение Логоса," *Современный стоицизм*](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) — Объясняет Логос Гераклита как космический разум, предвосхищающий как Дао, так и Иоанна 1. [oai_citation:5‡Modern Stoicism](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) 
+6. [Том Батлер-Боудон, "Гераклит и рождение Логоса," *Современный стоицизм*](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) — Объясняет Логос Гераклита как космический разум, предвосхищающий как Дао, так и Иоанна 1. [^oai6] 
 
-7. [Фрэнсис Янг, *Присутствие Бога: Современная рекапитуляция раннего христианства*](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) — Исследует образы мудрости "змея-Христа" и гностические инверсии Бытия. [oai_citation:6‡Amazon](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) 
+7. [Фрэнсис Янг, *Присутствие Бога: Современная рекапитуляция раннего христианства*](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) — Исследует образы мудрости "змея-Христа" и гностические инверсии Бытия. [^oai7] 
 
-8. ["Офиты," *Еврейская энциклопедия* (1906)](https://www.jewishencyclopedia.com/directory/O/11718) — Обзор гностических сект, почитающих змея (офиты/наассены), их космология и канон святых-бунтарей. [oai_citation:7‡Jewish Encyclopedia](https://www.jewishencyclopedia.com/directory/O/11718) 
+8. ["Офиты," *Еврейская энциклопедия* (1906)](https://www.jewishencyclopedia.com/directory/O/11718) — Обзор гностических сект, почитающих змея (офиты/наассены), их космология и канон святых-бунтарей. [^oai8] 
 
-9. [*Библиотека Наг-Хаммади на английском языке*, пер. Джеймс М. Робинсон (PDF)](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) — Основные гностические тексты (например, *Гипостазис Архонтов*), которые пересказывают Эдем с освобождающим духом-змеем. [oai_citation:8‡Gnosis Study](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) 
+9. [*Библиотека Наг-Хаммади на английском языке*, пер. Джеймс М. Робинсон (PDF)](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) — Основные гностические тексты (например, *Гипостазис Архонтов*), которые пересказывают Эдем с освобождающим духом-змеем. [^oai9] 
 
-10. ["Повешение Одина и Иисуса — параллели," *Потерянная история: Умирающие и воскресающие боги*](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) — Сравнивает девятидневное самопожертвование Одина с повествованием о распятии, подчеркивая общую символику инициации. [oai_citation:9‡Mythology & Folklore Stack Exchange](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) 
+10. ["Повешение Одина и Иисуса — параллели," *Потерянная история: Умирающие и воскресающие боги*](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) — Сравнивает девятидневное самопожертвование Одина с повествованием о распятии, подчеркивая общую символику инициации. [^oai10] 
 
-11. [Мирча Элиаде, *Обряды и символы инициации*](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) — Классическое исследование глобальных моделей инициации, шаманской смерти и возрождения и их психологической функции. [oai_citation:10‡Amazon](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) 
+11. [Мирча Элиаде, *Обряды и символы инициации*](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) — Классическое исследование глобальных моделей инициации, шаманской смерти и возрождения и их психологической функции. [^oai11] 
 
-12. [Элейн Пейджелс, *Гностические Евангелия*](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532) — Знаковый анализ раннехристианской гетеродоксии и политики "секретного знания". [oai_citation:11‡Amazon](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532) 
+12. [Элейн Пейджелс, *Гностические Евангелия*](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532) — Знаковый анализ раннехристианской гетеродоксии и политики "секретного знания". [^oai12] 
 
-13. [Карен Армстронг, *Великая трансформация: Начало наших религиозных традиций*](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242) — Описывает сдвиг осевой эпохи к абстрактной этике и рефлексивной духовности по всей Евразии. [oai_citation:12‡Amazon](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242) 
+13. [Карен Армстронг, *Великая трансформация: Начало наших религиозных традиций*](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242) — Описывает сдвиг осевой эпохи к абстрактной этике и рефлексивной духовности по всей Евразии. [^oai13] 
 
-14. [Джозеф Кэмпбелл, *Ты есть то: Преобразование религиозной метафоры*](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874) — Посмертные эссе о иудео-христианских символах (Сад, Крест, Змей) как метафорах внутренней трансформации. [oai_citation:13‡Amazon](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874)
+14. [Джозеф Кэмпбелл, *Ты есть то: Преобразование религиозной метафоры*](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874) — Посмертные эссе о иудео-христианских символах (Сад, Крест, Змей) как метафорах внутренней трансформации. [^oai14]
+
+[^oai1]: [Amazon](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072)
+[^oai2]: [Askwhocastsai](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by)
+[^oai3]: [Amazon](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873)
+[^oai4]: [Amazon](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X)
+[^oai5]: [Biblegateway](https://www.biblegateway.com/passage/?search=John+1&version=NIV)
+[^oai6]: [Modernstoicism](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/)
+[^oai7]: [Amazon](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787)
+[^oai8]: [Jewishencyclopedia](https://www.jewishencyclopedia.com/directory/O/11718)
+[^oai9]: [Gnosis](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D0%B7%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf)
+[^oai10]: [Mythology](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t)
+[^oai11]: [Amazon](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581)
+[^oai12]: [Amazon](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532)
+[^oai13]: [Amazon](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242)
+[^oai14]: [Amazon](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874)

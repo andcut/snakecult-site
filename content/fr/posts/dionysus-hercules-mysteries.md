@@ -38,7 +38,7 @@ translation_model: gpt-4o
 |--------|----------|--------------|-----------------|
 | **Cosmique** | Lie l'espace-temps | **Chronos/Héraclès** enroulé autour de l'œuf | Orphic Rhapsodies fr. 78 |
 | **Titanique** | Explique le péché originel | Les Titans déchirent **Zagreus-Dionysos** | Olympiodorus *In Phaed.* I 3 |
-| **Rituel mystère** | Offre une inversion | Initié = *Bakchos-Herakleidēs* | Tablettes d'or (Hipponion, Thurii) [oai_citation_attribution:0‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/) |
+| **Rituel mystère** | Offre une inversion | Initié = *Bakchos-Herakleidēs* | Tablettes d'or (Hipponion, Thurii) [^oai1] |
 
 Chronos-Héraclès fournit un **cadre métaphysique** ("pourquoi il y a du temps"); Dionysos offre la **sortie existentielle** ("comment échapper à ses enroulements").
 
@@ -47,13 +47,13 @@ Chronos-Héraclès fournit un **cadre métaphysique** ("pourquoi il y a du temps
 ## 2 Iconographies et Motifs Partagés
 
 ### 2.1 Énergie du Serpent
-* Zeus prend la forme d'un serpent pour engendrer Zagreus ; Dionysos joue avec des jouets en forme de serpent ; Héraclès porte le venin de l'Hydre et lutte contre Ladon dans le jardin des pommes.* [oai_citation_attribution:1‡Penelope](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
+* Zeus prend la forme d'un serpent pour engendrer Zagreus ; Dionysos joue avec des jouets en forme de serpent ; Héraclès porte le venin de l'Hydre et lutte contre Ladon dans le jardin des pommes.* [^oai2]
 
 ### 2.2 Modèles de Katabasis
-* **Travail XII :** Héraclès traîne **Cerbère** des Enfers → dramatise le passage sûr pour les âmes. Les initiés dionysiaques répètent la même descente dans une frénésie bacchique et citent les lignes des tablettes : "**Je me suis envolé hors du cercle douloureux de la lourde peine…**" [oai_citation_attribution:2‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html) [oai_citation_attribution:3‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/)
+* **Travail XII :** Héraclès traîne **Cerbère** des Enfers → dramatise le passage sûr pour les âmes. Les initiés dionysiaques répètent la même descente dans une frénésie bacchique et citent les lignes des tablettes : "**Je me suis envolé hors du cercle douloureux de la lourde peine…**" [^oai3] [^oai1]
 
 ### 2.3 Vin, Folie, Pureté
-Diodore mêle même leurs mythes : une **jarre vieille de quatre générations de Dionysos** est ouverte pour Héraclès, déclenchant la bataille des Centaures et sanctifiant le vin comme héroïque autant qu'extatique. [oai_citation_attribution:4‡Penelope](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
+Diodore mêle même leurs mythes : une **jarre vieille de quatre générations de Dionysos** est ouverte pour Héraclès, déclenchant la bataille des Centaures et sanctifiant le vin comme héroïque autant qu'extatique. [^oai2]
 
 ---
 
@@ -65,7 +65,7 @@ Diodore mêle même leurs mythes : une **jarre vieille de quatre générations d
 | **Thiases orphico-bacchiques** | Invoquent "fort Héraclès" pour la protection | Formules katabatiques adressent l'initié comme *Bakchos* | Feuille de route post-mortem |
 | **Aion léonto-céphalique mithraïque** | Lion-serpent = Héraclès-Temps | Bols de libation de vin dans les mithraea | Libération zodiacale |
 
-Les allégoristes stoïciens ont resserré le nœud : **Les Douze Travaux d'Héraclès = douze cycles cosmiques**, tandis que **l'enthousiasme dionysiaque** liquide les résidus karmiques à chaque tour. [oai_citation_attribution:5‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html)
+Les allégoristes stoïciens ont resserré le nœud : **Les Douze Travaux d'Héraclès = douze cycles cosmiques**, tandis que **l'enthousiasme dionysiaque** liquide les résidus karmiques à chaque tour. [^oai3]
 
 ---
 
@@ -73,8 +73,8 @@ Les allégoristes stoïciens ont resserré le nœud : **Les Douze Travaux d'Hér
 
 | Époque | Preuve de fusion |
 |--------|------------------|
-| Hellénistique précoce | Les lamelles d'or instruisent les morts de revendiquer **"Je suis enfant de Zeus et Perséphone — Je suis Bacchos !"** mais appellent leur gardien **Héraclès** dans des tablettes variantes. [oai_citation_attribution:6‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/) |
-| Empire romain | La *Dionysiaca* de Nonnus classe Dionysos au-dessus de **Héraclès, Persée, Minos** (Livre 25) mais encadre sa campagne comme une conquête *héracléenne*. [oai_citation_attribution:7‡Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca) |
+| Hellénistique précoce | Les lamelles d'or instruisent les morts de revendiquer **"Je suis enfant de Zeus et Perséphone — Je suis Bacchos !"** mais appellent leur gardien **Héraclès** dans des tablettes variantes. [^oai1] |
+| Empire romain | La *Dionysiaca* de Nonnus classe Dionysos au-dessus de **Héraclès, Persée, Minos** (Livre 25) mais encadre sa campagne comme une conquête *héracléenne*. [^oai4] |
 | Antiquité tardive | Proclus appelle Phanès "**Héraclès**", tandis que son élève Damascius lie ce nom au serpent-Chronos — tout en enseignant l'arc de salut dionysiaque. |
 
 ---
@@ -94,6 +94,10 @@ Les allégoristes stoïciens ont resserré le nœud : **Les Douze Travaux d'Hér
 
 ## Notes de bas de page
 
+[^oai1]: [Bmcr](https://bmcr.brynmawr.edu/2008/2008.10.16/)
+[^oai2]: [Penelope (U. Chicago)](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
+[^oai3]: [Initiativeone](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html)
+[^oai4]: [Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca)
 [^orpic-egg]: Damascius, *De Principiis* I 316 ; serpent Chronos-Héraclès brise l'œuf.
 
 ---
@@ -101,9 +105,9 @@ Les allégoristes stoïciens ont resserré le nœud : **Les Douze Travaux d'Hér
 ## Sources
 
 1. Orphic Rhapsodies fr. 78 (Damascius).
-2. Tablettes d'or orphiques, éd. Graf–Johnston(2007). [oai_citation_attribution:8‡Bryn Mawr Classical Review](https://bmcr.brynmawr.edu/2008/2008.10.16/)
-3. Diodorus Siculus *Bibl.* 4.34-38 (jarre de Dionysos/Héraclès). [oai_citation_attribution:9‡Penelope](https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/4B%2A.html)
+2. Tablettes d'or orphiques, éd. Graf–Johnston(2007). [^oai1]
+3. Diodorus Siculus *Bibl.* 4.34-38 (jarre de Dionysos/Héraclès). [^oai2]
 4. Cornutus *Theologia Graeca* 25-26 (travaux stoïciens).
-5. Nonnus *Dionysiaca* 24-25. [oai_citation_attribution:10‡Wikipedia](https://en.wikipedia.org/wiki/Dionysiaca)
+5. Nonnus *Dionysiaca* 24-25. [^oai4]
 6. Proclus *In Cratylum* 36 ; Damascius *In Philebum* fr. 125.
-7. "Mythic Underworld: Cerberus & Mysteries," InitiativeOne blog (2017). [oai_citation_attribution:11‡Semper Initiativus Unum](https://initiativeone.blogspot.com/2017/01/mythic-underworld-cerebus-and-mysteries.html)
+7. "Mythic Underworld: Cerberus & Mysteries," InitiativeOne blog (2017). [^oai3]

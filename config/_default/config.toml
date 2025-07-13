@@ -20,6 +20,8 @@ paginate = 50
 [params]
   author = "Andrew Cutler"
   description = "Research and musings on humanity's evolutionary journey"
+  # Minimum quality score for posts to appear in navigational listings (keyword pages, tag clouds, etc.)
+  qualityThreshold = 6
 
 [markup]
   [markup.goldmark]

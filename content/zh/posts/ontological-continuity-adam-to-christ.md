@@ -40,7 +40,7 @@ translation_model: gpt-4o
 
 **TL;DR** <!-- ≤ 100 words, 3-7 bullets -->
 
-- 伊甸园的“禁果”标志着递归自我意识的首次火花——一种向反思的上升性堕落。
+- 伊甸园的"禁果"标志着递归自我意识的首次火花——一种向反思的上升性堕落。
 - 约翰重新诠释创世纪：*Logos*（意义）先于物质存在，使意识成为宇宙的基础，而非其副产品。
 - 轴心时代的思想家（赫拉克利特、奥义书、老子）在心智能够掌握抽象概念时，趋同于一个基质——Logos/道/梵。
 - 诺斯替教派颠覆了故事：伊甸园的蛇是基督般的解放者，造物主是监禁者；知识拯救。
@@ -154,30 +154,45 @@ Ophites和相关教派采用希伯来圣经的元素并给予激进的“反向�
 ---
 ## 资料来源 
 
-1. [Julian Jaynes, *The Origin of Consciousness in the Breakdown of the Bicameral Mind*](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) — 杰恩斯的论点是内省意识是一个晚期文化发明，而不是一个古老的生物学既定事实。 [oai_citation:0‡Amazon](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) 
+1. [Julian Jaynes, *The Origin of Consciousness in the Breakdown of the Bicameral Mind*](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) — 杰恩斯的论点是内省意识是一个晚期文化发明，而不是一个古老的生物学既定事实。 [^oai1] 
 
-2. [Andrew Cutler, "The Eve Theory of Consciousness," *Vectors of Mind* Substack](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) — 提出在更新世-全新世边界由女性主导的自我意识的模因性出现。 [oai_citation:1‡Ask Who Casts AI](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) 
+2. [Andrew Cutler, "The Eve Theory of Consciousness," *Vectors of Mind* Substack](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) — 提出在更新世-全新世边界由女性主导的自我意识的模因性出现。 [^oai2] 
 
-3. [Bernardo Kastrup, *More Than Allegory: On Religious Myth, Truth and Belief*](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) — 一个受荣格影响的论点，认为神话传达字面上的心理真理；将堕落视为反思心灵的开始。 [oai_citation:2‡Amazon](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) 
+3. [Bernardo Kastrup, *More Than Allegory: On Religious Myth, Truth and Belief*](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) — 一个受荣格影响的论点，认为神话传达字面上的心理真理；将堕落视为反思心灵的开始。 [^oai3] 
 
-4. [Karl Jaspers, *The Origin and Goal of History*](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) — 创造了**轴心时代**的概念；声称人类在公元前800-200年间意识到存在和自我。 [oai_citation:3‡Amazon](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) 
+4. [Karl Jaspers, *The Origin and Goal of History*](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) — 创造了**轴心时代**的概念；声称人类在公元前800-200年间意识到存在和自我。 [^oai4] 
 
-5. [*The Gospel of John* 1:1-14 (Bible Gateway)](https://www.biblegateway.com/passage/?search=John+1&version=NIV) — 逻各斯赞美诗将创造框定为一个字/理性的本体论行为。 [oai_citation:4‡Bible Gateway](https://www.biblegateway.com/passage/?search=John+1&version=NIV) 
+5. [*The Gospel of John* 1:1-14 (Bible Gateway)](https://www.biblegateway.com/passage/?search=John+1&version=NIV) — 逻各斯赞美诗将创造框定为一个字/理性的本体论行为。 [^oai5] 
 
-6. [Tom Butler-Bowdon, "Heraclitus and the Birth of the Logos," *Modern Stoicism*](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) — 解释赫拉克利特的逻各斯作为宇宙理性，预示着道和约翰福音1章。 [oai_citation:5‡Modern Stoicism](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) 
+6. [Tom Butler-Bowdon, "Heraclitus and the Birth of the Logos," *Modern Stoicism*](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) — 解释赫拉克利特的逻各斯作为宇宙理性，预示着道和约翰福音1章。 [^oai6] 
 
-7. [Frances Young, *God's Presence: A Contemporary Recapitulation of Early Christianity*](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) — 探讨“蛇-基督”智慧意象和诺斯替对《创世纪》的颠覆。 [oai_citation:6‡Amazon](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) 
+7. [Frances Young, *God's Presence: A Contemporary Recapitulation of Early Christianity*](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) — 探讨"蛇-基督"智慧意象和诺斯替对《创世纪》的颠覆。 [^oai7] 
 
-8. ["Ophites," *Jewish Encyclopedia* (1906)](https://www.jewishencyclopedia.com/directory/O/11718) — 对蛇崇拜的诺斯替教派（蛇崇拜者/纳西尼派）的调查，他们的宇宙观和他们的反叛圣徒经典。 [oai_citation:7‡Jewish Encyclopedia](https://www.jewishencyclopedia.com/directory/O/11718) 
+8. ["Ophites," *Jewish Encyclopedia* (1906)](https://www.jewishencyclopedia.com/directory/O/11718) — 对蛇崇拜的诺斯替教派（蛇崇拜者/纳西尼派）的调查，他们的宇宙观和他们的反叛圣徒经典。 [^oai8] 
 
-9. [*The Nag Hammadi Library in English*, trans. James M. Robinson (PDF)](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D1%81%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) — 主要的诺斯替文本（例如，《执政者的本质》）重新诠释伊甸园为一个解放性的蛇灵。 [oai_citation:8‡Gnosis Study](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D1%81%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) 
+9. [*The Nag Hammadi Library in English*, trans. James M. Robinson (PDF)](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D1%81%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) — 主要的诺斯替文本（例如，《执政者的本质》）重新诠释伊甸园为一个解放性的蛇灵。 [^oai9] 
 
-10. ["The Hanging of Odin and Jesus – Parallels," *Lost History: Dying-and-Rising Gods*](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) — 比较奥丁的九夜自我牺牲与受难叙事，突出共同的入会象征。 [oai_citation:9‡Mythology & Folklore Stack Exchange](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) 
+10. ["The Hanging of Odin and Jesus – Parallels," *Lost History: Dying-and-Rising Gods*](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) — 比较奥丁的九夜自我牺牲与受难叙事，突出共同的入会象征。 [^oai10] 
 
-11. [Mircea Eliade, *Rites and Symbols of Initiation*](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) — 全球入会模式、萨满死亡与重生及其心理功能的经典研究。 [oai_citation:10‡Amazon](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) 
+11. [Mircea Eliade, *Rites and Symbols of Initiation*](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) — 全球入会模式、萨满死亡与重生及其心理功能的经典研究。 [^oai11] 
 
-12. [Elaine Pagels, *The Gnostic Gospels*](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532) — 对早期基督教异端和“秘密知识”政治的里程碑式分析。 [oai_citation:11‡Amazon](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532) 
+12. [Elaine Pagels, *The Gnostic Gospels*](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532) — 对早期基督教异端和"秘密知识"政治的里程碑式分析。 [^oai12] 
 
-13. [Karen Armstrong, *The Great Transformation: The Beginning of Our Religious Traditions*](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242) — 叙述轴心时代向抽象伦理和反思性灵性的转变。 [oai_citation:12‡Amazon](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242) 
+13. [Karen Armstrong, *The Great Transformation: The Beginning of Our Religious Traditions*](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242) — 叙述轴心时代向抽象伦理和反思性灵性的转变。 [^oai13] 
 
-14. [Joseph Campbell, *Thou Art That: Transforming Religious Metaphor*](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874) — 关于犹太-基督教符号（伊甸园、十字架、蛇）作为内在转变隐喻的遗作。 [oai_citation:13‡Amazon](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874)
+14. [Joseph Campbell, *Thou Art That: Transforming Religious Metaphor*](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874) — 关于犹太-基督教符号（伊甸园、十字架、蛇）作为内在转变隐喻的遗作。 [^oai14]
+
+[^oai1]: [Amazon](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072)
+[^oai2]: [Askwhocastsai](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by)
+[^oai3]: [Amazon](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873)
+[^oai4]: [Amazon](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X)
+[^oai5]: [Biblegateway](https://www.biblegateway.com/passage/?search=John+1&version=NIV)
+[^oai6]: [Modernstoicism](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/)
+[^oai7]: [Amazon](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787)
+[^oai8]: [Jewishencyclopedia](https://www.jewishencyclopedia.com/directory/O/11718)
+[^oai9]: [Gnosis](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D1%81%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf)
+[^oai10]: [Mythology](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t)
+[^oai11]: [Amazon](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581)
+[^oai12]: [Amazon](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532)
+[^oai13]: [Amazon](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242)
+[^oai14]: [Amazon](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874)

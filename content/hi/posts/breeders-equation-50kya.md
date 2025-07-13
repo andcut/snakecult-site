@@ -39,9 +39,9 @@ translation_model: gpt-4o
 
 ## 1 उद्धरण और ब्लैंक-स्लेट कैटेकिज्म
 
-> "मानवों में **40,000 या 50,000 वर्षों में कोई जैविक परिवर्तन नहीं हुआ है**। हम जो कुछ भी संस्कृति और सभ्यता कहते हैं, हमने उसी शरीर और मस्तिष्क के साथ बनाया है।" — *स्टीफन जे गोल्ड*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+> "मानवों में **40,000 या 50,000 वर्षों में कोई जैविक परिवर्तन नहीं हुआ है**। हम जो कुछ भी संस्कृति और सभ्यता कहते हैं, हमने उसी शरीर और मस्तिष्क के साथ बनाया है।" — *स्टीफन जे गोल्ड*  [^oai1]
 
-> "प्रागैतिहासिक लोग मानसिक क्षमता में *हमारे बराबर* थे; अंतर केवल सांस्कृतिक है।" — *डेविड ड्यूश*, विदिन रीजन पॉडकास्ट, 2025  [oai_citation_attribution:1‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+> "प्रागैतिहासिक लोग मानसिक क्षमता में *हमारे बराबर* थे; अंतर केवल सांस्कृतिक है।" — *डेविड ड्यूश*, विदिन रीजन पॉडकास्ट, 2025  [^oai2]
 
 ऐसे घोषणाओं को कई कक्षाओं में स्वयंसिद्ध सत्य के रूप में माना जाता है। नीचे मैं उन्हें खंडनीय परिकल्पनाओं के रूप में मानता हूं और संख्याओं का विश्लेषण करता हूं।
 
@@ -80,9 +80,9 @@ translation_model: gpt-4o
 
 बड़े aDNA डेटासेट (~7,000 जीनोम) हमें सैकड़ों लक्षणों के लिए पॉलीजेनिक स्कोर (PGS) को ट्रैक करने देते हैं। यहां सबसे प्रासंगिक निष्कर्ष:
 
-* **संज्ञानात्मक PGS 10 हजार वर्षों से ~0.5 SD बढ़ा**—यदि रैखिक स्केलिंग लागू होती है तो ≈ +35 IQ। [oai_citation_attribution:2‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+* **संज्ञानात्मक PGS 10 हजार वर्षों से ~0.5 SD बढ़ा**—यदि रैखिक स्केलिंग लागू होती है तो ≈ +35 IQ। [^oai3]
 * **बारह सबसे मजबूत होलोसीन स्वीप्स** में से आधे संज्ञानात्मक-लिंक्ड लक्षणों (शैक्षिक प्राप्ति, अंतःकपाल मात्रा, आदि) से संबंधित हैं।
-* X-क्रोमोसोम हॉटस्पॉट जैसे **TENM1** < 60 हजार वर्षों के लिए चयनात्मक स्वीप्स दिखाते हैं, *पोस्ट-निएंडरथल* मानवों में पुनरावृत्ति/ध्वन्यात्मकता समायोजन के साथ संगत। [oai_citation_attribution:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+* X-क्रोमोसोम हॉटस्पॉट जैसे **TENM1** < 60 हजार वर्षों के लिए चयनात्मक स्वीप्स दिखाते हैं, *पोस्ट-निएंडरथल* मानवों में पुनरावृत्ति/ध्वन्यात्मकता समायोजन के साथ संगत। [^oai4]
 
 ब्रीडर के समीकरण में **S ≈ 0.2** डालने से +35 IQ प्रक्षेपवक्र को सटीक रूप से पुनः उत्पन्न करता है।
 
@@ -118,17 +118,23 @@ translation_model: gpt-4o
 
 ## फुटनोट्स
 
+[^oai1]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+[^oai2]: [Youtube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+[^oai3]: [Cambridge](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+[^oai4]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+[^oai5]: [Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
+[^oai6]: [Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
 [^1]: मनोमितीय g के लिए h² के अनुमान वयस्कता में 0.5–0.8 तक होते हैं (देखें पोल्डरमैन एट अल., *नैट. जेनेट.* 2015)।
 [^2]: लिन आर. *डिस्जेनिक्स* (1996) ने >25 प्रजनन-IQ डेटासेट को संश्लेषित किया; औसत r ≈ –0.2 ⇒ S ≈ -0.8 IQ।
-[^3]: ह्यू-जोंस डी. और कोहलर एच-पी। "तीन पीढ़ियों के अमेरिकियों में प्राकृतिक चयन"। 2024 प्री-प्रिंट। [oai_citation_attribution:4‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-[^4]: टर्कहाइमर ई। "व्यवहार आनुवंशिकी के तीन नियम"। *करंट. डिर. साइकोल. साइ.* 9 (2000) 160-164। [oai_citation_attribution:5‡SAGE Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
+[^3]: ह्यू-जोंस डी. और कोहलर एच-पी। "तीन पीढ़ियों के अमेरिकियों में प्राकृतिक चयन"। 2024 प्री-प्रिंट। [^oai5]
+[^4]: टर्कहाइमर ई। "व्यवहार आनुवंशिकी के तीन नियम"। *करंट. डिर. साइकोल. साइ.* 9 (2000) 160-164। [^oai6]
 
 ---
 
 ## स्रोत
 
-1. एस.जे. गोल्ड उद्धरण *क्या मानव विकास रुक गया है?* [oai_citation_attribution:6‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
-2. डी. ड्यूश और ए. ओ'कॉनर, "आप गुफावासी से अधिक स्मार्ट नहीं हैं", विदिन रीजन पॉडकास्ट (YouTube 2025)। [oai_citation_attribution:7‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
-3. ह्यू-जोंस डी. एट अल., 2024 चयन स्कैन – फुटनोट 3 देखें। [oai_citation_attribution:8‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-4. स्कोव एल. एट अल., "मानव X क्रोमोसोम पर असाधारण चयन…", *सेल* 2023। [oai_citation_attribution:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
-5. पिफर डी. "यूरोपीय जनसंख्याओं में पॉलीजेनिक स्कोर के विकासवादी रुझान…", *ट्विन रिस.* 2023। [oai_citation_attribution:10‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+1. एस.जे. गोल्ड उद्धरण *क्या मानव विकास रुक गया है?* [^oai1]
+2. डी. ड्यूश और ए. ओ'कॉनर, "आप गुफावासी से अधिक स्मार्ट नहीं हैं", विदिन रीजन पॉडकास्ट (YouTube 2025)। [^oai2]
+3. ह्यू-जोंस डी. एट अल., 2024 चयन स्कैन – फुटनोट 3 देखें। [^oai5]
+4. स्कोव एल. एट अल., "मानव X क्रोमोसोम पर असाधारण चयन…", *सेल* 2023। [^oai4]
+5. पिफर डी. "यूरोपीय जनसंख्याओं में पॉलीजेनिक स्कोर के विकासवादी रुझान…", *ट्विन रिस.* 2023। [^oai3]

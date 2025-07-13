@@ -39,10 +39,10 @@ draft: true
 > Among the Zuñi 'rain-makers' the same implement, *'a sounding slat,'* calls the clouds. 
 > The Greeks employed the **rhombos** in the Dionysiac mysteries. 
 > That so peculiar an object, doing the same sacred duty, should thus re-appear from Attica to the bush tends strongly to show transmission of custom." 
-> —*Primitive Culture*, vol. I, pp. 325-326 [oai_citation:0‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
+> —*Primitive Culture*, vol. I, pp. 325-326 [^oai1] 
 
 > "We have now tracked the bull-roarer almost round the world…The hypothesis of psychic unity would compel each tribe to reinvent both slat and myth; the hypothesis of *cultural intercourse* explains the facts at far less cost." 
-> —Presidential Address, Anthropological Institute, 21 Aug 1879, p. 6 [oai_citation:1‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf) 
+> —Presidential Address, Anthropological Institute, 21 Aug 1879, p. 6 [^oai2] 
 
 Tylor never reduced the distribution to a single point of origin; instead he spoke of "several pulses of borrowing moving along the grooves of migration and trade."
 
@@ -54,7 +54,7 @@ Tylor never reduced the distribution to a single point of origin; instead he spo
 
 > "The thing is a rhomboid of light wood, eight or ten inches long, the edges sometimes notched; one end is pierced for a thong.  
 > Whirled rapidly, it becomes invisible and gives forth a booming that civilized hearers compare to 'the roar of a distant bull.'"  
-> —vol. I, p. 325  [oai_citation:2‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)  
+> —vol. I, p. 325  [^oai1]  
 
 | Locale        | Indigenous name | Primary rite          | Tylor's précis |
 |---------------|-----------------|-----------------------|----------------|
@@ -69,20 +69,20 @@ Tylor never reduced the distribution to a single point of origin; instead he spo
 Tylor highlights three recurring ideas:
 
 1. **Voice of the Supernatural.** 
- > "Its roar is consistently interpreted as the god's or ancestor's speech." —p. 326 [oai_citation:3‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
+ > "Its roar is consistently interpreted as the god's or ancestor's speech." —p. 326 [^oai1] 
 
 2. **Ritual Secrecy / Gender Division.** 
  Punishments for profane gaze "rise from flogging to death"; Greece keeps the *rhombos* behind curtains, Australia behind threats of spear-death.
 
 3. **Weather Control.** 
- Both Polynesian and Pueblo rites "swing the slat to *'call the wind and the rain.'*" —p. 327 n. 1 [oai_citation:4‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
+ Both Polynesian and Pueblo rites "swing the slat to *'call the wind and the rain.'*" —p. 327 n. 1 [^oai1] 
 
 ---
 
 ## 3 Diffusion vs. Convergence — Tylor's Case
 
 > "Conceive fifty unconnected tribes each hitting on an identical wooden charm, complete with the same thunder taboo, the same myth of the sky-father: the coincidence would be monstrous."  
-> —Presidential Address 1879, p. 7  [oai_citation:5‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf?utm_source=chatgpt.com)  
+> —Presidential Address 1879, p. 7  [^oai3]  
 
 He concedes independent invention is *possible*—"the slat is mechanically simple"—but insists the ancillaries (myth, taboo, initiation setting) make diffusion "the economy of hypothesis."
 
@@ -125,6 +125,11 @@ Yes—Palaeolithic specimens (Ukraine c. 18 ka) show the form long predates any 
 
 ## Footnotes
 
+[^oai1]: [Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm)
+[^oai2]: [Ia801501](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf)
+[^oai3]: [Ia801501](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf?utm_source=chatgpt.com)
+[^oai4]: [Archive](https://archive.org/download/custommyth00lang/custommyth00lang_djvu.txt)
+[^oai5]: [Archive](https://archive.org/download/studyofman00hadduoft/studyofman00hadduoft.pdf)
 [^1]: All Tylor quotations from *Primitive Culture*, 2nd ed. (1873) unless noted; page numbers follow that edition.  
 [^2]: Presidential Address published in *Journal of the Anthropological Institute*, vol. 9 (1880).  
 [^3]: Australian examples from Fison & Howitt, *Kamilaroi and Kurnai* (1880) pp. 267-268.  
@@ -135,11 +140,11 @@ Yes—Palaeolithic specimens (Ukraine c. 18 ka) show the form long predates any 
 
 ## Sources
 
-1. Tylor, E.B. *Primitive Culture*, 2 vols., 2nd ed., London: Murray, 1873. [oai_citation:6‡Project Gutenberg](https://www.gutenberg.org/files/70458/70458-h/70458-h.htm) 
-2. Tylor, E.B. "Address to the Department of Anthropology," Sheffield, 21 Aug 1879. [oai_citation:7‡Internet Archive](https://ia801501.us.archive.org/10/items/in.ernet.dli.2015.221679/2015.221679.Primitive-Ritual_text.pdf) 
+1. Tylor, E.B. *Primitive Culture*, 2 vols., 2nd ed., London: Murray, 1873. [^oai1] 
+2. Tylor, E.B. "Address to the Department of Anthropology," Sheffield, 21 Aug 1879. [^oai2] 
 3. Fison, L., & Howitt, A.W. *Kamilaroi and Kurnai*. Melbourne: Gordon & Gotch, 1880. 
-4. Lang, A. "The Bull-Roarer," in *Custom and Myth*. London: Longmans, 1884, pp. 29-44. [oai_citation:8‡Internet Archive](https://archive.org/download/custommyth00lang/custommyth00lang_djvu.txt) 
+4. Lang, A. "The Bull-Roarer," in *Custom and Myth*. London: Longmans, 1884, pp. 29-44. [^oai4] 
 5. Cushing, F.H. "A Priest-hood of Zuñi," *Century Magazine* 26 (1883): 282-300. 
-6. Haddon, A.C. *The Study of Man*. London: Smith Elder, 1898, p. 219. [oai_citation:9‡Internet Archive](https://archive.org/download/studyofman00hadduoft/studyofman00hadduoft.pdf) 
+6. Haddon, A.C. *The Study of Man*. London: Smith Elder, 1898, p. 219. [^oai5] 
 7. Boas, F. "The Limitations of the Comparative Method," *Science* 4 (1896): 901-908. 
 8. Boyd, M. "Palaeolithic Bull-Roarers," *Antiquity* 94 (2020): 1366-1381. 

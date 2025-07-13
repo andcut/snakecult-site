@@ -29,10 +29,10 @@ translation_model: gpt-4o
 
 **TL;DR**
 
-- O *Enūma Eliš* começa com um cosmos que existe **sem nomes**, portanto, sem papéis fixos.  
-- Dois verbos—*nabû* e *zakāru*—indicam a nomeação como um **ato de fala performativo** que finaliza a realidade.  
-- O caos pré-nomeação não é ateísta; divindades (Apsû & Tiamat) já nadam nele.  
-- Uma vez que Marduk vence a guerra divina, ele atribui **cinquenta nomes**, fixando o quadro de funções cósmicas.  
+- O *Enūma Eliš* começa com um cosmos que existe **sem nomes**, portanto, sem papéis fixos. 
+- Dois verbos—*nabû* e *zakāru*—indicam a nomeação como um **ato de fala performativo** que finaliza a realidade. 
+- O caos pré-nomeação não é ateísta; divindades (Apsû & Tiamat) já nadam nele. 
+- Uma vez que Marduk vence a guerra divina, ele atribui **cinquenta nomes**, fixando o quadro de funções cósmicas. 
 - Gênesis 1 e hinos védicos ecoam a mesma lógica: criação = separação + nomeação.
 
 ---
@@ -59,7 +59,7 @@ translation_model: gpt-4o
 2. Os deuses recebem **títulos** (𒌓 *dUTU* “Deus-Sol,” 𒀭𒀀𒉡 *dAN* “Deus-Céu”) que funcionam como especificações funcionais.  
 3. A lista de honra pós-guerra de Marduk (“Ele será chamado …”) vincula cada um de seus cinquenta nomes a um domínio—vento, medicina, justiça—que os sacerdotes poderiam então invocar.  
 
-> *“A linguagem não descreve o cosmos; ela o **estabiliza**.”* —Robson, *Language and Cosmos in Greece and Mesopotamia* (2023).  [oai_citation:0‡cambridge.org](https://www.cambridge.org/core/books/language-and-cosmos-in-greece-and-mesopotamia/language-and-cosmos-in-the-epic-of-creation/F9C41567F74F95C1F57304FBEDC150A7?utm_source=chatgpt.com)
+> *“A linguagem não descreve o cosmos; ela o **estabiliza**.”* —Robson, *Language and Cosmos in Greece and Mesopotamia* (2023).  [^oai1]
 
 ---
 
@@ -101,6 +101,11 @@ A nomeação é o **selo final** após a cosmogonia violenta e a separação esp
 
 ## Notas de Rodapé
 
+[^oai1]: [Cambridge](https://www.cambridge.org/core/books/language-and-cosmos-in-greece-and-mesopotamia/language-and-cosmos-in-the-epic-of-creation/F9C41567F74F95C1F57304FBEDC150A7)
+[^oai2]: [Cambridge](https://www.cambridge.org/core/books/language-and-cosmos-in-greece-and-mesopotamia/language-and-cosmos-in-the-epic-of-creation/F9C41567F74F95C1F57304FBEDC150A7)
+[^oai3]: [Usu](https://www.usu.edu/markdamen/ane/lectures/10.1.pdf)
+[^oai4]: [Brill](https://brill.com/display/book/edcoll/9789004445215/BP000013.xml?language=en&srsltid=AfmBOootbSkXcBgdsX5fKz0oBE4GJjIznG0rbP0jDY2pSQ6IE6zQ4K5b)
+[^oai5]: [Wikipedia](https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1)
 [^1]: Lambert, *Babylonian Creation Myths* (2013) p. 231. 
 [^2]: Robson, *Language and Cosmos in Greece and Mesopotamia* (Cambridge, 2023). 
 [^3]: Heidel, *The Babylonian Genesis* (1951) ch. 2. 
@@ -110,8 +115,8 @@ A nomeação é o **selo final** após a cosmogonia violenta e a separação esp
 ## Fontes
 
 1. Lambert, W. G. *Babylonian Creation Myths*. Eisenbrauns, 2013. 
-2. Robson, E. "Language and Cosmos in the Epic of Creation." In *Language and Cosmos in Greece and Mesopotamia*, Cambridge UP, 2023. [oai_citation:1‡cambridge.org](https://www.cambridge.org/core/books/language-and-cosmos-in-greece-and-mesopotamia/language-and-cosmos-in-the-epic-of-creation/F9C41567F74F95C1F57304FBEDC150A7) 
+2. Robson, E. "Language and Cosmos in the Epic of Creation." In *Language and Cosmos in Greece and Mesopotamia*, Cambridge UP, 2023. [^oai2] 
 3. Heidel, A. *The Babylonian Genesis*. University of Chicago Press, 1951. 
-4. Mark Damen, "Mesopotamian Literature: *Enūma Eliš*." Utah State University lecture notes, 2024. [oai_citation:2‡usu.edu](https://www.usu.edu/markdamen/ane/lectures/10.1.pdf) 
-5. Brill, *A History of Akkadian Onomastics*, 2021. [oai_citation:3‡brill.com](https://brill.com/display/book/edcoll/9789004445215/BP000013.xml?language=en&srsltid=AfmBOootbSkXcBgdsX5fKz0oBE4GJjIznG0rbP0jDY2pSQ6IE6zQ4K5b) 
-6. Wikipedia contributors. "Enūma Eliš." Last modified 2025-05-30. [oai_citation:4‡en.wikipedia.org](https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1)
+4. Mark Damen, "Mesopotamian Literature: *Enūma Eliš*." Utah State University lecture notes, 2024. [^oai3] 
+5. Brill, *A History of Akkadian Onomastics*, 2021. [^oai4] 
+6. Wikipedia contributors. "Enūma Eliš." Last modified 2025-05-30. [^oai5]

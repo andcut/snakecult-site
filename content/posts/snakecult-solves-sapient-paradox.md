@@ -112,6 +112,12 @@ Remove the serpent‑cult seed, and the late Neolithic “takeoff” never germi
 
 ## Footnotes
 
+[^oai1]: [Tepe Telegrams](https://www.dainst.blog/the-tepe-telegrams/2016/04/23/why-did-it-have-to-be-snakes/)
+[^oai2]: [Scientificamerican](https://www.scientificamerican.com/article/offerings-to-a-stone-snak/)
+[^oai3]: [Vectorsofmind](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness)
+[^oai4]: [Royal Society](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2008.0010)
+[^oai5]: [Jstage](https://www.jstage.jst.go.jp/article/psysoc/advpub/0/advpub_2021-B017/_pdf)
+[^oai6]: [Tepe Telegrams](https://www.dainst.blog/the-tepe-telegrams/2016/12/12/of-snakes-and-birds-goebekli-tepe-pillar-56/)
 [^1]: Renfrew, C. “Solving the ‘Sapient Paradox.’” *BioScience* 58 (2008): 171‑179.  
 [^2]: Wynn, T. & Coolidge, F. “Behavioral Modernity in Retrospect.” *Current Anthropology* 51 (2010): 597‑614.  
 [^3]: Dietrich, O. *et al.* “Why did it have to be snakes?” Tepe Telegrams (DAI Blog), 2016.  
@@ -127,11 +133,11 @@ Remove the serpent‑cult seed, and the late Neolithic “takeoff” never germi
 
 1. Renfrew, C. "Solving the 'Sapient Paradox.'" *BioScience* 58 (2), 2008. 
 2. Wynn, T. & Coolidge, F. "Behavioral Modernity in Retrospect." *Current Anthropology* 51, 2010. 
-3. German Archaeological Institute. "Why did it have to be snakes? – Tepe Telegrams," 2016. [oai_citation:0‡dainst.blog](https://www.dainst.blog/the-tepe-telegrams/2016/04/23/why-did-it-have-to-be-snakes/) 
-4. Coulson, D. "Offerings to a Stone Snake Provide the Earliest Evidence of Religion." *Scientific American*, 2006. [oai_citation:1‡Scientific American](https://www.scientificamerican.com/article/offerings-to-a-stone-snak/) 
-5. Cutler, A. "The Snake Cult of Consciousness." *Vectors of Mind*, 2023. [oai_citation:2‡Vectors of Mind](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness) 
-6. Renfrew, C.; Frith, C.; Malafouris, L. "Neuroscience, evolution and the sapient paradox." *Phil. Trans. R. Soc. B* 363, 2008. [oai_citation:3‡Royal Society Publishing](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2008.0010) 
-7. Iriki, A.; Suzuki, H.; Tanaka, S.; Vieira, R. B. V. "The Sapient Paradox and the Great Journey." *Psychologia*, 2021. [oai_citation:4‡J-STAGE](https://www.jstage.jst.go.jp/article/psysoc/advpub/0/advpub_2021-B017/_pdf) 
+3. German Archaeological Institute. "Why did it have to be snakes? – Tepe Telegrams," 2016. [^oai1] 
+4. Coulson, D. "Offerings to a Stone Snake Provide the Earliest Evidence of Religion." *Scientific American*, 2006. [^oai2] 
+5. Cutler, A. "The Snake Cult of Consciousness." *Vectors of Mind*, 2023. [^oai3] 
+6. Renfrew, C.; Frith, C.; Malafouris, L. "Neuroscience, evolution and the sapient paradox." *Phil. Trans. R. Soc. B* 363, 2008. [^oai4] 
+7. Iriki, A.; Suzuki, H.; Tanaka, S.; Vieira, R. B. V. "The Sapient Paradox and the Great Journey." *Psychologia*, 2021. [^oai5] 
 8. Harvey, A. "Snake Toxins and the Nervous System." *Nature Reviews Neuroscience* 4, 2001. 
 9. National Geographic. "The Birth of Religion." *Nat. Geo. Mag.*, June 2011. 
-10. Tepe Telegrams Archive. "A Tale of Snakes and Birds: Göbekli Tepe Pillar 56," 2016. [oai_citation:5‡dainst.blog](https://www.dainst.blog/the-tepe-telegrams/2016/12/12/of-snakes-and-birds-goebekli-tepe-pillar-56/) 
+10. Tepe Telegrams Archive. "A Tale of Snakes and Birds: Göbekli Tepe Pillar 56," 2016. [^oai6] 

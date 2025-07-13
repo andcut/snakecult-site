@@ -95,13 +95,20 @@ Under the Snake Cult lens, Eden is less a cautionary tale than a garbled lab not
 
 ## Footnotes
 
-[^1]: News-Medical. "Rutin … protects mice against snake venom." Jan 9 2019. [oai_citation:0‡News-Medical](https://www.news-medical.net/news/20190109/Study-Rutin-found-in-fruits-and-vegetables-protect-mice-against-snake-venom.aspx) 
-[^2]: de Souza et al. "Rutin and Rutin Succinate Neutralize *B. jararaca* Toxins." *Toxins* 20 22. [oai_citation:1‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8899467/) 
-[^3]: HPLC survey of 60 apple genotypes. *Molecules* 24 (2019): 905. [oai_citation:2‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6429083/) 
-[^4]: Awad et al. "Major phenolics in apple." *J. Agric. Food Chem.* 2000. [oai_citation:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/14558772/) 
-[^5]: "Forbidden fruit." *Wikipedia*, rev. 2025-07-11. [oai_citation:4‡Wikipedia](https://en.wikipedia.org/wiki/Forbidden_fruit) 
-[^6]: Cutler, A. "The Snake Cult of Consciousness." *Vectors of Mind* 2023. [oai_citation:5‡vectorsofmind.com](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness) 
-[^7]: Cutler, A. "Snake Cult… Two Years Later." *Vectors of Mind* 2025. [oai_citation:6‡vectorsofmind.com](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness-two) 
+[^oai1]: [News-medical](https://www.news-medical.net/news/20190109/Study-Rutin-found-in-fruits-and-vegetables-protect-mice-against-snake-venom.aspx)
+[^oai2]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8899467/)
+[^oai3]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6429083/)
+[^oai4]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/14558772/)
+[^oai5]: [Wikipedia](https://en.wikipedia.org/wiki/Forbidden_fruit)
+[^oai6]: [Vectorsofmind](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness)
+[^oai7]: [Vectorsofmind](https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness-two)
+[^1]: News-Medical. "Rutin … protects mice against snake venom." Jan 9 2019. [^oai1] 
+[^2]: de Souza et al. "Rutin and Rutin Succinate Neutralize *B. jararaca* Toxins." *Toxins* 20 22. [^oai2] 
+[^3]: HPLC survey of 60 apple genotypes. *Molecules* 24 (2019): 905. [^oai3] 
+[^4]: Awad et al. "Major phenolics in apple." *J. Agric. Food Chem.* 2000. [^oai4] 
+[^5]: "Forbidden fruit." *Wikipedia*, rev. 2025-07-11. [^oai5] 
+[^6]: Cutler, A. "The Snake Cult of Consciousness." *Vectors of Mind* 2023. [^oai6] 
+[^7]: Cutler, A. "Snake Cult… Two Years Later." *Vectors of Mind* 2025. [^oai7] 
 
 ---
 

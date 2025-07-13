@@ -28,11 +28,11 @@ translation_model: gpt-4o
 
 **TL;DR**
 
-- Les Inuits, les Plaines, plusieurs peuples africains et certains peuples océaniens attribuent la mortalité à un choix ou une erreur d'une femme âgée.  
-- Aucun exemple solidement attesté en **Amérique du Sud** ou en **Europe** de la même structure de "vieille votante".  
-- Berezkin (2019) cartographie le motif selon un gradient de diffusion circumpolaire → Plaines ; les cas africains forment des clusters séparés.  
-- Les variantes océaniques déplacent l'agence : l'*erreur* de la grand-mère (mue de la peau) rend la mort inévitable.  
-- Les meilleurs modèles phylogénétiques utilisent la base de données de motifs de Berezkin et la construction d'arbres bayésiens (par exemple, d'Huy 2013 ; Berezkin 2016a).  
+- Les Inuits, les Plaines, plusieurs peuples africains et certains peuples océaniens attribuent la mortalité à un choix ou une erreur d'une femme âgée. 
+- Aucun exemple solidement attesté en **Amérique du Sud** ou en **Europe** de la même structure de "vieille votante". 
+- Berezkin (2019) cartographie le motif selon un gradient de diffusion circumpolaire → Plaines ; les cas africains forment des clusters séparés. 
+- Les variantes océaniques déplacent l'agence : l'*erreur* de la grand-mère (mue de la peau) rend la mort inévitable. 
+- Les meilleurs modèles phylogénétiques utilisent la base de données de motifs de Berezkin et la construction d'arbres bayésiens (par exemple, d'Huy 2013 ; Berezkin 2016a). 
 
 ---
 
@@ -40,7 +40,7 @@ translation_model: gpt-4o
 
 > "**Mieux vaut être sans jour, si nous devons être sans mort,**" dit une vieille. 
 > "**Non – ayons à la fois la Lumière *et* la Mort !**" répondit l'autre, et **comme elle parlait, il en fut ainsi.** 
-> —*The Coming of Men, A Long, Long While Ago* (Inuit du Groenland) [oai_citation:0‡Project Gutenberg](https://www.gutenberg.org/files/28932/28932-h/28932-h.htm) 
+> —*The Coming of Men, A Long, Long While Ago* (Inuit du Groenland) [^oai1] 
 
 ### Inuit du Groenland (tradition Thulé) 
 Conte complet dans Rasmussen 1921, pp. 16-18. Deux femmes âgées se disputent ; la demande de la seconde pour le lever du soleil l'emporte sur l'immortalité.
@@ -48,7 +48,7 @@ Conte complet dans Rasmussen 1921, pp. 16-18. Deux femmes âgées se disputent ;
 ### Pieds-Noirs (Plaines algonquiennes) 
 
 > Vieil Homme a fait flotter une bouse de bison : "Si elle flotte, nous mourons seulement quatre jours." 
-> **Vieille Femme a jeté une pierre** qui a coulé : "Maintenant nous mourons pour toujours, sinon la pitié périrait." [oai_citation:1‡University of Pittsburgh](https://sites.pitt.edu/~dash/blkftcreation.html)
+> **Vieille Femme a jeté une pierre** qui a coulé : "Maintenant nous mourons pour toujours, sinon la pitié périrait." [^oai2]
 
 Versions de test de flottaison apparentées : Crow, Gros Ventre, Cris des Plaines, Sarcee.
 
@@ -65,7 +65,7 @@ Versions de test de flottaison apparentées : Crow, Gros Ventre, Cris des Plaine
 
 La monographie d'Abrahamsson (*The Origin of Death*, 1951) compile environ 40 textes subsahariens. Exemple Nyamwezi :
 
-> "...il vaudrait **mieux que les gens meurent**, sinon ils ne pourraient pas trouver de bois ni de place dans leurs champs," dit **Mbaela**, la première femme, et ainsi la mort commença.  [oai_citation:2‡The Ethics of Suicide Digital Archive](https://ethicsofsuicide.lib.utah.edu/tradition/indigenous-cultures/african-traditional-subsaharan-cultures/african-origin-myths/)  
+> "...il vaudrait **mieux que les gens meurent**, sinon ils ne pourraient pas trouver de bois ni de place dans leurs champs," dit **Mbaela**, la première femme, et ainsi la mort commença.  [^oai3]  
 
 Cas parallèles : Hausa, Bamum, Ngala, Nuer. La Vieille Femme est souvent seule ; pas de contre-voix masculine. Les chercheurs considèrent ces cas comme des inventions indépendantes plutôt que des importations.
 
@@ -75,7 +75,7 @@ Cas parallèles : Hausa, Bamum, Ngala, Nuer. La Vieille Femme est souvent seule 
 
 Îles Banks (Vanuatu) :
 
-> "Un jour, **une vieille femme est allée à un ruisseau pour changer de peau**… Son petit-enfant pleurait, ne la reconnaissant pas ; elle a remis l'ancienne peau, et *depuis lors, les hommes sont morts*." [oai_citation:3‡Sacred Texts](https://sacred-texts.com/pac/om/om11.htm) 
+> "Un jour, **une vieille femme est allée à un ruisseau pour changer de peau**… Son petit-enfant pleurait, ne la reconnaissant pas ; elle a remis l'ancienne peau, et *depuis lors, les hommes sont morts*." [^oai4] 
 
 La variante d'Ambrym permet à deux divinités de débattre de l'écorchement vs. l'enterrement ; le **dernier orateur (un esprit féminin dans certaines versions)** l'emporte et introduit la mort. L'agence de la vieille femme ici est due à une **erreur**, non à une politique.
 
@@ -85,7 +85,7 @@ La variante d'Ambrym permet à deux divinités de débattre de l'écorchement vs
 
 Les recherches dans le catalogue de Berezkin (mise à jour 2023) et les corpus SINIC/ICANH ne trouvent **aucun texte clair de “Vieille Femme vote pour la mort”** au sud de Panama. Le plus proche est le mythe Kurripako (Rio Guainía) :
 
-> Une **mère** enfreint un tabou, pleure sur son fils caché → il se dissout, et le héros culturel déclare, “Maintenant la mort régnera pour toujours.”  [oai_citation:4‡mitosla.blogspot.com](https://mitosla.blogspot.com/2008/10/colombia-mito-kurripako-origen-de-la.html)  
+> Une **mère** enfreint un tabou, pleure sur son fils caché → il se dissout, et le héros culturel déclare, “Maintenant la mort régnera pour toujours.”  [^oai5]  
 
 Ici, la femme âgée *cause* la mort indirectement ; il n'y a pas d'opposition délibérative comme dans le type Arctique-Plaines.
 
@@ -131,13 +131,20 @@ Aucun n'essaie un *chronogramme global* limité à "Vieille Femme = Mort," mais 
 
 ## Notes de bas de page  
 
-[^1]: Knud Rasmussen, *Eskimo Folk-Tales* (1921) chap. 3 “The Coming of Men”.  [oai_citation:5‡Project Gutenberg](https://www.gutenberg.org/files/28932/28932-h/28932-h.htm)  
-[^2]: Clark Wissler & D.C. Duvall, *Mythology of the Blackfoot Indians* (AMNH 1908) pp. 19-21.  [oai_citation:6‡University of Pittsburgh](https://sites.pitt.edu/~dash/blkftcreation.html?utm_source=chatgpt.com)  
-[^3]: Hans Abrahamsson, *The Origin of Death: Studies in African Mythology* (1951) sect. I.  [oai_citation:7‡The Ethics of Suicide Digital Archive](https://ethicsofsuicide.lib.utah.edu/tradition/indigenous-cultures/african-traditional-subsaharan-cultures/african-origin-myths/)  
-[^4]: “Colombia – Mito Kurripako – Origen de la muerte” (SINIC, 2008).  [oai_citation:8‡mitosla.blogspot.com](https://mitosla.blogspot.com/2008/10/colombia-mito-kurripako-origen-de-la.html)  
-[^5]: R. Codrington, *Melanesian Mythology* in *Mythology of All Races* vol. IX (1916) pp. 117-118.  [oai_citation:9‡Sacred Texts](https://sacred-texts.com/pac/om/om11.htm)  
-[^6]: Yuri Berezkin, “Peopling of the New World in Light of Folklore Motifs,” in *Maths Meets Myths* (2016) 71-89.  [oai_citation:10‡De Gruyter Brill](https://www.degruyter.com/document/doi/10.1515/fabula-2023-0013/html?lang=de)  
-[^7]: Julien d’Huy, “A Phylogenetic Approach of Mythology,” *Rock Art Research* 30(1), 2013.  [oai_citation:11‡De Gruyter Brill](https://www.degruyter.com/document/doi/10.1515/fabula-2023-0013/html?lang=de)  
+[^oai1]: [Gutenberg](https://www.gutenberg.org/files/28932/28932-h/28932-h.htm)
+[^oai2]: [Sites](https://sites.pitt.edu/~dash/blkftcreation.html)
+[^oai3]: [Ethicsofsuicide](https://ethicsofsuicide.lib.utah.edu/tradition/indigenous-cultures/african-traditional-subsaharan-cultures/african-origin-myths/)
+[^oai4]: [Sacred-texts](https://sacred-texts.com/pac/om/om11.htm)
+[^oai5]: [Mitosla](https://mitosla.blogspot.com/2008/10/colombia-mito-kurripako-origen-de-la.html)
+[^oai6]: [Sites](https://sites.pitt.edu/~dash/blkftcreation.html?utm_source=chatgpt.com)
+[^oai7]: [Degruyter](https://www.degruyter.com/document/doi/10.1515/fabula-2023-0013/html?lang=de)
+[^1]: Knud Rasmussen, *Eskimo Folk-Tales* (1921) chap. 3 “The Coming of Men”.  [^oai1]  
+[^2]: Clark Wissler & D.C. Duvall, *Mythology of the Blackfoot Indians* (AMNH 1908) pp. 19-21.  [^oai6]  
+[^3]: Hans Abrahamsson, *The Origin of Death: Studies in African Mythology* (1951) sect. I.  [^oai3]  
+[^4]: “Colombia – Mito Kurripako – Origen de la muerte” (SINIC, 2008).  [^oai5]  
+[^5]: R. Codrington, *Melanesian Mythology* in *Mythology of All Races* vol. IX (1916) pp. 117-118.  [^oai4]  
+[^6]: Yuri Berezkin, “Peopling of the New World in Light of Folklore Motifs,” in *Maths Meets Myths* (2016) 71-89.  [^oai7]  
+[^7]: Julien d’Huy, “A Phylogenetic Approach of Mythology,” *Rock Art Research* 30(1), 2013.  [^oai7]  
 
 ---
 

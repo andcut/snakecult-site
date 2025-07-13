@@ -88,14 +88,21 @@ Viewed through this lens, dragon-slayer epics did not invent the drink for flavo
 
 ## Footnotes
 
-[^1]: Shaw, *Indo-European Dragon-Slayers and Healers* (2006) [oai_citation:0‡Academia](https://www.academia.edu/10246879/Indo_European_Dragon_Slayers_and_Healers_and_the_Irish_Account_of_Dian_C%C3%A9cht_and_M%C3%A9iche) 
-[^2]: "*Trito*." *Wikipedia*, rev. May 2025 [oai_citation:1‡Wikipedia](https://en.wikipedia.org/wiki/%2ATrito) 
-[^3]: Rolinson, "Ritual Renditions and Mythic Memorializations," *Arya Akasha* (2020) [oai_citation:2‡arya-akasha](https://aryaakasha.com/2020/10/28/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-four-ritual-renditions-and-mythic-memorializations-the-underlying-yet-obscured-ritualine-sense-of-the-myth/) 
-[^4]: Enright, *Celtic-Germanic Ritual Drinking* (1996); summary in Bladehoner blog (2020) [oai_citation:3‡BLADE HONER](https://bladehoner.wordpress.com/2020/01/29/the-sacred-drink-and-other-links-between-indian-iranian-greek-celtic-and-norse-mythology/) 
-[^5]: "Vṛtra." *Wikipedia*, rev. June 2025—RV 4.18 notes Indra's Soma binge [oai_citation:4‡Wikipedia](https://en.wikipedia.org/wiki/Vritra) 
-[^6]: "Mead-Serving Woman in the Edda." Bladehoner (2020) [oai_citation:5‡BLADE HONER](https://bladehoner.wordpress.com/2020/01/29/the-mead-serving-woman-in-the-edda/) 
+[^oai1]: [Academia](https://www.academia.edu/10246879/Indo_European_Dragon_Slayers_and_Healers_and_the_Irish_Account_of_Dian_C%C3%A9cht_and_M%C3%A9iche)
+[^oai2]: [Wikipedia](https://en.wikipedia.org/wiki/%2ATrito)
+[^oai3]: [Aryaakasha](https://aryaakasha.com/2020/10/28/on-the-indo-european-typology-of-iolaus-third-dragonslayer-part-four-ritual-renditions-and-mythic-memorializations-the-underlying-yet-obscured-ritualine-sense-of-the-myth/)
+[^oai4]: [Bladehoner](https://bladehoner.wordpress.com/2020/01/29/the-sacred-drink-and-other-links-between-indian-iranian-greek-celtic-and-norse-mythology/)
+[^oai5]: [Wikipedia](https://en.wikipedia.org/wiki/Vritra)
+[^oai6]: [Bladehoner](https://bladehoner.wordpress.com/2020/01/29/the-mead-serving-woman-in-the-edda/)
+[^oai7]: [Wikipedia](https://en.wikipedia.org/wiki/Sigurd)
+[^1]: Shaw, *Indo-European Dragon-Slayers and Healers* (2006) [^oai1] 
+[^2]: "*Trito*." *Wikipedia*, rev. May 2025 [^oai2] 
+[^3]: Rolinson, "Ritual Renditions and Mythic Memorializations," *Arya Akasha* (2020) [^oai3] 
+[^4]: Enright, *Celtic-Germanic Ritual Drinking* (1996); summary in Bladehoner blog (2020) [^oai4] 
+[^5]: "Vṛtra." *Wikipedia*, rev. June 2025—RV 4.18 notes Indra's Soma binge [^oai5] 
+[^6]: "Mead-Serving Woman in the Edda." Bladehoner (2020) [^oai6] 
 [^7]: WHO Snakebite Guidelines (2023) on serum preparation; analogy drawn herein. 
-[^8]: "Sigurd." *Wikipedia*, rev. May 2025 [oai_citation:6‡Wikipedia](https://en.wikipedia.org/wiki/Sigurd) 
+[^8]: "Sigurd." *Wikipedia*, rev. May 2025 [^oai7] 
 
 ---
 

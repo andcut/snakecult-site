@@ -112,13 +112,19 @@ translation_model: gpt-4o
 
 ## الحواشي
 
-[^ladon]: أبولودوروس، *المكتبة* 2.5.11؛ بوسانياس 6.19.8؛ انظر الملخص [oai_citation_attribution:0‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29).
+[^oai1]: [Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
+[^oai2]: [Scribd](https://www.scribd.com/document/754009730/18-1-song)
+[^oai3]: [Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
+[^oai4]: [Theoi](https://www.theoi.com/Protogenos/Phanes.html)
+[^oai5]: [Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs)
+[^oai6]: [Citeseerx](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+[^ladon]: أبولودوروس، *المكتبة* 2.5.11؛ بوسانياس 6.19.8؛ انظر الملخص [^oai1].
 [^cornutus]: كورنيتوس، *الثيولوجيا اليونانية* 25–26 (هرقل الرواقي = نار العالم).
-[^rhapsodies]: داماسكيوس، *دي برينسيبيس* I 316 = أورف. الشذرة 78 [oai_citation_attribution:1‡Scribd](https://www.scribd.com/document/754009730/18-1-song).
-[^waggish]: نظرة تحليلية على تصوير أفعى كرونوس [oai_citation_attribution:2‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/).
-[^phanes]: أيقونات فانيس كأندروجين ملتف بالأفعى [oai_citation_attribution:3‡Theoi](https://www.theoi.com/Protogenos/Phanes.html).
-[^olymp]: أوليمبيودوروس، *في فيدونيم* I 3، حول أنثروبوجوني سخام التيتان [oai_citation_attribution:4‡Bryn Mawr College Repository](https://repository.brynmawr.edu/cgi/viewcontent.cgi?article=1078&context=classics_pubs).
-[^edmonds]: إدموندز 1999، "تمزيق أسطورة زاجروس"، يلاحظ الأصل المتأخر للأنثروبوجوني [oai_citation_attribution:5‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf).
+[^rhapsodies]: داماسكيوس، *دي برينسيبيس* I 316 = أورف. الشذرة 78 [^oai2].
+[^waggish]: نظرة تحليلية على تصوير أفعى كرونوس [^oai3].
+[^phanes]: أيقونات فانيس كأندروجين ملتف بالأفعى [^oai4].
+[^olymp]: أوليمبيودوروس، *في فيدونيم* I 3، حول أنثروبوجوني سخام التيتان [^oai5].
+[^edmonds]: إدموندز 1999، "تمزيق أسطورة زاجروس"، يلاحظ الأصل المتأخر للأنثروبوجوني [^oai6].
 [^cutler-gt]: أندرو كاتلر، "هرقل، آدم وكريشنا تم بدءهم جميعًا في غوبكلي تبه"، مخطوطة قيد الإعداد 2025.
 
 ---
@@ -129,8 +135,8 @@ translation_model: gpt-4o
 2. كورنيتوس. *الثيولوجيا اليونانية* §25-26.
 3. أوليمبيودوروس. *تعليق على فيدون أفلاطون* I 3.
 4. أبولودوروس. *المكتبة* 2.5.11.
-5. ملف فانيس، **مشروع ثيوي**. [oai_citation_attribution:6‡Theoi](https://www.theoi.com/Protogenos/Phanes.html)
-6. "أب الزمن: كرونوس وكرونوس"، Waggish.org. [oai_citation_attribution:7‡Waggish](https://www.waggish.org/2013/father-time-chronos-and-kronos/)
-7. "لادون (الميثولوجيا)،"، *ميثوبيديا* + مراجع. [oai_citation_attribution:8‡Wikipedia](https://en.wikipedia.org/wiki/Ladon_%28mythology%29)
-8. رادكليف ج. إدموندز الثالث. "تمزيق أسطورة زاجروس"، *الآثار الكلاسيكية* 18 (1999). [oai_citation_attribution:9‡CiteSeerX](https://citeseerx.ist.psu.edu/document?doi=6c0597c96922c8cd5978fb4d5aaeb3435167da09&repid=rep1&type=pdf)
+5. ملف فانيس، **مشروع ثيوي**. [^oai4]
+6. "أب الزمن: كرونوس وكرونوس"، Waggish.org. [^oai3]
+7. "لادون (الميثولوجيا)،"، *ميثوبيديا* + مراجع. [^oai1]
+8. رادكليف ج. إدموندز الثالث. "تمزيق أسطورة زاجروس"، *الآثار الكلاسيكية* 18 (1999). [^oai6]
 9. أندرو كاتلر. *هرقل، آدم وكريشنا في غوبكلي تبه* (قريبًا).

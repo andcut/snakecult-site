@@ -88,13 +88,30 @@ Snakes glide between realms—soil and canopy, water and land—mirroring the *l
 
 ## Footnotes
 
-[^1]: Mircea Eliade, *Shamanism: Archaic Techniques of Ecstasy* (1959), chap. 9.  [oai_citation:0‡Wikipedia](https://en.wikipedia.org/wiki/Axis_mundi?utm_source=chatgpt.com)  
-[^2]: “Níðhöggr,” *Prose Edda* summaries; Norse‑Myth.org article.  [oai_citation:1‡Norse Mythology for Smart People](https://norse-mythology.org/gods-and-creatures/giants/nidhogg/?utm_source=chatgpt.com)  
-[^3]: Schele & Freidel, *A Forest of Kings* (1990), pp. 68–395; Vision Serpent wiki.  [oai_citation:2‡Wikipedia](https://en.wikipedia.org/wiki/Vision_Serpent?utm_source=chatgpt.com)  
-[^4]: Psymposia, “Snake: The Spirit of Ayahuasca” (2017).  [oai_citation:3‡Psymposia](https://www.psymposia.com/magazine/psychedelic-stories-snake-spirit-ayahuasca/?utm_source=chatgpt.com)  
-[^5]: Jeremy Narby, *The Cosmic Serpent* (1998); Terence McKenna, *Food of the Gods* (1992).  [oai_citation:4‡Amazon](https://www.amazon.com/Cosmic-Serpent-DNA-Origins-Knowledge/dp/0874779642?utm_source=chatgpt.com) [oai_citation:5‡Organism Earth](https://www.organism.earth/library/document/food-of-the-gods?utm_source=chatgpt.com)  
-[^6]: Lynne Isbell, “Snakes as Agents of Evolutionary Change in Primate Brains,” *J. Human Evo.* 2006.  [oai_citation:6‡PubMed](https://pubmed.ncbi.nlm.nih.gov/16545427/?utm_source=chatgpt.com)  
-[^7]: Smithsonian, “Maya Vision Serpent & Bloodletting,” 2016.  [oai_citation:7‡Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/ancient-maya-bloodletting-tools-or-kitchen-knives-how-archaeologists-tell-difference-1-180960232/?utm_source=chatgpt.com)  
+[^oai1]: [Wikipedia](https://en.wikipedia.org/wiki/Axis_mundi?utm_source=chatgpt.com)
+[^oai2]: [Norse Mythology](https://norse-mythology.org/gods-and-creatures/giants/nidhogg/?utm_source=chatgpt.com)
+[^oai3]: [Wikipedia](https://en.wikipedia.org/wiki/Vision_Serpent?utm_source=chatgpt.com)
+[^oai4]: [Psymposia](https://www.psymposia.com/magazine/psychedelic-stories-snake-spirit-ayahuasca/?utm_source=chatgpt.com)
+[^oai5]: [Amazon](https://www.amazon.com/Cosmic-Serpent-DNA-Origins-Knowledge/dp/0874779642?utm_source=chatgpt.com)
+[^oai6]: [Organism](https://www.organism.earth/library/document/food-of-the-gods?utm_source=chatgpt.com)
+[^oai7]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/16545427/?utm_source=chatgpt.com)
+[^oai8]: [Smithsonian](https://www.smithsonianmag.com/science-nature/ancient-maya-bloodletting-tools-or-kitchen-knives-how-archaeologists-tell-difference-1-180960232/?utm_source=chatgpt.com)
+[^oai9]: [Amazon](https://www.amazon.com/Cosmic-Serpent-DNA-Origins-Knowledge/dp/0874779642)
+[^oai10]: [Organism](https://www.organism.earth/library/document/food-of-the-gods)
+[^oai11]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/16545427/)
+[^oai12]: [Wikipedia](https://en.wikipedia.org/wiki/Axis_mundi)
+[^oai13]: [Wikipedia](https://en.wikipedia.org/wiki/Vision_Serpent)
+[^oai14]: [Norse Mythology](https://norse-mythology.org/gods-and-creatures/giants/nidhogg/)
+[^oai15]: [Smithsonian](https://www.smithsonianmag.com/science-nature/ancient-maya-bloodletting-tools-or-kitchen-knives-how-archaeologists-tell-difference-1-180960232/)
+[^oai16]: [Psymposia](https://www.psymposia.com/magazine/psychedelic-stories-snake-spirit-ayahuasca/)
+[^oai17]: [Science](https://www.science.org/content/article/did-snakes-help-build-primate-brain)
+[^1]: Mircea Eliade, *Shamanism: Archaic Techniques of Ecstasy* (1959), chap. 9.  [^oai1]  
+[^2]: “Níðhöggr,” *Prose Edda* summaries; Norse‑Myth.org article.  [^oai2]  
+[^3]: Schele & Freidel, *A Forest of Kings* (1990), pp. 68–395; Vision Serpent wiki.  [^oai3]  
+[^4]: Psymposia, “Snake: The Spirit of Ayahuasca” (2017).  [^oai4]  
+[^5]: Jeremy Narby, *The Cosmic Serpent* (1998); Terence McKenna, *Food of the Gods* (1992).  [^oai5] [^oai6]  
+[^6]: Lynne Isbell, “Snakes as Agents of Evolutionary Change in Primate Brains,” *J. Human Evo.* 2006.  [^oai7]  
+[^7]: Smithsonian, “Maya Vision Serpent & Bloodletting,” 2016.  [^oai8]  
 [^8]: Dundes, *The Flood Myth* (1988), intro; Ruck & Staples, “Sacred Mushrooms of the Tree of Life,” *Journal of Psychedelic Studies* 2019.
 
 ---
@@ -103,17 +120,17 @@ Snakes glide between realms—soil and canopy, water and land—mirroring the *l
 
 1. Eliade, M. *Shamanism: Archaic Techniques of Ecstasy*. Princeton UP, 1959. 
 2. Schele, L., & Freidel, D. *A Forest of Kings: The Untold Story of the Ancient Maya*. William Morrow, 1990. 
-3. Narby, J. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Tarcher, 1998. [oai_citation:8‡Amazon](https://www.amazon.com/Cosmic-Serpent-DNA-Origins-Knowledge/dp/0874779642) 
-4. McKenna, T. *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam, 1992. [oai_citation:9‡Organism Earth](https://www.organism.earth/library/document/food-of-the-gods) 
-5. Isbell, L. A. "Snakes as Agents of Evolutionary Change in Primate Brains." *Journal of Human Evolution* 51 (2006): 1-35. [oai_citation:10‡PubMed](https://pubmed.ncbi.nlm.nih.gov/16545427/) 
-6. "Axis Mundi." *Wikipedia*, updated 2025-07-05. [oai_citation:11‡Wikipedia](https://en.wikipedia.org/wiki/Axis_mundi) 
-7. "Vision Serpent." *Wikipedia*, updated 2025-05-01. [oai_citation:12‡Wikipedia](https://en.wikipedia.org/wiki/Vision_Serpent) 
-8. "Nidhogg." *Norse-Mythology.org*. Accessed 2025-07-12. [oai_citation:13‡Norse Mythology for Smart People](https://norse-mythology.org/gods-and-creatures/giants/nidhogg/) 
-9. Smithsonian Magazine. "Ancient Maya Bloodletting Tools." 2016. [oai_citation:14‡Smithsonian Magazine](https://www.smithsonianmag.com/science-nature/ancient-maya-bloodletting-tools-or-kitchen-knives-how-archaeologists-tell-difference-1-180960232/) 
-10. Psymposia. "Psychedelic Stories: Snake—The Spirit of Ayahuasca." 2017. [oai_citation:15‡Psymposia](https://www.psymposia.com/magazine/psychedelic-stories-snake-spirit-ayahuasca/) 
+3. Narby, J. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Tarcher, 1998. [^oai9] 
+4. McKenna, T. *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam, 1992. [^oai10] 
+5. Isbell, L. A. "Snakes as Agents of Evolutionary Change in Primate Brains." *Journal of Human Evolution* 51 (2006): 1-35. [^oai11] 
+6. "Axis Mundi." *Wikipedia*, updated 2025-07-05. [^oai12] 
+7. "Vision Serpent." *Wikipedia*, updated 2025-05-01. [^oai13] 
+8. "Nidhogg." *Norse-Mythology.org*. Accessed 2025-07-12. [^oai14] 
+9. Smithsonian Magazine. "Ancient Maya Bloodletting Tools." 2016. [^oai15] 
+10. Psymposia. "Psychedelic Stories: Snake—The Spirit of Ayahuasca." 2017. [^oai16] 
 11. Ruck, C., & Staples, R. "Sacred Mushrooms of the Tree of Life." *Journal of Psychedelic Studies* 3 (2019): 45-62. 
 12. Isbell, L. *The Fruit, the Tree, and the Serpent*. Harvard UP, 2009. 
 13. Miller, M., & Taube, K. *The Gods and Symbols of Ancient Mexico and the Maya*. Thames & Hudson, 1993. 
 14. Coe, M. *Mexico: From the Olmecs to the Aztecs*. Thames & Hudson, 2019. 
-15. "Snake Detection Theory." *Science* magazine news brief, 2014. [oai_citation:16‡Science](https://www.science.org/content/article/did-snakes-help-build-primate-brain) 
+15. "Snake Detection Theory." *Science* magazine news brief, 2014. [^oai17] 
 16. Genesis 3, *New Revised Standard Version*. 

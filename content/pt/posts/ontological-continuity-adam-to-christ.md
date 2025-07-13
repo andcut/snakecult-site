@@ -154,30 +154,45 @@ Em conclusão, a Teoria de Eva da Consciência oferece uma lente convincente: su
 ---
 ## Fontes 
 
-1. [Julian Jaynes, *The Origin of Consciousness in the Breakdown of the Bicameral Mind*](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) — Tese de Jaynes de que a consciência introspectiva é uma invenção cultural tardia, em vez de um dado biológico antigo. [oai_citation:0‡Amazon](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) 
+1. [Julian Jaynes, *The Origin of Consciousness in the Breakdown of the Bicameral Mind*](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072) — Tese de Jaynes de que a consciência introspectiva é uma invenção cultural tardia, em vez de um dado biológico antigo. [^oai1] 
 
-2. [Andrew Cutler, "The Eve Theory of Consciousness," *Vectors of Mind* Substack](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) — Propõe uma emergência memética, liderada por mulheres, da autoconsciência na fronteira Pleistoceno-Holoceno. [oai_citation:1‡Ask Who Casts AI](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) 
+2. [Andrew Cutler, "The Eve Theory of Consciousness," *Vectors of Mind* Substack](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by) — Propõe uma emergência memética, liderada por mulheres, da autoconsciência na fronteira Pleistoceno-Holoceno. [^oai2] 
 
-3. [Bernardo Kastrup, *More Than Allegory: On Religious Myth, Truth and Belief*](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) — Um argumento influenciado por Jung de que mitos transmitem verdades psicológicas literais; trata a Queda como o início da mente reflexiva. [oai_citation:2‡Amazon](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) 
+3. [Bernardo Kastrup, *More Than Allegory: On Religious Myth, Truth and Belief*](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873) — Um argumento influenciado por Jung de que mitos transmitem verdades psicológicas literais; trata a Queda como o início da mente reflexiva. [^oai3] 
 
-4. [Karl Jaspers, *The Origin and Goal of History*](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) — Cunha o termo **Era Axial**; afirma que a humanidade se tornou consciente do Ser e de si mesma por volta de 800-200 a.C. [oai_citation:3‡Amazon](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) 
+4. [Karl Jaspers, *The Origin and Goal of History*](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X) — Cunha o termo **Era Axial**; afirma que a humanidade se tornou consciente do Ser e de si mesma por volta de 800-200 a.C. [^oai4] 
 
-5. [*The Gospel of John* 1:1-14 (Bible Gateway)](https://www.biblegateway.com/passage/?search=John+1&version=NIV) — O hino do Logos enquadrando a criação como um ato ontológico de Palavra/Razão. [oai_citation:4‡Bible Gateway](https://www.biblegateway.com/passage/?search=John+1&version=NIV) 
+5. [*The Gospel of John* 1:1-14 (Bible Gateway)](https://www.biblegateway.com/passage/?search=John+1&version=NIV) — O hino do Logos enquadrando a criação como um ato ontológico de Palavra/Razão. [^oai5] 
 
-6. [Tom Butler-Bowdon, "Heraclitus and the Birth of the Logos," *Modern Stoicism*](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) — Explica o Logos de Heráclito como razão cósmica, prenunciando tanto o Tao quanto João 1. [oai_citation:5‡Modern Stoicism](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) 
+6. [Tom Butler-Bowdon, "Heraclitus and the Birth of the Logos," *Modern Stoicism*](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/) — Explica o Logos de Heráclito como razão cósmica, prenunciando tanto o Tao quanto João 1. [^oai6] 
 
-7. [Frances Young, *God's Presence: A Contemporary Recapitulation of Early Christianity*](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) — Explora a imagem de sabedoria "serpente-Cristo" e as inversões gnósticas do Gênesis. [oai_citation:6‡Amazon](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) 
+7. [Frances Young, *God's Presence: A Contemporary Recapitulation of Early Christianity*](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787) — Explora a imagem de sabedoria "serpente-Cristo" e as inversões gnósticas do Gênesis. [^oai7] 
 
-8. ["Ophites," *Jewish Encyclopedia* (1906)](https://www.jewishencyclopedia.com/directory/O/11718) — Pesquisa sobre seitas gnósticas que veneram a serpente (Ofitas/Naassenos), sua cosmologia e seu cânone de santos rebeldes. [oai_citation:7‡Jewish Encyclopedia](https://www.jewishencyclopedia.com/directory/O/11718) 
+8. ["Ophites," *Jewish Encyclopedia* (1906)](https://www.jewishencyclopedia.com/directory/O/11718) — Pesquisa sobre seitas gnósticas que veneram a serpente (Ofitas/Naassenos), sua cosmologia e seu cânone de santos rebeldes. [^oai8] 
 
-9. [*The Nag Hammadi Library in English*, trans. James M. Robinson (PDF)](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D1%81%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) — Textos gnósticos primários (por exemplo, *Hipóstase dos Arcontes*) que reimaginam o Éden com um espírito-serpente libertador. [oai_citation:8‡Gnosis Study](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D1%81%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) 
+9. [*The Nag Hammadi Library in English*, trans. James M. Robinson (PDF)](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D1%81%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf) — Textos gnósticos primários (por exemplo, *Hipóstase dos Arcontes*) que reimaginam o Éden com um espírito-serpente libertador. [^oai9] 
 
-10. ["The Hanging of Odin and Jesus – Parallels," *Lost History: Dying-and-Rising Gods*](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) — Compara o auto-sacrifício de nove noites de Odin com a narrativa da crucificação, destacando o simbolismo de iniciação compartilhado. [oai_citation:9‡Mythology & Folklore Stack Exchange](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) 
+10. ["The Hanging of Odin and Jesus – Parallels," *Lost History: Dying-and-Rising Gods*](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t) — Compara o auto-sacrifício de nove noites de Odin com a narrativa da crucificação, destacando o simbolismo de iniciação compartilhado. [^oai10] 
 
-11. [Mircea Eliade, *Rites and Symbols of Initiation*](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) — Estudo clássico dos padrões globais de iniciação, morte e renascimento xamânicos e sua função psicológica. [oai_citation:10‡Amazon](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) 
+11. [Mircea Eliade, *Rites and Symbols of Initiation*](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581) — Estudo clássico dos padrões globais de iniciação, morte e renascimento xamânicos e sua função psicológica. [^oai11] 
 
-12. [Elaine Pagels, *The Gnostic Gospels*](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532) — Análise marcante da heterodoxia cristã primitiva e da política do "conhecimento secreto". [oai_citation:11‡Amazon](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532) 
+12. [Elaine Pagels, *The Gnostic Gospels*](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532) — Análise marcante da heterodoxia cristã primitiva e da política do "conhecimento secreto". [^oai12] 
 
-13. [Karen Armstrong, *The Great Transformation: The Beginning of Our Religious Traditions*](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242) — Narra a mudança da Era Axial em direção à ética abstrata e à espiritualidade reflexiva em toda a Eurásia. [oai_citation:12‡Amazon](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242) 
+13. [Karen Armstrong, *The Great Transformation: The Beginning of Our Religious Traditions*](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242) — Narra a mudança da Era Axial em direção à ética abstrata e à espiritualidade reflexiva em toda a Eurásia. [^oai13] 
 
-14. [Joseph Campbell, *Thou Art That: Transforming Religious Metaphor*](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874) — Ensaios póstumos sobre símbolos judaico-cristãos (Jardim, Cruz, Serpente) como metáforas para a transformação interior. [oai_citation:13‡Amazon](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874)
+14. [Joseph Campbell, *Thou Art That: Transforming Religious Metaphor*](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874) — Ensaios póstumos sobre símbolos judaico-cristãos (Jardim, Cruz, Serpente) como metáforas para a transformação interior. [^oai14]
+
+[^oai1]: [Amazon](https://www.amazon.com/Origin-Consciousness-Breakdown-Bicameral-Mind/dp/0618057072)
+[^oai2]: [Askwhocastsai](https://askwhocastsai.substack.com/p/eve-theory-of-consciousness-v30-by)
+[^oai3]: [Amazon](https://www.amazon.com/More-Than-Allegory-Religious-Belief/dp/1785352873)
+[^oai4]: [Amazon](https://www.amazon.com/Origin-Goal-History-Routledge-Classics/dp/036767985X)
+[^oai5]: [Biblegateway](https://www.biblegateway.com/passage/?search=John+1&version=NIV)
+[^oai6]: [Modernstoicism](https://modernstoicism.com/heraclitus-and-the-birth-of-the-logos/)
+[^oai7]: [Amazon](https://www.amazon.com/Gods-Presence-Contemporary-Recapitulation-Christianity/dp/1107642787)
+[^oai8]: [Jewishencyclopedia](https://www.jewishencyclopedia.com/directory/O/11718)
+[^oai9]: [Gnosis](https://gnosis.study/library/%D0%93%D0%BD%D0%BE%D1%81%D0%B8%D1%81/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/ENG/The%20Nag%20Hammadi%20Library.%20The%20Definitive%20Translation%20of%20the%20Gnostic%20Scriptures%20Complete%20in%20One%20Volume.pdf)
+[^oai10]: [Mythology](https://mythology.stackexchange.com/questions/2083/why-is-the-story-of-odin-hanging-from-yggdrasil-so-similar-to-that-of-jesus-on-t)
+[^oai11]: [Amazon](https://www.amazon.com/Rites-Symbols-Initiation-Mircea-Eliade/dp/0882143581)
+[^oai12]: [Amazon](https://www.amazon.com/Gnostic-Gospels-Elaine-Pagels/dp/0679724532)
+[^oai13]: [Amazon](https://www.amazon.com/Great-Transformation-Beginning-Religious-Traditions/dp/0385721242)
+[^oai14]: [Amazon](https://www.amazon.com/Thou-Art-That-Transforming-Religious/dp/1608681874)

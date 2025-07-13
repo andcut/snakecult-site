@@ -29,17 +29,17 @@ translation_model: gpt-4o
 **TL;DR**
 
 - **育种者方程数学**显示，即使是*微小的*选择差异（每代-或+0.1 IQ）也能快速累积，在50千年内显著重塑认知。
-- **实证数据**表明，智商的选择约为每代±0.6–0.8分，直接否定了“S ≈ 0”的前提。
+- **实证数据**表明，智商的选择约为每代±0.6–0.8分，直接否定了"S ≈ 0"的前提。
 - **古代DNA多基因评分**自早全新世以来上升了约+35 IQ，符合理论预期的S ≈ 0.2。
-- “自旧石器时代以来没有变化”的说法是一个**宗教信条**，而不是科学推论。
+- "自旧石器时代以来没有变化"的说法是一个**宗教信条**，而不是科学推论。
 
 ---
 
 ## 1 引言与白板教义
 
-> “在过去的40,000或50,000年里，**人类没有生物学上的变化**。我们称之为文化和文明的一切都是用同样的身体和大脑建造的。” — *Stephen Jay Gould*  [oai_citation_attribution:0‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+> “在过去的40,000或50,000年里，**人类没有生物学上的变化**。我们称之为文化和文明的一切都是用同样的身体和大脑建造的。” — *Stephen Jay Gould*  [^oai1]
 
-> “史前人类在智力上是*我们的平等者*；差异纯粹是文化上的。” — *David Deutsch*，Within Reason播客，2025  [oai_citation_attribution:1‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+> “史前人类在智力上是*我们的平等者*；差异纯粹是文化上的。” — *David Deutsch*，Within Reason播客，2025  [^oai2]
 
 这样的声明在许多课堂上被视为不言自明的真理。下面我将其视为可证伪的假设，并进行计算。
 
@@ -78,9 +78,9 @@ translation_model: gpt-4o
 
 大型古代DNA数据集（约7,000个基因组）让我们能够追踪数百种特征的多基因评分（PGS）。最相关的发现如下：
 
-* **认知PGS自10千年以来上升约0.5 SD**—如果线性缩放成立，约为+35 IQ。[oai_citation_attribution:2‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+* **认知PGS自10千年以来上升约0.5 SD**—如果线性缩放成立，约为+35 IQ。[^oai3]
 * **十二个最强的全新世选择浪潮**中有一半涉及与认知相关的特征（教育成就、颅内体积等）。
-* X染色体热点如**TENM1**显示出< 60千年的选择浪潮，与*后尼安德特人*人类的递归/语音调整一致。[oai_citation_attribution:3‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+* X染色体热点如**TENM1**显示出< 60千年的选择浪潮，与*后尼安德特人*人类的递归/语音调整一致。[^oai4]
 
 将**S ≈ 0.2**代入育种者方程可以很好地再现+35 IQ的轨迹。
 
@@ -90,11 +90,11 @@ translation_model: gpt-4o
 
 | 白板反对意见 | 反驳 |
 |-----------------------|----------|
-| **“S = 1 IQ太高。”** | 今天S的实证*幅度*约为0.8 | 见上文§3。即使S = 0.1也意味着10千年前的IQ为-100，这不合逻辑。 |
-| **“h²很低。”** | 双胞胎/收养研究→h²(IQ) ≥ 0.5；Turkheimer的第一定律[^4]。 |
-| **“IQ ≠ 智力。”** | 这是真的，但无关紧要：*所有*行为特征都显示出显著的h²，因此替代不会拯救S≈0。 |
-| **“+5 SD是装饰。”** | 相变（递归、语言）表现出非线性；+5 SD在阈值特征上=类别转变。 |
-| **“考古学已经显示100千年前的象征性。”** | 早期的赭石/珠子是模棱两可的；耐用、广泛的象征性媒体仅在晚期旧石器时代爆发（见伴随的*智人悖论*目录）。 |
+| **"S = 1 IQ太高。"** | 今天S的实证*幅度*约为0.8 | 见上文§3。即使S = 0.1也意味着10千年前的IQ为-100，这不合逻辑。 |
+| **"h²很低。"** | 双胞胎/收养研究→h²(IQ) ≥ 0.5；Turkheimer的第一定律[^4]。 |
+| **"IQ ≠ 智力。"** | 这是真的，但无关紧要：*所有*行为特征都显示出显著的h²，因此替代不会拯救S≈0。 |
+| **"+5 SD是装饰。"** | 相变（递归、语言）表现出非线性；+5 SD在阈值特征上=类别转变。 |
+| **"考古学已经显示100千年前的象征性。"** | 早期的赭石/珠子是模棱两可的；耐用、广泛的象征性媒体仅在晚期旧石器时代爆发（见伴随的*智人悖论*目录）。 |
 
 ---
 
@@ -116,17 +116,23 @@ translation_model: gpt-4o
 
 ## 注释
 
+[^oai1]: [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
+[^oai2]: [Youtube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
+[^oai3]: [Cambridge](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+[^oai4]: [PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
+[^oai5]: [Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
+[^oai6]: [Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
 [^1]: 心理测量g的h²估计在成年期范围为0.5–0.8（见Polderman等，*Nat. Genet.* 2015）。
 [^2]: Lynn R. *Dysgenics* (1996) 综合了>25个生育-IQ数据集；平均r ≈ –0.2 ⇒ S ≈ -0.8 IQ。
-[^3]: Hugh-Jones D. & Kohler H-P. "Natural Selection across Three Generations of Americans". 2024预印本。[oai_citation_attribution:4‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-[^4]: Turkheimer E. "Three Laws of Behaviour Genetics". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [oai_citation_attribution:5‡SAGE Journals](https://journals.sagepub.com/doi/abs/10.1111/1467-8721.00084)
+[^3]: Hugh-Jones D. & Kohler H-P. "Natural Selection across Three Generations of Americans". 2024预印本。[^oai5]
+[^4]: Turkheimer E. "Three Laws of Behaviour Genetics". *Curr. Dir. Psychol. Sci.* 9 (2000) 160-164. [^oai6]
 
 ---
 
 ## 来源
 
-1. S.J. Gould在*Has Human Evolution Stopped?*中的引用。[oai_citation_attribution:6‡PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC3721656/)
-2. D. Deutsch & A. O'Connor, "You're Not Smarter Than a Caveman", Within Reason播客 (YouTube 2025)。[oai_citation_attribution:7‡YouTube](https://www.youtube.com/watch?v=rpP9sqbQzjs)
-3. Hugh-Jones D.等，2024选择扫描——见脚注3。[oai_citation_attribution:8‡Gwern](https://gwern.net/doc/genetics/selection/natural/human/dysgenics/2024-hughjones.pdf)
-4. Skov L.等，“人类X染色体上的非凡选择…”，*Cell* 2023。[oai_citation_attribution:9‡PubMed](https://pubmed.ncbi.nlm.nih.gov/36950386/)
-5. Piffer D. "Evolutionary Trends of Polygenic Scores in European Populations…", *Twin Res.* 2023。[oai_citation_attribution:10‡Cambridge University Press & Assessment](https://www.cambridge.org/core/journals/twin-research-and-human-genetics/article/evolutionary-trends-of-polygenic-scores-in-european-populations-from-the-paleolithic-to-modern-times/E76E2C78FFC3DA9BDEB0BC8E37D9273D)
+1. S.J. Gould在*Has Human Evolution Stopped?*中的引用。[^oai1]
+2. D. Deutsch & A. O'Connor, "You're Not Smarter Than a Caveman", Within Reason播客 (YouTube 2025)。[^oai2]
+3. Hugh-Jones D.等，2024选择扫描——见脚注3。[^oai5]
+4. Skov L.等，"人类X染色体上的非凡选择…"，*Cell* 2023。[^oai4]
+5. Piffer D. "Evolutionary Trends of Polygenic Scores in European Populations…", *Twin Res.* 2023。[^oai3]
