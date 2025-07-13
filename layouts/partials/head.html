@@ -66,4 +66,13 @@
     }
     </script>
   {{ end }}
+
+  <link rel="canonical" href="{{ .Permalink }}" />
+
+  {{/* hreflang alternate URLs */}}
+  {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+  {{ end }}
+  {{/* x-default pointing to English (or default lang) */}}
+  <link rel="alternate" hreflang="x-default" href="{{ (site.Home).Permalink }}" />
 </head> 

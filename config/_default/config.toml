@@ -6,7 +6,7 @@ enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "SITEMAP"]
-  section = ["HTML"]
+  section = ["HTML", "SITEMAP"]
   page = ["HTML"]
 
 [params]

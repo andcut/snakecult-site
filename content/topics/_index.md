@@ -1,8 +1,8 @@
 ---
-title: "All Topics Matrix"
-description: "Browse all topics and tags."
-layout: "topics_list" # Use a custom layout
+title: "Topics Index"
+layout: "list"
+description: "Overview of all research topics covered on SnakeCult.net."
 draft: false
 ---
 
-Navigating the knowledge streams... 
+Explore every research topic aggregated in one place. 
