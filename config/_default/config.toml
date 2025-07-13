@@ -5,7 +5,7 @@ theme    = "terminal"
 enableRobotsTXT = true
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "SITEMAP"]
   section = ["HTML"]
   page = ["HTML"]
 
