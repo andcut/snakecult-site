@@ -6,8 +6,16 @@ enableRobotsTXT = true
 
 [outputs]
   home = ["HTML", "RSS", "SITEMAP"]
-  section = ["HTML", "SITEMAP"]
+  section = ["HTML"]  # Remove section sitemaps to reduce file count
   page = ["HTML"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.8
+  filename = "sitemap.xml"
+
+# Reduce taxonomy explosion by limiting pagination
+paginate = 50
 
 [params]
   author = "Andrew Cutler"
