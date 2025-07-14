@@ -1,29 +1,29 @@
 ---
 about:
-- behavioral modernity
-- archaeological bias
-- cultural evolution
+- Verhaltensmoderne
+- archäologische Voreingenommenheit
+- kulturelle Evolution
 author: Andrew Cutler
 date: 2025-04-20
-description: A concise overview of the Sapient Paradox – the puzzling gap between
-  when anatomically modern humans appeared and when behaviorally modern traits (like
-  art, complex tools, symbolism) emerged.
+description: Eine prägnante Übersicht über das Sapient-Paradoxon – die rätselhafte
+  Lücke zwischen dem Auftreten anatomisch moderner Menschen und dem Auftreten verhaltensmäßig
+  moderner Merkmale (wie Kunst, komplexe Werkzeuge, Symbolik).
 draft: false
 keywords:
-- Sapient Paradox
-- behavioral modernity
-- archaeology
-- symbolic cognition
-- human evolution
-lang: es
+- Sapient-Paradoxon
+- Verhaltensmoderne
+- Archäologie
+- symbolische Kognition
+- menschliche Evolution
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: sapient-paradox-shallow-dive
 tags:
-- Prehistory
-- deep-research
-title: 'The Sapient Paradox: A Brief Introduction'
+- Vorgeschichte
+- tiefgehende Forschung
+title: 'Das Sapient-Paradoxon: Eine kurze Einführung'
 translation_model: gpt-4o
 ---
 

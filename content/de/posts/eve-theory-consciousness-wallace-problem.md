@@ -1,32 +1,31 @@
 ---
 about:
-- coevolución gen-cultura
-- ritual de veneno de serpiente
-- separación sujeto-objeto
+- Gen-Kultur-Koevolution
+- Schlangengift-Ritual
+- Subjekt-Objekt-Trennung
 author: Andrew Cutler
 date: 2025-04-19
-description: Una defensa integral y basada en evidencia de la Teoría de Eva como la
-  única ruta evolutiva hacia la autoconciencia recursiva y el lenguaje (es decir,
-  el Problema de Wallace).
+description: Eine umfassende, evidenzbasierte Verteidigung der Eva-Theorie als einziger
+  evolutionärer Weg zu rekursivem Selbstbewusstsein und Sprache (d.h. das Wallace-Problem).
 draft: false
 keywords:
-- Teoría de Eva de la Conciencia
-- Problema de Wallace
-- pensamiento recursivo
-- evolución del lenguaje
-- evolución de la conciencia humana
-lang: es
+- Eva-Theorie des Bewusstseins
+- Wallace-Problem
+- rekursives Denken
+- Sprachentwicklung
+- Evolution des menschlichen Bewusstseins
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: eve-theory-wallace-problem
 tags:
-- Problema de Wallace
-- conciencia
-- Evolución
-- recursión
-title: 'Teoría de Eva de la Conciencia: Resolviendo el Problema de Wallace de la Cognición
-  Humana'
+- Wallace-Problem
+- Bewusstsein
+- Evolution
+- Rekursion
+title: 'Eva-Theorie des Bewusstseins: Lösung des Wallace-Problems der menschlichen
+  Kognition'
 translation_model: gpt-4o
 ---
 

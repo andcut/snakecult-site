@@ -1,31 +1,30 @@
 ---
 about:
-- tiempo mítico profundo
+- mythische tiefe Zeit
 author: Andrew Cutler
 core_entity: First People
 date: 2025-05-11
-description: A lo largo de las Américas, las tradiciones indígenas recuerdan a la
-  gente-hormiga, gigantes y personas-sombra que ocuparon la tierra antes de que llegaran
-  los humanos.
+description: In ganz Amerika erinnern indigene Traditionen an Ameisenvolk, Riesen
+  und Schattenmenschen, die das Land bewohnten, bevor Menschen ankamen.
 draft: false
 keywords:
-- mitos indígenas
-- gente hormiga
-- gigantes americanos
-- primeros habitantes
+- indigene Mythen
+- Ameisenmenschen
+- amerikanische Riesen
+- erste Bewohner
 - Tuniit
 - Si-Te-Cah
 - Quinametzin
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: earlier-inhabitants-american-myths
 tags:
-- mitología
-- difusionismo
-- arqueología
-title: ¿Quién estuvo aquí primero? Mitos indígenas americanos de pueblos anteriores
+- Mythologie
+- Diffusionismus
+- Archäologie
+title: Wer war zuerst hier? Indigene amerikanische Mythen über frühere Völker
 translation_model: gpt-4o
 ---
 

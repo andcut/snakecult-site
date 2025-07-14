@@ -4,16 +4,15 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Lo anterior es lo que “Snake Cult of Consciousness” produce cuando se
-  ejecuta a través de un generador de memes de IA. No está del todo mal. Pero, por
-  desgracia, me han ganado de mano:'
+description: 'Das Obige ist das Ergebnis, wenn „Snake Cult of Consciousness“ durch
+  einen AI-Meme-Generator läuft. Nicht ganz schlecht. Aber leider war jemand schneller:'
 draft: false
 keywords:
 - vectors-of-mind
-- agosto
-- suscriptor
-- publicación
-lang: es
+- august
+- abonnent
+- beitrag
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682173'
@@ -21,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/august-subscriber-post-b87
 quality: 6
 slug: august-subscriber-post-b87
 tags: []
-title: Publicación de Suscriptor de Agosto B87
+title: August Abonnentenbeitrag B87
 translation_model: gpt-4o
 ---
 

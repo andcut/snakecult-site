@@ -1,31 +1,31 @@
 ---
 about:
-- arqueología
-- arquitectura
-- historia
+- Archäologie
+- Architektur
+- Geschichte
 author: Andrew Cutler
 core_entity: Chinese pyramid
 date: 2025-07-12
-description: Descripción general de los mausoleos piramidales de tierra de China desde
-  el Neolítico hasta el Xia Occidental, comparando sus orígenes, simbolismo y diferencias
-  con las pirámides egipcias.
+description: Überblick über Chinas Erdpyramiden-Mausoleen von der Jungsteinzeit bis
+  zur Westlichen Xia-Dynastie, Vergleich ihrer Ursprünge, Symbolik und Unterschiede
+  zu ägyptischen Pyramiden.
 draft: false
 keywords:
 - Chinese-pyramids
-- mausoleos
+- Mausoleen
 - Qin-Han
 - Western-Xia
-- arqueología
-lang: es
+- Archäologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: pyramids-in-china-overview
 tags:
-- Pyramids
-- Chinese-History
-- Archaeology
-title: 'Pirámides en China: Historia, Extensión e Interpretaciones'
+- Pyramiden
+- Chinesische-Geschichte
+- Archäologie
+title: 'Pyramiden in China: Geschichte, Ausmaß und Interpretationen'
 translation_model: gpt-4o
 ---
 

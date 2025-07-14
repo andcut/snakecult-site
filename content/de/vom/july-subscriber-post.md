@@ -1,19 +1,19 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: El blog ahora tiene más de 100,000 palabras de contenido que quiero hacer
-  más fácil de navegar para los recién llegados. Parte de eso es producir un FAQ que
-  responda preguntas sobre la línea de tiempo, el grado en que un sing...
+description: Der Blog enthält jetzt über 100.000 Wörter an Inhalten, die ich für Neulinge
+  leichter zugänglich machen möchte. Ein Teil davon ist die Erstellung eines FAQ,
+  das Fragen zur Zeitleiste beantwortet, inwieweit ein Sing...
 draft: false
 keywords:
 - vectors-of-mind
-- julio
-- suscriptor
-- publicación
-lang: es
+- juli
+- abonnent
+- beitrag
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144659799'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/july-subscriber-post
 quality: 6
 slug: july-subscriber-post
 tags: []
-title: Publicación de Suscriptor de Julio
+title: Juli Abonnentenbeitrag
 translation_model: gpt-4o
 ---
 

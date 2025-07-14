@@ -4,16 +4,16 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Al principio, Dios creó tres seres: Hombre, Antílope y Serpiente. Solo
-  había un árbol, que daba frutos rojos. Cada siete días, Dios bajaba del cielo para
-  recoger el fruto. Un día, Serpiente ...'
+description: 'Am Anfang erschuf Gott drei Wesen: Mensch, Antilope und Schlange. Es
+  gab nur einen Baum, der rote Früchte trug. Alle sieben Tage kam Gott vom Himmel
+  herab, um die Früchte zu pflücken. Eines Tages, Schlange ...'
 draft: false
 keywords:
 - vectors-of-mind
-- serpiente
-- culto
-- conciencia
-lang: es
+- schlange
+- kult
+- bewusstsein
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '154908424'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness-tw
 quality: 6
 slug: the-snake-cult-of-consciousness-two
 tags: []
-title: El Culto de la Serpiente de la Conciencia Dos
+title: Der Schlangenkult des Bewusstseins Zwei
 translation_model: gpt-4o
 ---
 

@@ -1,17 +1,17 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'La página de preguntas frecuentes en Tepe Telegrams, el blog oficial
-  de Gobekli Tepe (GT), incluye esta joya:'
+description: 'Die FAQ-Seite auf Tepe Telegrams, dem offiziellen Blog von Gobekli Tepe
+  (GT), enthält dieses Juwel:'
 draft: false
 keywords:
 - vectors-of-mind
-- arqueólogos
-- biblia
-lang: es
+- archäologen
+- bibel
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144517305'
@@ -19,7 +19,7 @@ original_url: https://www.vectorsofmind.com/p/archeologists-vs-the-bible
 quality: 6
 slug: archeologists-vs-the-bible
 tags: []
-title: Arqueólogos Vs La Biblia
+title: Archäologen gegen die Bibel
 translation_model: gpt-4o
 ---
 

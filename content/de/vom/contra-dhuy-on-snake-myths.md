@@ -4,17 +4,17 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: '"La clave para la interpretación de tantos motivos aún herméticos [...]
-  está disponible para nosotros, inmediatamente accesible, en mitos y cuentos aún
-  vivos." Levi-Strauss'
+description: '"Der Schlüssel zur Interpretation so vieler noch hermetischer Motive
+  [...] steht uns zur Verfügung, sofort zugänglich, in Mythen und Geschichten, die
+  noch lebendig sind." Levi-Strauss'
 draft: false
 keywords:
 - vectors-of-mind
 - contra
 - dhuy
-- snake
-- mitos
-lang: es
+- schlange
+- mythen
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '135447203'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/contra-dhuy-on-snake-myths
 quality: 6
 slug: contra-dhuy-on-snake-myths
 tags: []
-title: Contra Dhuy Sobre Mitos de Serpientes
+title: Contra Dhuy Über Schlangenmythen
 translation_model: gpt-4o
 ---
 

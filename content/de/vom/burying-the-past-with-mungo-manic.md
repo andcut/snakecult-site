@@ -1,20 +1,20 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Mungo Manic es un investigador y comentarista seudónimo en X que cayó
-  por la madriguera del conejo de la prehistoria australiana. Sus publicaciones han
-  llamado la atención sobre cómo la política de identidad y la sensibilidad cultural...
+description: Mungo Manic ist ein pseudo-anonymer Forscher und Kommentator auf X, der
+  in das Kaninchenloch der australischen Urgeschichte gefallen ist. Seine Beiträge
+  haben Aufmerksamkeit darauf gelenkt, wie Identitätspolitik und kulturelle Sensibilität...
 draft: false
 keywords:
 - vectors-of-mind
-- enterrando
-- pasado
+- begraben
+- vergangenheit
 - mungo
 - manic
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '159710251'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/burying-the-past-with-mungo-manic
 quality: 6
 slug: burying-the-past-with-mungo-manic
 tags: []
-title: Enterrando El Pasado Con Mungo Manic
+title: Die Vergangenheit mit Mungo Manic begraben
 translation_model: gpt-4o
 ---
 

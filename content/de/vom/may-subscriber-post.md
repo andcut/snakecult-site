@@ -1,16 +1,16 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Comentando sobre Arqueólogos vs. Alienígenas Antiguos, escribe:'
+description: 'Kommentiert Archäologen vs. Antike Aliens, schreibt:'
 draft: false
 keywords:
 - vectors-of-mind
-- suscriptor
-- publicación
-lang: es
+- abonnent
+- beitrag
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '142612790'
@@ -18,7 +18,7 @@ original_url: https://www.vectorsofmind.com/p/may-subscriber-post
 quality: 6
 slug: may-subscriber-post
 tags: []
-title: Publicación de Mayo para Suscriptores
+title: Mai-Abonnentenbeitrag
 translation_model: gpt-4o
 ---
 

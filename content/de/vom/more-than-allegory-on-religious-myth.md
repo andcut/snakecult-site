@@ -4,18 +4,18 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'y únete a mí para discutir Más Que Alegoría: Sobre Mito Religioso, Verdad,
-  y Creencia por Bernardo Kastrup. Nos sumergimos en la desafiante filosofía de Kastrup
-  de idealismo analítico, que postula que la realidad es...'
+description: 'und begleite mich, um More Than Allegory: On Religious Myth, Truth,
+  and Belief von Bernardo Kastrup zu diskutieren. Wir tauchen ein in Kastrups herausfordernde
+  Philosophie des analytischen Idealismus, die besagt, dass die Realität...'
 draft: false
 keywords:
 - vectors-of-mind
-- más
-- que
-- alegoría
-- religioso
-- mito
-lang: es
+- mehr
+- als
+- allegorie
+- religiös
+- mythos
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '161215208'
@@ -23,7 +23,7 @@ original_url: https://www.vectorsofmind.com/p/more-than-allegory-on-religious-my
 quality: 6
 slug: more-than-allegory-on-religious-myth
 tags: []
-title: Más Que Alegoría Sobre Mito Religioso
+title: More Than Allegory On Religious Myth
 translation_model: gpt-4o
 ---
 

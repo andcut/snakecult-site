@@ -1,42 +1,43 @@
 ---
 about:
-- Hipótesis de la Mente Ritualizada
-- Teoría de Eva de la Conciencia
-- ciencia de la conciencia
-- evolución cognitiva
+- Ritualised Mind Hypothesis
+- Eve Theory of Consciousness
+- Bewusstseinswissenschaft
+- kognitive Evolution
 - Froese
 - Cutler
-- evolución de la conciencia
-- ritual
-- recursión
+- Bewusstseinsentwicklung
+- Ritual
+- Rekursion
 author: Andrew Cutler
 date: 2025-04-19
-description: Integrando las ideas de Thomas Froese sobre intersubjetividad y enactivismo
-  con la Teoría de Eva de la Conciencia para proporcionar una perspectiva novedosa
-  sobre el Problema Difícil de la conciencia y la evolución de la experiencia subjetiva.
+description: Integration von Thomas Froeses Erkenntnissen über Intersubjektivität
+  und Enaktivismus mit der Eve Theory of Consciousness, um eine neuartige Perspektive
+  auf das harte Problem des Bewusstseins und die Evolution subjektiver Erfahrung zu
+  bieten.
 draft: false
 keywords:
-- Hipótesis de la Mente Ritualizada
-- Teoría de Eva de la Conciencia
-- cognición simbólica
-- ciencia de la conciencia
-- coevolución gen-cultura
-- estados alterados de conciencia
-- ritual
-- recursión
-- pensamiento simbólico
-lang: es
+- Ritualised Mind Hypothesis
+- Eve Theory of Consciousness
+- symbolische Kognition
+- Bewusstseinswissenschaft
+- Gen-Kultur-Koevolution
+- veränderte Bewusstseinszustände
+- Ritual
+- Rekursion
+- symbolisches Denken
+lang: de
 lastmod: '2025-07-13'
 license: CC-BY-SA 4.0
 quality: 5
 slug: froese-etoc-hard-consciousness-synthesis
 tags:
-- Paradoja Sapiente
-- conciencia
-- recursión
-- ritual
-title: 'Del Ritual a la Recursión: Integrando la Hipótesis de la Mente Ritualizada
-  de Froese con la Teoría de Eva de la Conciencia'
+- Sapient Paradox
+- Bewusstsein
+- Rekursion
+- Ritual
+title: 'From Ritual to Recursion: Integrating Froese''s Ritualised-Mind Hypothesis
+  with the Eve Theory of Consciousness'
 translation_model: gpt-4o
 ---
 

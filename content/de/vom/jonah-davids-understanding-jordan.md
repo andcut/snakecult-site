@@ -1,20 +1,21 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: es un investigador y escritor que escribe sobre la ciencia y la política
-  de la salud mental en . En este episodio, se une a mí para diseccionar los marcos
-  psicológicos y religiosos de Jordan Peterson, un fig...
+description: ist ein Forscher und Schriftsteller, der über die Wissenschaft und Politik
+  der psychischen Gesundheit bloggt bei . In dieser Episode schließt er sich mir an,
+  um die psychologischen und religiösen Rahmenwerke von Jordan Peterson zu analysieren,
+  ein...
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - jonah
 - davids
-- comprensión
+- verständnis
 - jordan
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '155173311'
@@ -22,7 +23,7 @@ original_url: https://www.vectorsofmind.com/p/jonah-davids-understanding-jordan
 quality: 6
 slug: jonah-davids-understanding-jordan
 tags: []
-title: Jonah Davids Comprensión de Jordan
+title: Jonah Davids Verständnis von Jordan
 translation_model: gpt-4o
 ---
 

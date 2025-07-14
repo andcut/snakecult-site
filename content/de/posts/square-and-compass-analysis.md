@@ -1,29 +1,30 @@
 ---
 about:
-- simbolismo
-- mitología comparativa
-- geometría sagrada
+- Symbolik
+- vergleichende Mythologie
+- heilige Geometrie
 author: Andrew Cutler
 core_entity: Square & Compass
 date: 2025-07-08
-description: Estudio comparativo del símbolo de escuadra y compás desde Fuxi y Nüwa
-  de la dinastía Han hasta la masonería moderna y los Santos de los Últimos Días.
+description: Vergleichende Untersuchung des Winkelmaß- und Zirkel-Symbols von der
+  Han-Dynastie Fuxi & Nüwa bis zur modernen Freimaurerei und den Heiligen der Letzten
+  Tage.
 draft: false
 keywords:
-- escuadra y compás
-- geometría sagrada
-- masonería
-- Fuxi y Nüwa
-- cosmología
-lang: es
+- Winkelmaß und Zirkel
+- heilige Geometrie
+- Freimaurerei
+- Fuxi und Nüwa
+- Kosmologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: square-and-compass-analysis
 tags:
-- simbolismo
-- masonería
-title: 'La Escuadra y el Compás: Un Símbolo Global de Creación y Orden'
+- Symbolik
+- Freimaurerei
+title: 'Der Winkelmaß und Zirkel: Ein globales Symbol für Schöpfung und Ordnung'
 translation_model: gpt-4o
 ---
 

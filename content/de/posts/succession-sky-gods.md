@@ -1,29 +1,29 @@
 ---
 about:
-- mitología
-- filología
+- Mythologie
+- Philologie
 author: Andrew Cutler
 core_entity: Enūma Eliš
 date: 2025-06-23
-description: Un análisis filológico y comparativo en profundidad de la famosa apertura
-  del *Enūma Eliš* babilónico y su teología del nombramiento.
+description: Eine philologische und vergleichende tiefgehende Untersuchung des berühmten
+  Anfangs des babylonischen *Enūma Eliš* und seiner Theologie des Benennens.
 draft: false
 keywords:
 - Enuma Elish
-- Cosmología acadia
-- Nombramiento
-- Mito mesopotámico
-- Religión comparativa
-lang: es
+- Akkadische Kosmologie
+- Benennung
+- Mesopotamischer Mythos
+- Vergleichende Religion
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: no-name-heaven-enuma-elish
 tags:
-- Mesopotamia
-- Mitos de la creación
-- Magia lingüística
-title: Cuando el cielo no tenía nombre
+- Mesopotamien
+- Schöpfungsmythen
+- Sprachmagie
+title: Als der Himmel keinen Namen hatte
 translation_model: gpt-4o
 ---
 

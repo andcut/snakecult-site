@@ -1,18 +1,18 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Esta publicación se aleja de las grandes afirmaciones y pide a los lectores
-  que hagan algunas propias. Una de las partes más adictivas de la investigación de
-  la personalidad es tratar de entender el tema unificador de un factor cuando ...
+description: Dieser Beitrag nimmt Abstand von großen Behauptungen und fordert die
+  Leser auf, einige eigene zu machen. Einer der süchtig machendsten Teile der Persönlichkeitsforschung
+  ist der Versuch, das einheitliche Thema eines Faktors zu verstehen, wenn ...
 draft: false
 keywords:
-- vectores-de-la-mente
-- adivinar
-- factor
-lang: es
+- vectors-of-mind
+- raten
+- Faktor
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '54190441'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/guess-the-factor
 quality: 6
 slug: guess-the-factor
 tags: []
-title: Adivina el Factor
+title: Rate den Faktor
 translation_model: gpt-4o
 ---
 

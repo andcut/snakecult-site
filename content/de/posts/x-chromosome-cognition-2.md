@@ -1,34 +1,34 @@
 ---
 about:
-- genética
-- neurociencia
-- ciencia cognitiva
-- evolución
+- Genetik
+- Neurowissenschaft
+- Kognitionswissenschaft
+- Evolution
 author: Andrew Cutler
 core_entity: X chromosome
 date: 2025-04-27
-description: Una revisión exhaustiva de cómo el cromosoma X influye en el desarrollo
-  del cerebro humano, la función cognitiva y los trastornos neurológicos.
+description: Eine umfassende Übersicht darüber, wie das X-Chromosom die Entwicklung
+  des menschlichen Gehirns, die kognitive Funktion und neurologische Störungen beeinflusst.
 draft: false
 keywords:
-- cromosoma X
-- cognición
-- desarrollo cerebral
-- genes ligados al X
-- discapacidad intelectual
-- inactivación del X
-- diferencias sexuales
-lang: es
+- X chromosome
+- Kognition
+- Gehirnentwicklung
+- X-gebundene Gene
+- Intellektuelle Behinderung
+- X-Inaktivierung
+- Geschlechtsunterschiede
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: x-chromosome-cognition-2
 tags:
-- Genética
-- Neurociencia
-- ciencia cognitiva
-- Evolución
-title: El Cromosoma X y la Cognición Humana
+- Genetik
+- Neurowissenschaft
+- Kognitionswissenschaft
+- Evolution
+title: Das X-Chromosom und die menschliche Kognition
 translation_model: gpt-4o
 ---
 

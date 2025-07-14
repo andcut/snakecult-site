@@ -1,17 +1,17 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'En 1921, Leo Frobenius informó sobre el mito de la creación de una tribu
-  Bassari en el norte de Togo:'
+description: 'Im Jahr 1921 berichtete Leo Frobenius über den Schöpfungsmythos eines
+  Bassari-Stammes im Norden Togos:'
 draft: false
 keywords:
 - vectors-of-mind
-- génesis
+- genesis
 - togo
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682169'
@@ -19,7 +19,7 @@ original_url: https://www.vectorsofmind.com/p/genesis-in-togo
 quality: 6
 slug: genesis-in-togo
 tags: []
-title: Génesis en Togo
+title: Genesis in Togo
 translation_model: gpt-4o
 ---
 

@@ -1,29 +1,29 @@
 ---
 about:
-- Simbolismo del serpiente hermético
+- Hermetische Schlangensymbolik
 author: Andrew Cutler
 core_entity: Hermetic Serpent
 date: 2025-06-23
-description: Una exploración profunda del serpiente en el Hermetismo—desde el caduceo
-  hasta el ouroboros—desentrañando su papel en la polaridad, el conocimiento cósmico
-  y el camino hacia la gnosis.
+description: Eine tiefgehende Erforschung der Schlange im Hermetismus—vom Caduceus
+  bis zum Ouroboros—und ihrer Rolle in Polarität, kosmischem Wissen und dem Weg zur
+  Gnosis.
 draft: false
 keywords:
-- Hermetismo
-- Simbolismo del serpiente
-- Dualidad
+- Hermetismus
+- Schlangensymbolik
+- Dualität
 - Ouroboros
-- Caduceo
-lang: es
+- Caduceus
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hermes-serpent-symbol
 tags:
-- Hermetismo
-- Esoterismo
-- Alquimia
-title: Hermes y el Símbolo del Serpiente
+- Hermetismus
+- Esoterik
+- Alchemie
+title: Hermes und das Schlangensymbol
 translation_model: gpt-4o
 ---
 

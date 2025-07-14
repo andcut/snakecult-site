@@ -1,29 +1,29 @@
 ---
 about:
-- religión comparativa
-- hermetismo
-- erudición SUD
+- vergleichende Religion
+- Hermetik
+- LDS-Forschung
 author: Andrew Cutler
 core_entity: Enoch / Hermes
 date: 2025-07-08
-description: Análisis comparativo de las revelaciones de Enoc de Joseph Smith y la
-  visión hermética de Poimandres, explorando la tradición de Enoc-Hermes.
+description: Vergleichende Analyse von Joseph Smiths Enoch-Offenbarungen und der hermetischen
+  Poimandres-Vision, die die Enoch-Hermes-Tradition erforscht.
 draft: false
 keywords:
 - Enoch
 - Hermes Trismegistus
-- Libro de Moisés
+- Buch Mose
 - Poimandres
-- Mormonismo
-lang: es
+- Mormonismus
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-enoch-as-poimandres
 tags:
-- Mormonismo
-- Hermetismo
-title: Enoch, Hermes Trismegistus, y el Libro de Moisés de Joseph Smith
+- Mormonismus
+- Hermetik
+title: Enoch, Hermes Trismegistus und Joseph Smiths Buch Mose
 translation_model: gpt-4o
 ---
 

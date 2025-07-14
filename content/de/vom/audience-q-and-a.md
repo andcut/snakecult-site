@@ -4,13 +4,13 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: En este episodio, respondo algunas preguntas de un lector. Disfruta las
-  notas del programa, que son útiles al discutir obras de arte particulares.
+description: In dieser Episode beantworte ich ein paar Fragen von einem Leser. Genießen
+  Sie die Show-Notizen, die hilfreich sind, wenn es um bestimmte Kunstwerke geht.
 draft: false
 keywords:
 - vectors-of-mind
-- audiencia
-lang: es
+- Publikum
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '158199968'
@@ -18,7 +18,7 @@ original_url: https://www.vectorsofmind.com/p/audience-q-and-a
 quality: 6
 slug: audience-q-and-a
 tags: []
-title: Preguntas y Respuestas de la Audiencia
+title: Fragen und Antworten des Publikums
 translation_model: gpt-4o
 ---
 

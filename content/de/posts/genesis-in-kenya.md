@@ -1,35 +1,35 @@
 ---
 about:
-- Mitología
-- Antropología
-- Estudios Africanos
-- Estudios Religiosos
+- Mythologie
+- Anthropologie
+- Afrikastudien
+- Religionswissenschaften
 author: Andrew Cutler
 date: 2025-04-21 12:00:00+00:00
-description: Análisis del mito de la creación Meru (Kenia) que se asemeja a la Caída
-  bíblica, comparando motivos (árbol prohibido, serpiente, inmortalidad perdida) con
-  paralelismos afro-euroasiáticos.
+description: Analyse des Schöpfungsmythos der Meru (Kenia), der dem biblischen Sündenfall
+  ähnelt, und Vergleich von Motiven (verbotener Baum, Schlange, verlorene Unsterblichkeit)
+  mit afro-eurasischen Parallelen.
 draft: true
 keywords:
-- mitología Meru
-- mitología comparativa
-- mitos de creación
-- caída del hombre
+- Meru-Mythologie
+- vergleichende Mythologie
+- Schöpfungsmythen
+- Sündenfall
 - Kenia
-- África
-- tradición oral
-lang: es
+- Afrika
+- mündliche Tradition
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
 - Meru
-- Historia de la Creación
-- Caída del Hombre
-- Serpiente
-- Fruta Prohibida
-title: La "Caída" en la Mitología Meru y Sus Paralelismos Afro-Euroasiáticos
+- Schöpfungsgeschichte
+- Sündenfall
+- Schlange
+- Verbotene Frucht
+title: Der "Sündenfall" in der Meru-Mythologie und seine afro-eurasischen Parallelen
 translation_model: gpt-4o
 ---
 

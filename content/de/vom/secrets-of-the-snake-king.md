@@ -1,19 +1,19 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Este artículo es un cambio de ritmo. En lugar de interminables notas
-  al pie y argumentos estadísticos, dejaré que el folclore de Anatolia hable. La respuesta
-  más obvia a la hipótesis del veneno de serpiente como enteógeno...
+description: Dieser Artikel ist ein Wechsel des Tempos. Anstatt endloser Fußnoten
+  und statistischer Argumente lasse ich die anatolische Folklore sprechen. Die offensichtlichste
+  Erwiderung auf die Hypothese des Schlangengifts als Entheogen...
 draft: false
 keywords:
 - vectors-of-mind
-- secretos
-- serpiente
-- rey
-lang: es
+- geheimnisse
+- schlange
+- könig
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '143824007'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/secrets-of-the-snake-king
 quality: 6
 slug: secrets-of-the-snake-king
 tags: []
-title: Secretos Del Rey Serpiente
+title: Geheimnisse des Schlangenkönigs
 translation_model: gpt-4o
 ---
 

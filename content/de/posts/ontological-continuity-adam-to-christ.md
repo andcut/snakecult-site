@@ -1,40 +1,40 @@
 ---
 about:
-- conciencia
-- mitología
-- religión
-- filosofía
+- Bewusstsein
+- Mythologie
+- Religion
+- Philosophie
 author: Andrew Cutler
 core_entity: Serpent
 date: 2025-04-20 10:00:00+00:00
-description: Explorando la evolución de la autoconciencia a través del Génesis, el
-  Logos de Juan, el gnosticismo y los mitos sacrificiales, vinculando la serpiente
-  edénica con Cristo y el nacimiento del yo consciente.
+description: Erforschung der Entwicklung des Selbstbewusstseins durch Genesis, das
+  Logos von Johannes, Gnostizismus und Opfermythen, die die Edenische Schlange mit
+  Christus und der Geburt des bewussten Selbst verbinden.
 draft: false
 keywords:
-- conciencia
-- mitología
-- génesis
-- logos
-- gnosticismo
-- cristo
-- evolución
-- autoconciencia
-- era axial
-- serpiente
-lang: es
+- Bewusstsein
+- Mythologie
+- Genesis
+- Logos
+- Gnostizismus
+- Christus
+- Evolution
+- Selbstbewusstsein
+- Achsenzeit
+- Schlange
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: ontological-continuity-adam-to-christ
 tags:
-- conciencia
-- Evolución
-- mitología
-- Filosofía
-- Religión
-- psicología
-title: 'El Logos y la Serpiente: Evolución Mítica de la Autoconciencia'
+- Bewusstsein
+- Evolution
+- Mythologie
+- Philosophie
+- Religion
+- Psychologie
+title: 'Das Logos und die Schlange: Mythische Evolution des Selbstbewusstseins'
 translation_model: gpt-4o
 ---
 

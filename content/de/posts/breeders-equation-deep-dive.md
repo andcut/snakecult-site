@@ -1,26 +1,25 @@
 ---
 about:
-- genética
-- selección
+- Genetik
+- Selektion
 author: Andrew Cutler
-core_entity: Inteligencia humana
+core_entity: Human intelligence
 date: 2025-06-30
-description: El ADN antiguo y los modelos genético-cuantitativos revelan una selección
-  continua sobre los rasgos cognitivos humanos a lo largo del Holoceno.
+description: Antike DNA und quantitativ-genetische Modelle zeigen eine fortlaufende
+  Selektion auf menschliche kognitive Merkmale während des Holozäns.
 draft: false
 keywords:
-- evolución-humana
-- inteligencia
-- adn-antiguo
-lang: es
+- menschliche Evolution
+- Intelligenz
+- antike DNA
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: breeders-equation-deep-dive
 tags:
-- inteligencia
-title: 'Selección del Holoceno sobre la Inteligencia Humana: Una Revisión de 50,000
-  Años'
+- Intelligenz
+title: 'Selektion im Holozän auf menschliche Intelligenz: Ein 50.000-Jahre-Realitätscheck'
 translation_model: gpt-4o
 ---
 

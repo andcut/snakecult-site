@@ -1,32 +1,32 @@
 ---
 about:
-- Antropología
-- Historia
-- Arqueología
+- Anthropologie
+- Geschichte
+- Archäologie
 author: Andrew Cutler
 date: 2025-04-21
-description: Examina la sorprendente estabilidad de los motivos míticos a lo largo
-  de milenios, sugiriendo que mitos como la Caza Cósmica o el simbolismo de la Serpiente
-  podrían codificar recuerdos de cambios cognitivos reales, apoyando el marco temporal
-  de la Teoría de Eva.
+description: Untersucht die überraschende Stabilität mythischer Motive über Jahrtausende
+  hinweg und schlägt vor, dass Mythen wie die Kosmische Jagd oder Schlangensymbolik
+  Erinnerungen an reale kognitive Veränderungen kodieren könnten, die den Zeitrahmen
+  der Eva-Theorie unterstützen.
 draft: false
 keywords:
-- mitología
-- prehistoria
-- tradición oral
-- paleolítico
-- geomitología
-- mitología comparada
-- lingüística
-lang: es
+- Mythologie
+- Urgeschichte
+- mündliche Überlieferung
+- Paläolithikum
+- Geomythologie
+- vergleichende Mythologie
+- Linguistik
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: longevity-of-myths
 tags:
-- Narrativa
-- Prehistoria
-title: Mitos Prehistóricos con Orígenes de Hace Más de 8,000 Años
+- Erzählung
+- Urgeschichte
+title: Prähistorische Mythen mit Ursprüngen vor über 8.000 Jahren
 translation_model: gpt-4o
 ---
 

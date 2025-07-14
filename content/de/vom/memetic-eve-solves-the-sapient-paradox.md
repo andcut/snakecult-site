@@ -4,17 +4,17 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Richard Dawkins dijo que hubo dos grandes momentos evolutivos. El primero
-  fue la aparición del ADN, que marcó el comienzo de la evolución biológica. El segundo
-  fue la aparición de los memes. Al igual que g...
+description: Richard Dawkins sagte, es gab zwei große evolutionäre Momente. Der erste
+  war das Auftreten von DNA, das den Beginn der biologischen Evolution markierte.
+  Der zweite war das Auftreten von Memes. Genau wie g...
 draft: false
 keywords:
 - vectors-of-mind
-- memético
-- resuelve
-- sapiente
-- paradoja
-lang: es
+- memetisch
+- löst
+- weise
+- Paradox
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144959538'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/memetic-eve-solves-the-sapient-par
 quality: 6
 slug: memetic-eve-solves-the-sapient-paradox
 tags: []
-title: Eva Memética Resuelve La Paradoja Sapiente
+title: Memetische Eva löst das weise Paradox
 translation_model: gpt-4o
 ---
 

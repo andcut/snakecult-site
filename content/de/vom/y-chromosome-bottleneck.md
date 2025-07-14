@@ -4,15 +4,16 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Es posible que hayas notado que hombres y mujeres piensan de manera diferente.
-  No te preocupes, no es un pecado. De hecho, la preferencia femenina por las personas
-  frente a las cosas es un fenómeno bien estudiado en psicología. Si el yo fuera disc...
+description: Ihnen ist vielleicht aufgefallen, dass Männer und Frauen unterschiedlich
+  denken. Keine Sorge, das ist keine Sünde. Tatsächlich ist die weibliche Präferenz
+  für Menschen gegenüber Dingen ein gut untersuchtes Phänomen in der Psychologie.
+  Wenn das Selbst war disc...
 draft: false
 keywords:
 - vectors-of-mind
 - chromosome
 - bottleneck
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '116616676'
@@ -20,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/y-chromosome-bottleneck
 quality: 6
 slug: y-chromosome-bottleneck
 tags: []
-title: Cuello de Botella del Cromosoma Y
+title: Y-Chromosomen-Engpass
 translation_model: gpt-4o
 ---
 

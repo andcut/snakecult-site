@@ -1,31 +1,31 @@
 ---
 about:
-- mitología-mundial
-- tecnología-ritual
+- Welt-Mythologie
+- Ritual-Technologie
 author: Andrew Cutler
 core_entity: Bullroarer
 date: 2025-06-23
-description: Cómo un cúmulo estelar visible a simple vista y una tabla giratoria se
-  entrelazaron en el mito de la creación, los ritos de iniciación y la magia del clima
-  desde Arnhem Land hasta Arizona.
+description: Wie ein mit bloßem Auge sichtbarer Sternhaufen und ein surrendes Brett
+  in Schöpfungsmythen, Initiationsriten und Wetterzauber vom Arnhem Land bis nach
+  Arizona verwoben wurden.
 draft: false
 keywords:
-- Pleiades
+- Plejaden
 - bullroarer
-- Dreamtime
-- Siete Hermanas
-- ritos de iniciación
-- arqueoastronomía
-lang: es
+- Traumzeit
+- Sieben Schwestern
+- Initiationsriten
+- Archäoastronomie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: pleiades-bullroarer-memeplex
 tags:
-- Mitología
-- Antropología
-- Arqueoastronomía
-title: Pleiades Y El Meme-Plex Del Bullroarer
+- Mythologie
+- Anthropologie
+- Archäoastronomie
+title: Plejaden und der Bullroarer-Memplex
 translation_model: gpt-4o
 ---
 

@@ -1,29 +1,29 @@
 ---
 about:
-- mitología
-- antropología
+- Mythologie
+- Anthropologie
 author: Andrew Cutler
 core_entity: Plumed Serpent
 date: 2025-06-23
-description: Cómo las serpientes de agua y las mujeres fundadoras coprotagonizan en
-  las historias de origen de los Navajo, Zuni, Taíno, K'iche' e Inka y lo que esa
-  combinación revela sobre el nacimiento, el caos y el orden.
+description: Wie Wasserschlangen und Gründerfrauen in den Ursprungsmythen der Navajo,
+  Zuni, Taíno, K'iche' und Inka zusammen auftreten und was diese Paarung über Geburt,
+  Chaos und Ordnung offenbart.
 draft: false
 keywords:
-- mitos de emergencia
-- plumed serpent
-- cosmología indígena
-- feminidad divina
-- narrativas de inundación
-lang: es
+- Entstehungsmythen
+- gefiederte Schlange
+- indigene Kosmologie
+- göttliche Weiblichkeit
+- Fluterzählungen
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpents-women-emergence-myths-americas
 tags:
-- mitología
-- Estudios-Indígenas
-title: Serpientes Y Mujeres En Mitos De Emergencia A Través De Las Américas
+- Mythologie
+- Indigene-Studien
+title: Schlangen und Frauen in Entstehungsmythen in ganz Amerika
 translation_model: gpt-4o
 ---
 

@@ -1,22 +1,22 @@
 ---
 about:
-- historia mormona
-- cambios doctrinales
+- Mormonische Geschichte
+- doktrinäre Verschiebungen
 author: Andrew Cutler
 core_entity: Mormon Succession Crisis
 date: 2025-01-01
-description: Un análisis en profundidad de las raíces esotéricas del mormonismo bajo
-  Joseph Smith y los cambios doctrinales producidos por la crisis de sucesión de 1844
-  que elevó a Brigham Young.
+description: Eine tiefgehende Analyse der esoterischen Wurzeln des Mormonismus unter
+  Joseph Smith und der doktrinären Verschiebungen, die durch die Nachfolgekrise von
+  1844 entstanden, die Brigham Young erhob.
 draft: true
 keywords:
-- mormonismo
+- Mormonismus
 - Joseph Smith
 - Brigham Young
-- crisis de sucesión
-- esoterismo
-- teología del templo
-lang: es
+- Nachfolgekrise
+- Esoterik
+- Tempeltheologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
@@ -25,8 +25,8 @@ tags:
 - LDS
 - RLDS
 - Strangites
-- historia religiosa
-title: Crisis de Sucesión Mormona y Magia
+- Religionsgeschichte
+title: Mormonische Nachfolgekrise und Magie
 translation_model: gpt-4o
 ---
 

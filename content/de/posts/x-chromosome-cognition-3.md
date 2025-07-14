@@ -1,30 +1,30 @@
 ---
 about:
-- neurogenética
-- evolución humana
+- Neurogenetik
+- menschliche Evolution
 author: Andrew Cutler
 core_entity: X chromosome
 date: 2025-04-27
-description: Cómo las barridas recientes, la compensación de dosis y los trastornos
-  ligados al X revelan el papel desproporcionado del cromosoma en la evolución del
-  cerebro humano y la cognición sesgada por sexo.
+description: Wie rezente Sweeps, Dosiskompensation und X-chromosomale Störungen die
+  übergroße Rolle des Chromosoms in der Evolution des menschlichen Gehirns und geschlechtsbezogener
+  Kognition aufzeigen.
 draft: false
 keywords:
 - X chromosome
-- cognición
-- barridas selectivas
-- inactivación del X
-- neurodesarrollo
-lang: es
+- Kognition
+- selektive Sweeps
+- X-Inaktivierung
+- Neuroentwicklung
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: x-chromosome-cognition-3
 tags:
-- Genética Humana
-- Neurobiología
-- Diferencias Sexuales
-title: Cromosoma X y Cognición
+- Humangenetik
+- Neurobiologie
+- Geschlechtsunterschiede
+title: X-Chromosom und Kognition
 translation_model: gpt-4o
 ---
 

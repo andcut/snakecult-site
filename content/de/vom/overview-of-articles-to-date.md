@@ -1,19 +1,19 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Vectors of Mind ha existido durante dos años ahora, y hay bastante contenido
-  que se construye sobre sí mismo. Disfruta de este monólogo de 90 minutos donde describo
-  cada artículo cronológicamente, y doy algunos...
+description: Vectors of Mind gibt es nun seit zwei Jahren, und es gibt eine ganze
+  Menge an Inhalten, die aufeinander aufbauen. Genießen Sie diesen 90-minütigen Monolog,
+  in dem ich jeden Artikel chronologisch beschreibe und einige...
 draft: false
 keywords:
 - vectors-of-mind
-- resumen
-- artículos
-- fecha
-lang: es
+- überblick
+- artikel
+- datum
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '149857361'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/overview-of-articles-to-date
 quality: 6
 slug: overview-of-articles-to-date
 tags: []
-title: Resumen De Artículos Hasta La Fecha
+title: Überblick über bisherige Artikel
 translation_model: gpt-4o
 ---
 

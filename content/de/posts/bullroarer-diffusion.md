@@ -1,36 +1,36 @@
 ---
 about:
-- Antropología
-- Historia Cultural
-- Arqueología
+- Anthropologie
+- Kulturgeschichte
+- Archäologie
 author: Andrew Cutler
 core_entity: Bullroarer
 date: 2025-04-20
-description: Un examen antropológico del bullroarer, argumentando que su distribución
-  global y funciones rituales consistentes apuntan a una difusión cultural desde un
-  origen prehistórico común.
+description: Eine anthropologische Untersuchung des Bullroarers, die argumentiert,
+  dass seine weltweite Verbreitung und konsistenten rituellen Funktionen auf eine
+  kulturelle Diffusion von einem gemeinsamen prähistorischen Ursprung hinweisen.
 draft: false
 keywords:
 - bullroarer
-- antropología
-- difusión cultural
-- ritual
-- prehistoria
-- mitología
-- ritos de iniciación
-lang: es
+- Anthropologie
+- kulturelle Diffusion
+- Ritual
+- Vorgeschichte
+- Mythologie
+- Initiationsriten
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: bullroarer-diffusion
 tags:
 - Bullroarer
-- Difusionismo
-- Prehistoria
-- mitología
-- ritual
-title: 'El Bullroarer: Un Instrumento Ritual Mundial y el Caso de la Difusión Cultural
-  Antigua'
+- Diffusionismus
+- Vorgeschichte
+- Mythologie
+- Ritual
+title: 'Der Bullroarer: Ein weltweites Ritualinstrument und das Argument für alte
+  kulturelle Diffusion'
 translation_model: gpt-4o
 ---
 

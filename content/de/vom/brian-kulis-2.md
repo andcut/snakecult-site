@@ -1,18 +1,18 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Brian Kulis es profesor de Aprendizaje Automático en la Universidad de
-  Boston (y mi ex asesor). También ha trabajado en la industria en el equipo de crack
-  responsable de la palabra de activación de Amazon. Discutimos la histo...
+description: Brian Kulis ist Professor für Maschinelles Lernen an der Boston University
+  (und mein ehemaliger Berater). Er hat auch in der Industrie in dem Team gearbeitet,
+  das für das Amazon „Weck“-Wort verantwortlich ist. Wir diskutieren die Geschi...
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - brian
 - kulis
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140789755'

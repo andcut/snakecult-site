@@ -1,23 +1,24 @@
 ---
 about:
-- tema-principal
+- Hauptthema
 author: Andrew Cutler
-core_entity: Mormon Cosmology
+core_entity: Mormonische Kosmologie
 date: 2025-01-01
-description: Explora las raíces hermético-alquímicas de la cosmología mormona temprana
-  en el libro ganador del Premio Bancroft de John L. Brooke, The Refiner's Fire.
+description: Erforschen Sie die hermetisch-alchemistischen Wurzeln der frühen mormonischen
+  Kosmologie in John L. Brookes mit dem Bancroft-Preis ausgezeichnetem Buch, The Refiner's
+  Fire.
 draft: true
 keywords:
-- palabra-clave-uno
-- palabra-clave-dos
-lang: es
+- Stichwort-eins
+- Stichwort-zwei
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: esoteric-mormonism
 tags:
-- Etiqueta-A
-title: Mormonismo Esotérico
+- Tag-A
+title: Esoterischer Mormonismus
 translation_model: gpt-4o
 ---
 

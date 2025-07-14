@@ -1,31 +1,31 @@
 ---
 about:
-- mito
-- antropología
-- conciencia
+- Mythos
+- Anthropologie
+- Bewusstsein
 author: Andrew Cutler
 core_entity: Serpent
 date: 2025-06-23
-description: Desde pastores-videntes griegos hasta reinas-serpiente kurdas, culturas
-  de todo el mundo afirman que la mordedura, el lamido o la poción de una serpiente
-  permite a los humanos hablar con los animales.
+description: Von griechischen Hirten-Sehern bis zu kurdischen Schlangenköniginnen
+  behaupten Kulturen weltweit, dass ein Schlangenbiss, -lecken oder -trank es Menschen
+  ermöglicht, mit Tieren zu sprechen.
 draft: false
 keywords:
-- mito‑de‑serpiente
-- habla‑de‑bestias
-- folclore‑comparativo
-- culto‑a‑la‑serpiente
-- elevación‑cognitiva
-lang: es
+- Schlangen-Mythos
+- Tier-Sprache
+- Vergleichende-Folklore
+- Schlangenkult
+- Kognitive-Erhebung
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: snakes-speech-mythology
 tags:
-- Mitología‑Mundial
-- Culto‑a‑la‑Serpiente
-- Magia‑Lingüística
-title: Serpientes que Otorgan Habla‑de‑Bestias en la Mitología Mundial
+- Welt-Mythologie
+- Schlangenkult
+- Sprachmagie
+title: Schlangen, die Tier-Sprache in der Weltmythologie verleihen
 translation_model: gpt-4o
 ---
 

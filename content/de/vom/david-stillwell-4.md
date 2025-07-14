@@ -1,18 +1,18 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: En el episodio de hoy, me acompaña David Stillwell, profesor de ciencia
-  social computacional en la Universidad de Cambridge, quien utiliza big data para
-  entender la psicología.
+description: In der heutigen Episode spreche ich mit David Stillwell, einem Professor
+  für computergestützte Sozialwissenschaften an der Universität Cambridge, der Big
+  Data nutzt, um Psychologie zu verstehen.
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - david
 - stillwell
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140952158'

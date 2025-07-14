@@ -1,32 +1,32 @@
 ---
 about:
-- historia de la conciencia
+- Bewusstseinsgeschichte
 author: Andrew Cutler
 core_entity: Garden of Eden
 date: 2025-07-13
-description: Una exploración profunda de cómo el filósofo místico Manly P. Hall podría
-  interpretar la Teoría de Eva de la Conciencia—la noción de que la autoconciencia
-  humana (“Yo soy”) surgió relativamente hace poco—examinando alegorías antiguas como
-  Adán y Eva y el significado esotérico detrás de la caída de la humanidad en la mente
-  consciente.
+description: Eine tiefgehende Erforschung, wie der mystische Philosoph Manly P. Hall
+  die Eva-Theorie des Bewusstseins interpretieren könnte—die Vorstellung, dass das
+  menschliche Selbstbewusstsein („Ich bin“) relativ kürzlich entstanden ist—durch
+  die Untersuchung antiker Allegorien wie Adam und Eva und die esoterische Bedeutung
+  hinter dem Fall der Menschheit in den bewussten Verstand.
 draft: false
 keywords:
-- conciencia humana
-- Teoría de Eva
+- menschliches Bewusstsein
+- Eva-Theorie
 - Manly P. Hall
-- orígenes de la autoconciencia
-- alegoría de Adán y Eva
-- filosofía esotérica
-lang: es
+- Ursprünge des Selbstbewusstseins
+- Adam-und-Eva-Allegorie
+- esoterische Philosophie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: manly-p-hall-and-eve-theory
 tags:
-- Conciencia
-- Mitología
-- Filosofía Esotérica
-title: Manly P Hall Y La Teoría De Eva De La Conciencia
+- Bewusstsein
+- Mythologie
+- Esoterische Philosophie
+title: Manly P Hall und die Eva-Theorie des Bewusstseins
 translation_model: gpt-4o
 ---
 

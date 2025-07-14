@@ -1,34 +1,34 @@
 ---
 about:
-- Mitología
-- Antropología
-- Lingüística
-- Prehistoria
+- Mythologie
+- Anthropologie
+- Linguistik
+- Urgeschichte
 author: Andrew Cutler
 date: 2025-04-21 12:00:00+00:00
-description: Análisis comparativo de los mitos eurasiáticos de la 'caída de la gracia'
-  que sugiere un proto-mito común originado en el Paleolítico o el Holoceno temprano.
+description: Vergleichende Analyse von eurasischen 'Sündenfall'-Mythen, die auf einen
+  gemeinsamen Proto-Mythos hindeuten, der im Paläolithikum oder frühen Holozän entstanden
+  ist.
 draft: false
 keywords:
-- mitología comparativa
-- proto-mitología
-- Eurasia
-- Holoceno
-- mitos de creación
-- caída del hombre
-- tradición oral
-lang: es
+- vergleichende Mythologie
+- Proto-Mythologie
+- Eurasien
+- Holozän
+- Schöpfungsmythen
+- Sündenfall
+- mündliche Überlieferung
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: genesis-in-siberia
 tags:
-- Proto-Mito
-- Eurasia
-- Historias de Creación
-- Caída de la Gracia
-title: 'Ecos de un Edén del Holoceno: Proto-Mitos de Caída y Creación a través de
-  Eurasia'
+- Proto-Mythos
+- Eurasien
+- Schöpfungsgeschichten
+- Sündenfall
+title: 'Echos eines holozänen Eden: Proto-Mythen von Fall und Schöpfung in Eurasien'
 translation_model: gpt-4o
 ---
 

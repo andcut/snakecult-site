@@ -1,31 +1,30 @@
 ---
 about:
-- modernidad conductual
-- sesgo arqueológico
-- evolución cultural
+- Verhaltensmoderne
+- archäologische Voreingenommenheit
+- kulturelle Evolution
 author: Andrew Cutler
 date: 2025-04-20
-description: Un análisis exhaustivo de la Paradoja Sapiente, sintetizando hallazgos
-  arqueológicos (herramientas, arte, entierros) con paleogenética (barridos genéticos
-  relacionados con el cerebro, cuellos de botella poblacionales) para evaluar teorías
-  sobre la aparición tardía de la modernidad conductual.
+description: Eine umfassende Analyse des Sapient-Paradoxons, die archäologische Funde
+  (Werkzeuge, Kunst, Bestattungen) mit Paläogenetik (genetische Veränderungen im Zusammenhang
+  mit dem Gehirn, Bevölkerungsengpässe) synthetisiert, um Theorien für das verzögerte
+  Auftreten der Verhaltensmoderne zu bewerten.
 draft: false
 keywords:
-- Paradoja Sapiente
-- modernidad conductual
-- arqueología
-- cognición simbólica
-- evolución humana
-lang: es
+- Sapient Paradox
+- Verhaltensmoderne
+- Archäologie
+- symbolische Kognition
+- menschliche Evolution
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: sapient-paradox-deep-dive
 tags:
-- Prehistoria
-- Investigación-Profunda
-title: 'La Paradoja Sapiente: Una Inmersión Profunda en la Evidencia Arqueológica
-  y Genética'
+- Vorgeschichte
+- Tiefenforschung
+title: 'The Sapient Paradox: A Deep Dive into the Archaeological and Genetic Evidence'
 translation_model: gpt-4o
 ---
 

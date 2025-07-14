@@ -1,16 +1,17 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Me gustaría añadir un tercer postulado a la Hipótesis Léxica de Galton:'
+description: 'Ich möchte ein drittes Postulat zur Galtons Lexikalischen Hypothese
+  hinzufügen:'
 draft: false
 keywords:
 - vectors-of-mind
-- consecuencias
-- conciencia
-lang: es
+- konsequenzen
+- gewissen
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '61742129'
@@ -18,7 +19,7 @@ original_url: https://www.vectorsofmind.com/p/consequences-of-conscience
 quality: 6
 slug: consequences-of-conscience
 tags: []
-title: Consecuencias De La Conciencia
+title: Konsequenzen Des Gewissens
 translation_model: gpt-4o
 ---
 

@@ -4,14 +4,14 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Cuando la mujer vio que el fruto del árbol era bueno para comer y agradable
-  a la vista, y también deseable para adquirir sabiduría, tomó algo y lo comió. También
-  le dio algo a su esposo, que estaba co...
+description: „Als die Frau sah, dass die Frucht des Baumes gut zur Nahrung und angenehm
+  für das Auge war und auch begehrenswert, um Weisheit zu erlangen, nahm sie davon
+  und aß. Sie gab auch ihrem Mann, der bei ihr war, etwas davon...“
 draft: false
 keywords:
 - vectors-of-mind
-- conciencia
-lang: es
+- Bewusstsein
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140565846'
@@ -19,7 +19,7 @@ original_url: https://www.vectorsofmind.com/p/eve-theory-of-consciousness-v3
 quality: 6
 slug: eve-theory-of-consciousness-v3
 tags: []
-title: Teoría de la Conciencia de Eva V3
+title: Eve-Theorie des Bewusstseins V3
 translation_model: gpt-4o
 ---
 

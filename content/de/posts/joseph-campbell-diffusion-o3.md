@@ -1,27 +1,27 @@
 ---
 about:
-- mitología
+- Mythologie
 author: Andrew Cutler
 core_entity: Joseph Campbell
 date: 2025-05-10
-description: Las propias palabras de Joseph Campbell muestran que él rastreó paralelismos
-  míticos a rutas comerciales y rutas marítimas, no a Wi-Fi junguiano.
+description: Joseph Campbells eigene Worte zeigen, dass er mythische Parallelen zu
+  Handelsrouten und Seewegen zog, nicht zu jungianischem Wi-Fi.
 draft: false
 keywords:
-- difusión-cultural
+- kulturelle Diffusion
 - Joseph-Campbell
-- unidad-psíquica
-- mitología-comparativa
+- psychische Einheit
+- vergleichende Mythologie
 - Jung
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusionist
 tags:
-- Mitología
-- Difusión-Cultural
-title: 'Campbell el Difusionista: Barcos, No Ondas Cerebrales'
+- Mythologie
+- Kulturelle Diffusion
+title: 'Campbell der Diffusionist: Boote, nicht Gehirnwellen'
 translation_model: gpt-4o
 ---
 

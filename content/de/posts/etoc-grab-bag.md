@@ -1,29 +1,29 @@
 ---
 about:
-- evolución cognitiva
-- mitología comparada
+- kognitive Evolution
+- vergleichende Mythologie
 author: Andrew Cutler
 core_entity: Serpent Idol
 date: 2025-04-27 12:00:00+00:00
-description: Cómo un culto prehistórico a la diosa serpiente pudo haber impulsado
-  el pensamiento autoconsciente y extendido sus ritos por todo el mundo.
+description: Wie ein prähistorischer Schlangengöttinnen-Kult das selbstbewusste Denken
+  angestoßen und seine Riten weltweit verbreitet haben könnte.
 draft: false
 keywords:
-- culto a la serpiente
-- Teoría de Eva de la Conciencia
-- coevolución gen-cultura
-- difusionismo
-- ritual prehistórico
-lang: es
+- Schlangenkult
+- Eva-Theorie des Bewusstseins
+- Gen-Kultur-Koevolution
+- Diffusionismus
+- prähistorisches Ritual
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- conciencia
-- arqueología
-- mitología
-title: 'El Regalo de la Serpiente: Ecos Míticos de un Culto de Conciencia Antigua'
+- Bewusstsein
+- Archäologie
+- Mythologie
+title: 'Die Gabe der Schlange: Mythische Echos eines alten Bewusstseinskults'
 translation_model: gpt-4o
 ---
 

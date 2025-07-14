@@ -4,17 +4,17 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Un nuevo artículo provocativo afirma que la larga caminata de nuestros
-  ancestros fuera de África no solo podó sus genes, sino también sus imaginaciones.
-  Sin embargo, los datos cuentan una historia diferente.
+description: Ein provokantes neues Papier behauptet, dass der lange Weg unserer Vorfahren
+  aus Afrika nicht nur ihre Gene, sondern auch ihre Vorstellungskraft beschnitten
+  hat. Die Daten erzählen jedoch eine andere Geschichte.
 draft: false
 keywords:
 - vectors-of-mind
 - world
-- mitología
+- mythologie
 - does
 - support
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '164374918'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/world-mythology-does-not-support
 quality: 6
 slug: world-mythology-does-not-support
 tags: []
-title: La mitología mundial no apoya
+title: Weltmythologie Unterstützt Nicht
 translation_model: gpt-4o
 ---
 

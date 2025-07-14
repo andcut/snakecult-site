@@ -1,34 +1,34 @@
 ---
 about:
-- orígenes de la conciencia
-- antropología evolutiva
-- mitología comparativa
+- Ursprünge des Bewusstseins
+- evolutionäre Anthropologie
+- vergleichende Mythologie
 author: Andrew Cutler
 core_entity: Serpent
 date: 2024-07-27
-description: 'Una variación génica-cultural sobre el Génesis: mujeres, serpientes
-  y recursión encienden el nacimiento del yo humano en el Pleistoceno tardío.'
+description: 'Ein Gen-Kultur-Riff über Genesis: Frauen, Schlangen und Rekursion entzünden
+  die spätpleistozäne Geburt des menschlichen Selbst.'
 draft: true
 keywords:
-- Teoría de Eva
-- yo recursivo
-- culto a la serpiente
-- evolución génica-cultural
+- Eva-Theorie
+- rekursives Selbst
+- Schlangenkult
+- Gen-Kultur-Evolution
 - Scott Alexander
-- mito del Génesis
-lang: es
+- Genesis-Mythos
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- conciencia
-- Evolución
-- mitología
+- Bewusstsein
+- Evolution
+- Mythologie
 - Scott Alexander
-- Filosofía
-- Especulación
-title: Teoría de Eva de la Conciencia (Remix de Slate Star Codex)
+- Philosophie
+- Spekulation
+title: Eva-Theorie des Bewusstseins (Slate Star Codex Remix)
 translation_model: gpt-4o
 ---
 

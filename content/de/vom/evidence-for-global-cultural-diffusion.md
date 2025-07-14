@@ -4,17 +4,17 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: En esta publicación, me gustaría mostrar que sociedades como los aborígenes
-  australianos y los navajos son similares en formas que requieren difusión cultural.
-  Es decir, elementos centrales de su cultura se remontan a...
+description: In diesem Beitrag möchte ich zeigen, dass Gesellschaften wie die australischen
+  Aborigines und die Navajo in einer Weise ähnlich sind, die kulturelle Diffusion
+  erfordert. Das heißt, zentrale Elemente ihrer Kultur gehen zurück auf ...
 draft: false
 keywords:
 - vectors-of-mind
-- evidencia
+- Beweise
 - global
-- cultural
-- difusión
-lang: es
+- kulturell
+- Diffusion
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '135720028'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/evidence-for-global-cultural-diffu
 quality: 6
 slug: evidence-for-global-cultural-diffusion
 tags: []
-title: Evidencia de la Difusión Cultural Global
+title: Beweise für globale kulturelle Diffusion
 translation_model: gpt-4o
 ---
 

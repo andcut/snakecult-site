@@ -1,33 +1,33 @@
 ---
 about:
-- Antropología Evolutiva
-- Cognición Social
-- Orígenes Humanos
+- Evolutionäre Anthropologie
+- Soziale Kognition
+- Menschliche Ursprünge
 author: Andrew Cutler
 date: 2025-04-20
-description: Examina la hipótesis evolutiva de que las presiones de selección lideradas
-  por mujeres para la inteligencia social y la autodomesticación colocaron a las mujeres
-  a la vanguardia de la evolución humana.
+description: Untersucht die evolutionäre Hypothese, dass von Frauen geführte Selektionsdrücke
+  für soziale Intelligenz und Selbstdomestikation Frauen an die Spitze der menschlichen
+  Evolution stellten.
 draft: false
 keywords:
-- evolución humana
-- inteligencia social
-- autodomesticación
-- crianza cooperativa
-- hipótesis de la abuela
-- elección de pareja femenina
-- antropología
-lang: es
+- menschliche Evolution
+- soziale Intelligenz
+- Selbstdomestikation
+- kooperative Aufzucht
+- Großmutter-Hypothese
+- weibliche Partnerwahl
+- Anthropologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- Crianza Cooperativa
-- Evolución
-- Género
-- psicología
-title: Si la Inteligencia Social Nos Hizo Humanos, las Mujeres Fueron Humanas Primero
+- Kooperative Aufzucht
+- Evolution
+- Geschlecht
+- Psychologie
+title: Wenn soziale Intelligenz uns menschlich machte, waren Frauen zuerst menschlich
 translation_model: gpt-4o
 ---
 

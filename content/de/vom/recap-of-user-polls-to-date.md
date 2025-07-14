@@ -1,21 +1,21 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Las encuestas son una herramienta de Substack infrautilizada, particularmente
-  cuando una publicación hace un argumento específico. Menos del 1% de las personas
-  que leen un artículo comentarán, y quienes lo hacen suelen tener opiniones fuertes.
-  Encuestas...
+description: Umfragen sind ein untergenutztes Substack-Tool, insbesondere wenn ein
+  Beitrag ein spezifisches Argument vorbringt. Weniger als 1% der Menschen, die einen
+  Artikel lesen, werden kommentieren, und diejenigen, die es tun, haben normalerweise
+  starke Meinungen. Umfragen...
 draft: false
 keywords:
 - vectors-of-mind
-- recap
-- usuario
-- encuestas
-- fecha
-lang: es
+- zusammenfassung
+- benutzer
+- umfragen
+- datum
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '143786323'
@@ -23,7 +23,7 @@ original_url: https://www.vectorsofmind.com/p/recap-of-user-polls-to-date
 quality: 6
 slug: recap-of-user-polls-to-date
 tags: []
-title: Resumen De Encuestas De Usuarios Hasta La Fecha
+title: Zusammenfassung der bisherigen Benutzerumfragen
 translation_model: gpt-4o
 ---
 

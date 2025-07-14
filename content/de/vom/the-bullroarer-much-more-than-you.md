@@ -4,19 +4,17 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Ningún etnomusicólogo, creo, aceptaría la plurigénesis en lo que respecta
-  a los zumbadores, que incluso en detalles decorativos son a menudo similares y se
-  utilizan para el mismo propósito dondequiera y cuandoquiera que se encuentren....
-  keywords: - vectors-of-mind - zumbador - mucho - más - que title: El Zumbador Mucho
-  Más Que Tú'
+description: „Kein Ethnomusikologe, denke ich, würde die Plurigenese in Bezug auf
+  die Schwirrhölzer akzeptieren, die selbst in dekorativen Details oft ähnlich sind
+  und überall und jederzeit für denselben Zweck verwendet werden....
 draft: false
 keywords:
 - vectors-of-mind
 - bullroarer
-- much
-- more
-- than
-lang: es
+- viel
+- mehr
+- als
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682170'
@@ -24,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/the-bullroarer-much-more-than-you
 quality: 6
 slug: the-bullroarer-much-more-than-you
 tags: []
-title: The Bullroarer Much More Than You
+title: Der Schwirrholz Viel Mehr Als Du
 translation_model: gpt-4o
 ---
 

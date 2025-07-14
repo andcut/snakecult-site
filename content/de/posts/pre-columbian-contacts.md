@@ -1,23 +1,23 @@
 ---
 about:
-- arqueología
+- Archäologie
 author: Andrew Cutler
 core_entity: pre-Columbian contact
 date: 2025-07-12
-description: Revisión exhaustiva de la evidencia de teorías de contacto transoceánico
-  precolombino.
+description: Umfassende Überprüfung der Beweise für präkolumbische transozeanische
+  Kontakt-Theorien.
 draft: false
 keywords:
-- contacto precolombino
-- arqueología
-lang: es
+- präkolumbischer Kontakt
+- Archäologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: pre-columbian-contacts
 tags:
-- Arqueología
-title: 'Contactos Precolombinos y Población de las Américas: Un Estudio Exhaustivo'
+- Archäologie
+title: 'Präkolumbische Kontakte und Besiedlung Amerikas: Eine umfassende Untersuchung'
 translation_model: gpt-4o
 ---
 

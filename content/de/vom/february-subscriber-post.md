@@ -1,19 +1,19 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Ha pasado un tiempo desde la última publicación para suscriptores, creo
-  que es hora de ponerse al día. Estoy trabajando en un par de publicaciones más largas,
-  incluyendo EToC v3; estén atentos a ellas. Mientras tanto, habrá más...
+description: Es ist eine Weile her seit dem letzten Abonnentenbeitrag, ich denke,
+  es ist Zeit, einzuchecken. Ich arbeite an ein paar längeren Beiträgen, einschließlich
+  EToC v3; haltet Ausschau nach ihnen. In der Zwischenzeit wird es mehr geben...
 draft: false
 keywords:
 - vectors-of-mind
-- febrero
-- suscriptor
-- publicación
-lang: es
+- Februar
+- Abonnent
+- Beitrag
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '141435306'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/february-subscriber-post
 quality: 6
 slug: february-subscriber-post
 tags: []
-title: Publicación para Suscriptores de Febrero
+title: Februar Abonnentenbeitrag
 translation_model: gpt-4o
 ---
 

@@ -1,33 +1,32 @@
 ---
 about:
-- paleoantropología
-- ciencia cognitiva
-- lingüística
-- psicología evolutiva
+- Paläoanthropologie
+- Kognitionswissenschaft
+- Linguistik
+- evolutionäre Psychologie
 author: Andrew Cutler
 date: 2025-04-22
-description: Resumen de los principales teóricos (Klein, Chomsky, Bickerton, Tattersall,
-  Mithen, Coolidge & Wynn) y sus teorías sobre la Revolución Cognitiva del Paleolítico
-  Superior.
+description: Überblick über die wichtigsten Theoretiker (Klein, Chomsky, Bickerton,
+  Tattersall, Mithen, Coolidge & Wynn) und ihre Theorien zur kognitiven Revolution
+  des Jungpaläolithikums.
 draft: false
 keywords:
-- revolución cognitiva
-- paleolítico superior
-- evolución humana
-- conciencia
-- evolución del lenguaje
-- modernidad conductual
-lang: es
+- kognitive Revolution
+- Jungpaläolithikum
+- menschliche Evolution
+- Bewusstsein
+- Evolution der Sprache
+- Verhaltensmoderne
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- Revolución Cognitiva
-- Filosofía
-- Prehistoria
-title: 'Big Bangs de la Mente: 7 Teorías Sobre la Actualización Cerebral del Paleolítico
-  Superior'
+- Kognitive Revolution
+- Philosophie
+- Vorgeschichte
+title: 'Urknalle des Geistes: 7 Theorien über das Gehirn-Upgrade im Jungpaläolithikum'
 translation_model: gpt-4o
 ---
 

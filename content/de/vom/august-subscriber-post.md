@@ -4,16 +4,16 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Bienvenidos a todos los que vinieron por la recomendación de. Tiene muchas
-  buenas ideas, pero particularmente me gusta su articulación de Creencias de Lujo,
-  como cuando alguien en una comunidad cerrada dice, “Defund the pol...
+description: Welcome everyone who came from’s recommendation. He has a lot of good
+  ideas, but I particularly like his articulation of Luxury Beliefs, such as when
+  someone in a gated community says, “Defund the pol...
 draft: false
 keywords:
 - vectors-of-mind
-- agosto
-- suscriptor
-- publicación
-lang: es
+- august
+- subscriber
+- post
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '131975625'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/august-subscriber-post
 quality: 6
 slug: august-subscriber-post
 tags: []
-title: Publicación de Suscriptor de Agosto
+title: August Subscriber Post
 translation_model: gpt-4o
 ---
 

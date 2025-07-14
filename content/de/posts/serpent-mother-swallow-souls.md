@@ -1,28 +1,27 @@
 ---
 about:
-- mitología
-- estudios de la conciencia
+- Mythologie
+- Bewusstseinsstudien
 author: Andrew Cutler
 core_entity: Kunapipi
 date: 2025-06-23
-description: Cómo Kunapipi y otros seres del Tiempo del Sueño tragaron a los novicios,
-  digirieron sus almas de niño y escupieron adultos iniciados, además de mitos paralelos
-  de niños-espíritu.
+description: Wie Kunapipi und andere Wesen der Traumzeit Novizen verschlangen, ihre
+  Jungen-Seelen verdauten und initiierte Erwachsene ausspuckten—plus parallele Geisterkind-Mythen.
 draft: false
 keywords:
 - Kunapipi
-- Serpiente Arcoíris
-- iniciación aborigen
-- mitología del Tiempo del Sueño
-- niño-espíritu
-lang: es
+- Regenbogenschlange
+- Aborigine-Initiation
+- Traumzeit-Mythologie
+- Geisterkind
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- Tiempo-del-Sueño-Australiano
-title: La Madre-Serpiente Que Devora Almas
+- Australische-Traumzeit
+title: Die Schlangen-Mutter, die Seelen verschlingt
 translation_model: gpt-4o
 ---
 

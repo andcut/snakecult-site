@@ -1,18 +1,18 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Kathleen Lowrey es profesora de antropología en la Universidad de Alberta,
-  donde investiga género y chamanismo. Entramos en contacto aquí mientras discutíamos
-  el matriarcado primordial en la Nota...
+description: Kathleen Lowrey ist Professorin für Anthropologie an der University of
+  Alberta, wo sie zu Geschlecht und Schamanismus forscht. Wir kamen hier in Kontakt,
+  während wir über das urzeitliche Matriarchat auf der Note diskutierten...
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - kathleen
 - lowrey
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140952174'

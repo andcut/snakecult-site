@@ -1,26 +1,26 @@
 ---
 about:
-- lingüística histórica
+- historische‑Linguistik
 author: Andrew Cutler
-core_entity: Proto‑Indo‑Europeo *ǵneh₃‑*
+core_entity: Proto‑Indo‑Europäisch *ǵneh₃‑*
 date: 2025-07-08
-description: Rastreando la raíz protoindoeuropea *ǵneh₃‑ que vincula el sánscrito
-  *jñā‑*, el inglés *know* y el griego *gnō‑/gnosis*.
+description: Die Verfolgung der proto-indoeuropäischen Wurzel *ǵneh₃‑*, die Sanskrit
+  *jñā‑*, Englisch *know* und Griechisch *gnō‑/gnosis* verbindet.
 draft: true
 keywords:
-- etimología
-- indoeuropeo
+- Etymologie
+- Indoeuropäisch
 - jñāna
 - gnosis
-- conocer
-lang: es
+- wissen
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: jnana-know-gnosis-etymology
 tags:
-- lingüística
-title: Etimología Compartida de Jñāna, Know y Gnosis
+- Linguistik
+title: Gemeinsame Etymologie von Jñāna, Know und Gnosis
 translation_model: gpt-4o
 ---
 

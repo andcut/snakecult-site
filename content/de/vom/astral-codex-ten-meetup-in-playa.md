@@ -1,20 +1,20 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Organizaré el encuentro de Astral Codex Ten en Playa del Carmen, México,
-  el 25 de septiembre. Ahora, el 33% de mis lectores ya están suscritos a ACX. Los
-  otros dos tercios deberían reservar una hora, ir al parque, ...
+description: Ich werde das Astral Codex Ten Treffen in Playa del Carmen, Mexiko, am
+  25. September veranstalten. Jetzt abonnieren bereits 33% meiner Leser ACX. Die anderen
+  zwei Drittel sollten sich eine Stunde Zeit nehmen, in den Park gehen, ...
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - astral
 - codex
-- encuentro
+- treffen
 - playa
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '136370670'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/astral-codex-ten-meetup-in-playa
 quality: 6
 slug: astral-codex-ten-meetup-in-playa
 tags: []
-title: Encuentro de Astral Codex Ten en Playa
+title: Astral Codex Ten Treffen In Playa
 translation_model: gpt-4o
 ---
 

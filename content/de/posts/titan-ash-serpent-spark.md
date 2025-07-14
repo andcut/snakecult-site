@@ -1,32 +1,32 @@
 ---
 about:
-- mitología comparativa
-- arqueoastronomía
+- vergleichende-Mythologie
+- Archäoastronomie
 author: Andrew Cutler
-core_entity: Titan ash
+core_entity: Titanenasche
 date: 2025-06-23
-description: Un estudio comparativo extenso de cosmogonías de desmembramiento, antropogenias
-  de ceniza de serpiente, espejos de agua esotéricos, y el Heracles solar de los himnos
-  órficos.
+description: Eine ausführliche vergleichende Studie über Zerstückelungs-Kosmogonien,
+  Schlangen-Asche Anthropogonien, esoterische Wasserspiegel und den solaren Herakles
+  der orphischen Hymnen.
 draft: false
 keywords:
-- Orfismo
-- mito de creación
-- simbolismo de serpiente
-- espejo ritual
-- cultos de misterio
-- antropogenia
-lang: es
+- Orphismus
+- Schöpfungsmythos
+- Schlangensymbolik
+- Ritualspiegel
+- Mysterienkulte
+- Anthropogonie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- Mito
-- Religión
-- Arqueología
-title: Ceniza de Titán y Chispa de Serpiente — Cosmos Desmembrado, Espejos de Agua,
-  y el Núcleo Ofídico de la Creación
+- Mythos
+- Religion
+- Archäologie
+title: Titanenasche & Schlangenfunke — Zerstückelter Kosmos, Wasserspiegel und der
+  ophidische Kern der Schöpfung
 translation_model: gpt-4o
 ---
 

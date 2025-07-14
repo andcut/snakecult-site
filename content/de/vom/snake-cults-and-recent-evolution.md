@@ -1,20 +1,20 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: El Dr. Thacker regresa a Vectores de la Mente para una profunda discusión
-  sobre la evolución humana y la conciencia. Stetson, quien tiene un doctorado en
-  genética con experiencia en cáncer y trastornos del neurodesarrollo, ...
+description: Dr. Thacker kehrt zu Vectors of Mind zurück für eine tiefgehende Diskussion
+  über menschliche Evolution und Bewusstsein. Stetson, der einen Doktortitel in Genetik
+  mit Fachkenntnissen in Krebs- und neuroentwicklungsbedingten Störungen hat, w...
 draft: false
 keywords:
-- vectores-de-la-mente
-- serpiente
-- cultos
-- reciente
-- evolución
-lang: es
+- vectors-of-mind
+- schlange
+- kulturen
+- aktuell
+- evolution
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152927046'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/snake-cults-and-recent-evolution
 quality: 6
 slug: snake-cults-and-recent-evolution
 tags: []
-title: Cultos a las Serpientes y Evolución Reciente
+title: Schlangenkulte und Aktuelle Evolution
 translation_model: gpt-4o
 ---
 

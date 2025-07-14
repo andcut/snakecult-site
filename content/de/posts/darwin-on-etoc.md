@@ -1,30 +1,30 @@
 ---
 about:
-- evolución-de-la-conciencia
+- Evolution des Bewusstseins
 author: Andrew Cutler
 core_entity: Charles Darwin
 date: 2024-07-13
-description: Un análisis profundo de cómo Charles Darwin podría ver la Teoría de Eva
-  de la Conciencia—una hipótesis moderna sobre la evolución de la autoconciencia humana—y
-  qué aspectos de esta teoría lo atraerían o sorprenderían.
+description: Ein tiefer Einblick, wie Charles Darwin die Eve-Theorie des Bewusstseins
+  betrachten könnte—eine moderne Hypothese zur Evolution des menschlichen Selbstbewusstseins—und
+  welche Aspekte dieser Theorie ihn ansprechen oder überraschen würden.
 draft: true
 keywords:
 - Charles Darwin
-- conciencia humana
-- evolución de la mente
-- modernidad conductual
-- Teoría de Eva
-- orígenes humanos
-lang: es
+- menschliches Bewusstsein
+- Evolution des Geistes
+- Verhaltensmoderne
+- Eve-Theorie
+- menschliche Ursprünge
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: darwin-on-etoc
 tags:
-- Evolución
-- Conciencia
-- Antropología
-title: Darwin y la Teoría de Eva de la Conciencia
+- Evolution
+- Bewusstsein
+- Anthropologie
+title: Darwin und die Eve-Theorie des Bewusstseins
 translation_model: gpt-4o
 ---
 

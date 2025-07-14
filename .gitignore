@@ -45,5 +45,6 @@ vom_posts/
 batch_work/
 
 # Auto-converted draft posts (can be regenerated)
-converted_posts/ quarantine/
+converted_posts/ 
+quarantine/
 agent_documentation/netlify-security-headers-and-analytics-backup-2025-07-13.md

@@ -1,38 +1,37 @@
 ---
 about:
-- evolución cognitiva
-- ritual de veneno de serpiente
-- separación sujeto-objeto
+- kognitive Evolution
+- Schlangengift-Ritual
+- Subjekt-Objekt-Trennung
 - Froese
 - Cutler
 author: Andrew Cutler
 date: 2025-04-19
-description: Síntesis profunda de la Hipótesis de la Mente Ritualizada de Tom Froese
-  y la Teoría del Culto a Eva/Serpiente de Andrew Cutler, resolviendo la Paradoja
-  Sapiente a través de la recursión mediada por rituales, la agencia femenina y las
-  barridas gen-cultura.
+description: Tiefe Synthese von Tom Froeses Ritualised-Mind-Hypothese und Andrew Cutlers
+  Eva/Schlangen-Kult-Theorie, die das Sapient-Paradox durch ritualvermittelte Rekursion,
+  weibliche Handlungsfähigkeit und Gen-Kultur-Dynamiken löst.
 draft: false
 keywords:
-- Hipótesis de la Mente Ritualizada
-- Teoría de la Conciencia de Eva
-- Culto a la Serpiente
-- Paradoja Sapiente
-- cognición simbólica
-- estados alterados
-- coevolución gen-cultura
-- pensamiento recursivo
-lang: es
+- Ritualised Mind Hypothesis
+- Eva-Theorie des Bewusstseins
+- Schlangenkult
+- Sapient-Paradox
+- symbolische Kognition
+- veränderte Bewusstseinszustände
+- Gen-Kultur-Koevolution
+- rekursives Denken
+lang: de
 lastmod: '2025-07-13'
 license: CC-BY-SA 4.0
 quality: 7
 slug: froese-ritualized-mind-eve-theory
 tags:
-- Paradoja Sapiente
-- conciencia
-- Evolución
-- ritual
-title: 'La Mente Ritualizada y la Teoría de la Conciencia de Eva: Un Relato Convergente
-  de la Evolución Cognitiva Humana'
+- Sapient-Paradox
+- Bewusstsein
+- Evolution
+- Ritual
+title: 'Der ritualisierte Geist und die Eva-Theorie des Bewusstseins: Ein konvergenter
+  Bericht über die kognitive Evolution des Menschen'
 translation_model: gpt-4o
 ---
 

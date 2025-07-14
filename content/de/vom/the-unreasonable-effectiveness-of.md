@@ -1,18 +1,19 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Si la autoconciencia surgió recientemente, esto debería aparecer en la
-  lingüística comparativa. La capacidad de introspección es muy importante, y requeriría
-  la invención de nuevas palabras para comunicar nuevas experien...
+description: Wenn das Selbstbewusstsein kürzlich entstanden ist, sollte dies in der
+  vergleichenden Linguistik sichtbar werden. Die Fähigkeit zur Introspektion ist eine
+  große Sache und würde die Erfindung neuer Wörter erfordern, um neue Erfahrungen
+  zu kommunizieren...
 draft: false
 keywords:
 - vectors-of-mind
 - unreasonable
 - effectiveness
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '103480693'
@@ -20,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/the-unreasonable-effectiveness-of
 quality: 6
 slug: the-unreasonable-effectiveness-of
 tags: []
-title: La Efectividad Injustificable De
+title: Die Unvernünftige Effektivität Von
 translation_model: gpt-4o
 ---
 

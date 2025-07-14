@@ -4,16 +4,16 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Bien, tomemos un pequeño respiro de las cosas de la sapiencia. En realidad
-  tenía un montón de psicometría preparada antes de ser atraído por el llamado claro
-  de la conciencia. Es tan difícil mirar hacia otro lado...
+description: Okay, lassen Sie uns eine kleine Pause von dem Bewusstseinszeug machen.
+  Ich hatte tatsächlich eine Menge Psychometrie vorbereitet, bevor ich vom lauten
+  Ruf des Bewusstseins angezogen wurde. Es ist einfach so schwer, wegzuschauen...
 draft: false
 keywords:
 - vectors-of-mind
-- personalidad
-- alrededor
-- mundo
-lang: es
+- Persönlichkeit
+- rund um
+- Welt
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '108601152'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/personality-around-the-world
 quality: 6
 slug: personality-around-the-world
 tags: []
-title: Personalidad Alrededor Del Mundo
+title: Persönlichkeit rund um die Welt
 translation_model: gpt-4o
 ---
 

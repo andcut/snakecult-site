@@ -1,27 +1,27 @@
 ---
 about:
-- lingüística
-- historia profunda
+- Linguistik
+- Tiefengeschichte
 author: Andrew Cutler
-core_entity: N‑pronombre
+core_entity: N‑pronomen
 date: 2025-07-08
-description: Un análisis profundo de dos etimologías especulativas que vinculan el
-  N‑pronombre global con ‘conocer’—ya sea semánticamente (conocedor = yo) o fonéticamente
-  (ǵn‑ > n‑).
+description: Ein tiefer Einblick in zwei spekulative Etymologien, die das globale
+  N‑Pronomen mit „Wissen“ verbinden—entweder semantisch (Wissender = Selbst) oder
+  phonetisch (ǵn‑ > n‑).
 draft: true
 keywords:
-- pronombres
-- etimología
-- gnosis
-lang: es
+- Pronomen
+- Etymologie
+- Gnosis
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: knower-self-gn-erosion
 tags:
-- Pronombres
-- Etimología
-title: Conocedor Yo Y Las Hipótesis De La Erosión Gn
+- Pronomen
+- Etymologie
+title: Wissendes Selbst und die Gn-Erosionshypothesen
 translation_model: gpt-4o
 ---
 

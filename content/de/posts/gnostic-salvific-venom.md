@@ -1,26 +1,26 @@
 ---
 about:
-- herejía cristiana primitiva
+- frühchristliche Häresie
 author: Andrew Cutler
-core_entity: Pharmakon/Veneno
+core_entity: Pharmakon/Gift
 date: 2025-05-05
-description: ¿Hablan los escritores gnósticos alguna vez de la serpiente de Cristo
-  como literalmente venenosa, o como un antídoto? Una auditoría fuente por fuente.
+description: Sprechen gnostische Schriftsteller jemals davon, dass die Schlange Christi
+  buchstäblich giftig ist – oder als Gegenmittel? Eine Quelle-für-Quelle-Prüfung.
 draft: false
 keywords:
-- veneno-de-serpiente
+- Schlangengift
 - pharmakon
-- Gnosticismo
-- Naasenos
-- Maniqueos
-lang: es
+- Gnostizismus
+- Naassener
+- Manichäer
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- Gnosticismo
-title: El motivo del 'Veneno' en las tradiciones de la Serpiente-Cristo
+- Gnostizismus
+title: Das 'Gift'-Motiv in den Schlangen-Christus-Traditionen
 translation_model: gpt-4o
 ---
 

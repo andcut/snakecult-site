@@ -1,18 +1,18 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: El científico de datos Matthew Fisher y yo nos conocimos en la conferencia
-  Less Online en Lighthaven, Berkeley, donde di una presentación sobre el Culto de
-  la Serpiente de la Conciencia. Entre sesiones, descubrimos que teníamos ...
+description: Data Scientist Matthew Fisher und ich trafen uns auf der Less Online
+  Konferenz in Lighthaven in Berkeley, wo ich einen Vortrag über den Schlangenkult
+  des Bewusstseins hielt. Zwischen den Sitzungen entdeckten wir, dass wir ...
 draft: false
 keywords:
-- vectores-de-la-mente
-- amor
-- simposio
-lang: es
+- vectors-of-mind
+- liebe
+- symposium
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '151015187'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/the-love-symposium
 quality: 6
 slug: the-love-symposium
 tags: []
-title: El Simposio del Amor
+title: Das Liebessymposium
 translation_model: gpt-4o
 ---
 

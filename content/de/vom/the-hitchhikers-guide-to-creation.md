@@ -1,20 +1,20 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: El papel de las mujeres y las serpientes en los mitos de creación es
-  el caso de prueba perfecto para la investigación profunda de OpenAI. Los lectores
-  probablemente estén familiarizados con el tema, por lo que pueden verificar afirmaciones.
-  Además, no existe tal especi...
+description: Die Rolle von Frauen und Schlangen in Schöpfungsmythen ist der perfekte
+  Testfall für die tiefgehende Forschung von OpenAI. Leser sind wahrscheinlich mit
+  dem Thema vertraut, sodass sie Behauptungen überprüfen können. Außerdem gibt es
+  keine solche spezi...
 draft: false
 keywords:
 - vectors-of-mind
 - hitchhikers
-- guía
-- creación
-lang: es
+- guide
+- schöpfung
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '157008603'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/the-hitchhikers-guide-to-creation
 quality: 6
 slug: the-hitchhikers-guide-to-creation
 tags: []
-title: La Guía del Viajero Intergaláctico para la Creación
+title: Der Hitchhikers Guide zur Schöpfung
 translation_model: gpt-4o
 ---
 

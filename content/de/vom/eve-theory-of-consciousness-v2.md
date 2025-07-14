@@ -4,15 +4,15 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Hasta donde sé, nadie ha argumentado que las mujeres evolucionaron la
-  recursión antes que los hombres. Esto parece una oportunidad fácil, dado que es
-  la historia más antigua del libro. Las culturas indígenas de todo el mundo tienen
-  mitos de un pr...
+description: Meines Wissens hat noch niemand behauptet, dass Frauen die Rekursion
+  vor Männern entwickelt haben. Dies scheint eine naheliegende Vermutung zu sein,
+  da es die älteste Geschichte im Buch ist. Indigene Kulturen weltweit haben Mythen
+  über eine pr...
 draft: false
 keywords:
 - vectors-of-mind
-- conciencia
-lang: es
+- consciousness
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '114650037'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/eve-theory-of-consciousness-v2
 quality: 6
 slug: eve-theory-of-consciousness-v2
 tags: []
-title: Teoría de Eva de la Conciencia V2
+title: Eva-Theorie des Bewusstseins V2
 translation_model: gpt-4o
 ---
 

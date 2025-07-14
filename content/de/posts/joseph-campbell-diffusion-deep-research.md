@@ -1,30 +1,30 @@
 ---
 about:
-- mitología
-- difusionismo
+- Mythologie
+- Diffusionismus
 author: Andrew Cutler
 core_entity: Joseph Campbell
 date: 2025-05-10
-description: Un catálogo fuente por fuente de cada pasaje donde Joseph Campbell atribuye
-  paralelismos míticos a la difusión cultural en el mundo real en lugar de a la unidad
-  psíquica junguiana.
+description: Ein quellenweiser Katalog aller Passagen, in denen Joseph Campbell mythische
+  Parallelen auf kulturelle Diffusion in der realen Welt und nicht auf die jungianische
+  psychische Einheit zurückführt.
 draft: false
 keywords:
 - Joseph Campbell
-- difusión cultural
-- mitología comparada
-- bullroarer
-- Tiempo del Sueño
-lang: es
+- kulturelle Diffusion
+- vergleichende Mythologie
+- Schwirrholz
+- Traumzeit
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusion-dossier
 tags:
 - Campbell
-- difusión
-- mitografía
-title: Joseph Campbell, Campeón de la Difusión Cultural
+- Diffusion
+- Mythographie
+title: Joseph Campbell, Verfechter der kulturellen Diffusion
 translation_model: gpt-4o
 ---
 

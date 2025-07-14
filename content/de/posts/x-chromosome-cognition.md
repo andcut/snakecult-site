@@ -1,31 +1,31 @@
 ---
 about:
-- evolución cognitiva
-- epigenética
-- cromosomas sexuales
+- kognitive Evolution
+- Epigenetik
+- Geschlechtschromosomen
 author: Andrew Cutler
 core_entity: X chromosome
 date: 2025-04-27
-description: Cómo la dosis de genes ligados al X, el escape de inactivación y la impronta
-  moldean el desarrollo del cerebro humano, la inteligencia y el comportamiento social.
+description: Wie X-gebundene Gen-Dosierung, Inaktivierungsflucht und Prägung die menschliche
+  Gehirnentwicklung, Intelligenz und soziales Verhalten formen.
 draft: false
 keywords:
 - X chromosome
-- cognición
-- neurodesarrollo
-- diferencias sexuales
-- impronta genómica
-lang: es
+- Kognition
+- Neuroentwicklung
+- Geschlechtsunterschiede
+- genomische Prägung
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: x-chromosome-cognition
 tags:
-- cognición
-- Genética
-- Neurociencia
-- Evolución
-title: Cromosoma X y Cognición de Orden Superior
+- Kognition
+- Genetics
+- Neuroscience
+- Evolution
+title: X-Chromosom und höherwertige Kognition
 translation_model: gpt-4o
 ---
 

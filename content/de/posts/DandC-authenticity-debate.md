@@ -1,30 +1,30 @@
 ---
 about:
-- autenticidad de las escrituras
-- poligamia mormona
-- historia de la iglesia
+- Schrift Echtheit
+- Mormonische Polygamie
+- Kirchengeschichte
 author: Andrew Cutler
 core_entity: Section 132
 date: 2025-07-08
-description: Investigación exhaustiva sobre la procedencia, autenticidad y orígenes
-  controvertidos de la Sección 132 de Doctrina y Convenios en las tradiciones SUD.
+description: Umfassende Untersuchung der Herkunft, Echtheit und umstrittenen Ursprünge
+  von Lehre und Bündnisse Abschnitt 132 in den LDS-Traditionen.
 draft: true
 keywords:
 - D&C 132
-- poligamia
+- Polygamie
 - Joseph Smith
-- historia SUD
-- procedencia textual
-lang: es
+- LDS-Geschichte
+- Textuelle Herkunft
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: authenticity-of-doctrine-and-covenants-section-132
 tags:
-- Doctrina y Convenios
-- matrimonio plural
+- Lehre und Bündnisse
+- Plurale Ehe
 - Joseph Smith
-title: Autenticidad de la Sección 132 de Doctrina y Convenios
+title: Echtheit von Lehre und Bündnisse Abschnitt 132
 translation_model: gpt-4o
 ---
 

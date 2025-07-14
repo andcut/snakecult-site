@@ -1,33 +1,33 @@
 ---
 about:
-- conciencia
-- mitología
-- evolución humana
+- Bewusstsein
+- Mythologie
+- menschliche Evolution
 author: Andrew Cutler
 core_entity: Serpent
 date: 2025-07-13
-description: El Culto de la Serpiente de la Conciencia entrelaza la neurociencia,
-  la teoría evolutiva y el simbolismo místico occidental en una hipótesis sobre los
-  orígenes de la autoconciencia humana.
+description: Der Schlangenkult des Bewusstseins verwebt Neurowissenschaften, Evolutionstheorie
+  und westliche mystische Symbolik zu einer Hypothese über die Ursprünge des menschlichen
+  Selbstbewusstseins.
 draft: true
 keywords:
-- conciencia
-- simbolismo de la serpiente
-- esoterismo occidental
-- evolución humana
-- psicodélicos
-lang: es
+- Bewusstsein
+- Schlangensymbolik
+- westliche Esoterik
+- menschliche Evolution
+- Psychedelika
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: the-snake-cult-of-consciousness-science-esotericism
 tags:
-- Conciencia
-- Mitología
-- Alquimia
-- Evolución
-title: 'El Culto de la Serpiente de la Conciencia: La Ciencia y el Esoterismo Occidental
-  Convergen'
+- Bewusstsein
+- Mythologie
+- Alchemie
+- Evolution
+title: 'Der Schlangenkult des Bewusstseins: Wissenschaft und westliche Esoterik vereinen
+  sich'
 translation_model: gpt-4o
 ---
 

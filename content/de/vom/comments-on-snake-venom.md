@@ -4,16 +4,16 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'La mayor parte de los comentarios que recibí sobre el Culto de la Conciencia
-  de la Serpiente fue sobre la farmacología del veneno. El primero fue de alguien
-  que aparentemente trabaja con veneno de serpiente:'
+description: 'Das meiste Feedback, das ich zum Schlangenkult des Bewusstseins erhielt,
+  bezog sich auf die Pharmakologie des Giftes. Das erste kam von jemandem, der angeblich
+  mit Schlangengift arbeitet:'
 draft: false
 keywords:
 - vectors-of-mind
-- comentarios
-- serpiente
-- veneno
-lang: es
+- Kommentare
+- Schlange
+- Gift
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '97498400'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/comments-on-snake-venom
 quality: 6
 slug: comments-on-snake-venom
 tags: []
-title: Comentarios Sobre el Veneno de Serpiente
+title: Kommentare zu Schlangengift
 translation_model: gpt-4o
 ---
 

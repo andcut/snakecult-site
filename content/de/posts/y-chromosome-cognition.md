@@ -1,32 +1,32 @@
 ---
 about:
-- Neurociencia
-- Genética
-- Biología Evolutiva
+- Neurowissenschaft
+- Genetik
+- Evolutionsbiologie
 author: Andrew Cutler
 date: 2025-04-21 12:00:00+00:00
-description: Una revisión que sintetiza evidencia sobre cómo el cromosoma Y influye
-  en la cognición humana, enfocándose en trastornos del neurodesarrollo, genes específicos,
-  estructura cerebral y contexto evolutivo.
+description: Eine Übersicht, die Beweise dafür zusammenfasst, wie das Y-Chromosom
+  die menschliche Kognition beeinflusst, mit Fokus auf neurodevelopmentale Störungen,
+  spezifische Gene, Gehirnstruktur und evolutionären Kontext.
 draft: false
 keywords:
-- cromosoma Y
-- cognición
-- neurodesarrollo
-- diferencias sexuales
-- evolución
-- genética
-lang: es
+- Y-Chromosom
+- Kognition
+- Neuroentwicklung
+- Geschlechtsunterschiede
+- Evolution
+- Genetik
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: y-chromosome-cognition
 tags:
-- Cromosomas Sexuales
-- Cognición
-- Autismo
-- Trastornos del Neurodesarrollo
-title: 'Papel del Cromosoma Y en la Cognición Humana: Una Revisión de Literatura'
+- Geschlechtschromosomen
+- Kognition
+- Autismus
+- Neurodevelopmentale Störungen
+title: 'Rolle des Y-Chromosoms in der menschlichen Kognition: Eine Literaturübersicht'
 translation_model: gpt-4o
 ---
 

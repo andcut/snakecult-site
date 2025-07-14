@@ -1,31 +1,31 @@
 ---
 about:
-- historia intelectual de la temprana modernidad
+- frühneuzeitliche Geistesgeschichte
 author: Andrew Cutler
 core_entity: New Atlantis
 date: 2025-07-13
-description: Explorando la visión de Francis Bacon de las Américas en su Nueva Atlántida,
-  los fundamentos proféticos y religiosos de su utopía, y su influencia en movimientos
-  esotéricos desde los Rosacruces hasta los Masones.
+description: Erforschung von Francis Bacons Vision der Amerikas in seiner New Atlantis,
+  der prophetischen und religiösen Grundlagen seiner Utopie und ihres Einflusses auf
+  esoterische Bewegungen von den Rosenkreuzern bis zu den Freimaurern.
 draft: false
 keywords:
 - Francis Bacon
 - New Atlantis
-- Visión utópica
-- Rosacrucismo
-- Profecía
-- Revolución Científica
-lang: es
+- Utopische Vision
+- Rosenkreuzertum
+- Prophezeiung
+- Wissenschaftliche Revolution
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: francis-bacon-new-world-vision
 tags:
-- Utopismo
-- Esoterismo
-- Historia de la Ciencia
-- Ilustración
-title: La Nueva Atlántida de Francis Bacon y la Visión del Nuevo Mundo
+- Utopismus
+- Esoterik
+- Wissenschaftsgeschichte
+- Aufklärung
+title: Francis Bacons New Atlantis und die Vision der Neuen Welt
 translation_model: gpt-4o
 ---
 

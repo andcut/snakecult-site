@@ -4,16 +4,16 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Los estudios léxicos en psicología y el Análisis Semántico Latente en
-  informática se introdujeron con medio siglo de diferencia para resolver diferentes
-  problemas y, sin embargo, son matemáticamente equivalentes. Esto no es un meta...
+description: Lexikalische Studien in der Psychologie und Latent Semantic Analysis
+  in der Informatik wurden mit einem halben Jahrhundert Abstand eingeführt, um unterschiedliche
+  Probleme zu lösen, und sind dennoch mathematisch äquivalent. Dies ist kein Meta...
 draft: false
 keywords:
 - vectors-of-mind
-- cinco
-- palabra
-- vectores
-lang: es
+- fünf
+- wort
+- vektoren
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '50351822'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/the-big-five-are-word-vectors
 quality: 6
 slug: the-big-five-are-word-vectors
 tags: []
-title: Los Cinco Grandes Son Vectores de Palabras
+title: Die Big Five sind Wortvektoren
 translation_model: gpt-4o
 ---
 

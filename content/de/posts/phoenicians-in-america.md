@@ -1,30 +1,30 @@
 ---
 about:
-- análisis histórico
-- evidencia arqueológica
+- historische Analyse
+- archäologische Beweise
 author: Andrew Cutler
 core_entity: Phoenician sailors
 date: 2025-04-22
-description: Un análisis histórico exhaustivo de las afirmaciones de que los marineros
-  fenicios llegaron a las Américas antes que Colón, examinando evidencia y debate
-  académico desde la antigüedad clásica hasta los tiempos modernos.
+description: Eine umfassende historische Analyse der Behauptungen, dass phönizische
+  Seefahrer Amerika vor Kolumbus erreichten, wobei Beweise und wissenschaftliche Debatten
+  von der klassischen Antike bis zur modernen Zeit untersucht werden.
 draft: false
 keywords:
-- contacto precolombino
-- historia fenicia
-- engaños arqueológicos
-- difusionismo
-- navegación antigua
-lang: es
+- präkolumbischer Kontakt
+- phönizische Geschichte
+- archäologische Fälschungen
+- Diffusionismus
+- antike Navigation
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: phoenicians-in-america
 tags:
-- Historia
-- arqueología
-- Pseudoarqueología
-title: 'Fenicios en las Américas: Un Análisis Cronológico de una Teoría Controvertida'
+- Geschichte
+- Archäologie
+- Pseudoarchäologie
+title: 'Phönizier in Amerika: Eine chronologische Analyse einer umstrittenen Theorie'
 translation_model: gpt-4o
 ---
 

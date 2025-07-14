@@ -1,31 +1,31 @@
 ---
 about:
-- estudios-de-la-conciencia
-- historia-de-la-ciencia
+- Bewusstseinsstudien
+- Wissenschaftsgeschichte
 author: Andrew Cutler
-core_entity: Snake venom
+core_entity: Schlangengift
 date: 2025‑07‑12
-description: Por qué la microdosificación de veneno de serpiente está en la raíz de
-  las búsquedas alquímicas, taoístas y de la Nueva Era de un elixir de la vida, y
-  qué implica eso sobre la biotecnología temprana.
+description: Warum Mikrodosierung von Schlangengift im Zentrum alchemistischer, daoistischer
+  und New-Age-Suchen nach einem Lebenselixier steht – und was das über frühe Biotechnologie
+  impliziert.
 draft: false
 keywords:
-- culto-a-la-serpiente
-- elixir-de-la-vida
-- envenenamiento-controlado
-- alquimia
-- inmortalidad-taoísta
-- enteógenos
-lang: es
+- Schlangenkult
+- Lebenselixier
+- kontrollierte Vergiftung
+- Alchemie
+- daoistische Unsterblichkeit
+- Entheogene
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: venom-as-elixir-of-life
 tags:
-- Alchemy
-- Daoism
-- Entheogens
-title: Veneno Como Elixir De La Vida
+- Alchemie
+- Daoismus
+- Entheogene
+title: Gift als Lebenselixier
 translation_model: gpt-4o
 ---
 

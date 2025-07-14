@@ -1,18 +1,18 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: El CI tiene la reputación de ser la opción psicométrica dura. Aquellos
-  que están dispuestos a aceptar los hechos sobre los sentimientos admitirán su supremacía.
-  ¡Pero esto es un valor robado! La inteligencia emocional es fund...
+description: Der IQ hat den Ruf, die knallharte psychometrische Option zu sein. Diejenigen,
+  die bereit sind, Fakten über Gefühle zu stellen, werden seine Überlegenheit zugeben.
+  Aber das ist gestohlener Ruhm! Emotionale Intelligenz ist grundlegend...
 draft: false
 keywords:
 - vectors-of-mind
-- formas
-- medidas
-lang: es
+- formen
+- maßnahmen
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '130101130'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/forms-vs-measures
 quality: 6
 slug: forms-vs-measures
 tags: []
-title: Formas vs. medidas
+title: Formen vs. Maßnahmen
 translation_model: gpt-4o
 ---
 

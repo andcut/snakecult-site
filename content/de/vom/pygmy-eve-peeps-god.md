@@ -4,15 +4,15 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: La obra de 1936 del antropólogo Paul Schebesta, Revisiting My Pygmy Hosts,
-  ofrece una ventana a los mitos de creación y sistemas de creencias de los pigmeos
-  Efe del Congo. Su explicación del pecado original ...
+description: Die Arbeit des Anthropologen Paul Schebesta aus dem Jahr 1936, Revisiting
+  My Pygmy Hosts, bietet einen Einblick in die Schöpfungsmythen und Glaubenssysteme
+  der Efe-Pygmäen des Kongo. Ihre Erklärung der Erbsünde ...
 draft: false
 keywords:
 - vectors-of-mind
-- pigmeo
-- peeps
-lang: es
+- pygmäe
+- einblicke
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '149163466'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/pygmy-eve-peeps-god
 quality: 6
 slug: pygmy-eve-peeps-god
 tags: []
-title: Pigmea Eva Espía a Dios
+title: Pygmäen-Eva blickt auf Gott
 translation_model: gpt-4o
 ---
 

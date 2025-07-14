@@ -1,19 +1,19 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Estoy asombrado por lo densos que pueden ser los mitos. La Caída de Adán
-  y Eva ocupa solo unas pocas páginas en el Génesis, y sin embargo captura ricamente
-  cómo sería despertar al propio rol como agente—el Conocimiento...
+description: Ich bin erstaunt darüber, wie dicht Mythen sein können. Der Sündenfall
+  von Adam und Eva nimmt nur ein paar Seiten in der Genesis ein und doch erfasst er
+  eindrucksvoll, wie es wäre, zu seiner Rolle als Handelnder zu erwachen—das Wissen...
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - bonus
 - ghibli
-- conciencia
-lang: es
+- bewusstsein
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '160128913'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/bonus-ghibli-eve-theory-of-conscio
 quality: 6
 slug: bonus-ghibli-eve-theory-of-consciousness
 tags: []
-title: Teoría de la Conciencia de Bonus Ghibli Eve
+title: Bonus Ghibli Eva Theorie des Bewusstseins
 translation_model: gpt-4o
 ---
 

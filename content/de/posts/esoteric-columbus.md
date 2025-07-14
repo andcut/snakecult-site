@@ -1,31 +1,31 @@
 ---
 about:
-- Historia del Renacimiento
-- Exploración
+- Renaissance-Geschichte
+- Erkundung
 author: Andrew Cutler
 core_entity: Christopher Columbus
 date: 2025-07-13
-description: Una exploración de las posibles influencias esotéricas de Christopher
-  Columbus, incluyendo el Hermetismo del Renacimiento y el patrocinio de los Medici,
-  y los rumores previos a 1492 sobre tierras al otro lado del Atlántico.
+description: Eine Erkundung der möglichen esoterischen Einflüsse auf Christopher Columbus,
+  einschließlich der hermetischen Renaissance und der Medici-Förderung, sowie der
+  Gerüchte vor 1492 über Länder jenseits des Atlantiks.
 draft: false
 keywords:
 - Christopher Columbus
-- Hermetismo
+- Hermetik
 - Medici
-- Nuevo Mundo
-- Era de los Descubrimientos
-lang: es
+- Neue Welt
+- Zeitalter der Entdeckungen
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: columbus-esoteric-ties-new-world-rumors
 tags:
 - Christopher Columbus
-- Renacimiento
-- Historia de la Exploración
-- Conocimiento Secreto
-title: Vínculos Esotéricos de Christopher Columbus y Rumores del Nuevo Mundo
+- Renaissance
+- Erkundungsgeschichte
+- Geheimes Wissen
+title: Christopher Columbus' esoterische Verbindungen und Gerüchte über die Neue Welt
 translation_model: gpt-4o
 ---
 

@@ -1,28 +1,28 @@
 ---
 about:
-- mitología
-- antropología
+- Mythologie
+- Anthropologie
 author: Andrew Cutler
 core_entity: Old Woman
 date: 2025-05-11
-description: Una encuesta mundial con muchas fuentes de relatos donde una anciana
-  decide que los humanos deben morir.
+description: Eine quellenreiche Weltübersicht von Geschichten, in denen eine alte
+  Frau entscheidet, dass Menschen sterben müssen.
 draft: false
 keywords:
-- origen-de-la-muerte
-- mitología-comparativa
+- Ursprung-des-Todes
+- vergleichende-Mythologie
 - Inuit
 - Blackfoot
-- mitos-africanos
-- filogenética-del-folclore
-lang: es
+- afrikanische-Mythen
+- Folklore-Phylogenetik
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: old-woman-death-motif
 tags:
-- folclore
-title: Old Woman ≘ Motivo de la Muerte en la Mitología Mundial
+- Folklore
+title: Old Woman ≘ Todesmotiv in der Weltmythologie
 translation_model: gpt-4o
 ---
 

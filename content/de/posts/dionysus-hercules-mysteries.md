@@ -1,26 +1,26 @@
 ---
 about:
-- cosmogonía mítica
-- religión de misterio
+- mythische Kosmogonie
+- Mysterienreligion
 author: Andrew Cutler
 date: 2025-04-19
-description: Cómo el Cósmico-Heracles establece la rueda del tiempo mientras Dionisio
-  la gira hacia la liberación en los cultos órfico-báquicos.
+description: Wie der kosmische Herakles das Rad der Zeit setzt, während Dionysos es
+  in den Orphisch-Bakchischen Kulten zur Befreiung dreht.
 draft: false
 keywords:
 - Herakles
 - Dionysus
-- Orphic m's
-- simbolismo del serpiente
-- soteriología
-lang: es
+- Orphische Mysterien
+- Schlangensymbolik
+- Soteriologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- Investigación-Profunda
-title: Herakles & Dionysus — Llaves Gemelas de los Misterios del Serpiente
+- Tiefenforschung
+title: Herakles & Dionysus — Zwillingsschlüssel der Schlangen-Mysterien
 translation_model: gpt-4o
 ---
 

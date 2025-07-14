@@ -1,29 +1,29 @@
 ---
 about:
-- mitología
+- Mythologie
 author: Andrew Cutler
-core_entity: World‑tree serpent
+core_entity: Weltbaum-Schlange
 date: 2025‑07‑12
-description: A través de las culturas, la serpiente enrollada en un árbol del mundo
-  señala un pasaje enteogénico hacia la autoconciencia del “yo soy”—este artículo
-  explica la persistencia del motivo.
+description: In verschiedenen Kulturen signalisiert die Schlange, die sich um einen
+  Weltbaum windet, einen entheogenen Übergang in ein selbstbewusstes „Ich-bin“-Bewusstsein—dieser
+  Artikel erklärt die Persistenz des Motivs.
 draft: false
 keywords:
-- world‑tree‑serpent
-- enteógeno
-- axis‑mundi
-- conciencia
-- mito
-lang: es
+- Weltbaum-Schlange
+- Entheogen
+- Axis Mundi
+- Bewusstsein
+- Mythos
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-world-tree
 tags:
-- Mitología
-- Conciencia
-- Enteógenos
-title: La Serpiente en el Árbol del Mundo
+- Mythologie
+- Bewusstsein
+- Entheogene
+title: Die Schlange am Weltbaum
 translation_model: gpt-4o
 ---
 

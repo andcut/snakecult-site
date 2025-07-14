@@ -4,15 +4,16 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Si no lo has tomado, por favor revisa la encuesta Momentos de Despertar.
-  La publicaré en Reddit y X en breve para obtener una muestra más grande (por favor
-  compártela con amigos), pero por ahora también sirve como una forma de l...
+description: Wenn Sie ihn noch nicht ausgefüllt haben, schauen Sie sich bitte die
+  Umfrage "Momente des Erwachens" an. Ich werde sie in Kürze auf Reddit und X veröffentlichen,
+  um eine größere Stichprobe zu erhalten (bitte teilen Sie sie mit Freunden), aber
+  vorerst dient sie als Möglichkeit zu l...
 draft: false
 keywords:
 - vectors-of-mind
-- subscriber
-- post
-lang: es
+- Abonnent
+- Beitrag
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '159411213'
@@ -20,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/may-subscriber-post-bb4
 quality: 6
 slug: may-subscriber-post-bb4
 tags: []
-title: Publicación de Suscriptor de Mayo Bb4
+title: Mai-Abonnentenbeitrag Bb4
 translation_model: gpt-4o
 ---
 

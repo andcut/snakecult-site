@@ -1,20 +1,20 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Esta es parte de una serie sobre la evolución de la recursión. La primera
-  publicación explicó por qué tantos psicólogos, filósofos y lingüistas creen que
-  el pensamiento recursivo es la habilidad que nos hace humanos. T...
+description: Dies ist Teil einer Serie über die Entwicklung der Rekursion. Der erste
+  Beitrag erklärte, warum so viele Psychologen, Philosophen und Linguisten glauben,
+  dass rekursives Denken die Fähigkeit ist, die uns menschlich macht. T...
 draft: false
 keywords:
 - vectors-of-mind
-- when
-- recursión
-- evolucionar
-- parte
-lang: es
+- wann
+- rekursion
+- entwickeln
+- teil
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '114633005'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/when-did-recursion-evolve-part-2
 quality: 6
 slug: when-did-recursion-evolve-part-2
 tags: []
-title: ¿Cuándo Evolucionó la Recursión? Parte 2
+title: Wann Entwickelte Sich Rekursion Teil 2
 translation_model: gpt-4o
 ---
 

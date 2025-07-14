@@ -1,29 +1,29 @@
 ---
 about:
-- orígenes humanos
+- Ursprünge der Menschheit
 author: Andrew Cutler
 core_entity: Snake Cult
 date: 2025-07-13
-description: Explorando cómo el genetista David Reich podría ver la Teoría de Eva
-  de la Conciencia – una hipótesis audaz de que la autoconciencia humana surgió culturalmente
-  y solo más tarde se codificó en nuestros genes.
+description: Erforschung, wie der Genetiker David Reich die Eva-Theorie des Bewusstseins
+  betrachten könnte – eine kühne Hypothese, dass das menschliche Selbstbewusstsein
+  kulturell entstand und erst später in unseren Genen kodiert wurde.
 draft: false
 keywords:
-- evolución humana
-- conciencia
-- coevolución gen-cultura
+- menschliche Evolution
+- Bewusstsein
+- Gen-Kultur-Koevolution
 - David Reich
-- Teoría de Eva
-lang: es
+- Eva-Theorie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: eve-theory-consciousness-reich-perspective
 tags:
-- Conciencia
-- Evolución Humana
-- Genética
-title: Teoría de Eva de la Conciencia – A través de los ojos de David Reich
+- Bewusstsein
+- Menschliche Evolution
+- Genetik
+title: Eva-Theorie des Bewusstseins – Durch die Augen von David Reich
 translation_model: gpt-4o
 ---
 

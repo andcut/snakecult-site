@@ -1,18 +1,18 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Usar el NotebookLM de Google ha sido un cambio radical para buscar en
-  bases de datos de texto de tamaño medio. En mi investigación reciente sobre mitos
-  de creación similares al Génesis, subí la antología de trece partes El...
+description: Die Verwendung von Googles NotebookLM hat die Suche in mittelgroßen Textdatenbanken
+  revolutioniert. In meiner jüngsten Forschung zu Schöpfungsmythen, die der Genesis
+  ähneln, habe ich die dreizehnteilige Anthologie The...
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - notebooklm
-- conciencia
-lang: es
+- bewusstsein
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '150429567'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/notebooklm-on-the-eve-theory-of-co
 quality: 6
 slug: notebooklm-on-the-eve-theory-of-consciousness
 tags: []
-title: Notebooklm En La Teoría de la Conciencia de la Víspera
+title: Notebooklm Über Die Vorabendtheorie Des Bewusstseins
 translation_model: gpt-4o
 ---
 

@@ -1,25 +1,25 @@
 ---
 about:
-- salud mental
+- psychische Gesundheit
 author: Andrew Cutler
 core_entity: Schizophrenia
 date: 2025-06-30
-description: Análisis exhaustivo sobre la incidencia, prevalencia, disparidades y
-  tendencias globales de la esquizofrenia.
+description: Umfassende tiefgehende Analyse der globalen Inzidenz, Prävalenz, Ungleichheiten
+  und Trends von Schizophrenie.
 draft: false
 keywords:
-- esquizofrenia
-- epidemiología
-- salud pública
+- Schizophrenie
+- Epidemiologie
+- öffentliche Gesundheit
 - global
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: schizophrenia-epidemiology-deepdive
 tags:
-- esquizofrenia
-title: Epidemiología Global de la Esquizofrenia (Actualización 2025)
+- Schizophrenie
+title: Globale Epidemiologie der Schizophrenie (Aktualisierung 2025)
 translation_model: gpt-4o
 ---
 

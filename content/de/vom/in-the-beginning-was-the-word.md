@@ -1,18 +1,17 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'En el principio era la Palabra, y la Palabra estaba con la Psicología,
-  y la Palabra era Psicología” ~Nueva Traducción Vectorial keywords: - vectors-of-mind
-  - principio - palabra title: En El Principio Era La Palabra'
+description: „Am Anfang war das Wort, und das Wort war bei der Psychologie, und das
+  Wort war Psychologie“ ~Neue Vektorübersetzung
 draft: false
 keywords:
 - vectors-of-mind
-- beginning
-- word
-lang: es
+- anfang
+- wort
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '51210419'
@@ -20,7 +19,7 @@ original_url: https://www.vectorsofmind.com/p/in-the-beginning-was-the-word
 quality: 6
 slug: in-the-beginning-was-the-word
 tags: []
-title: In The Beginning Was The Word
+title: Am Anfang war das Wort
 translation_model: gpt-4o
 ---
 

@@ -1,21 +1,21 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Hay una compensación entre escribir publicaciones de interés general
-  y aquellas que desarrollan ideas relacionadas con Eve y el Culto de la Serpiente.
-  La publicación sobre la difusión cultural fue más de lo primero e incluso fue tuiteada
+description: Es gibt einen Kompromiss zwischen dem Schreiben von Beiträgen von allgemeinem
+  Interesse und solchen, die Ideen im Zusammenhang mit Eve und dem Schlangenkult entwickeln.
+  Der Beitrag über kulturelle Diffusion war eher von ersterem und wurde sogar getwittert
   ...
 draft: false
 keywords:
 - vectors-of-mind
-- masculino
-- iniciación
-- rituales
-- difundir
-lang: es
+- männlich
+- initiation
+- rituale
+- diffundieren
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '136623669'
@@ -23,7 +23,7 @@ original_url: https://www.vectorsofmind.com/p/why-did-male-initiation-rituals-di
 quality: 6
 slug: why-did-male-initiation-rituals-diffuse
 tags: []
-title: Por Qué Se Difundieron los Rituales de Iniciación Masculina
+title: Warum haben sich männliche Initiationsrituale verbreitet
 translation_model: gpt-4o
 ---
 

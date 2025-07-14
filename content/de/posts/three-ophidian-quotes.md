@@ -1,26 +1,27 @@
 ---
 about:
-- herejía-cristiana-temprana
+- frühchristliche Häresie
 author: Andrew Cutler
 core_entity: Serpent-Pharmakon
 date: 2025-05-05
-description: Lectura detallada de pasajes maniqueos, ofitas y nasenos que hablan de
-  Cristo-como-Serpiente en términos farmacológicos.
+description: Detaillierte Analyse von manichäischen, ophitischen und naassenen Passagen,
+  die von Christus-als-Schlange in pharmakologischen Begriffen sprechen.
 draft: false
 keywords:
-- veneno-de-serpiente
-- pharmakon
-- gnosticismo
-- ofitas
-- maniqueos
-lang: es
+- Schlangengift
+- Pharmakon
+- Gnostizismus
+- Ophiten
+- Manichäer
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- Gnosticismo
-title: 'Luz-Veneno, Toxikon Eucarístico & Veneno Cósmico: tres tropos ofidios desglosados'
+- Gnostizismus
+title: 'Licht-Gift, Eucharistisches Toxikon & Kosmisches Gift: drei ophidische Tropen
+  entpackt'
 translation_model: gpt-4o
 ---
 

@@ -1,31 +1,31 @@
 ---
 about:
-- orígenes de la conciencia
-- antropología evolutiva
-- arqueología cognitiva
+- Ursprünge des Bewusstseins
+- evolutionäre Anthropologie
+- kognitive Archäologie
 author: Andrew Cutler
-core_entity: Venus figurine
+core_entity: Venusfigurine
 date: 2025-04-27
-description: Cómo una chispa de autoconciencia del Pleistoceno Superior tardío se
-  propagó meméticamente, reconfiguró nuestro genoma y resolvió la Paradoja Sapiente.
+description: Wie ein Funke des Selbstbewusstseins im späten Oberpleistozän memetisch
+  verbreitet wurde, unser Genom umgestaltete und das Sapient-Paradoxon löste.
 draft: false
 keywords:
-- Teoría de Eva de la Conciencia
-- autoconciencia recursiva
-- coevolución gen-cultura
-- Paradoja Sapiente
-- mente bicameral
-- modernidad conductual
-lang: es
+- Eva-Theorie des Bewusstseins
+- rekursive Selbstwahrnehmung
+- Gen-Kultur-Koevolution
+- Sapient-Paradoxon
+- bikamerales Bewusstsein
+- Verhaltensmoderne
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by sa/4.0/
 quality: 7
 slug: etoc epistemic-exactitude
 tags:
 - EToC
-- Historia Profunda
-- evolución humana
-title: 'Despertar a Eva: Cómo el Autoconocimiento Reconfiguró la Mente Humana'
+- Tiefengeschichte
+- menschliche Evolution
+title: 'Evas Erwachen: Wie Selbsterkenntnis den menschlichen Geist umgestaltete'
 translation_model: gpt-4o
 ---
 

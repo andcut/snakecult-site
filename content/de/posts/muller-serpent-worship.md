@@ -1,24 +1,24 @@
 ---
 about:
-- Estudios Religiosos
-- Antropología
-- Mitología
+- Religionswissenschaft
+- Anthropologie
+- Mythologie
 author: Andrew Cutler
 core_entity: Nāga
 date: 2025-04-20
-description: Analizando el trabajo del siglo XIX de Max Müller sobre la adoración
-  a los serpientes, centrándose en su identificación del simbolismo de la serpiente
-  en las tradiciones védicas e indoeuropeas y comparando sus hallazgos con mitos de
-  serpientes globales relevantes para la hipótesis del Culto a la Serpiente.
+description: Analyse von Max Müllers Arbeit aus dem 19. Jahrhundert über Schlangenanbetung,
+  mit Fokus auf seine Identifizierung von Schlangensymbolik in vedischen und indoeuropäischen
+  Traditionen und Vergleich seiner Erkenntnisse mit globalen Schlangenmythen, die
+  für die Schlangenkult-Hypothese relevant sind.
 draft: false
 keywords:
 - Max Müller
-- adoración a los serpientes
+- Schlangenanbetung
 - Nāga
-- mitología
-- religión comparativa
-- simbolismo
-lang: es
+- Mythologie
+- vergleichende Religionswissenschaft
+- Symbolik
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
@@ -26,11 +26,11 @@ slug: muller-serpent-worship
 tags:
 - Max Müller
 - Ritual
-- Adoración a los Serpientes
-- Simbolismo
-- mitología
-title: 'Maximilian Müller sobre la Adoración a los Serpientes: Raíces Indoeuropeas
-  y Paralelismos Globales'
+- Schlangenanbetung
+- Symbolik
+- Mythologie
+title: 'Maximilian Müller über Schlangenanbetung: Indoeuropäische Wurzeln und globale
+  Parallelen'
 translation_model: gpt-4o
 ---
 

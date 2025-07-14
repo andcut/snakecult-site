@@ -1,29 +1,30 @@
 ---
 about:
-- teología de la restauración
-- evangelio eterno
-- dispensaciones
+- Wiederherstellungstheologie
+- ewiges Evangelium
+- Heilszeitalter
 author: Andrew Cutler
-core_entity: Perennial Gospel
+core_entity: Immerwährendes Evangelium
 date: 2025-07-08
-description: Una exploración de cómo los Santos de los Últimos Días ven su fe como
-  la restauración del evangelio original de Dios a través de todas las dispensaciones.
+description: Eine Untersuchung, wie die Heiligen der Letzten Tage ihren Glauben als
+  die Wiederherstellung von Gottes ursprünglichem Evangelium über alle Heilszeitalter
+  hinweg sehen.
 draft: false
 keywords:
-- religión perenne
-- Restauración
-- doctrina SUD
-- dispensaciones
-lang: es
+- immerwährende Religion
+- Wiederherstellung
+- LDS-Lehre
+- Heilszeitalter
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormonism-perennial-original
 tags:
-- Mormonismo
-- SUD
-- teología
-title: El Mormonismo como la Religión Perenne y Original
+- Mormonismus
+- LDS
+- Theologie
+title: Mormonismus als die immerwährende und ursprüngliche Religion
 translation_model: gpt-4o
 ---
 

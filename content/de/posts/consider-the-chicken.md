@@ -1,29 +1,29 @@
 ---
 about:
-- arqueozoología
-- navegación polinesia
-- domesticación
+- Archäozoologie
+- Polynesische Seefahrt
+- Domestikation
 author: Andrew Cutler
-core_entity: hueso de pollo
+core_entity: Hühnerknochen
 date: 2025-05-10
-description: Sopesando la evidencia arqueológica, genética e histórica sobre si los
-  pollos llegaron a las Américas antes de Colón.
+description: Abwägen archäologischer, genetischer und historischer Beweise dafür,
+  ob Hühner Amerika vor Kolumbus erreichten.
 draft: false
 keywords:
-- pollos precolombinos
-- contacto polinesio
+- präkolumbianische Hühner
+- polynesischer Kontakt
 - El Arenal
-- intercambio transpacífico
-- arqueozoología
-lang: es
+- transpazifischer Austausch
+- Archäozoologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- Contacto Antiguo
-- Arqueología
-title: Considera el Pollo
+- Antiker Kontakt
+- Archäologie
+title: Betrachte das Huhn
 translation_model: gpt-4o
 ---
 

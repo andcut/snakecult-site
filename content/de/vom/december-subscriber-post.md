@@ -1,19 +1,19 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Ha sido un buen año aquí en Vectors of Mind. La Teoría de la Conciencia
-  de Eve siempre ha sido aspiracional. Pedantemente, es más una hipótesis, particularmente
-  las versiones 1 y 2. Sin embargo, con el ...
+description: Es war ein gutes Jahr hier bei Vectors of Mind. Die Eve-Theorie des Bewusstseins
+  war immer schon ehrgeizig. Pedantisch gesehen ist es eher eine Hypothese—insbesondere
+  die Versionen 1 und 2. Allerdings, mit dem ...
 draft: false
 keywords:
 - vectors-of-mind
-- diciembre
-- suscriptor
-- publicación
-lang: es
+- dezember
+- abonnent
+- beitrag
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152359762'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/december-subscriber-post
 quality: 6
 slug: december-subscriber-post
 tags: []
-title: Publicación de Suscriptor de Diciembre
+title: Dezember-Abonnentenbeitrag
 translation_model: gpt-4o
 ---
 

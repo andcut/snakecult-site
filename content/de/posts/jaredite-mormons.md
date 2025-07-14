@@ -1,27 +1,27 @@
 ---
 about:
-- orígenes-humanos
+- menschliche Ursprünge
 author: Andrew Cutler
 core_entity: Clovis Spearpoint
 date: 2025-07-13
-description: Un experimento mental que alinea a los jareditas del Libro de Mormón
-  con el horizonte Clovis del Pleistoceno tardío y reinterpreta las llegadas nefitas
-  como una afluencia atlántica del primer milenio a.C.
+description: Ein Gedankenexperiment, das die Jarediten des Buches Mormon mit dem Clovis-Horizont
+  des späten Pleistozäns in Einklang bringt und die Ankunft der Nephiten als atlantischen
+  Zustrom im ersten Jahrtausend v. Chr. neu interpretiert.
 draft: false
 keywords:
 - clovis
-- jareditas
-- libro de mormón
-- arqueología especulativa
-- paleolítico
-lang: es
+- jarediten
+- buch mormon
+- spekulative archäologie
+- paläolithikum
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: jaredites-clovis-hypothesis
 tags:
-- historia-especulativa
-title: Jareditas como la Cultura Clovis
+- spekulative geschichte
+title: Jarediten als die Clovis-Kultur
 translation_model: gpt-4o
 ---
 

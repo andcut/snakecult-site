@@ -1,29 +1,29 @@
 ---
 about:
-- mitología
-- antropología
+- Mythologie
+- Anthropologie
 author: Andrew Cutler
 core_entity: Pandora/Eve
 date: 2025-05-11
-description: Una encuesta mundial verificada de relatos en los que el acto de una
-  mujer desata la mortalidad. Incluye una breve nota sobre la (escasa) literatura
-  cuantitativa.
+description: Eine quellengeprüfte Weltumfrage von Geschichten, in denen die Tat einer
+  Frau die Sterblichkeit entfesselt. Beinhaltet eine kurze Anmerkung zur (dünnen)
+  quantitativen Literatur.
 draft: false
 keywords:
-- origen-de-la-muerte
+- Ursprung-des-Todes
 - Pandora
 - Eve
 - Izanami
 - Tiwi
-- mitología-comparativa
-lang: es
+- vergleichende-Mythologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: women-bring-death-motif
 tags:
-- folclore
-title: 'Ella Que Trae la Muerte: Agentes Femeninas de la Mortalidad en el Mito Mundial'
+- Folklore
+title: 'Sie, die den Tod bringt: Weibliche Todesboten in der Weltmythologie'
 translation_model: gpt-4o
 ---
 

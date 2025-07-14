@@ -1,29 +1,28 @@
 ---
 about:
-- conciencia
+- Bewusstsein
 author: Andrew Cutler
 core_entity: Venomous snake
 date: 2025‑07‑12
-description: A través de las culturas, la serpiente es llamada "sabia". Nuevas evidencias
-  muestran que el apodo surgió de alteraciones de la conciencia inducidas por el veneno,
-  no del coeficiente intelectual del reptil.
+description: In verschiedenen Kulturen wird die Schlange als „weise“ bezeichnet. Neue
+  Beweise zeigen, dass der Spitzname durch bewusstseinsverändernde Wirkungen von Gift
+  entstand, nicht durch die Intelligenz der Reptilien.
 draft: false
 keywords:
-- sabiduría de la serpiente
-- simbolismo del serpiente
-- alucinaciones por veneno
-- neuroantropología
-lang: es
+- Schlangenweisheit
+- Schlangensymbolik
+- Gift-Halluzinationen
+- Neuroanthropologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: snake-cult-of-consciousness-wise-serpent
 tags:
-- Mitología
-- Neurociencia
-- Antropología
-title: Culto de la Conciencia de la Serpiente y la Reputación Global de la "Sabia"
-  Serpiente
+- Mythologie
+- Neurowissenschaft
+- Anthropologie
+title: Schlangenkult des Bewusstseins und der globale Ruf der „weisen“ Schlange
 translation_model: gpt-4o
 ---
 

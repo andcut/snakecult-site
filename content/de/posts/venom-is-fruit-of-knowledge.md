@@ -1,23 +1,23 @@
 ---
 about:
-- mitología
+- Mythologie
 author: Andrew Cutler
-core_entity: veneno de serpiente
+core_entity: Schlangengift
 date: 2025-07-12
-description: Explora la hipótesis de que el veneno de serpiente sirvió como el enteógeno
-  primordial de la humanidad.
+description: Untersucht die Hypothese, dass Schlangengift als ursprüngliches Entheogen
+  der Menschheit diente.
 draft: false
 keywords:
-- veneno de serpiente
-- enteógeno
-lang: es
+- Schlangengift
+- Entheogen
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: venom-is-fruit-of-knowledge
 tags:
-- Mitología
-title: 'El Fruto del Conocimiento: El Veneno de Serpiente como el Enteógeno Primordial'
+- Mythologie
+title: 'Die Frucht der Erkenntnis: Schlangengift als ursprüngliches Entheogen'
 translation_model: gpt-4o
 ---
 

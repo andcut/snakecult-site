@@ -1,30 +1,31 @@
 ---
 about:
-- mitología
-- cosmología
+- Mythologie
+- Kosmologie
 author: Andrew Cutler
 core_entity: Nehebkau
 date: 2025-06-25
-description: Desde los Textos de los Sarcófagos Egipcios hasta la filosofía griega,
-  por qué las serpientes tragan el caos y por qué Eros es la cinta adhesiva del universo.
+description: Von ägyptischen Sargtexten bis zur griechischen Philosophie, warum Schlangen
+  das Chaos verschlingen und warum Eros das Klebeband des Universums ist.
 draft: false
 keywords:
 - Nehebkau
 - Ogdoad
 - Greek-primordials
 - Eros
-- caos-mitología
-- mito-comparativo
-lang: es
+- Chaos-Mythologie
+- Vergleichende-Mythologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: chaos-contained-nehebkau-ogdoad
 tags:
-- mito-egipcio
-- mito-griego
-- religión-comparativa
-title: 'Caos Contenido: Nehebkau, el Ogdoad, Primordiales Griegos y el Vínculo Cósmico'
+- Ägyptische-Mythologie
+- Griechische-Mythologie
+- Vergleichende-Religion
+title: 'Chaos Gebändigt: Nehebkau, die Ogdoad, Griechische Primordiale & das Kosmische
+  Band'
 translation_model: gpt-4o
 ---
 

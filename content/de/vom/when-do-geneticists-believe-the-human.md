@@ -4,9 +4,9 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Los humanos son únicos entre los animales por su capacidad de pensamiento
-  simbólico y su dependencia de un lenguaje complejo y gramatical. Hace unos 70,000
-  años, nuestra especie comenzó a producir arte y luego tomó el control ...
+description: Menschen sind unter Tieren einzigartig in ihrer Fähigkeit zum symbolischen
+  Denken und ihrer Abhängigkeit von komplexer, grammatikalischer Sprache. Vor etwa
+  70.000 Jahren begann unsere Spezies, Kunst zu produzieren und übernahm dann ...
 draft: false
 keywords:
 - vectors-of-mind
@@ -14,7 +14,7 @@ keywords:
 - geneticists
 - believe
 - human
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '148733976'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/when-do-geneticists-believe-the-hu
 quality: 6
 slug: when-do-geneticists-believe-the-human
 tags: []
-title: Cuándo Creen Los Genetistas Que El Humano
+title: Wann Glauben Genetiker An Den Menschen
 translation_model: gpt-4o
 ---
 

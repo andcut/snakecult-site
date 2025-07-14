@@ -1,31 +1,32 @@
 ---
 about:
-- Mitología
-- Historia
+- Mythologie
+- Geschichte
 author: Andrew Cutler
-core_entity: Atlas (Titán)
+core_entity: Atlas (Titan)
 date: 2025-07-13
-description: El Océano Atlántico y la isla de la Atlántida toman su nombre del Titán
-  Atlas. Descubre cómo la mitología y el lenguaje convergen en su etimología compartida.
+description: Der Atlantische Ozean und die Insel Atlantis verdanken beide ihren Namen
+  dem Titanen Atlas. Entdecken Sie, wie Mythologie und Sprache in ihrer gemeinsamen
+  Etymologie zusammenkommen.
 draft: false
 keywords:
-- Océano Atlántico
-- Atlántida
-- Atlas Titán
-- Mitología griega
-- Civilización perdida
-lang: es
+- Atlantischer Ozean
+- Atlantis
+- Atlas Titan
+- Griechische Mythologie
+- Verlorene Zivilisation
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: atlantic-atlantis-shared-root
 tags:
-- Mitología
-- Atlántida
-- Etimología
-- Misticismo
-title: 'A la Sombra de Atlas: Por Qué el Océano Atlántico y la Atlántida Comparten
-  un Nombre'
+- Mythologie
+- Atlantis
+- Etymologie
+- Mystik
+title: 'Im Schatten des Atlas: Warum der Atlantische Ozean und Atlantis denselben
+  Namen tragen'
 translation_model: gpt-4o
 ---
 

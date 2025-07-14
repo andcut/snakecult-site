@@ -1,29 +1,29 @@
 ---
 about:
-- simbolismo
-- historia-de-la-medicina
+- Symbolik
+- Medizingeschichte
 author: Andrew Cutler
 core_entity: Rod of Asclepius
 date: 2025-07-12
-description: Por qué el bastón de una sola serpiente que corona los logotipos de los
-  hospitales codifica una antigua teología farmacológica en la que el veneno y el
-  remedio son dos espirales de la misma serpiente.
+description: Warum der ein-Schlangen-Stab, der Krankenhauslogos krönt, eine alte pharmakologische
+  Theologie verschlüsselt, in der Gift und Heilmittel zwei Windungen derselben Schlange
+  sind.
 draft: false
 keywords:
 - Rod of Asclepius
-- simbolismo médico
-- veneno de serpiente
-- farmacología
-- conciencia
-lang: es
+- medizinische Symbolik
+- Schlangengift
+- Pharmakologie
+- Bewusstsein
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-pharmakon-rod-of-asclepius
 tags:
-- Mitología
-- Historia-de-la-Ciencia
-title: 'Serpientes de Sanación: Descifrando el Rod of Asclepius'
+- Mythologie
+- Wissenschaftsgeschichte
+title: 'Schlangen der Heilung: Entschlüsselung des Rod of Asclepius'
 translation_model: gpt-4o
 ---
 

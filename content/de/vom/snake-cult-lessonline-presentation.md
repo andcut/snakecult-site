@@ -4,17 +4,18 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Recientemente asistí a LessOnline, una conferencia de racionalistas/blogueros
-  donde presenté sobre el Culto de la Serpiente. Debería haber grabado esa presentación,
-  pero hice lo siguiente mejor y la volví a grabar para compartir ...
+description: Ich habe kürzlich an LessOnline teilgenommen, einer Rationalisten/Blogger-Konferenz,
+  auf der ich über den Schlangenkult referierte. Ich hätte diese Präsentation aufnehmen
+  sollen, habe aber das Nächstbeste getan und sie neu aufgenommen, um sie zu teilen
+  ...
 draft: false
 keywords:
 - vectors-of-mind
-- serpiente
-- culto
+- schlange
+- kult
 - lessonline
-- presentación
-lang: es
+- präsentation
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145546393'
@@ -22,7 +23,7 @@ original_url: https://www.vectorsofmind.com/p/snake-cult-lessonline-presentation
 quality: 6
 slug: snake-cult-lessonline-presentation
 tags: []
-title: Presentación del Culto de la Serpiente en Lessonline
+title: Schlangenkult Lessonline Präsentation
 translation_model: gpt-4o
 ---
 

@@ -1,31 +1,30 @@
 ---
 about:
-- orígenes-humanos
-- mitopoética
+- menschliche Ursprünge
+- Mythopoetik
 author: Andrew Cutler
-core_entity: Concepto‑de‑Sí‑Mismo
+core_entity: Selbstkonzept
 date: 2025-07-08
-description: Una exploración extensa de cómo el descubrimiento de la autoconciencia
-  reflexiva se difundió a través de las culturas del final de la Edad de Hielo, con
-  la Teoría de Eva de la Conciencia y la hipótesis del Culto a la Serpiente como el
-  marco narrativo más coherente.
+description: Eine ausführliche Erkundung, wie die Entdeckung des reflektierenden Selbstbewusstseins
+  sich durch spät-eiszeitliche Kulturen ausbreitete, mit der Eva-Theorie des Bewusstseins
+  und der Schlangenkult-Hypothese als dem kohärentesten narrativen Rahmen.
 draft: true
 keywords:
-- conciencia
-- Teoría-de-Eva
-- Culto-a-la-Serpiente
-- autoconciencia
-- difusión-cultural
-lang: es
+- Bewusstsein
+- Eva-Theorie
+- Schlangenkult
+- Selbstbewusstsein
+- kulturelle Diffusion
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: self-goes-viral-eve-theory-snake-cult
 tags:
-- Conciencia
-- Mitología
-title: 'Cómo El Yo Se Volvió Viral: Teoría de Eva, Cultos a la Serpiente, Y La Explosión
-  De Conciencia Del Pleistoceno Tardío'
+- Bewusstsein
+- Mythologie
+title: 'Wie das Selbst viral ging: Eva-Theorie, Schlangenkulte und die spätpleistozäne
+  Explosion des Bewusstseins'
 translation_model: gpt-4o
 ---
 

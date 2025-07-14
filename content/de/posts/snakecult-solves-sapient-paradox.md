@@ -1,29 +1,29 @@
 ---
 about:
-- orígenes-humanos
-- evolución-cultural
+- menschliche Ursprünge
+- kulturelle Evolution
 author: Andrew Cutler
 core_entity: Serpent pillar
 date: 2025‑07‑12
-description: 'El Culto de la Serpiente de la Conciencia replantea la Paradoja Sapiente:
-  la modernidad conductual emergió hace ~15 mil años a través de la difusión memética—no
-  genética—del yo.'
+description: 'Der Schlangenkult des Bewusstseins rahmt das Sapient-Paradoxon neu:
+  Die Verhaltensmodernität entstand vor ~15 Tausend Jahren durch memetische—nicht
+  genetische—Diffusion des Selbstbewusstseins.'
 draft: false
 keywords:
-- paradoja sapiente
-- modernidad conductual
-- culto de la serpiente
-- difusión memética
-- evolución de la conciencia
-lang: es
+- Sapient-Paradoxon
+- Verhaltensmodernität
+- Schlangenkult
+- memetische Diffusion
+- Bewusstseinsentwicklung
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-of-consciousness-sapient-paradox
 tags:
-- Orígenes Humanos
-- Evolución Cultural
-title: Culto de la Serpiente de la Conciencia y la Paradoja Sapiente
+- Menschliche Ursprünge
+- Kulturelle Evolution
+title: Schlangenkult des Bewusstseins und das Sapient-Paradoxon
 translation_model: gpt-4o
 ---
 

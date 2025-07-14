@@ -1,19 +1,19 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Después de milenios de debate sobre los orígenes de la conciencia, los
-  expertos aún proponen fechas de inicio que abarcan cinco órdenes de magnitud. Esta
-  publicación destacará algunos de esos intentos, los relacionará con recurs...
+description: Nach Jahrtausenden der Debatte über die Ursprünge des Bewusstseins legen
+  Experten immer noch Startdaten vor, die fünf Größenordnungen umfassen. Dieser Beitrag
+  wird einige dieser Versuche hervorheben und sie in Bezug setzen zu Rekurs...
 draft: false
 keywords:
 - vectors-of-mind
-- cuándo
-- recursión
-- evolucionar
-lang: es
+- wann
+- rekursion
+- entwickeln
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '114632067'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/when-did-recursion-evolve
 quality: 6
 slug: when-did-recursion-evolve
 tags: []
-title: Cuándo Evolucionó la Recursión
+title: Wann hat sich Rekursion entwickelt
 translation_model: gpt-4o
 ---
 

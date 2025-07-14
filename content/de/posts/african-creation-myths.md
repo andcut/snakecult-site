@@ -1,30 +1,31 @@
 ---
 about:
-- mitología
-- cosmología
-- religión comparativa
+- Mythologie
+- Kosmologie
+- vergleichende Religion
 author: Andrew Cutler
-core_entity: Nommo twins
+core_entity: Nommo-Zwillinge
 date: 2025-06-23
-description: Recorre los pueblos de arcilla Yoruba, los gemelos pez Dogon, las serpientes
-  ka egipcias y el bullroarer de Lebe para ver cómo África narra los comienzos humanos.
+description: Durchstreifen Sie Yoruba-Tonmenschen, Dogon-Fischzwillinge, ägyptische
+  Ka-Schlangen und Lebes Bullroarer, um zu sehen, wie Afrika die Anfänge der Menschheit
+  erzählt.
 draft: false
 keywords:
-- mitos-africanos
+- Afrikanische-Mythen
 - Dogon-Nommo
-- motivo-gemelo
-- egipcio-ka
+- Zwillingsmotiv
+- Ägyptische-Ka
 - Lebe-Seru
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: african-origin-myths-twin-nommo-ka-lebe
 tags:
-- Mitología
-- Estudios-Africanos
-- Estudios-de-la-Consciencia
-title: Mitos de Origen Africano, Motivos Gemelos, Nommo, Serpientes Ka & Lebe Seru
+- Mythologie
+- Afrikastudien
+- Bewusstseinsstudien
+title: Afrikanische Ursprungsmythen, Zwillingsmotive, Nommo, Ka-Schlangen & Lebe Seru
 translation_model: gpt-4o
 ---
 

@@ -4,15 +4,15 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Uno de los temas con la peor relación señal-ruido es la perspectiva del
-  apocalipsis de la IA. Requiere razonar bajo incertidumbre sobre inteligencia, álgebra
-  lineal, política, conciencia y moralidad—mos...
+description: Eines der Themen mit dem schlechtesten Signal-Rausch-Verhältnis ist die
+  Aussicht auf den Untergang durch KI. Es erfordert das Denken unter Unsicherheit
+  über Intelligenz, lineare Algebra, Politik, Bewusstsein und Moral—meistens...
 draft: false
 keywords:
 - vectors-of-mind
-- doomsday
-- debate
-lang: es
+- Weltuntergang
+- Debatte
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682175'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/the-doomsday-debate
 quality: 6
 slug: the-doomsday-debate
 tags: []
-title: El Debate del Apocalipsis
+title: Die Weltuntergangsdebatte
 translation_model: gpt-4o
 ---
 

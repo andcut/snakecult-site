@@ -1,33 +1,32 @@
 ---
 about:
-- neurociencia
-- antropología
-- mitología
+- Neurowissenschaft
+- Anthropologie
+- Mythologie
 author: Andrew Cutler
 date: 2025-04-20
-description: 'Una exploración de dos teorías sobre los orígenes de la conciencia humana:
-  la Teoría del Culto a la Serpiente/Eva (veneno de serpiente) versus la Teoría del
-  Mono Colocado (hongos psilocibios).'
+description: 'Eine Erforschung von zwei Theorien über die Ursprünge des menschlichen
+  Bewusstseins: die Schlangenkult/Eva-Theorie (Schlangengift) versus die Stoned Ape
+  Theorie (Psilocybin- Pilze).'
 draft: false
 keywords:
-- conciencia
-- evolución
-- paleolítico
-- veneno de serpiente
-- psilocibina
-- teoría del mono colocado
-- teoría de eva
-lang: es
+- Bewusstsein
+- Evolution
+- Paläolithikum
+- Schlangengift
+- Psilocybin
+- Stoned Ape Theorie
+- Eva-Theorie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- orígenes-humanos
-- Psicodélicos
-- conciencia
-title: El Culto a la Serpiente de la Conciencia vs. La Teoría del Mono Colocado de
-  McKenna
+- menschliche-Ursprünge
+- Psychedelika
+- Bewusstsein
+title: Der Schlangenkult des Bewusstseins vs. McKennas Stoned Ape Theorie
 translation_model: gpt-4o
 ---
 

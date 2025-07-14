@@ -1,18 +1,18 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: '"Quien mira hacia afuera, sueña; quien mira hacia adentro, despierta."
-  -Carl Jung'
+description: '"Wer nach außen schaut, träumt; wer nach innen schaut, erwacht." -Carl
+  Jung'
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - deja
-- recursivo
-- construcción
-lang: es
+- rekursiv
+- konstruktion
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '114599293'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/deja-you-the-recursive-constructio
 quality: 6
 slug: deja-you-the-recursive-construction
 tags: []
-title: Deja Tú La Construcción Recursiva
+title: Deja Du Die Rekursive Konstruktion
 translation_model: gpt-4o
 ---
 

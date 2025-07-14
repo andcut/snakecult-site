@@ -1,31 +1,31 @@
 ---
 about:
-- evolución-de-la-conciencia
+- Evolution des Bewusstseins
 author: Andrew Cutler
 core_entity: Recursive Attention
 date: 2024-07-15
-description: Un replanteamiento de la Teoría de la Conciencia de Eva (EToC) como un
-  proceso de coevolución gen-cultura que produjo atención recursiva y autorreferencial,
-  llevando a una transición de fase en la conciencia humana.
+description: Eine Neufassung der Eve-Theorie des Bewusstseins (EToC) als ein gen-kultureller
+  koevolutionärer Prozess, der rekursive, selbstreferenzielle Aufmerksamkeit hervorgebracht
+  hat und zu einem Phasenübergang im menschlichen Bewusstsein führte.
 draft: true
 keywords:
-- Teoría de la Conciencia de Eva
+- Eve-Theorie des Bewusstseins
 - EToC
-- atención recursiva
-- coevolución gen-cultura
-- Paradoja Sapiente
-- evolución de la conciencia
-lang: es
+- rekursive Aufmerksamkeit
+- Gen-Kultur-Koevolution
+- Sapient Paradox
+- Evolution des Bewusstseins
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: etoc-as-recursive-attention
 tags:
-- Conciencia
-- Evolución
-- Neurociencia
-- Antropología
-title: EToC como una Evolución Gen-Cultura de la Atención Recursiva
+- Bewusstsein
+- Evolution
+- Neurowissenschaft
+- Anthropologie
+title: EToC als Gen-Kultur-Evolution der rekursiven Aufmerksamkeit
 translation_model: gpt-4o
 ---
 

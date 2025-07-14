@@ -4,17 +4,18 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Dentro de la década, millones solicitarán consejos de vida de chatbots
-  personales que los conocen mejor que ellos mismos. La tecnología actual está cambiando
-  muchas partes de la terapia, desde la evaluación inicial...
+description: Innerhalb des Jahrzehnts werden Millionen von Menschen Lebensberatung
+  von persönlichen Chatbots einholen, die sie besser kennen als sie sich selbst. Die
+  aktuelle Technologie verändert viele Teile der Therapie, von der Einführung bis
+  zur Bewertung...
 draft: false
 keywords:
 - vectors-of-mind
 - chatbots
 - mental
-- salud
-- cuidado
-lang: es
+- gesundheit
+- pflege
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '148012681'
@@ -22,7 +23,7 @@ original_url: https://www.vectorsofmind.com/p/chatbots-for-mental-health-care
 quality: 6
 slug: chatbots-for-mental-health-care
 tags: []
-title: Chatbots para el Cuidado de la Salud Mental
+title: Chatbots für die psychische Gesundheitsversorgung
 translation_model: gpt-4o
 ---
 

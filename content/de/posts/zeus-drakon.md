@@ -1,27 +1,27 @@
 ---
 about:
-- mitología
-- religión de misterio
+- Mythologie
+- Mysterienreligion
 author: Andrew Cutler
 core_entity: Zeus
 date: 2025-04-19
-description: Zeus con forma de serpiente en cultos ctónicos, teogonía órfica y ekpyrosis
-  estoica, mapeado en el macro-/micro-mito de Heracles–Dionisio.
+description: Schlangenförmiger Zeus in chthonischen Kulten, orphische Theogonie und
+  stoische Ekpyrosis, abgebildet auf den Herakles-Dionysos Makro-/Mikro-Mythos.
 draft: false
 keywords:
 - Zeus
-- cultos de serpiente
-- teogonía órfica
-- ekpyrosis
-- huevo del mundo
-lang: es
+- Schlangenkulte
+- orphische Theogonie
+- Ekpyrosis
+- Weltenei
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: zeus-serpent-mysteries
 tags:
-- Investigación-Profunda
-title: Zeus Drakôn — Serpiente, Devorador, Renovador del Mundo
+- Tiefenforschung
+title: Zeus Drakôn — Schlange, Verschlinger, Welten-Erneuerer
 translation_model: gpt-4o
 ---
 

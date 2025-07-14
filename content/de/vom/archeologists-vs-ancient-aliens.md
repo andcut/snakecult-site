@@ -1,19 +1,20 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'No soy credencialista, pero aún así, la mayor parte de mi investigación
-  sobre los orígenes humanos se basa en fuentes oficiales: lingüistas, mitólogos comparativos,
-  genetistas y arqueólogos. (Y, por supuesto, el último a...'
+description: 'Ich bin kein Glaubwürdigkeitsfanatiker, aber dennoch stammen die meisten
+  meiner Forschungen über menschliche Ursprünge aus offiziellen Quellen: Linguisten,
+  vergleichende Mythologen, Genetiker und Archäologen. (Und natürlich das ultimative
+  a...'
 draft: false
 keywords:
 - vectors-of-mind
-- arqueólogos
-- antiguo
-- alienígenas
-lang: es
+- archäologen
+- antik
+- aliens
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '143438878'
@@ -21,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/archeologists-vs-ancient-aliens
 quality: 6
 slug: archeologists-vs-ancient-aliens
 tags: []
-title: Arqueólogos Vs Alienígenas Antiguos
+title: Archäologen gegen antike Aliens
 translation_model: gpt-4o
 ---
 

@@ -1,29 +1,29 @@
 ---
 about:
-- mitología
-- orígenes humanos
-- coevolución gen-cultura
+- Mythologie
+- menschliche Ursprünge
+- Gen-Kultur-Koevolution
 author: Andrew Cutler
 date: 2025-04-19
-description: Desde la tradición iniciática de Göbekli Tepe hasta la cosmología del
-  huevo del mundo órfico, trazando las carreras gemelas de Herakles como héroe adámico
-  y serpiente alada del tiempo.
+description: Von der Initiationsüberlieferung Göbekli Tepes bis zur orphischen Welt-Ei-Kosmologie,
+  die Zwillingskarrieren des Herakles als adamitischer Held und geflügelte Zeitschlange
+  nachzeichnend.
 draft: false
 keywords:
 - Herakles
-- cosmogonía órfica
+- orphische Kosmogonie
 - Göbekli Tepe
-- adoración de serpientes
-- paralelismos adámicos
-lang: es
+- Schlangenkult
+- Adam-Parallelen
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cosmic-herakles
 tags:
-- Investigación-Profunda
-- Prehistoria
-title: Herakles Cósmico — Serpiente del Tiempo, Héroe del Edén
+- Tiefenforschung
+- Urgeschichte
+title: Kosmischer Herakles — Schlange der Zeit, Held von Eden
 translation_model: gpt-4o
 ---
 

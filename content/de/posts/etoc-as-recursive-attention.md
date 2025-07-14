@@ -1,32 +1,30 @@
 ---
 about:
-- evolución de la conciencia
+- Evolution des Bewusstseins
 author: Andrew Cutler
-core_entity: Recursive Attention Loop
+core_entity: Rekursive Aufmerksamkeitschleife
 date: 2024-07-15
-description: Una reformulación de la Teoría de la Conciencia de Eva (EToC) como la
-  emergencia evolutiva de bucles de atención recursiva, impulsada por la coevolución
-  gen-cultura.
+description: Eine Neufassung der Eve-Theorie des Bewusstseins (EToC) als evolutionäres
+  Entstehen rekursiver Aufmerksamkeitschleifen, angetrieben durch Gen-Kultur-Koevolution.
 draft: false
 keywords:
-- Teoría de la Conciencia de Eva
+- Eve-Theorie des Bewusstseins
 - EToC
-- atención recursiva
-- coevolución gen-cultura
-- evolución de la conciencia
-- autoconciencia
-lang: es
+- rekursive Aufmerksamkeit
+- Gen-Kultur-Koevolution
+- Evolution des Bewusstseins
+- Selbstbewusstsein
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: etoc-recursive-attention-loops
 tags:
-- Conciencia
-- Evolución
-- Neurociencia
-- Filosofía
-title: 'Teoría de la Conciencia de Eva: La Emergencia Evolutiva de Bucles de Atención
-  Recursiva'
+- Bewusstsein
+- Evolution
+- Neurowissenschaft
+- Philosophie
+title: 'Eve-Theorie des Bewusstseins: Das evolutionäre Entstehen rekursiver Aufmerksamkeitschleifen'
 translation_model: gpt-4o
 ---
 

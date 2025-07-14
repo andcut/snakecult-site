@@ -1,38 +1,38 @@
 ---
 about:
-- conciencia
-- mitología
-- filosofía
-- religión
+- Bewusstsein
+- Mythologie
+- Philosophie
+- Religion
 author: Andrew Cutler
 core_entity: Serpent
 date: 2025-04-20 10:00:00+00:00
-description: Desde el Edén a través del *Logos* de Juan y los contra-mitos gnósticos
-  hasta los ritos globales del 'dios colgado', este ensayo reconstruye cómo la conciencia
-  reflexiva emergió, se iteró y finalmente se teorizó a sí misma.
+description: Von Eden über das *Logos* von Johannes und gnostische Gegenmythen bis
+  hin zu globalen 'gehängten-Gott'-Riten rekonstruiert dieser Essay, wie sich das
+  reflexive Bewusstsein entwickelte, iterierte und schließlich selbst theoretisierte.
 draft: true
 keywords:
-- conciencia
-- génesis
-- logos
-- gnosticismo
-- era axial
-- evolución cultural
-- autoconciencia
-- serpiente
-lang: es
+- Bewusstsein
+- Genesis
+- Logos
+- Gnostizismus
+- Achsenzeit
+- kulturelle Evolution
+- Selbstbewusstsein
+- Schlange
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: ontological-continuity-adam-to-christ-2
 tags:
-- conciencia
-- Evolución
-- mitología
-- Filosofía
-- Religión
-- psicología
-title: Eva, la Serpiente y el Logos — De Göbekli Tepe a Juan 1
+- Bewusstsein
+- Evolution
+- Mythologie
+- Philosophie
+- Religion
+- Psychologie
+title: Eva, die Schlange & das Logos — Von Göbekli Tepe bis Johannes 1
 translation_model: gpt-4o
 ---
 

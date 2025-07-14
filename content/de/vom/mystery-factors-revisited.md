@@ -1,20 +1,20 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: Al dar un paso atrás respecto a las grandes teorías, esta publicación
-  revisita los misteriosos factores léxicos. A partir de las cargas de palabras, ¿puedes
-  describir el principio general que mantiene unido a un factor? Este ejercicio aborda
-  el ul...
+description: Einen Schritt zurück von großen Theorien, untersucht dieser Beitrag die
+  geheimnisvollen lexikalischen Faktoren erneut. Anhand von Wortladungen, können Sie
+  das allgemeine Prinzip beschreiben, das einen Faktor zusammenhält? Diese Übung zielt
+  auf das Wesentliche ab...
 draft: false
 keywords:
 - vectors-of-mind
-- misterio
-- factores
-- revisitado
-lang: es
+- geheimnis
+- faktoren
+- erneut untersucht
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '70046926'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/mystery-factors-revisited
 quality: 6
 slug: mystery-factors-revisited
 tags: []
-title: Factores Misteriosos Revisitados
+title: Geheimnisvolle Faktoren Erneut Untersucht
 translation_model: gpt-4o
 ---
 

@@ -1,31 +1,31 @@
 ---
 about:
-- evolución-cognitiva
-- mitología-comparativa
-- coevolución-gen-cultura
+- kognitive-Evolution
+- vergleichende-Mythologie
+- Gen-Kultur-Koevolution
 author: Andrew Cutler
 core_entity: Eve Theory
 date: 2025-04-27
-description: Auditoría sistemática de 12 enigmas evolutivos, arqueológicos y míticos
-  y cómo la Teoría de la Conciencia de Eva pretende resolverlos.
+description: Systematische Prüfung von 12 evolutionären, archäologischen und mythischen
+  Rätseln und wie die Eve-Theorie des Bewusstseins sie zu lösen versucht.
 draft: false
 keywords:
-- conciencia-humana
-- Teoría-de-Eva
-- modernidad-conductual
-- recursión
-- culto-de-la-serpiente
-lang: es
+- menschliches-Bewusstsein
+- Eve-Theory
+- Verhaltensmoderne
+- Rekursion
+- Schlangenkult
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: twelve-mysteries
 tags:
-- conciencia
-- mitología
-- orígenes-humanos
-- Evolución
-title: 12 Misterios Resueltos por la Teoría de la Conciencia de Eva
+- Bewusstsein
+- Mythologie
+- menschliche-Ursprünge
+- Evolution
+title: 12 Rätsel, die durch die Eve-Theorie des Bewusstseins gelöst wurden
 translation_model: gpt-4o
 ---
 

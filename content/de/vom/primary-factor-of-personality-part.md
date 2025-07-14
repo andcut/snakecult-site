@@ -1,18 +1,18 @@
 ---
 about:
 - vectors-of-mind
-- archivo-del-blog
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
 description: ''
 draft: false
 keywords:
 - vectors-of-mind
-- primario
-- factor
-- personalidad
-- parte
-lang: es
+- primär
+- faktor
+- persönlichkeit
+- teil
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '61936908'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/primary-factor-of-personality-part
 quality: 6
 slug: primary-factor-of-personality-part
 tags: []
-title: Factor Primario De Personalidad Parte
+title: Primärfaktor der Persönlichkeit Teil
 translation_model: gpt-4o
 ---
 

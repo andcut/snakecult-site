@@ -1,16 +1,16 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'El Capitán Thomas Herbert Lewin escribió en 1869:'
+description: 'Kapitän Thomas Herbert Lewin schrieb 1869:'
 draft: false
 keywords:
 - vectors-of-mind
 - lucifer
 - myanmar
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144517303'
@@ -18,7 +18,7 @@ original_url: https://www.vectorsofmind.com/p/lucifer-in-myanmar
 quality: 6
 slug: lucifer-in-myanmar
 tags: []
-title: Lucifer En Myanmar
+title: Lucifer in Myanmar
 translation_model: gpt-4o
 ---
 

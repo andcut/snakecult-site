@@ -1,19 +1,18 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Ha pasado suficiente tiempo desde la última publicación que algunos lectores
-  se han puesto en contacto. He estado disfrutando de la temporada de vacaciones y
-  tengo un acumulado de contenido para el blog. Eso incluye una pieza larga (EToC
-  v3.0), ...
+description: Es ist lange genug her seit dem letzten Beitrag, dass einige Leser sich
+  gemeldet haben. Ich habe die Feiertage genossen und habe einen Rückstand an Inhalten
+  für den Blog. Dazu gehört ein langer Beitrag (EToC v3.0), ...
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - stetson
 - holodoxa
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140805963'
@@ -21,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/stetson-of-holodoxa-1
 quality: 6
 slug: stetson-of-holodoxa-1
 tags: []
-title: Stetson De Holodoxa 1
+title: Stetson Von Holodoxa 1
 translation_model: gpt-4o
 ---
 

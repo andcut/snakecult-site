@@ -1,30 +1,30 @@
 ---
 about:
-- antropología
-- arqueología
+- Anthropologie
+- Archäologie
 author: Andrew Cutler
 core_entity: Zuni people
 date: 2025-07-12
-description: Una encuesta detallada de teorías convencionales y marginales sobre los
-  orígenes de los Zuni people, cubriendo arqueología, lingüística, genética, tradición
-  oral y afirmaciones especulativas difusionistas.
+description: Eine umfassende Untersuchung von Mainstream- und Randtheorien über die
+  Ursprünge der Zuni, die Archäologie, Linguistik, Genetik, mündliche Überlieferung
+  und spekulative Diffusionstheorien abdeckt.
 draft: false
 keywords:
 - Zuni
-- orígenes
-- antropología
+- Ursprünge
+- Anthropologie
 - Pueblo
-- lengua-aislada
-lang: es
+- Sprachisolat
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: zuni-origins
 tags:
 - Zuni
-- Orígenes
-- Antropología
-title: Teorías sobre los Orígenes e Historia de los Zuni People
+- Ursprünge
+- Anthropologie
+title: Theorien über die Ursprünge und Geschichte der Zuni
 translation_model: gpt-4o
 ---
 

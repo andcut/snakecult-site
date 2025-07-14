@@ -1,37 +1,37 @@
 ---
 about:
-- Misterios Órficos
-- Filosofía Griega
-- Mitología Comparada
+- Orphische Mysterien
+- Griechische Philosophie
+- Vergleichende Mythologie
 author: Andrew Cutler
 date: 2025-04-19
-description: Una exploración detallada de los roles complementarios de Heracles Cósmico
-  (Cronos) y Dionisio Zagreo en la teogonía órfica, mito, praxis ritual y interpretación
-  neoplatónica.
+description: Eine detaillierte Erforschung der komplementären Rollen von Kosmischem
+  Herakles (Chronos) und Dionysos Zagreus in der orphischen Theogonie, Mythos, ritueller
+  Praxis und neoplatonischer Interpretation.
 draft: false
 keywords:
-- Heracles
-- Dionisio
-- Zagreo
-- Cronos
-- Orfismo
-- Teogonía Órfica
-- Religión de Misterio
-- Cosmología
-- Soteriología
-- Neoplatonismo
-- Simbolismo de la Serpiente
-- Metempsicosis
-lang: es
+- Herakles
+- Dionysos
+- Zagreus
+- Chronos
+- Orphismus
+- Orphische Theogonie
+- Mysterienreligion
+- Kosmologie
+- Soteriologie
+- Neuplatonismus
+- Schlangensymbolik
+- Metempsychose
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: cosmic-herakles-dionysus-deepdive
 tags:
-- Investigación-Profunda
-- Filosofía
-- Religión
-title: 'Heracles Cósmico & Dionisio Zagreo: Cosmología y Misterios Órficos'
+- Tiefenforschung
+- Philosophie
+- Religion
+title: 'Kosmischer Herakles & Dionysos Zagreus: Orphische Kosmologie und Mysterien'
 translation_model: gpt-4o
 ---
 

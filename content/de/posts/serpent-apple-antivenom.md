@@ -1,25 +1,25 @@
 ---
 about:
-- mito-bioquímica
+- Mythos-Biochemie
 author: Andrew Cutler
 core_entity: Apple
 date: 2025-07-12
-description: 'Por qué Génesis empareja una serpiente con una manzana: un ritual paleolítico
-  de antiveneno y visión codificado en mito.'
+description: 'Warum Genesis eine Schlange mit einem Apfel paart: ein paläolithisches
+  Antivenom-und-Sehritual, das im Mythos kodiert ist.'
 draft: false
 keywords:
-- Culto-de-la-Serpiente-de-la-Conciencia
-- simbolismo del Edén
-- antiveneno de Rutin
-- ritual paleolítico
-lang: es
+- Schlangenkult-des-Bewusstseins
+- Eden-Symbolik
+- Rutin-Antivenom
+- Paläolithisches Ritual
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-apple-snake-cult-of-consciousness
 tags:
-- Mitología
-title: Manzana de la Serpiente y el Culto de la Serpiente de la Conciencia
+- Mythologie
+title: Schlangenapfel und der Schlangenkult des Bewusstseins
 translation_model: gpt-4o
 ---
 

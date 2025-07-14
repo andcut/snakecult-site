@@ -1,28 +1,28 @@
 ---
 about:
-- contacto precolombino
+- präkolumbischer Kontakt
 - Medici
 author: Andrew Cutler
-core_entity: conocimiento del Nuevo Mundo
+core_entity: Wissen über die Neue Welt
 date: 2025-01-01
-description: Estudio de teorías especulativas sobre el conocimiento precolombino de
-  las Américas y el posible conocimiento previo de los Medici.
+description: Untersuchung spekulativer Theorien über präkolumbisches Wissen über die
+  Amerikas und mögliche Vorahnung der Medici.
 draft: true
 keywords:
 - Medici
-- Américas
-- contacto precolombino
-- especulación
-- Colón
-lang: es
+- Amerikas
+- präkolumbischer Kontakt
+- Spekulation
+- Kolumbus
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: medici-americas-foreknowledge
 tags:
-- Historia
-- Conspiración
-title: '¿Medici y las Américas: Conocimiento previo?'
+- Geschichte
+- Verschwörung
+title: 'Medici und die Amerikas: Vorahnung?'
 translation_model: gpt-4o
 ---
 

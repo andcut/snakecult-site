@@ -4,16 +4,17 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: La publicación anterior destacó la tensión entre arqueólogos y lo que
-  yo llamo investigadores de antiguos alienígenas. Este último grupo argumenta que
-  las similitudes entre culturas distantes implican una civilización global perdida...
+description: Der vorherige Beitrag hob die Spannung zwischen Archäologen und dem hervor,
+  was ich als Forscher antiker Aliens bezeichne. Letztere Gruppe argumentiert, dass
+  Ähnlichkeiten zwischen weit entfernten Kulturen auf eine verlorene globale Zivilisation
+  hindeuten...
 draft: false
 keywords:
 - vectors-of-mind
 - andreas
 - lommel
-- difusión
-lang: es
+- diffusion
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144256058'
@@ -21,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/andreas-lommel-on-the-diffusion-of
 quality: 6
 slug: andreas-lommel-on-the-diffusion-of
 tags: []
-title: Andreas Lommel sobre la difusión de
+title: Andreas Lommel über die Verbreitung von
 translation_model: gpt-4o
 ---
 

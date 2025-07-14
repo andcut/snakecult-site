@@ -1,34 +1,35 @@
 ---
 about:
-- Antropología
-- Historia
-- Estudios de Género
-- Mitología
+- Anthropologie
+- Geschichte
+- Gender Studies
+- Mythologie
 author: Andrew Cutler
 date: 2025-04-21
-description: Examina el debate histórico y antropológico en torno al concepto de matriarcado
-  primordial, desde las teorías de Bachofen hasta las críticas y evidencias modernas.
+description: Untersucht die historische und anthropologische Debatte über das Konzept
+  des ursprünglichen Matriarchats, von Bachofens Theorien bis zu modernen Kritiken
+  und Beweisen.
 draft: false
 keywords:
-- matriarcado
-- derecho materno
+- Matriarchat
+- Mutterrecht
 - Bachofen
 - Engels
 - Gimbutas
-- antropología
-- mitología
-- historia de género
-lang: es
+- Anthropologie
+- Mythologie
+- Geschlechtergeschichte
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: primordial-matriarchy-science
 tags:
-- Teoría Feminista
-- Debate sobre el Matriarcado
-- evolución
-- orígenes humanos
-title: 'Las mujeres como progenitoras de la cultura: orígenes míticos y debates académicos'
+- Feministische Theorie
+- Matriarchatsdebatte
+- Evolution
+- menschliche Ursprünge
+title: 'Frauen als Kulturstifterinnen: Mythische Ursprünge und wissenschaftliche Debatten'
 translation_model: gpt-4o
 ---
 

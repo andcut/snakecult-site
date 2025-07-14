@@ -1,17 +1,17 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: La Teoría de la Conciencia de Eva propone que la autoconciencia fue descubierta
-  por mujeres y se difundió meméticamente. Para argumentar esto, recurro a la lingüística,
-  arqueología, farmacología, genética, antropología, ...
+description: Die Eva-Theorie des Bewusstseins schlägt vor, dass das Selbstbewusstsein
+  von Frauen entdeckt und memetisch verbreitet wurde. Um diesen Fall darzulegen, ziehe
+  ich Linguistik, Archäologie, Pharmakologie, Genetik, Anthropologie, ...
 draft: false
 keywords:
 - vectors-of-mind
 - basis
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '121454386'
@@ -19,7 +19,7 @@ original_url: https://www.vectorsofmind.com/p/the-ai-basis-of-the-eve-theory-of
 quality: 6
 slug: the-ai-basis-of-the-eve-theory-of
 tags: []
-title: La Base de IA de la Teoría de Eva de
+title: Die KI-Basis der Eva-Theorie des
 translation_model: gpt-4o
 ---
 

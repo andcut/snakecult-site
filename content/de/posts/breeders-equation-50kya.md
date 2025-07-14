@@ -1,30 +1,30 @@
 ---
 about:
-- coevolución gen-cultura
-- genética-cuántica
-- evolución-cognitiva
+- Gen-Kultur-Koevolution
+- Quantitative Genetik
+- Kognitive Evolution
 author: Andrew Cutler
 date: 2025-04-19
-description: Por qué la afirmación de la tabla rasa de que la cognición no ha evolucionado
-  desde el Paleolítico Superior falla en la genética de poblaciones básica, y lo que
-  el ADN antiguo muestra ahora.
+description: Warum die Behauptung der unbeschriebenen Tafel, dass sich die Kognition
+  seit dem Oberen Paläolithikum nicht entwickelt hat, grundlegende Populationsgenetik
+  ignoriert – und was alte DNA jetzt zeigt.
 draft: false
 keywords:
-- inteligencia-humana
-- ecuación-del-criador
-- genética-del-comportamiento
-- selección del Holoceno
-- ADN antiguo
-lang: es
+- menschliche Intelligenz
+- Züchtergleichung
+- Verhaltensgenetik
+- Holozäne Selektion
+- alte DNA
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: intelligence-selection-50k
 tags:
-- Evolución
-- Investigación-Profunda
-title: 'Inteligencia Humana: 50,000 Años Son Suficientes — Una Verificación de Realidad
-  de la Ecuación del Criador'
+- Evolution
+- Tiefenforschung
+title: 'Menschliche Intelligenz: 50.000 Jahre sind genug — Ein Realitätscheck der
+  Züchtergleichung'
 translation_model: gpt-4o
 ---
 

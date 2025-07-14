@@ -1,32 +1,32 @@
 ---
 about:
-- mitología comparativa
-- estudios de rituales
-- conciencia
+- vergleichende Mythologie
+- Ritualstudien
+- Bewusstsein
 author: Andrew Cutler
-core_entity: brebaje ritual
+core_entity: Ritualtrank
 date: 2025‑07‑12
-description: Por qué la legendaria bebida consumida por los matadragones indoeuropeos
-  se debe leer mejor como un rito de antiveneno fosilizado preservado por el Culto
-  de la Serpiente de la Conciencia.
+description: Warum das legendäre Getränk, das von indoeuropäischen Drachentötern getrunken
+  wird, am besten als fossilisiertes Gegengift-Ritual gelesen wird, das vom Schlangenkult
+  des Bewusstseins bewahrt wird.
 draft: false
 keywords:
-- mitología indoeuropea
-- bebida ritual
-- matadragones
-- antiveneno
+- indoeuropäische Mythologie
+- Ritualgetränk
+- Drachentöter
+- Gegengift
 - Soma
-- Hidromiel de la Poesía
-lang: es
+- Met der Poesie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: heroic-draughts-snake-cult
 tags:
-- indoeuropeo
-- Estudios Míticos
-- Práctica Ritual
-title: Brebajes Heroicos y el Culto de la Serpiente de la Conciencia
+- indoeuropäisch
+- Mythenstudien
+- Ritualpraxis
+title: Heroische Tränke und der Schlangenkult des Bewusstseins
 translation_model: gpt-4o
 ---
 

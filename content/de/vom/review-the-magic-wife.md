@@ -4,16 +4,16 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Piensa en esta publicación como un grupo de estudio sobre el reciente
-  análisis mitológico de Crecganford. Te animo a ver el video de 39 minutos y comentar.
-  He mencionado a Crecganford un par de veces en el blog. H...
+description: Denken Sie an diesen Beitrag als eine Lerngruppe zur jüngsten mythologischen
+  Analyse von Crecganford. Ich ermutige Sie, das 39-minütige Video anzusehen und zu
+  kommentieren. Ich habe Crecganford ein paar Mal im Blog erwähnt. H...
 draft: false
 keywords:
 - vectors-of-mind
-- reseña
-- magia
-- esposa
-lang: es
+- Rezension
+- Magie
+- Ehefrau
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144517304'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/review-the-magic-wife
 quality: 6
 slug: review-the-magic-wife
 tags: []
-title: Reseña La Esposa Mágica
+title: Rezension Die Magische Ehefrau
 translation_model: gpt-4o
 ---
 

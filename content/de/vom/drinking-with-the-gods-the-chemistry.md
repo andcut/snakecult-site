@@ -4,16 +4,16 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Representados arriba están varias copas de libación hechas a imagen del
-  dios egipcio antiguo Bes. El floreciente campo de la arqueo-botánica nos permite
-  investigar qué se consumía de tales jarras rituales por un...
+description: Oben abgebildet sind mehrere Trinkbecher, die im Bild des altägyptischen
+  Gottes Bes gefertigt wurden. Das aufstrebende Feld der Archäobotanik ermöglicht
+  es uns, zu untersuchen, was aus solchen rituellen Krügen konsumiert wurde von einem...
 draft: false
 keywords:
 - vectors-of-mind
-- beber
-- dioses
-- química
-lang: es
+- trinken
+- götter
+- chemie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '153310338'
@@ -21,7 +21,7 @@ original_url: https://www.vectorsofmind.com/p/drinking-with-the-gods-the-chemist
 quality: 6
 slug: drinking-with-the-gods-the-chemistry
 tags: []
-title: Beber Con Los Dioses La Química
+title: Trinken mit den Göttern Die Chemie
 translation_model: gpt-4o
 ---
 

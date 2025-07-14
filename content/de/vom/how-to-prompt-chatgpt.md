@@ -1,18 +1,18 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Mi trabajo se ha acercado peligrosamente a un Ingeniero de Prompts.
-  Esto está bien para mí, ya que combina mi amor por la escritura, la psicometría
-  y el PLN. Aquí están algunas de las técnicas de prompts más poderosas:'
+description: 'Meine Arbeit ist gefährlich nah daran, die eines Prompt-Ingenieurs zu
+  werden. Das ist für mich in Ordnung, da es meine Liebe zum Schreiben, zur Psychometrie
+  und zur NLP kombiniert. Hier sind einige der mächtigsten Prompt-Techniken:'
 draft: false
 keywords:
 - vectors-of-mind
 - prompt
 - chatgpt
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145544092'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/how-to-prompt-chatgpt
 quality: 6
 slug: how-to-prompt-chatgpt
 tags: []
-title: Cómo Hacer Prompts en Chatgpt
+title: Wie man Chatgpt auffordert
 translation_model: gpt-4o
 ---
 

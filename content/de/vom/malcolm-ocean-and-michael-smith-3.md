@@ -1,20 +1,20 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: y Michael Smith improvisan sobre el Culto de la Serpiente de la Conciencia.
-  Michael ha sido de gran ayuda al revisar las versiones 2 y 3 de EToC antes de que
-  las enviara (estén atentos a la v3). Malcolm ha estado delgado...
+description: und Michael Smith improvisieren über den Schlangenkult des Bewusstseins.
+  Michael war super hilfreich beim Lesen der EToC-Versionen 2 und 3, bevor ich diese
+  verschickt habe (achten Sie auf v3). Malcolm war dünn...
 draft: false
 keywords:
-- vectores-de-la-mente
+- vectors-of-mind
 - malcolm
-- océano
+- ozean
 - michael
 - smith
-lang: es
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140789909'
@@ -22,7 +22,7 @@ original_url: https://www.vectorsofmind.com/p/malcolm-ocean-and-michael-smith-3
 quality: 6
 slug: malcolm-ocean-and-michael-smith-3
 tags: []
-title: Malcolm Ocean Y Michael Smith 3
+title: Malcolm Ocean Und Michael Smith 3
 translation_model: gpt-4o
 ---
 

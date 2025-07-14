@@ -1,32 +1,32 @@
 ---
 about:
-- Arqueología
-- Historia Mesoamericana
+- Archäologie
+- Mesoamerikanische Geschichte
 author: Andrew Cutler
 core_entity: Olmec Civilization
 date: 2025-07-13
-description: Trazando la evolución de las teorías sobre los orígenes de la civilización
-  olmeca, desde las ideas difusionistas del siglo XIX hasta la evidencia arqueológica
-  moderna del desarrollo indígena.
+description: Die Entwicklung der Theorien über die Ursprünge der Olmeken-Zivilisation
+  nachzeichnen, von den diffusionistischen Ideen des 19. Jahrhunderts bis hin zu modernen
+  archäologischen Beweisen für eine indigene Entwicklung.
 draft: true
 keywords:
-- Civilización olmeca
-- Mesoamérica
-- Teorías arqueológicas
-- Orígenes indígenas
-- México antiguo
-lang: es
+- Olmeken-Zivilisation
+- Mesoamerika
+- Archäologische Theorien
+- Indigene Ursprünge
+- Antikes Mexiko
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: olmec-origins-theories
 tags:
-- Olmeca
-- Mesoamérica
-- Teoría Arqueológica
-- Civilizaciones Antiguas
-- Historia de México
-title: 'Orígenes de la Civilización Olmeca: Teorías a lo Largo del Tiempo'
+- Olmeken
+- Mesoamerika
+- Archäologische Theorie
+- Antike Zivilisationen
+- Mexikanische Geschichte
+title: 'Ursprünge der Olmeken-Zivilisation: Theorien im Laufe der Zeit'
 translation_model: gpt-4o
 ---
 

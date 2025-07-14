@@ -1,34 +1,34 @@
 ---
 about:
-- Historia Colonial
-- Misticismo
+- Kolonialgeschichte
+- Mystik
 author: Andrew Cutler
 core_entity: New World
 date: 2025-07-13
-description: Explorando cómo los colonizadores europeos incorporaron las Américas
-  en el folclore bíblico y místico, desde teorías de Tribus Perdidas hasta leyendas
-  de la Atlántida y el papel de las sociedades secretas en la exploración del Nuevo
-  Mundo.
+description: Erforschung, wie europäische Kolonisatoren die Amerikas in biblische
+  und mystische Überlieferungen einbanden, von Theorien über verlorene Stämme bis
+  hin zu Atlantis-Legenden und der Rolle geheimer Gesellschaften bei der Erforschung
+  der Neuen Welt.
 draft: true
 keywords:
-- Nuevo Mundo
-- Atlántida
-- Tribus Perdidas de Israel
-- Masonería
-- Sociedades secretas
-- Mitología colonial
-lang: es
+- Neue Welt
+- Atlantis
+- Verlorene Stämme Israels
+- Freimaurerei
+- Geheimgesellschaften
+- Koloniale Mythologie
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: esoteric-myths-new-world
 tags:
-- Sociedades Secretas
-- Atlántida
-- Arqueología Bíblica
-- Masonería
-- Historia Colonial
-title: Mitos Esotéricos y el Nuevo Mundo
+- Geheimgesellschaften
+- Atlantis
+- Biblische Archäologie
+- Freimaurerei
+- Kolonialgeschichte
+title: Esoterische Mythen und die Neue Welt
 translation_model: gpt-4o
 ---
 

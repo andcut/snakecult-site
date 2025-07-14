@@ -4,14 +4,14 @@ about:
 - blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Los libros sobre la evolución humana a menudo siguen el formato:'
+description: 'Bücher über die menschliche Evolution folgen oft dem Format:'
 draft: false
 keywords:
 - vectors-of-mind
-- review
-- supernatural
-- selection
-lang: es
+- Rezension
+- übernatürlich
+- Auswahl
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682171'
@@ -19,7 +19,7 @@ original_url: https://www.vectorsofmind.com/p/review-supernatural-selection
 quality: 6
 slug: review-supernatural-selection
 tags: []
-title: Reseña Selección Sobrenatural
+title: Rezension Übernatürliche Auswahl
 translation_model: gpt-4o
 ---
 

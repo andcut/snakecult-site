@@ -1,18 +1,18 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- vectors-of-mind
+- blog-archiv
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Estoy realizando una encuesta rápida sobre los recuerdos más tempranos
-  de las personas. Si tienes un momento, me encantaría contar con tu participación:'
+description: 'Ich führe eine kurze Umfrage zu den frühesten Erinnerungen von Menschen
+  durch. Wenn Sie einen Moment Zeit haben, würde ich mich über Ihre Teilnahme freuen:'
 draft: false
 keywords:
-- vectores-de-la-mente
-- momentos
-- despertar
-- encuesta
-lang: es
+- vectors-of-mind
+- momente
+- erwachen
+- umfrage
+lang: de
 lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '164480915'
@@ -20,7 +20,7 @@ original_url: https://www.vectorsofmind.com/p/moments-of-awakening-survey
 quality: 6
 slug: moments-of-awakening-survey
 tags: []
-title: Encuesta sobre Momentos de Despertar
+title: Umfrage zu Momenten des Erwachens
 translation_model: gpt-4o
 ---
 
