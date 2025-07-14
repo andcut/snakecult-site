@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: snakecult-translate
 Version: 0.1.0
 Summary: A modular translation system for Hugo multilingual sites
@@ -22,16 +22,6 @@ Requires-Dist: python-frontmatter>=1.0.0
 Requires-Dist: python-dotenv>=1.0.0
 Requires-Dist: tiktoken>=0.5.0
 Requires-Dist: pyyaml>=6.0
-Dynamic: author
-Dynamic: author-email
-Dynamic: classifier
-Dynamic: description
-Dynamic: description-content-type
-Dynamic: home-page
-Dynamic: license-file
-Dynamic: requires-dist
-Dynamic: requires-python
-Dynamic: summary
 
 # SnakeCult.net Research Site
 
@@ -46,6 +36,27 @@ See `docs/project-charter.md` for project goals and details.
 ## Testing
 
 Run `npm test` to ensure Hugo can build the site without errors.
+
+## Development
+
+To spin up a lightning-fast local server (English-only), run:
+
+```bash
+make dev
+```
+
+The make target bundles several speed optimisations:
+
+* Disables non-English languages via `config/dev/languages.toml`
+* Skips taxonomy/RSS/sitemap kinds
+* Skips the SASS/Tailwind pipeline (`HUGO_SKIP_SASS=true`)
+* Doubles Hugo worker threads
+
+For a full multi-language preview you can still use:
+
+```bash
+hugo server -D
+```
 
 ## Setup
 

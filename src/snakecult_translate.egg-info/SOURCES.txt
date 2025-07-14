@@ -16,3 +16,4 @@ src/snakecult_translate.egg-info/dependency_links.txt
 src/snakecult_translate.egg-info/entry_points.txt
 src/snakecult_translate.egg-info/requires.txt
 src/snakecult_translate.egg-info/top_level.txt
+tests/test_translate_frontmatter.py

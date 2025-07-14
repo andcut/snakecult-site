@@ -10,11 +10,13 @@ import tempfile
 import time
 from pathlib import Path
 from typing import List, Dict, Any
+import asyncio
+from httpx import AsyncClient
 
 import frontmatter
 from openai import OpenAI
 
-from .core import create_translated_frontmatter, translate_text, translate_frontmatter_block
+from .core import create_translated_frontmatter, async_translate_frontmatter_block
 from .models import supports_batch_api
 from .prompts import get_system_prompt
 from .utils import discover_markdown_files, load_env_and_key, split_text_into_chunks
@@ -50,109 +52,72 @@ def poll_batch(client: OpenAI, batch_id: str, interval: int = 30):
         time.sleep(interval)
 
 
-def assemble_outputs(outputs_jsonl: str, args, mapping_path: Path):
-    """Assemble batch outputs into translated Markdown files."""
+async def assemble_outputs_async(outputs_jsonl: str, args, mapping_path: Path):
+    """Asynchronously assemble batch outputs into translated Markdown files."""
     with open(mapping_path, "r", encoding="utf-8") as f:
         mapping = json.load(f)
 
-    api_key = load_env_and_key()
-    client = OpenAI(api_key=api_key)
-
-    # Process each output line
-    print(f"Processing {len(outputs_jsonl.strip().splitlines())} results …")
+    print(f"Processing {len(outputs_jsonl.strip().splitlines())} results…")
     
-    # Create mapping dict for faster lookup
     mapping_dict = {item["custom_id"]: item for item in mapping}
-    
-    # Group results by file to handle chunks
-    file_results = {}  # file_idx -> {chunks: [], metadata: {}}
+    file_results = {}
     
     for line in outputs_jsonl.strip().splitlines():
         result = json.loads(line)
-        
-        # Handle potential API errors in batch results
         if "error" in result and result["error"] is not None:
             print(f"❌ Error in batch result {result.get('custom_id', 'unknown')}: {result['error']}")
             continue
-            
-        # Extract from batch response format
-        if "response" in result and "body" in result["response"]:
-            response_body = result["response"]["body"]
-            translated_content = response_body["choices"][0]["message"]["content"].strip()
-        else:
+        if "response" not in result or "body" not in result["response"]:
             print(f"❌ Unexpected response format for {result.get('custom_id', 'unknown')}: {result}")
             continue
 
+        response_body = result["response"]["body"]
+        translated_content = response_body["choices"][0]["message"]["content"].strip()
         mapping_item = mapping_dict[result["custom_id"]]
         file_idx = mapping_item["file_idx"]
         
         if file_idx not in file_results:
-            file_results[file_idx] = {
-                "chunks": [],
-                "metadata": mapping_item
-            }
+            file_results[file_idx] = {"chunks": [], "metadata": mapping_item}
         
-        if mapping_item.get("is_chunk", False):
-            # Store chunk with its index for proper ordering
-            file_results[file_idx]["chunks"].append({
-                "chunk_idx": mapping_item["chunk_idx"],
-                "content": translated_content
-            })
-        else:
-            # Single file, no chunks
-            file_results[file_idx]["chunks"].append({
-                "chunk_idx": 0,
-                "content": translated_content
-            })
+        chunk_info = {"chunk_idx": mapping_item.get("chunk_idx", 0), "content": translated_content}
+        file_results[file_idx]["chunks"].append(chunk_info)
 
-    # Now assemble each file
-    for file_idx, file_data in file_results.items():
-        mapping_item = file_data["metadata"]
-        src_path = Path(mapping_item["src"])
-        dst_path = Path(mapping_item["dst"])
+    # Prepare and run async frontmatter translation
+    async with AsyncClient() as async_client:
+        tasks = []
+        for file_idx, file_data in file_results.items():
+            mapping_item = file_data["metadata"]
+            src_path = Path(mapping_item["src"])
+            if not src_path.exists():
+                print(f"⚠️  Skipping frontmatter for missing source: {src_path}")
+                continue
 
-        # Sort chunks by chunk_idx and combine
-        chunks = sorted(file_data["chunks"], key=lambda x: x["chunk_idx"])
-        
-        if len(chunks) > 1:
-            # Multiple chunks - combine with chunk break markers
-            translated_content = "\n\n<!-- CHUNK BREAK -->\n\n".join(chunk["content"] for chunk in chunks)
-            print(f"Assembled {len(chunks)} chunks for {src_path.name}")
-        else:
-            # Single chunk
-            translated_content = chunks[0]["content"]
-
-        # Reload source to fetch metadata / title
-        post = frontmatter.load(src_path)
-        translated_title = post.metadata.get("title", "")
-        
-        if translated_title:
-            # Cheap synchronous call for title only (negligible cost)
-            translated_title = translate_text(
-                client=client,
-                text=translated_title,
-                target_lang=args.lang,
-                model=args.model,
-                web_format=args.web_format,
-                temperature=args.temperature
+            post = frontmatter.load(src_path)
+            translated_meta = create_translated_frontmatter(post.metadata, args.lang, args.model)
+            
+            # Create a task and store it with the file_idx to map results back
+            task = async_translate_frontmatter_block(
+                async_client, translated_meta, args.lang, args.model, args.temperature
             )
+            tasks.append((file_idx, task))
+        
+        print(f"Translating frontmatter for {len(tasks)} files concurrently…")
+        # Gather results and map them back to file_results
+        results = await asyncio.gather(*(task for _, task in tasks))
+        for i, (file_idx, _) in enumerate(tasks):
+            file_results[file_idx]["translated_meta"] = results[i]
 
-        # Build translated front matter
-        translated_meta = create_translated_frontmatter(post.metadata, args.lang, args.model)
-        if translated_title:
-            translated_meta["title"] = translated_title
+    # Now assemble each file with translated data
+    for file_idx, file_data in file_results.items():
+        if "translated_meta" not in file_data:
+            continue
 
-        # Translate additional front-matter fields (description, keywords, tags, etc.)
-        translated_meta = translate_frontmatter_block(
-            client=client,
-            frontmatter_dict=translated_meta,
-            target_lang=args.lang,
-            model=args.model,
-            web_format=args.web_format,
-            temperature=args.temperature,
-        )
+        mapping_item = file_data["metadata"]
+        dst_path = Path(mapping_item["dst"])
+        chunks = sorted(file_data["chunks"], key=lambda x: x["chunk_idx"])
+        translated_content = "\n\n<!-- CHUNK BREAK -->\n\n".join(c["content"] for c in chunks)
 
-        translated_post = frontmatter.Post(translated_content, **translated_meta)
+        translated_post = frontmatter.Post(translated_content, **file_data["translated_meta"])
         dst_path.parent.mkdir(parents=True, exist_ok=True)
         
         with open(dst_path, "w", encoding="utf-8") as f:
@@ -217,7 +182,7 @@ def main():
         print(f"Downloading output file {output_file_id} …")
         output_bytes = client.files.content(output_file_id)
         mapping_path = Path("batch_work") / f"batch_{args.batch_id}_mapping.json"
-        assemble_outputs(output_bytes.content.decode(), args, mapping_path)
+        asyncio.run(assemble_outputs_async(output_bytes.content.decode(), args, mapping_path))
         print("✅ All translations written.")
         return
 
@@ -245,12 +210,22 @@ def main():
             
             # Destination path mirrors structure under dst_root
             try:
-                rel = src_path.relative_to(args.src_root)
+                # Ensure the source root is consistently handled as 'content'
+                # for calculating the relative path, regardless of what was
+                # passed in --src-root. This prevents issues when resuming
+                # jobs that were created with a more specific root like 'content/posts'.
+                consistent_src_root = Path("content")
+                if src_path.is_relative_to(consistent_src_root):
+                    rel = src_path.relative_to(consistent_src_root)
+                else:
+                    # Fallback for paths not in 'content' for some reason
+                    rel = Path(src_path.name)
             except ValueError:
                 rel = Path(src_path.name)
+            
             dst_path = args.dst_root / rel
             
-            # Check if chunking is needed
+            # Handle chunking if enabled
             if args.chunk and len(content) > args.chunk_size_chars:
                 print(f"Chunking {src_path.name} ({len(content):,} chars) into chunks of {args.chunk_size_chars:,} chars")
                 chunks = split_text_into_chunks(content, args.chunk_size_chars)
@@ -330,7 +305,7 @@ def main():
     output_file_id = batch.output_file_id
     print(f"Downloading output file {output_file_id} …")
     output_bytes = client.files.content(output_file_id)
-    assemble_outputs(output_bytes.content.decode(), args, mapping_file)
+    assemble_outputs_async(output_bytes.content.decode(), args, mapping_file)
     print("✅ All translations written.")
 
 

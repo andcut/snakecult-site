@@ -5,13 +5,16 @@ Core translation functionality shared across all translation modes.
 import datetime
 from pathlib import Path
 from typing import Optional
+import yaml
 
 import frontmatter
 from openai import OpenAI
 
 from .models import choose_model_for_tokens
 from .prompts import get_system_prompt
-from .utils import count_tokens, split_text_into_chunks
+from .utils import count_tokens, split_text_into_chunks, load_env_and_key, discover_markdown_files
+import asyncio
+from httpx import AsyncClient
 
 
 def translate_text(
@@ -232,6 +235,76 @@ def translate_file(
         return False
 
 
+async def async_translate_frontmatter_block(
+    async_client: AsyncClient,
+    frontmatter_dict: dict,
+    target_lang: str = "es",
+    model: str = "gpt-4o",
+    temperature: Optional[float] = None,
+) -> dict:
+    """Async version of frontmatter translation."""
+    translatable_fields = {
+        k: v for k, v in frontmatter_dict.items()
+        if k in ['title', 'description', 'keywords', 'tags', 'about', 'core_entity'] and v
+    }
+    if not translatable_fields:
+        return frontmatter_dict
+
+    yaml_snippet = yaml.dump(translatable_fields, default_flow_style=False, allow_unicode=True)
+    lang_name = {"es": "Spanish", "zh": "Chinese", "fr": "French", "de": "German"}.get(target_lang, target_lang)
+    prompt = f"Translate the following YAML values to {lang_name}:\n\n```yaml\n{yaml_snippet}```\n\nRULES: Translate only values. Keep keys, proper nouns, and YAML structure. Output only the translated YAML."
+
+    try:
+        api_key = load_env_and_key()
+        response = await async_client.post(
+            "https://api.openai.com/v1/chat/completions",
+            headers={"Authorization": f"Bearer {api_key}"},
+            json={
+                "model": model,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": temperature or 0.2,
+            },
+            timeout=45.0,
+        )
+        response.raise_for_status()
+        
+        data = response.json()
+        translated_yaml = data["choices"][0]["message"]["content"].strip()
+
+        if translated_yaml.startswith('```yaml'):
+            translated_yaml = translated_yaml[7:]
+        if translated_yaml.endswith('```'):
+            translated_yaml = translated_yaml[:-3]
+        
+        try:
+            translated_fields = yaml.safe_load(translated_yaml.strip())
+            if isinstance(translated_fields, dict):
+                result_fm = frontmatter_dict.copy()
+                result_fm.update(translated_fields)
+                return result_fm
+        except yaml.YAMLError as e:
+            # Attempt to fix unterminated string on last line
+            if 'unexpected end of stream' in str(e) and translated_yaml.strip().count('"') % 2 == 1:
+                print("Info: Trying to fix unterminated quoted string in async...")
+                fixed_yaml = translated_yaml.strip() + '"'
+                try:
+                    translated_fields = yaml.safe_load(fixed_yaml)
+                    if isinstance(translated_fields, dict):
+                        result_fm = frontmatter_dict.copy()
+                        result_fm.update(translated_fields)
+                        return result_fm
+                except yaml.YAMLError as e2:
+                    print(f"Warning: Async could not parse YAML after fix: {e2}")
+
+        # Fallback if parsing failed or returned non-dict
+        print(f"Warning: Could not parse translated YAML or result was not a dict. Raw: {translated_yaml}")
+        return frontmatter_dict
+
+    except Exception as e:
+        print(f"Async frontmatter translation error: {e}")
+        return frontmatter_dict
+
+
 def translate_frontmatter_block(
     client: OpenAI,
     frontmatter_dict: dict,
@@ -325,9 +398,42 @@ RULES:
             return result_fm
             
         except yaml.YAMLError as e:
-            print(f"Warning: Could not parse translated YAML: {e}")
-            print(f"Raw response: {translated_yaml}")
-            return frontmatter_dict
+            # Attempt to fix unterminated string on last line
+            if 'unexpected end of stream' in str(e) and translated_yaml.strip().count('"') % 2 == 1:
+                print("Info: Trying to fix unterminated quoted string...")
+                fixed_yaml = translated_yaml.rstrip() + '"'
+                try:
+                    translated_fields = yaml.safe_load(fixed_yaml)
+                    # If parsing succeeds, we continue with the logic from the `try` block
+                    if not isinstance(translated_fields, dict):
+                         print("Warning: Translation didn't return a dict, using original frontmatter")
+                         return frontmatter_dict
+
+                    result_fm = frontmatter_dict.copy()
+                    result_fm.update(translated_fields)
+                    # (Duplicating the cleanup logic here for the recovery path)
+                    for field in ("keywords", "tags"):
+                        if field in result_fm and isinstance(result_fm[field], list):
+                            cleaned = []
+                            for kw in result_fm[field]:
+                                if kw.lower() in {"keyword-one", "keyword-two", "main-theme"}:
+                                    continue
+                                cleaned.append(kw.lower().replace(" ", "-").replace("_", "-"))
+                            result_fm[field] = cleaned
+                    if "title" in result_fm and isinstance(result_fm["title"], str):
+                        result_fm["title"] = result_fm["title"].replace("''", "'")
+                    return result_fm
+
+                except yaml.YAMLError as e2:
+                    print(f"Warning: Could not parse translated YAML after fix attempt: {e2}")
+                    print(f"Raw response: {translated_yaml}")
+                    return frontmatter_dict
+            else:
+                # Original error handling for other YAML errors
+                print(f"Warning: Could not parse translated YAML: {e}")
+                print(f"Raw response: {translated_yaml}")
+                return frontmatter_dict
+
             
     except Exception as e:
         print(f"Frontmatter translation error: {e}")
