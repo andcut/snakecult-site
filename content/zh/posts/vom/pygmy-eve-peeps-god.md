@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Anthropologist Paul Schebesta’s 1936 work, Revisiting My Pygmy Hosts,
-  offers a window into the creation myths and belief systems of the Efe pygmies of
-  the Congo. Their explanation of the original sin ...
+description: 人类学家保罗·谢贝斯塔1936年的作品《重访我的俾格米主人》为我们提供了一个了解刚果埃费俾格米人创世神话和信仰体系的窗口。他们对原罪的解释...
 draft: false
 keywords:
-- vectors-of-mind
-- pygmy
-- peeps
-
-lastmod: 2025-07-07
+- 心灵的向量
+- 俾格米
+- 人物
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '149163466'
 original_url: https://www.vectorsofmind.com/p/pygmy-eve-peeps-god

@@ -1,26 +1,26 @@
 ---
 about:
-- historical-theology
+- teología-histórica
 author: Andrew Cutler
 core_entity: Augustine of Hippo
 date: 2025-06-23
-description: A turbo-charged rundown of the 15 most influential Christian writers
-  ever—complete with shock upsets, savage hot-takes, and receipts.
+description: Un resumen acelerado de los 15 escritores cristianos más influyentes
+  de la historia—completo con sorpresas impactantes, críticas mordaces y pruebas contundentes.
 draft: false
 keywords:
-- christian-writers
-- theology
-- church-history
-- Augustine
-- Aquinas
-- Reformation
-
-lastmod: '2025-07-04'
+- escritores-cristianos
+- teología
+- historia-de-la-iglesia
+- augustine
+- aquinas
+- reforma
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: best-christian-writers-ranked
 tags:
-- Church-History
+- historia-de-la-iglesia
 title: Escritores Cristianos Clasificados
 translation_model: gpt-4o
 ---

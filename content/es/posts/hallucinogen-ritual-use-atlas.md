@@ -1,29 +1,29 @@
 ---
 about:
-- human-origins
-- drug-rituals
+- orígenes-humanos
+- rituales-de-drogas
 author: Andrew Cutler
-core_entity: Ayahuasca vine
+core_entity: Liana de Ayahuasca
 date: 2025-05-06
-description: Continent-by-continent survey of archaeological, textual, and biochemical
-  evidence for ancient entheogenic practices.
+description: Encuesta continente por continente de evidencia arqueológica, textual
+  y bioquímica de prácticas enteogénicas antiguas.
 draft: false
 keywords:
-- entheogens
-- psychedelics
-- archaeology
+- enteógenos
+- psicodélicos
+- arqueología
 - ritual
-- psychoactive-plants
-- consciousness
-
-lastmod: '2025-07-04'
+- plantas-psicoactivas
+- consciencia
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hallucinogenic-atlas
 tags:
-- Entheogens
-- archaeology
-- Psychedelics
+- enteógenos
+- arqueología
+- psicodélicos
 title: 'Atlas Alucinógeno: Un Censo Continental de Entéogenos Antiguos'
 translation_model: gpt-4o
 ---

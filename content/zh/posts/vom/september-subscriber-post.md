@@ -1,20 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: If I follow this trajectory, by next year my titles will be full paragraphs.
-  For those who missed the chatbot piece, I’ve been hanging out on the SenpAI Discord
-  server to discuss the latest in LLM the...
+description: 如果我沿着这个轨迹走下去，明年的标题将会是完整的段落。对于那些错过聊天机器人文章的人，我一直在 SenpAI Discord 服务器上讨论最新的
+  LLM...
 draft: false
 keywords:
-- vectors-of-mind
-- september
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵向量
+- 九月
+- 订阅者
+- 文章
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '147415200'
 original_url: https://www.vectorsofmind.com/p/september-subscriber-post

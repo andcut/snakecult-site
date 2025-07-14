@@ -1,21 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Within the decade, millions will solicit life advice from personal chatbots
-  that know them better than they know themselves. Current technology is changing
-  many parts of therapy, from onboarding asses...
+description: 在未来十年内，数百万人将向比他们自己更了解他们的个人聊天机器人寻求生活建议。当前技术正在改变治疗的许多方面，从入职评估到...
 draft: false
 keywords:
-- vectors-of-mind
-- chatbots
-- mental
-- health
-- care
-
-lastmod: 2025-07-07
+- 心灵向量
+- 聊天机器人
+- 心理
+- 健康
+- 护理
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '148012681'
 original_url: https://www.vectorsofmind.com/p/chatbots-for-mental-health-care

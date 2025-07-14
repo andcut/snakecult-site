@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Depicted above are several libation cups made in the image of the Ancient
-  Egyptian god Bes. The burgeoning field of archeo-botany allows us to investigate
-  what was consumed from such ritual jugs by an...
+description: 上图展示了几个以古埃及神贝斯形象制作的奠酒杯。新兴的考古植物学领域使我们能够研究从这些仪式壶中消耗的物品...
 draft: false
 keywords:
-- vectors-of-mind
-- drinking
-- gods
-- chemistry
-
-lastmod: 2025-07-07
+- 心灵向量
+- 饮酒
+- 神灵
+- 化学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '153310338'
 original_url: https://www.vectorsofmind.com/p/drinking-with-the-gods-the-chemistry

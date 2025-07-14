@@ -1,26 +1,27 @@
 ---
 about:
-- mythology
-- consciousness-studies
+- mitología
+- estudios de la conciencia
 author: Andrew Cutler
 core_entity: Kunapipi
 date: 2025-06-23
-description: How Kunapipi and other Dreamtime beings swallowed novices, digested their
-  boy-souls, and spat out initiated adults—plus parallel spirit-child myths.
+description: Cómo Kunapipi y otros seres del Tiempo del Sueño tragaban a los novicios,
+  digerían sus almas de niño y escupían adultos iniciados—además de mitos paralelos
+  de niños-espíritu.
 draft: false
 keywords:
-- Kunapipi
-- Rainbow Serpent
-- Aboriginal initiation
-- Dreamtime mythology
-- spirit-child
-
-lastmod: '2025-07-04'
+- kunapipi
+- serpiente-arcoíris
+- iniciación-aborigen
+- mitología-del-tiempo-del-sueño
+- niño-espíritu
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- Australian-Dreamtime
+- tiempo-del-sueño-australiano
 title: La Serpiente-Madre Que Devora Almas
 translation_model: gpt-4o
 ---

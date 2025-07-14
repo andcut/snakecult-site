@@ -1,39 +1,37 @@
 ---
 about:
-- consciousness
-- mythology
-- religion
-- philosophy
+- 意识
+- 神话
+- 宗教
+- 哲学
 author: Andrew Cutler
 core_entity: Serpent
 date: 2025-04-20 10:00:00+00:00
-description: Exploring the evolution of self awareness through Genesis, John's Logos,
-  Gnosticism, and sacrificial myths, linking the Edenic serpent to Christ and the
-  birth of the conscious self.
+description: 探索通过《创世纪》、约翰的“逻各斯”、诺斯替主义和牺牲神话的自我意识演变，将伊甸园的蛇与基督和有意识自我的诞生联系起来。
 draft: false
 keywords:
-- consciousness
-- mythology
-- genesis
+- 意识
+- 神话
+- 创世纪
 - logos
-- gnosticism
-- christ
-- evolution
-- self-awareness
-- axial age
-- serpent
-
-lastmod: 2025-07-07
+- 诺斯替主义
+- 基督
+- 演变
+- 自我意识
+- 轴心时代
+- 蛇
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: ontological-continuity-adam-to-christ
 tags:
-- consciousness
-- Evolution
-- mythology
-- Philosophy
-- Religion
-- psychology
+- 意识
+- 演变
+- 神话
+- 哲学
+- 宗教
+- 心理学
 title: 《理性与蛇：自我意识的神话演变》
 translation_model: gpt-4o
 ---

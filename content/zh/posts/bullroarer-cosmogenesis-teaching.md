@@ -1,32 +1,31 @@
 ---
 about:
-- global-ritual-practice
-- initiation-and-transformation
-- creation-myths
-- cultural-diffusion
+- 全球仪式实践
+- 启蒙与转化
+- 创世神话
+- 文化传播
 author: Andrew Cutler
-core_entity: bullroarer
+core_entity: 牛吼器
 date: 2025-06-23
-description: An exhaustive survey of global bullroarer initiation cults and their
-  teachings about creation and civilization.
+description: 对全球牛吼器启蒙崇拜及其关于创造与文明的教义进行详尽调查。
 draft: false
 keywords:
-- bullroarer
-- initiation-rites
-- cosmogenesis
-- sacred-sound
-- mystery-cults
-- ancestral-law
-
-lastmod: 2025-07-07
+- 牛吼器
+- 启蒙仪式
+- 宇宙生成
+- 神圣之声
+- 神秘崇拜
+- 祖先法则
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: bullroarer-cosmogenesis-initiation
 tags:
-- Sacred-Objects
-- Ritual-Anthropology
-- Cosmology
-- Secret-Societies
+- 神圣物品
+- 仪式人类学
+- 宇宙学
+- 秘密社团
 title: 牛吼器宇宙生成启动
 translation_model: gpt-4o
 ---

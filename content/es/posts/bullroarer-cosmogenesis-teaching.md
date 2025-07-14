@@ -1,32 +1,32 @@
 ---
 about:
-- global-ritual-practice
-- initiation-and-transformation
-- creation-myths
-- cultural-diffusion
+- práctica-ritual-global
+- iniciación-y-transformación
+- mitos-de-creación
+- difusión-cultural
 author: Andrew Cutler
 core_entity: bullroarer
 date: 2025-06-23
-description: An exhaustive survey of global bullroarer initiation cults and their
-  teachings about creation and civilization.
+description: Un estudio exhaustivo de los cultos de iniciación del bullroarer a nivel
+  mundial y sus enseñanzas sobre la creación y la civilización.
 draft: false
 keywords:
 - bullroarer
-- initiation-rites
+- ritos-de-iniciación
 - cosmogenesis
-- sacred-sound
-- mystery-cults
-- ancestral-law
-
-lastmod: '2025-07-04'
+- sonido-sagrado
+- cultos-de-misterio
+- ley-ancestral
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: bullroarer-cosmogenesis-initiation
 tags:
-- Sacred-Objects
-- Ritual-Anthropology
-- Cosmology
-- Secret-Societies
+- objetos-sagrados
+- antropología-ritual
+- cosmología
+- sociedades-secretas
 title: Iniciación a la Cosmogenesis del Bullroarer
 translation_model: gpt-4o
 ---

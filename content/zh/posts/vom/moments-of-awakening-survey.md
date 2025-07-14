@@ -1,19 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'I’m running a quick survey on people’s earliest memories. If you’ve
-  got a moment, I’d love your input:'
+description: 我正在进行一项关于人们最早记忆的快速调查。如果您有时间，我希望得到您的反馈：
 draft: false
 keywords:
-- vectors-of-mind
-- moments
-- awakening
-- survey
-
-lastmod: 2025-07-07
+- 心灵向量
+- 时刻
+- 觉醒
+- 调查
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '164480915'
 original_url: https://www.vectorsofmind.com/p/moments-of-awakening-survey

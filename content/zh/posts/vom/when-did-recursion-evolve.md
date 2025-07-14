@@ -1,27 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: After millennia of debate on the origins of consciousness, experts still
-  put forth start dates spanning five orders of magnitude. This post will highlight
-  some of those attempts, relate them to recurs...
+description: 在关于意识起源的千年辩论之后，专家们仍然提出跨越五个数量级的起始日期。本文将重点介绍其中的一些尝试，并将其与递归联系起来……
 draft: false
 keywords:
-- vectors-of-mind
-- when
-- recursion
-- evolve
-
-lastmod: 2025-07-07
+- 心灵向量
+- 何时
+- 递归
+- 演化
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '114632067'
 original_url: https://www.vectorsofmind.com/p/when-did-recursion-evolve
 quality: 6
 slug: when-did-recursion-evolve
 tags: []
-title: '递归何时演化'
+title: 递归何时演化
 translation_model: gpt-4o
 ---
 

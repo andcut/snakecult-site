@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Stepping back from grand theories, this post revisits the mystery lexical
-  factors. From word loadings, can you describe the general principle that holds a
-  factor together? This exercise gets at the ul...
+description: 从宏大的理论中退一步，这篇文章重新探讨了神秘的词汇因素。从词的载荷中，你能描述出将一个因素联系在一起的一般原则吗？这个练习旨在揭示...
 draft: false
 keywords:
-- vectors-of-mind
-- mystery
-- factors
-- revisited
-
-lastmod: 2025-07-07
+- 心灵向量
+- 神秘
+- 因素
+- 再探
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '70046926'
 original_url: https://www.vectorsofmind.com/p/mystery-factors-revisited

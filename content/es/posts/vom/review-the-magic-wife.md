@@ -4,7 +4,7 @@ about:
 - archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Piensa en esta publicación como un grupo de estudio sobre el reciente
+description: Considera esta publicación como un grupo de estudio sobre el reciente
   análisis mitológico de Crecganford. Te animo a ver el video de 39 minutos y comentar.
   He mencionado a Crecganford un par de veces en el blog. H...
 draft: false
@@ -14,7 +14,7 @@ keywords:
 - magia
 - esposa
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144517304'
 original_url: https://www.vectorsofmind.com/p/review-the-magic-wife

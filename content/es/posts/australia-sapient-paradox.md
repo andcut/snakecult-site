@@ -1,27 +1,28 @@
 ---
 about:
-- cultural evolution
-- human prehistory
+- evolución cultural
+- prehistoria humana
 author: Andrew Cutler
 date: 2025-04-20
-description: Examining the archaeological record of Australia (Sahul) – early colonization,
-  persistent simple technologies, late emergence of complex art – as a key case study
-  supporting the Sapient Paradox and the late development of behavioral modernity.
+description: Examinando el registro arqueológico de Australia (Sahul) – colonización
+  temprana, tecnologías simples persistentes, aparición tardía de arte complejo –
+  como un estudio de caso clave que apoya la Paradoja Sapiente y el desarrollo tardío
+  de la modernidad conductual.
 draft: false
 keywords:
-- Sapient Paradox
-- Australia
-- behavioral modernity
-- archaeology
-- symbolic cognition
-
-lastmod: '2025-07-04'
+- paradoja-sapiente
+- australia
+- modernidad-conductual
+- arqueología
+- cognición-simbólica
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: australia-sapient-paradox
 tags:
-- Prehistory
-- Deep-Research
+- prehistoria
+- investigación-profunda
 title: 'Australia y la Paradoja Sapiente: Evidencia de un Salto Cognitivo Tardío'
 translation_model: gpt-4o
 ---

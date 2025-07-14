@@ -1,32 +1,32 @@
 ---
 about:
-- Mythology
-- Anthropology
-- Linguistics
-- Prehistory
+- Mitología
+- Antropología
+- Lingüística
+- Prehistoria
 author: Andrew Cutler
 date: 2025-04-21 12:00:00+00:00
-description: Comparative analysis of Eurasian 'fall from grace' myths suggesting a
-  common proto-myth originating in the Paleolithic or early Holocene.
+description: Análisis comparativo de los mitos euroasiáticos de la 'caída de la gracia'
+  que sugiere un proto-mito común originado en el Paleolítico o el Holoceno temprano.
 draft: false
 keywords:
-- comparative mythology
-- proto-mythology
-- Eurasia
-- Holocene
-- creation myths
-- fall of man
-- oral tradition
-
-lastmod: '2025-07-04'
+- mitología-comparativa
+- proto-mitología
+- eurasia
+- holoceno
+- mitos-de-creación
+- caída-del-hombre
+- tradición-oral
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: genesis-in-siberia
 tags:
-- Proto-Myth
-- Eurasia
-- Creation Stories
-- Fall from Grace
+- proto-mito
+- eurasia
+- historias-de-creación
+- caída-de-la-gracia
 title: 'Ecos de un Edén del Holoceno: Proto-Mitos de la Caída y la Creación a lo largo
   de Eurasia'
 translation_model: gpt-4o

@@ -1,31 +1,32 @@
 ---
 about:
-- ancient-religion
-- mystery-cults
-- sacred-sound
+- religión-antigua
+- cultos-misteriosos
+- sonido-sagrado
 author: Andrew Cutler
 core_entity: Cybele
 date: 2025-06-23
-description: How the Mother of the Gods, her roaring rhombos, and a dying youth became
-  the soundtrack and syllabus of Greek, Phrygian, and Roman civilization.
+description: Cómo la Madre de los Dioses, su rugiente rhombos, y un joven moribundo
+  se convirtieron en la banda sonora y el plan de estudios de la civilización griega,
+  frigia y romana.
 draft: false
 keywords:
-- Cybele
+- cybele
 - bullroarer
 - rhombos
-- mystery-cult
-- cosmogony
-- Dionysus
-- Demeter
-
-lastmod: '2025-07-04'
+- culto-misterioso
+- cosmogonía
+- dionysus
+- demeter
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cybele-bullroarer-mystery
 tags:
-- Sacred-Objects
-- Mystery-Cults
-- Ancient-Religion
+- objetos-sagrados
+- cultos-misteriosos
+- religión-antigua
 title: Cybele — La Voz Giratoria de Rea y el Nacimiento de la Vida Civilizada
 translation_model: gpt-4o
 ---

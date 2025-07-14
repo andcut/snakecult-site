@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'In the beginning, God created three beings: Man, Antelope, and Snake.
-  There was only one tree, bearing red fruit. Every seven days, God would come down
-  from the sky to pluck the fruit. One day, Snake ...'
+description: 起初，上帝创造了三种生物：人、羚羊和蛇。世上只有一棵树，结着红色的果实。每隔七天，上帝就会从天上下来摘取果实。一天，蛇...
 draft: false
 keywords:
-- vectors-of-mind
-- snake
-- cult
-- consciousness
-
-lastmod: 2025-07-07
+- 心灵的向量
+- 蛇
+- 崇拜
+- 意识
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '154908424'
 original_url: https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness-two

@@ -1,30 +1,29 @@
 ---
 about:
-- comparative-mythology
-- archaeo-astronomy
+- 比较神话学
+- 考古天文学
 author: Andrew Cutler
-core_entity: Titan ash
+core_entity: 泰坦灰烬
 date: 2025-06-23
-description: A long-form comparative study of dismemberment-cosmogonies, snake-ash
-  anthropogenies, esoteric water-mirrors, and the solar Herakles of the Orphic hymns.
+description: 对解体宇宙论、蛇灰人类起源论、秘传水镜以及奥尔菲克颂歌中的太阳赫拉克勒斯的长篇比较研究。
 draft: false
 keywords:
-- Orphism
-- creation-myth
-- serpent-symbolism
-- ritual-mirror
-- mystery-cults
-- anthropogony
-
-lastmod: 2025-07-07
+- 奥尔菲斯主义
+- 创世神话
+- 蛇形象征
+- 仪式镜
+- 秘密宗教
+- 人类起源论
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- Myth
-- Religion
-- Archaeology
-title: Titan Ash & Serpent Spark — 解体的宇宙、水镜与创世的蛇形核心
+- 神话
+- 宗教
+- 考古学
+title: 泰坦灰烬与蛇火花 — 解体的宇宙、水镜与创世的蛇形核心
 translation_model: gpt-4o
 ---
 

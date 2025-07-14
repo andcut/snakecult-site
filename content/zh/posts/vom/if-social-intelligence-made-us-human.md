@@ -1,28 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: “Language may well have arisen as a mysterious power possessed largely
-  by women—women who spent much more of their waking time together—and, usually, talking—than
-  did men, women who in all societies a...
+description: “语言很可能起源于一种神秘的力量，主要由女性拥有——女性在一起度过的清醒时间更多，通常在交谈——比男性更多，女性在所有社会中都是如此...
 draft: false
 keywords:
-- vectors-of-mind
-- social
-- intelligence
-- made
-- human
-
-lastmod: 2025-07-07
+- 心灵的向量
+- 社会
+- 智力
+- 造就
+- 人类
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '162497369'
 original_url: https://www.vectorsofmind.com/p/if-social-intelligence-made-us-human
 quality: 6
 slug: if-social-intelligence-made-us-human
 tags: []
-title: '如果社会智力造就了我们人类'
+title: 如果社会智力造就了我们人类
 translation_model: gpt-4o
 ---
 

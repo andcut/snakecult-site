@@ -1,27 +1,28 @@
 ---
 about:
-- gene-culture coevolution
-- quantitative-genetics
-- cognitive-evolution
+- coevolución gen-cultura
+- genética-cuántica
+- evolución-cognitiva
 author: Andrew Cutler
 date: 2025-04-19
-description: Why the blank-slate claim that cognition hasn't evolved since the Upper
-  Palaeolithic fails basic population genetics—and what ancient DNA now shows.
+description: Por qué la afirmación de la tabla rasa de que la cognición no ha evolucionado
+  desde el Paleolítico Superior falla en la genética de poblaciones básica, y lo que
+  el ADN antiguo muestra ahora.
 draft: false
 keywords:
-- human-intelligence
-- breeder's-equation
-- behavioral-genetics
-- Holocene selection
-- ancient DNA
-
-lastmod: '2025-07-04'
+- inteligencia-humana
+- ecuación-del-criador
+- genética-conductual
+- selección-del-holoceno
+- adn-antiguo
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: intelligence-selection-50k
 tags:
-- Evolution
-- Deep-Research
+- evolución
+- investigación-profunda
 title: 'La inteligencia humana: 50,000 años es suficiente — Una verificación de la
   realidad con la ecuación del criador'
 translation_model: gpt-4o

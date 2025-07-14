@@ -1,17 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'I’d like to add a third postulate to Galton’s Lexical Hypothesis:'
+description: 我想为高尔顿的词汇假说添加第三个假设：
 draft: false
 keywords:
-- vectors-of-mind
-- consequences
-- conscience
-
-lastmod: 2025-07-07
+- 心灵向量
+- 后果
+- 良心
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '61742129'
 original_url: https://www.vectorsofmind.com/p/consequences-of-conscience

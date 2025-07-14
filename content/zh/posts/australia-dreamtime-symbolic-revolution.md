@@ -1,41 +1,38 @@
 ---
 about:
-- Australian Prehistory
-- Comparative Archaeology
-- Symbolic Systems
-- Cognitive Evolution
+- 澳大利亚史前史
+- 比较考古学
+- 符号系统
+- 认知进化
 author: Andrew Cutler
 date: 2025-04-20
-description: Comparison of the early Holocene emergence of the Aboriginal Dreamtime
-  symbolic system with the Near East's Neolithic 'revolution of symbols,' examining
-  Australian rock art, technology, exchange networks, language diffusion, and cognitive
-  impacts.
+description: 比较早期全新世土著梦幻时代符号系统的出现与近东新石器时代“符号革命”，研究澳大利亚岩画、技术、交流网络、语言扩散及其认知影响。
 draft: false
 keywords:
-- Dreamtime
-- Aboriginal Australia
-- Holocene
-- Symbolic Revolution
-- Rock Art
-- Maliwawa Figures
-- Rainbow Serpent
-- Proto-Australian Language
-- Metacognition
-- Jacques Cauvin
-- Göbekli Tepe
-- Archaeology
-- Cognitive Archaeology
-- Oral Tradition
-
-lastmod: 2025-07-07
+- 梦幻时代
+- 澳大利亚土著
+- 全新世
+- 符号革命
+- 岩画
+- maliwawa-figures
+- 彩虹蛇
+- 原始澳大利亚语言
+- 元认知
+- jacques-cauvin
+- göbekli-tepe
+- 考古学
+- 认知考古学
+- 口头传统
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: australia-dreamtime-symbolic-revolution
 tags:
-- Anthropology
-- archaeology
-- Deep-Research
-- cognitive science
+- 人类学
+- 考古学
+- 深度研究
+- 认知科学
 title: 澳大利亚梦幻时代与象征性革命：晚期意识的土著证据？
 translation_model: gpt-4o
 ---

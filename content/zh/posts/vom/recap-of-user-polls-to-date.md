@@ -1,21 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Polls are an under-used Substack tool, particularly when a post makes
-  a specific argument. Less than 1% of people who read an article will comment, and
-  those who do usually have strong opinions. Polls...
+description: 投票是一个未被充分利用的Substack工具，特别是在文章提出具体论点时。阅读文章的人中，评论者不到1%，而这些评论者通常有强烈的观点。投票...
 draft: false
 keywords:
-- vectors-of-mind
-- recap
-- user
-- polls
-- date
-
-lastmod: 2025-07-07
+- 心灵向量
+- 回顾
+- 用户
+- 投票
+- 日期
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '143786323'
 original_url: https://www.vectorsofmind.com/p/recap-of-user-polls-to-date

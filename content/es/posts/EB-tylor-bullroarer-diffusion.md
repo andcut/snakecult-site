@@ -1,27 +1,27 @@
 ---
 about:
-- history-of-anthropology
-- ritual-technology
+- historia-de-la-antropología
+- tecnología-ritual
 author: Andrew Cutler
 core_entity: Bull-roarer
 date: 2025-05-18
-description: Edward B. Tylor's classic analyses of the bull-roarer—its form, ritual
-  roles, and global diffusion—presented with extensive primary quotations.
+description: Los análisis clásicos de Edward B. Tylor sobre el bull-roarer—su forma,
+  roles rituales y difusión global—presentados con extensas citas primarias.
 draft: true
 keywords:
 - bull-roarer
-- Edward B. Tylor
-- cultural diffusion
-- initiation rites
-- anthropology history
-
-lastmod: '2025-07-04'
+- edward-b.-tylor
+- difusión-cultural
+- ritos-de-iniciación
+- historia-de-la-antropología
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: eb-tylor-bullroarer
 tags:
-- Bullroarer
-- Tylor
+- bullroarer
+- tylor
 title: Eb Tylor Bullroarer
 translation_model: gpt-4o
 ---

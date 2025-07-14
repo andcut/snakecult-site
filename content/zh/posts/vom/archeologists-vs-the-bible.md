@@ -1,18 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'The FAQ page on Tepe Telegrams, the official blog of Gobekli Tepe (GT),
-  includes this gem:'
+description: 哥贝克力山丘（GT）官方博客Tepe Telegrams的常见问题页面中包含了这一瑰宝：
 draft: false
 keywords:
-- vectors-of-mind
-- archeologists
-- bible
-
-lastmod: 2025-07-07
+- 心灵向量
+- 考古学家
+- 圣经
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144517305'
 original_url: https://www.vectorsofmind.com/p/archeologists-vs-the-bible

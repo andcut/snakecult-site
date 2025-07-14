@@ -15,7 +15,7 @@ keywords:
 - palabra
 - vectores
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '50351822'
 original_url: https://www.vectorsofmind.com/p/the-big-five-are-word-vectors

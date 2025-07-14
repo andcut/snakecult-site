@@ -1,29 +1,30 @@
 ---
 about:
-- myth
-- anthropology
-- consciousness
+- mito
+- antropología
+- conciencia
 author: Andrew Cutler
 core_entity: Serpent
 date: 2025-06-23
-description: From Greek shepherd‑seers to Kurdish snake‑queens, cultures worldwide
-  claim a serpent's bite, lick, or brew lets humans talk to animals.
+description: Desde los pastores-videntes griegos hasta las reinas-serpiente kurdas,
+  culturas de todo el mundo afirman que la mordida, lamida o brebaje de una serpiente
+  permite a los humanos hablar con los animales.
 draft: false
 keywords:
-- snake‑myth
-- beast‑speech
-- comparative‑folklore
-- serpent‑cult
-- cognitive‑uplift
-
-lastmod: '2025-07-04'
+- mito‑serpiente
+- habla‑bestia
+- folclore‑comparativo
+- culto‑serpiente
+- elevación‑cognitiva
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: snakes-speech-mythology
 tags:
-- World‑Mythology
-- Snake‑Cult
-- Linguistic‑Magic
+- mitología‑mundial
+- culto‑serpiente
+- magia‑lingüística
 title: '# Serpientes que Otorgan el Habla de las Bestias en la Mitología Mundial'
 translation_model: gpt-4o
 ---

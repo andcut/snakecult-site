@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Data scientist Matthew Fisher and I met at the Less Online conference
-  at Lighthaven in Berkeley, where I gave a presentation on the Snake Cult of Consciousness.
-  Between sessions, we discovered we had ...
+description: 数据科学家Matthew Fisher和我在伯克利的Lighthaven举行的Less Online会议上相遇，我在那里做了关于意识蛇教的演讲。在会议期间，我们发现我们有...
 draft: false
 keywords:
-- vectors-of-mind
-- love
-- symposium
-
-lastmod: 2025-07-07
+- 心灵向量
+- 爱
+- 研讨会
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '151015187'
 original_url: https://www.vectorsofmind.com/p/the-love-symposium

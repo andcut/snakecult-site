@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: It has been a good year here on Vectors of Mind. The Eve Theory of Consciousness
-  has always been aspirational. Pedantically, it’s more of a hypothesis—particularly
-  versions 1 and 2. However, with the ...
+description: 在心灵向量度过了美好的一年。意识的夏娃理论一直是有抱负的。从严格意义上讲，它更像是一个假设——尤其是第1版和第2版。然而，随着...
 draft: false
 keywords:
-- vectors-of-mind
-- december
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵向量
+- 十二月
+- 订阅者
+- 文章
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152359762'
 original_url: https://www.vectorsofmind.com/p/december-subscriber-post

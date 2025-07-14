@@ -1,18 +1,16 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: To my knowledge, no one has argued that women evolved recursion before
-  men. This seems like low-hanging fruit, given it’s the oldest story in the book.
-  Indigenous cultures worldwide have myths of a pr...
+description: 据我所知，没有人提出女性在男性之前进化出递归能力。这似乎是显而易见的，因为这是最古老的故事。世界各地的土著文化都有关于...
 draft: false
 keywords:
-- vectors-of-mind
-- consciousness
-
-lastmod: 2025-07-07
+- 心灵向量
+- 意识
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '114650037'
 original_url: https://www.vectorsofmind.com/p/eve-theory-of-consciousness-v2

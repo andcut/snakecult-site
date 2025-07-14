@@ -1,32 +1,31 @@
 ---
 about:
-- Mythology
-- Anthropology
-- Linguistics
-- Prehistory
+- 神话学
+- 人类学
+- 语言学
+- 史前史
 author: Andrew Cutler
 date: 2025-04-21 12:00:00+00:00
-description: Comparative analysis of Eurasian 'fall from grace' myths suggesting a
-  common proto-myth originating in the Paleolithic or early Holocene.
+description: 对欧亚大陆“堕落”神话的比较分析，暗示一种起源于旧石器时代或全新世早期的共同原型神话。
 draft: false
 keywords:
-- comparative mythology
-- proto-mythology
-- Eurasia
-- Holocene
-- creation myths
-- fall of man
-- oral tradition
-
-lastmod: 2025-07-07
+- 比较神话学
+- 原型神话学
+- 欧亚大陆
+- 全新世
+- 创世神话
+- 人类堕落
+- 口头传统
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: genesis-in-siberia
 tags:
-- Proto-Myth
-- Eurasia
-- Creation Stories
-- Fall from Grace
+- 原型神话
+- 欧亚大陆
+- 创世故事
+- 堕落
 title: 全新世伊甸园的回声：欧亚大陆的堕落与创造原型神话
 translation_model: gpt-4o
 ---

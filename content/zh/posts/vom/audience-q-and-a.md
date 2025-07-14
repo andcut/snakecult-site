@@ -1,17 +1,16 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: In this episode, I answer a few questions from a reader. Enjoy the show
-  notes, which are helpful when discussing particular works of art.
+description: 在本集中，我回答了一位读者的几个问题。请欣赏节目笔记，这在讨论特定艺术作品时非常有帮助。
 draft: false
 keywords:
-- vectors-of-mind
-- audience
-
-lastmod: 2025-07-07
+- 心灵的向量
+- 观众
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '158199968'
 original_url: https://www.vectorsofmind.com/p/audience-q-and-a

@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: In this episode I speak with , an Australian psychologist and writer
-  of the Mind & Mythos Substack. Dan's work explores the intersection of psychology,
-  mythology, and narrative, initially focusing on ...
+description: 在本集中，我与一位澳大利亚心理学家兼Mind & Mythos Substack的作家交谈。丹的作品探讨了心理学、神话和叙事的交叉点，最初专注于...
 draft: false
 keywords:
-- vectors-of-mind
-- mind
-- mythos
+- 心灵向量
+- 心灵
+- 神话
 - ackerfeld
-
-lastmod: 2025-07-07
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152587817'
 original_url: https://www.vectorsofmind.com/p/mind-and-mythos-with-dan-ackerfeld

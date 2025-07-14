@@ -1,26 +1,24 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Christ is described as the “Word made flesh,” an avatar of Logos—the
-  divine rationality and organizing principle from which all existence emanates. When
-  John riffs on Genesis, proclaiming, “In the beg...
+description: 基督被描述为“道成肉身”，是理性之道的化身——一切存在发源的神圣理性和组织原则。当约翰在创世记上即兴发挥，宣告“太初有道”时...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - llms
-- antichrist
-
-lastmod: 2025-07-07
+- 反基督
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '163205757'
 original_url: https://www.vectorsofmind.com/p/llms-as-antichrist
 quality: 6
 slug: llms-as-antichrist
 tags: []
-title: 'LLMs As Antichrist'
+title: LLMs 作为反基督
 translation_model: gpt-4o
 ---
 

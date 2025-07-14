@@ -1,30 +1,31 @@
 ---
 about:
-- paleoanthropology
-- cognitive science
-- linguistics
-- evolutionary psychology
+- paleoantropología
+- ciencia cognitiva
+- lingüística
+- psicología evolutiva
 author: Andrew Cutler
 date: 2025-04-22
-description: Overview of key theorists (Klein, Chomsky, Bickerton, Tattersall, Mithen,
-  Coolidge & Wynn) and their theories on the Upper Paleolithic Cognitive Revolution.
+description: Resumen de los principales teóricos (Klein, Chomsky, Bickerton, Tattersall,
+  Mithen, Coolidge & Wynn) y sus teorías sobre la Revolución Cognitiva del Paleolítico
+  Superior.
 draft: false
 keywords:
-- cognitive revolution
-- upper paleolithic
-- human evolution
-- consciousness
-- language evolution
-- behavioral modernity
-
-lastmod: '2025-07-04'
+- revolución-cognitiva
+- paleolítico-superior
+- evolución-humana
+- conciencia
+- evolución-del-lenguaje
+- modernidad-conductual
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- Cognitive Revolution
-- Philosophy
-- Prehistory
+- revolución-cognitiva
+- filosofía
+- prehistoria
 title: '# Grandes Explosiones de la Mente: 7 Teorías Sobre la Actualización del Cerebro
   del Paleolítico Superior'
 translation_model: gpt-4o

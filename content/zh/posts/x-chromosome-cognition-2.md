@@ -1,33 +1,32 @@
 ---
 about:
-- genetics
-- neuroscience
-- cognitive science
-- evolution
+- 遗传学
+- 神经科学
+- 认知科学
+- 进化
 author: Andrew Cutler
-core_entity: X chromosome
+core_entity: X染色体
 date: 2025-04-27
-description: A comprehensive review of how the X chromosome influences human brain
-  development, cognitive function, and neurological disorders.
+description: 全面综述X染色体如何影响人类大脑发育、认知功能和神经系统疾病。
 draft: false
 keywords:
-- X chromosome
-- cognition
-- brain development
-- X-linked genes
-- intellectual disability
-- X-inactivation
-- sex differences
-
-lastmod: 2025-07-07
+- x染色体
+- 认知
+- 大脑发育
+- x连锁基因
+- 智力障碍
+- x失活
+- 性别差异
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: x-chromosome-cognition-2
 tags:
-- Genetics
-- Neuroscience
-- cognitive science
-- Evolution
+- 遗传学
+- 神经科学
+- 认知科学
+- 进化
 title: X染色体与人类认知
 translation_model: gpt-4o
 ---

@@ -1,27 +1,26 @@
 ---
 about:
-- gene-culture coevolution
-- quantitative-genetics
-- cognitive-evolution
+- 基因-文化共进化
+- 数量遗传学
+- 认知进化
 author: Andrew Cutler
 date: 2025-04-19
-description: Why the blank-slate claim that cognition hasn't evolved since the Upper
-  Palaeolithic fails basic population genetics—and what ancient DNA now shows.
+description: 为什么认为自上旧石器时代以来认知没有进化的白板论在基本群体遗传学上是错误的——以及古代DNA现在显示了什么。
 draft: false
 keywords:
-- human-intelligence
-- breeder's-equation
-- behavioral-genetics
-- Holocene selection
-- ancient DNA
-
-lastmod: 2025-07-07
+- 人类智力
+- 育种者方程
+- 行为遗传学
+- 全新世选择
+- 古代dna
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: intelligence-selection-50k
 tags:
-- Evolution
-- Deep-Research
+- 进化
+- 深度研究
 title: 人类智力：五万年已经足够——育种者方程的现实检验
 translation_model: gpt-4o
 ---

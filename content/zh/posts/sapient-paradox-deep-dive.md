@@ -1,28 +1,26 @@
 ---
 about:
-- behavioral modernity
-- archaeological bias
-- cultural evolution
+- 行为现代性
+- 考古偏见
+- 文化演化
 author: Andrew Cutler
 date: 2025-04-20
-description: A comprehensive analysis of the Sapient Paradox, synthesizing archaeological
-  findings (tools, art, burials) with paleogenetics (brain-related gene sweeps, population
-  bottlenecks) to evaluate theories for the delayed emergence of behavioral modernity.
+description: 全面分析智者悖论，综合考古发现（工具、艺术、墓葬）与古基因学（与大脑相关的基因扫荡、种群瓶颈）以评估行为现代性延迟出现的理论。
 draft: false
 keywords:
-- Sapient Paradox
-- behavioral modernity
-- archaeology
-- symbolic cognition
-- human evolution
-
-lastmod: 2025-07-07
+- 智者悖论
+- 行为现代性
+- 考古学
+- 符号认知
+- 人类演化
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: sapient-paradox-deep-dive
 tags:
-- Prehistory
-- Deep-Research
+- 史前史
+- 深度研究
 title: 《智者悖论：深入探讨考古学和遗传学证据》
 translation_model: gpt-4o
 ---

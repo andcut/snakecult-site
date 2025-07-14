@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Dr. Tom Froese is a researcher in enactive artificial intelligence investigating
-  the systematic organization of life and mind. He received his PhD in cognitive science
-  from the University of Sussex, d...
+description: Dr. Tom Froese 是一位研究具身人工智能的研究员，调查生命与心灵的系统性组织。他在萨塞克斯大学获得了认知科学博士学位，...
 draft: false
 keywords:
-- vectors-of-mind
-- origins
-- human
-- consciousness
-
-lastmod: 2025-07-07
+- 心灵的向量
+- 起源
+- 人类
+- 意识
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '151560960'
 original_url: https://www.vectorsofmind.com/p/the-origins-of-human-consciousness

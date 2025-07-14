@@ -1,34 +1,31 @@
 ---
 about:
-- Religious Studies
-- Anthropology
-- Mythology
+- 宗教研究
+- 人类学
+- 神话学
 author: Andrew Cutler
 core_entity: Nāga
 date: 2025-04-20
-description: Analyzing Max Müller's 19th-century work on serpent worship, focusing
-  on his identification of serpent symbolism in Vedic and Indo-European traditions
-  and comparing his findings with global serpent myths relevant to the Snake Cult
-  hypothesis.
+description: 分析马克斯·缪勒19世纪关于蛇崇拜的研究，重点研究他在吠陀和印欧传统中对蛇象征的识别，并将他的发现与全球蛇神话进行比较，以验证蛇崇拜假说的相关性。
 draft: false
 keywords:
-- Max Müller
-- serpent worship
-- Nāga
-- mythology
-- comparative religion
-- symbolism
-
-lastmod: 2025-07-07
+- max-müller
+- 蛇崇拜
+- nāga
+- 神话学
+- 比较宗教
+- 象征主义
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: muller-serpent-worship
 tags:
-- Max Müller
-- Ritual
-- Serpent Worship
-- Symbolism
-- mythology
+- max-müller
+- 仪式
+- 蛇崇拜
+- 象征主义
+- 神话学
 title: Maximilian Müller关于蛇崇拜：印欧根源与全球相似性
 translation_model: gpt-4o
 ---

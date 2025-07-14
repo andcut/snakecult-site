@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Okay, let’s take a little reprieve from the sapience stuff. I actually
-  had a bunch of psychometrics queued up before being pulled in by the clarion call
-  of consciousness. It’s just so hard to look awa...
+description: 好吧，让我们从智慧的事情中稍作休息。实际上，在被意识的号召吸引之前，我已经准备了一堆心理测量学的内容。实在是很难移开目光……
 draft: false
 keywords:
-- vectors-of-mind
-- personality
-- around
-- world
-
-lastmod: 2025-07-07
+- 心灵向量
+- 人格
+- 周围
+- 世界
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '108601152'
 original_url: https://www.vectorsofmind.com/p/personality-around-the-world

@@ -1,21 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: is a researcher and writer blogging about the science and politics of
-  mental health at . In this episode, he joins me in dissecting the psychological
-  and religious frameworks of Jordan Peterson, a fig...
+description: 是一位研究员和作家，在博客上撰写关于心理健康的科学和政治。在这一集中，他与我一起剖析乔丹·彼得森的心理和宗教框架，一个...
 draft: false
 keywords:
-- vectors-of-mind
-- jonah
-- davids
-- understanding
-- jordan
-
-lastmod: 2025-07-07
+- 心灵向量
+- 乔纳
+- 戴维斯
+- 理解
+- 乔丹
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '155173311'
 original_url: https://www.vectorsofmind.com/p/jonah-davids-understanding-jordan

@@ -1,26 +1,25 @@
 ---
 about:
-- mythology
-- consciousness-studies
+- 神话
+- 意识研究
 author: Andrew Cutler
 core_entity: Kunapipi
 date: 2025-06-23
-description: How Kunapipi and other Dreamtime beings swallowed novices, digested their
-  boy-souls, and spat out initiated adults—plus parallel spirit-child myths.
+description: Kunapipi和其他梦境时代的存在如何吞噬新手，消化他们的男孩灵魂，并吐出成年后的成年人——以及类似的灵魂孩子神话。
 draft: false
 keywords:
-- Kunapipi
-- Rainbow Serpent
-- Aboriginal initiation
-- Dreamtime mythology
-- spirit-child
-
-lastmod: 2025-07-07
+- kunapipi
+- 彩虹蛇
+- 土著启蒙
+- 梦境时代神话
+- 灵魂孩子
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- Australian-Dreamtime
+- 澳大利亚梦境时代
 title: 吞噬灵魂的蛇母
 translation_model: gpt-4o
 ---

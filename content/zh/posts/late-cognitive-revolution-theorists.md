@@ -1,30 +1,29 @@
 ---
 about:
-- paleoanthropology
-- cognitive science
-- linguistics
-- evolutionary psychology
+- 古人类学
+- 认知科学
+- 语言学
+- 演化心理学
 author: Andrew Cutler
 date: 2025-04-22
-description: Overview of key theorists (Klein, Chomsky, Bickerton, Tattersall, Mithen,
-  Coolidge & Wynn) and their theories on the Upper Paleolithic Cognitive Revolution.
+description: 概述主要理论家（Klein, Chomsky, Bickerton, Tattersall, Mithen, Coolidge & Wynn）及其关于旧石器时代晚期认知革命的理论。
 draft: false
 keywords:
-- cognitive revolution
-- upper paleolithic
-- human evolution
-- consciousness
-- language evolution
-- behavioral modernity
-
-lastmod: 2025-07-07
+- 认知革命
+- 旧石器时代晚期
+- 人类演化
+- 意识
+- 语言演化
+- 行为现代性
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- Cognitive Revolution
-- Philosophy
-- Prehistory
+- 认知革命
+- 哲学
+- 史前史
 title: 心灵的大爆炸：关于旧石器时代晚期大脑升级的7种理论
 translation_model: gpt-4o
 ---

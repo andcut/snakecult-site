@@ -1,29 +1,30 @@
 ---
 about:
-- mythic deep time
+- tiempo mítico profundo
 author: Andrew Cutler
-core_entity: First People
+core_entity: Primeras Personas
 date: 2025-05-11
-description: Across the Americas, Indigenous traditions recall ant-folk, giants, and
-  shadow-people who occupied the land before humans arrived.
+description: A lo largo de las Américas, las tradiciones indígenas recuerdan a los
+  pueblos-hormiga, gigantes y sombras que ocuparon la tierra antes de la llegada de
+  los humanos.
 draft: false
 keywords:
-- Indigenous myths
-- ant people
-- American giants
-- first inhabitants
-- Tuniit
-- Si-Te-Cah
-- Quinametzin
-
-lastmod: '2025-07-04'
+- mitos-indígenas
+- pueblos-hormiga
+- gigantes-americanos
+- primeros-habitantes
+- tuniit
+- si-te-cah
+- quinametzin
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: earlier-inhabitants-american-myths
 tags:
-- mythology
-- diffusionism
-- archaeology
+- mitología
+- difusionismo
+- arqueología
 title: '# ¿Quién Estuvo Aquí Primero? Mitos Indígenas Americanos de Pueblos Anteriores'
 translation_model: gpt-4o
 ---

@@ -1,29 +1,28 @@
 ---
 about:
-- evolution
-- history of science
-- anthropology
+- 进化
+- 科学史
+- 人类学
 author: Andrew Cutler
 date: 2025-04-22
-description: Darwin's views on the rapid pace of human evolution, driven by gene-culture
-  interaction, reputation, language, and social institutions.
+description: 达尔文关于人类进化快速步伐的观点，由基因-文化互动、声誉、语言和社会制度推动。
 draft: false
 keywords:
 - darwin
-- evolution
-- human evolution
-- gene-culture
-- language
-- morality
-
-lastmod: 2025-07-07
+- 进化
+- 人类进化
+- 基因-文化
+- 语言
+- 道德
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: darwin-short-evolutionary-timelines
 tags:
-- Darwin
-- Evolutionary Theory
-- human-origins
+- darwin
+- 进化理论
+- 人类起源
 title: 达尔文关于人类进化：短时间线与基因-文化互动
 translation_model: gpt-4o
 ---

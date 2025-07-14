@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: IQ has a reputation for being the hard-nosed psychometric option. Those
-  who are willing to accept facts over feelings will admit its supremacy. But this
-  is stolen valor! Emotional intelligence is fund...
+description: 智商以其冷酷无情的心理测量选项而闻名。那些愿意接受事实而非情感的人会承认其至高无上。但这是一种窃取的荣誉！情商是基础...
 draft: false
 keywords:
-- vectors-of-mind
-- forms
-- measures
-
-lastmod: 2025-07-07
+- 心灵向量
+- 形式
+- 测量
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '130101130'
 original_url: https://www.vectorsofmind.com/p/forms-vs-measures

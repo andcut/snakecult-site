@@ -1,27 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Not one but two readers have asked me about the Turkish myth of Shahmaran,
-  a mythic snake-woman who lives in a cave. Among other things, she teaches a young
-  man the history of Mankind. She ends up bei...
+description: 有两位读者询问我关于土耳其的Shahmaran神话，一个住在洞穴里的神话蛇女。她教导一个年轻人人类的历史。最终她...
 draft: false
 keywords:
-- vectors-of-mind
-- march
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵的向量
+- 三月
+- 订阅者
+- 文章
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '142220138'
 original_url: https://www.vectorsofmind.com/p/march-subscriber-post
 quality: 6
 slug: march-subscriber-post
 tags: []
-title: '三月订阅者文章'
+title: 三月订阅者文章
 translation_model: gpt-4o
 ---
 

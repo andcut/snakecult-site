@@ -1,18 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'I also appeared on the DemystifySci podcast:'
+description: 我也出现在DemystifySci播客上：
 draft: false
 keywords:
-- vectors-of-mind
-- march
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵的向量
+- 三月
+- 订阅者
+- 帖子
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '154853879'
 original_url: https://www.vectorsofmind.com/p/march-subscriber-post-9b7

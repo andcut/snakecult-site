@@ -1,8 +1,8 @@
 ---
-
-lastmod: '2025-07-04'
+lang: es
+lastmod: '2025-07-13'
 layout: recent
-title: Actualizaciones Recientes
+title: Recent Updates
 translation_model: gpt-4o
 ---
 

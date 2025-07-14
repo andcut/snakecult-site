@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: If self-awareness emerged recently, this should show up in comparative
-  linguistics. The ability to introspect is a big deal, and it would require the invention
-  of new words to communicate new experien...
+description: 如果自我意识是最近才出现的，这应该会在比较语言学中有所体现。内省的能力是一个大问题，它需要创造新词来传达新的体验。
 draft: false
 keywords:
-- vectors-of-mind
-- unreasonable
-- effectiveness
-
-lastmod: 2025-07-07
+- 心灵向量
+- 不合理
+- 有效性
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '103480693'
 original_url: https://www.vectorsofmind.com/p/the-unreasonable-effectiveness-of

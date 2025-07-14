@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'The above is what “Snake Cult of Consciousness” yields when run through
-  an AI slop meme generator. Not entirely bad. But alas, I have been beaten to the
-  punch:'
+description: 以上是“意识的蛇崇拜”通过AI混合模因生成器运行时的结果。不算太差。但遗憾的是，我已经被抢先一步：
 draft: false
 keywords:
-- vectors-of-mind
-- august
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵向量
+- 八月
+- 订阅者
+- 帖子
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682173'
 original_url: https://www.vectorsofmind.com/p/august-subscriber-post-b87

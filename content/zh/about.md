@@ -1,12 +1,13 @@
 ---
-title: "关于安德鲁·卡特勒"
+author: Andrew Cutler
 date: 2024-11-22
-lastmod: 2025-07-07
-slug: about
-description: "了解安德鲁·卡特勒关于夏娃意识理论、蛇崇拜假说的开创性研究，以及Snakecult.net背后的起源故事。"
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+description: 了解安德鲁·卡特勒关于夏娃意识理论、蛇崇拜假说的开创性研究，以及Snakecult.net背后的起源故事。
 draft: false
+lang: zh
+lastmod: '2025-07-13'
+license: https://creativecommons.org/licenses/by-sa/4.0/
+slug: about
+title: 关于安德鲁·卡特勒
 translation_model: gpt-4o
 ---
 
@@ -77,4 +78,4 @@ Snakecult.net作为实验性研究中心，存档支持夏娃理论和蛇崇拜�
 
 ---
 
-*"太初有道。" — 约翰福音1:1* 
+*"太初有道。" — 约翰福音1:1*

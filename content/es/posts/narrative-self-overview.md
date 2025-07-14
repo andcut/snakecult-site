@@ -1,33 +1,33 @@
 ---
 about:
-- Philosophy of Mind
-- Cognitive Science
-- Psychology
+- Filosofía de la Mente
+- Ciencia Cognitiva
+- Psicología
 author: Andrew Cutler
-core_entity: Narrator
+core_entity: Narrador
 date: 2025-03-27
-description: A comprehensive review exploring the concept of the 'narrative self'
-  across philosophy, psychology, neuroscience, and literary theory.
+description: Una revisión exhaustiva que explora el concepto del 'yo narrativo' a
+  través de la filosofía, la psicología, la neurociencia y la teoría literaria.
 draft: false
 keywords:
-- narrative self
-- personal identity
-- philosophy of mind
-- psychology
-- neuroscience
-- cognitive science
-- self-concept
-
-lastmod: '2025-07-04'
+- yo-narrativo
+- identidad-personal
+- filosofía-de-la-mente
+- psicología
+- neurociencia
+- ciencia-cognitiva
+- autoconcepto
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- consciousness
-- Identity
-- Memory
-- Narrative
-- psychology
+- conciencia
+- identidad
+- memoria
+- narrativa
+- psicología
 title: 'El Yo Narrativo: Una Revisión de Literatura Multidisciplinaria'
 translation_model: gpt-4o
 ---

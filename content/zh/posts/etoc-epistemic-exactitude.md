@@ -1,30 +1,29 @@
 ---
 about:
-- consciousness origins
-- evolutionary anthropology
-- cognitive archaeology
+- 意识起源
+- 进化人类学
+- 认知考古学
 author: Andrew Cutler
-core_entity: Venus figurine
+core_entity: 维纳斯雕像
 date: 2025-04-27
-description: How a late Upper-Pleistocene spark of self awareness spread memetically,
-  rewired our genome, and solved the Sapient Paradox.
+description: 晚更新世晚期的一次自我意识的火花如何通过模因传播，重塑我们的基因组，并解决智人悖论。
 draft: false
 keywords:
-- Eve Theory of Consciousness
-- recursive self awareness
-- gene culture coevolution
-- Sapient Paradox
-- bicameral mind
-- behavioral modernity
-
-lastmod: 2025-07-07
+- 夏娃意识理论
+- 递归自我意识
+- 基因文化共同进化
+- 智人悖论
+- 双脑心智
+- 行为现代性
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by sa/4.0/
 quality: 7
 slug: etoc epistemic-exactitude
 tags:
-- EToC
-- Deep History
-- human evolution
+- etoc
+- 深度历史
+- 人类进化
 title: 觉醒的夏娃：自我认知如何重塑人类心智
 translation_model: gpt-4o
 ---

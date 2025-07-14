@@ -1,9 +1,16 @@
 ---
-title: "夏娃意识理论 | 研究"
-description: "基于证据的心智、神话和基因-文化协同进化深度探索。来自原始蛇崇拜的深度剖析。"
-keywords: ["夏娃理论","意识","人类起源","基因-文化协同进化","心理测量学","心智向量"]
+description: 基于证据的心智、神话和基因-文化协同进化深度探索。来自原始蛇崇拜的深度剖析。
 draft: false
-lastmod: '2025-07-07'
+keywords:
+- 夏娃理论
+- 意识
+- 人类起源
+- 基因-文化协同进化
+- 心理测量学
+- 心智向量
+lang: zh
+lastmod: '2025-07-13'
+title: 夏娃意识理论 | 研究
 translation_model: gpt-4o
 ---
 
@@ -24,4 +31,4 @@ translation_model: gpt-4o
 ## 关于
 我是[安德鲁·卡特勒](https://substack.com/@vectors?utm_source=user-menu)，一名研究人类起源的机器学习工程师。
 我的工作连接心理学、比较神话学[和人工智能](https://www.vectorsofmind.com/p/the-ai-basis-of-the-eve-theory-of)，追踪[递归自我意识](https://www.vectorsofmind.com/p/deja-you-the-recursive-construction)是如何进化的。
-Snakecult.net是我发布轻度编辑的AI生成文章的地方，这些文章探索小众问题（通常使用OpenAI的Deep Research或o3-Pro产生）。 
+Snakecult.net是我发布轻度编辑的AI生成文章的地方，这些文章探索小众问题（通常使用OpenAI的Deep Research或o3-Pro产生）。

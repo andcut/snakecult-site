@@ -1,21 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心智向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Dr.  Thacker returns to Vectors of Mind for a deep discussion about human
-  evolution and consciousness. Stetson, who holds a PhD in genetics with expertise
-  in cancer and neurodevelopmental disorders, w...
+description: Dr. Thacker 回归心智向量，深入探讨人类进化与意识。Stetson 拥有遗传学博士学位，专长于癌症和神经发育障碍，...
 draft: false
 keywords:
-- vectors-of-mind
-- snake
-- cults
-- recent
-- evolution
-
-lastmod: 2025-07-07
+- 心智向量
+- 蛇
+- 邪教
+- 近期
+- 进化
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152927046'
 original_url: https://www.vectorsofmind.com/p/snake-cults-and-recent-evolution

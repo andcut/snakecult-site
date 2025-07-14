@@ -15,8 +15,8 @@ keywords:
 - archaeology
 - symbolic cognition
 - human evolution
-
-lastmod: '2025-07-04'
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: sapient-paradox-shallow-dive

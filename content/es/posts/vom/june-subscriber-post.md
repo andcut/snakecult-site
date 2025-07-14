@@ -4,24 +4,24 @@ about:
 - archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Queridos lectores, este es un registro para tener una idea de lo que
-  les gustaría ver más, así como una actualización sobre mis planes para este blog.
-  Por favor comenten para hacerme saber qué les resulta atractivo y qué...
+description: Dear readers, this is a record to get an idea of what you would like
+  to see more of, as well as an update on my plans for this blog. Please comment to
+  let me know what you find appealing and what...
 draft: false
 keywords:
 - vectores-de-la-mente
-- junio
-- suscriptor
-- publicación
+- june
+- subscriber
+- post
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '126641813'
 original_url: https://www.vectorsofmind.com/p/june-subscriber-post
 quality: 6
 slug: june-subscriber-post
 tags: []
-title: Publicación para Suscriptores de Junio
+title: June Subscriber Post
 translation_model: gpt-4o
 ---
 

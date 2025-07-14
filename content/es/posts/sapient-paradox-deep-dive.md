@@ -1,28 +1,29 @@
 ---
 about:
-- behavioral modernity
-- archaeological bias
-- cultural evolution
+- modernidad conductual
+- sesgo arqueológico
+- evolución cultural
 author: Andrew Cutler
 date: 2025-04-20
-description: A comprehensive analysis of the Sapient Paradox, synthesizing archaeological
-  findings (tools, art, burials) with paleogenetics (brain-related gene sweeps, population
-  bottlenecks) to evaluate theories for the delayed emergence of behavioral modernity.
+description: Un análisis exhaustivo de la Paradoja Sapiente, sintetizando hallazgos
+  arqueológicos (herramientas, arte, entierros) con paleogenética (barridos genéticos
+  relacionados con el cerebro, cuellos de botella poblacionales) para evaluar teorías
+  sobre la aparición tardía de la modernidad conductual.
 draft: false
 keywords:
-- Sapient Paradox
-- behavioral modernity
-- archaeology
-- symbolic cognition
-- human evolution
-
-lastmod: '2025-07-04'
+- paradoja-sapiente
+- modernidad-conductual
+- arqueología
+- cognición-simbólica
+- evolución-humana
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: sapient-paradox-deep-dive
 tags:
-- Prehistory
-- Deep-Research
+- prehistoria
+- investigación-profunda
 title: '# La Paradoja Sapiente: Un Análisis Profundo de la Evidencia Arqueológica
   y Genética'
 translation_model: gpt-4o

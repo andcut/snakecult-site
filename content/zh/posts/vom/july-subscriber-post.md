@@ -1,20 +1,18 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: The blog now has over 100,000 words of content which I want to make easier
-  for newcomers to navigate. Part of that is producing a FAQ answering questions about
-  the timeline, the extent to which a sing...
+description: 该博客现在拥有超过100,000字的内容，我希望让新读者更容易浏览。部分工作是制作一个常见问题解答，回答关于时间线的问题，以及在多大程度上是一个单一的...
 draft: false
 keywords:
 - vectors-of-mind
-- july
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 七月
+- 订阅者
+- 文章
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144659799'
 original_url: https://www.vectorsofmind.com/p/july-subscriber-post

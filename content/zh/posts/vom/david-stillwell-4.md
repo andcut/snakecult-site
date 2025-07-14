@@ -1,18 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: In today's episode, I’m joined by David Stillwell, a professor of computational
-  social science at the University of Cambridge, who uses big data to understand psychology.
+description: 在今天的节目中，我与剑桥大学计算社会科学教授大卫·斯蒂尔韦尔一起探讨，他利用大数据来理解心理学。
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - david
 - stillwell
-
-lastmod: 2025-07-07
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140952158'
 original_url: https://www.vectorsofmind.com/p/david-stillwell-4

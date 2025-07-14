@@ -1,36 +1,34 @@
 ---
 about:
-- Orphic Mysteries
-- Greek Philosophy
-- Comparative Mythology
+- 俄耳甫斯秘仪
+- 希腊哲学
+- 比较神话学
 author: Andrew Cutler
 date: 2025-04-19
-description: A detailed exploration of the complementary roles of Cosmic Herakles
-  (Chronos) and Dionysus Zagreus in Orphic theogony, myth, ritual praxis, and Neoplatonic
-  interpretation.
+description: 深入探讨宇宙赫拉克勒斯（Chronos）与狄俄尼索斯扎格柔斯在俄耳甫斯神谱、神话、仪式实践及新柏拉图主义解释中的互补角色。
 draft: false
 keywords:
-- Herakles
-- Dionysus
-- Zagreus
-- Chronos
-- Orphism
-- Orphic Theogony
-- Mystery Religion
-- Cosmology
-- Soteriology
-- Neoplatonism
-- Serpent Symbolism
-- Metempsychosis
-
-lastmod: 2025-07-07
+- herakles
+- dionysus
+- zagreus
+- chronos
+- 俄耳甫斯教
+- 俄耳甫斯神谱
+- 神秘宗教
+- 宇宙论
+- 救赎学
+- 新柏拉图主义
+- 蛇象征
+- 灵魂转世
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: cosmic-herakles-dionysus-deepdive
 tags:
-- Deep-Research
-- Philosophy
-- Religion
+- 深度研究
+- 哲学
+- 宗教
 title: 宇宙赫拉克勒斯与狄俄尼索斯扎格柔斯：俄耳甫斯宇宙论与神秘仪式
 translation_model: gpt-4o
 ---

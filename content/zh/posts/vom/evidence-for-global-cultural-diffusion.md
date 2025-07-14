@@ -1,28 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: In this post, I’d like to show that societies like Australian Aboriginals
-  and the Navajo are similar in ways that require cultural diffusion. That is, central
-  elements of their culture hail back to th...
+description: 在这篇文章中，我想展示像澳大利亚原住民和纳瓦霍人这样的社会在某些方面的相似性，这些相似性需要文化传播。也就是说，他们文化的核心元素可以追溯到...
 draft: false
 keywords:
-- vectors-of-mind
-- evidence
-- global
-- cultural
-- diffusion
-
-lastmod: 2025-07-07
+- 心灵向量
+- 证据
+- 全球
+- 文化
+- 传播
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '135720028'
 original_url: https://www.vectorsofmind.com/p/evidence-for-global-cultural-diffusion
 quality: 6
 slug: evidence-for-global-cultural-diffusion
 tags: []
-title: '全球文化传播的证据'
+title: 全球文化传播的证据
 translation_model: gpt-4o
 ---
 

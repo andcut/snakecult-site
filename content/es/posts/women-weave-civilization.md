@@ -1,26 +1,26 @@
 ---
 about:
-- mythology
-- anthropology
+- mitología
+- antropología
 author: Andrew Cutler
 core_entity: Weaving Women
 date: 2025-05-11
-description: A phylogenetic exploration of myths where women introduce clothing and
-  weaving, symbolizing humanity’s separation from nature.
+description: Una exploración filogenética de mitos donde las mujeres introducen la
+  ropa y el tejido, simbolizando la separación de la humanidad de la naturaleza.
 draft: false
 keywords:
-- weaving
-- civilization-origins
-- comparative-mythology
-- phylogenetics
-- folklore
-
-lastmod: '2025-07-04'
+- tejido
+- orígenes-de-la-civilización
+- mitología-comparativa
+- filogenética
+- folclore
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: weaving-humanity-women-as-civilizers
 tags:
-- folklore
+- folclore
 title: 'Tejiendo la Humanidad: Las Mujeres como Civilizadoras en la Mitología Mundial'
 translation_model: gpt-4o
 ---

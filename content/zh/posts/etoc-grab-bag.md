@@ -1,28 +1,27 @@
 ---
 about:
-- cognitive evolution
-- comparative mythology
+- 认知进化
+- 比较神话学
 author: Andrew Cutler
-core_entity: Serpent Idol
+core_entity: 蛇偶像
 date: 2025-04-27 12:00:00+00:00
-description: How a prehistoric serpent-goddess cult may have jump-started self-aware
-  thought and spread its rites across the globe.
+description: 史前蛇女神崇拜如何可能启动了自我意识的思维，并将其仪式传播到全球。
 draft: false
 keywords:
-- serpent cult
-- Eve Theory of Consciousness
-- gene–culture coevolution
-- diffusionism
-- prehistoric ritual
-
-lastmod: 2025-07-07
+- 蛇崇拜
+- 夏娃意识理论
+- 基因-文化共同进化
+- 传播主义
+- 史前仪式
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- consciousness
-- archaeology
-- mythology
+- 意识
+- 考古学
+- 神话学
 title: 《蛇的礼物：古代意识崇拜的神话回声》
 translation_model: gpt-4o
 ---

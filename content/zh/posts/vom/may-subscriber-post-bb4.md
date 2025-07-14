@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: If you haven’t taken it, please check out the Moments of Awakening survey.
-  I’ll post it on Reddit and X shortly to get a larger sample (please share with friends),
-  but for now it doubles as a way to l...
+description: 如果您还没有参加，请查看觉醒时刻调查。我会很快在Reddit和X上发布以获得更大的样本（请与朋友分享），但目前它也可以作为一种方式来...
 draft: false
 keywords:
-- vectors-of-mind
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵向量
+- 订阅者
+- 帖子
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '159411213'
 original_url: https://www.vectorsofmind.com/p/may-subscriber-post-bb4

@@ -1,28 +1,27 @@
 ---
 about:
-- mythology
-- diffusionism
+- 神话学
+- 传播主义
 author: Andrew Cutler
 core_entity: Joseph Campbell
 date: 2025-05-10
-description: A source-by-source catalogue of every passage where Joseph Campbell attributes
-  mythic parallels to real-world cultural diffusion rather than Jungian psychic unity.
+description: 按来源编制的目录，列出每个段落，其中Joseph Campbell将神话的相似性归因于现实世界的文化传播，而非荣格的心理统一。
 draft: false
 keywords:
-- Joseph Campbell
-- cultural diffusion
-- comparative mythology
-- bullroarer
-- Dreamtime
-
-lastmod: 2025-07-07
+- joseph-campbell
+- 文化传播
+- 比较神话学
+- 牛吼器
+- 梦幻时光
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusion-dossier
 tags:
-- Campbell
-- diffusion
-- mythography
+- campbell
+- 传播
+- 神话学
 title: Joseph Campbell，文化传播的倡导者
 translation_model: gpt-4o
 ---

@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: This article is a change of pace. Instead of endless footnotes and statistical
-  arguments, I’ll let Anatolian folklore do the talking. The most obvious rejoinder
-  to the snake-venom-as-entheogen hypothe...
+description: 这篇文章是节奏的改变。与其用无尽的脚注和统计论据，我将让安纳托利亚的民间传说来说话。对蛇毒作为迷幻剂假说最明显的反驳是...
 draft: false
 keywords:
-- vectors-of-mind
-- secrets
-- snake
-- king
-
-lastmod: 2025-07-07
+- 心灵向量
+- 秘密
+- 蛇
+- 王
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '143824007'
 original_url: https://www.vectorsofmind.com/p/secrets-of-the-snake-king

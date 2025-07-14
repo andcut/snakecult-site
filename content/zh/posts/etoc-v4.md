@@ -1,36 +1,34 @@
 ---
 about:
-- consciousness
-- evolution
-- prehistory
+- 意识
+- 进化
+- 史前
 author: Andrew Cutler
 core_entity: Eve Theory
 date: 2025-06-30
-description: A comprehensive interdisciplinary theory proposing that human consciousness
-  originated as a cultural invention in prehistoric times, likely pioneered by women
-  and spread through ritual and language.
+description: 一个综合的跨学科理论，提出人类意识起源于史前时期作为一种文化发明，可能由女性开创，并通过仪式和语言传播。
 draft: false
 keywords:
-- consciousness
-- evolutionary psychology
-- Julian Jaynes
-- bicameral mind
-- prehistoric cognition
-- cognitive revolution
-- mythology
-
-lastmod: 2025-07-07
+- 意识
+- 演化心理学
+- julian-jaynes
+- 二分心智
+- 史前认知
+- 认知革命
+- 神话
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: etoc-v4
 tags:
-- consciousness
-- Evolution
-- Prehistory
-- mythology
-- Neuroscience
-- psychology
-- Anthropology
+- 意识
+- 进化
+- 史前
+- 神话
+- 神经科学
+- 心理学
+- 人类学
 title: Eve意识理论 v4
 translation_model: gpt-4o
 ---

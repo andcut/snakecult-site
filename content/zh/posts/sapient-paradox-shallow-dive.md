@@ -1,29 +1,27 @@
 ---
 about:
-- behavioral modernity
-- archaeological bias
-- cultural evolution
+- 行为现代性
+- 考古偏见
+- 文化演化
 author: Andrew Cutler
 date: 2025-04-20
-description: A concise overview of the Sapient Paradox – the puzzling gap between
-  when anatomically modern humans appeared and when behaviorally modern traits (like
-  art, complex tools, symbolism) emerged.
+description: 对智人悖论的简要概述——解开解剖学上现代人类出现与行为现代特征（如艺术、复杂工具、象征主义）出现之间的令人困惑的差距。
 draft: false
 keywords:
-- Sapient Paradox
-- behavioral modernity
-- archaeology
-- symbolic cognition
-- human evolution
-
-lastmod: 2025-07-07
+- 智人悖论
+- 行为现代性
+- 考古学
+- 象征性认知
+- 人类演化
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: sapient-paradox-shallow-dive
 tags:
-- Prehistory
-- deep-research
-title: 'The Sapient Paradox: A Brief Introduction'
+- 史前史
+- 深度研究
+title: 智人悖论：简要介绍
 translation_model: gpt-4o
 ---
 

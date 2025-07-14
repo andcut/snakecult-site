@@ -1,29 +1,28 @@
 ---
 about:
-- gene–culture co-evolution
-- snake-venom ritual
-- subject-object separation
+- 基因–文化共演化
+- 蛇毒仪式
+- 主客体分离
 author: Andrew Cutler
 date: 2025-04-19
-description: A comprehensive, evidence-driven defence of the Eve Theory as the only
-  evolutionary route to recursive self-awareness and language (i.e. the Wallace Problem).
+description: 一个全面的、基于证据的辩护，认为夏娃理论是递归自我意识和语言（即华莱士问题）唯一的进化路径。
 draft: false
 keywords:
-- Eve Theory of Consciousness
-- Wallace Problem
-- recursive thinking
-- language evolution
-- human consciousness evolution
-
-lastmod: 2025-07-07
+- 夏娃意识理论
+- 华莱士问题
+- 递归思维
+- 语言进化
+- 人类意识进化
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: eve-theory-wallace-problem
 tags:
-- Wallace Problem
-- consciousness
-- Evolution
-- recursion
+- 华莱士问题
+- 意识
+- 进化
+- 递归
 title: Eve意识理论：解决华莱士的人类认知问题
 translation_model: gpt-4o
 ---

@@ -14,14 +14,14 @@ keywords:
 - artículos
 - fecha
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '149857361'
 original_url: https://www.vectorsofmind.com/p/overview-of-articles-to-date
 quality: 6
 slug: overview-of-articles-to-date
 tags: []
-title: '# Resumen De Artículos Hasta La Fecha'
+title: '# Resumen de Artículos Hasta la Fecha'
 translation_model: gpt-4o
 ---
 

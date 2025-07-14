@@ -1,33 +1,33 @@
 ---
 about:
-- consciousness origins
-- evolutionary anthropology
-- comparative mythology
+- orígenes de la conciencia
+- antropología evolutiva
+- mitología comparativa
 author: Andrew Cutler
-core_entity: Serpent
+core_entity: Serpiente
 date: 2024-07-27
-description: 'A gene-culture riff on Genesis: women, snakes, and recursion ignite
-  the late-Pleistocene birth of the human self.'
+description: 'Una variación génica-cultural sobre el Génesis: mujeres, serpientes
+  y recursión encienden el nacimiento del yo humano en el Pleistoceno tardío.'
 draft: true
 keywords:
-- Eve Theory
-- recursive self
-- snake cult
-- gene–culture evolution
-- Scott Alexander
-- Genesis myth
-
-lastmod: '2025-07-04'
+- teoría-de-eva
+- yo-recursivo
+- culto-a-la-serpiente
+- evolución-génico-cultural
+- scott-alexander
+- mito-del-génesis
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- consciousness
-- Evolution
-- mythology
-- Scott Alexander
-- Philosophy
-- Speculation
+- conciencia
+- evolución
+- mitología
+- scott-alexander
+- filosofía
+- especulación
 title: Teoría de la Conciencia de Eva (Remix de Slate Star Codex)
 translation_model: gpt-4o
 ---

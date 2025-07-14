@@ -1,26 +1,24 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'My work has become dangerously close to a Prompt Engineer1. This is
-  fine by me, as it combines my love of writing, psychometrics, and NLP. Here are
-  some of the most overpowered prompting techniques:'
+description: 我的工作已经非常接近于提示工程师。这对我来说很好，因为它结合了我对写作、心理测量和自然语言处理的热爱。以下是一些最强大的提示技术：
 draft: false
 keywords:
-- vectors-of-mind
-- prompt
+- 心灵向量
+- 提示
 - chatgpt
-
-lastmod: 2025-07-07
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145544092'
 original_url: https://www.vectorsofmind.com/p/how-to-prompt-chatgpt
 quality: 6
 slug: how-to-prompt-chatgpt
 tags: []
-title: '如何提示ChatGPT'
+title: 如何提示ChatGPT
 translation_model: gpt-4o
 ---
 

@@ -1,29 +1,30 @@
 ---
 about:
-- mythology
-- cosmology
-- comparative-religion
+- mitología
+- cosmología
+- religión comparada
 author: Andrew Cutler
 core_entity: Nommo twins
 date: 2025-06-23
-description: Sweep through Yoruba clay-people, Dogon fish-twins, Egyptian ka-snakes,
-  and Lebe's bullroarer to see how Africa narrates human beginnings.
+description: Recorre a través de los hombres de barro Yoruba, los gemelos pez Dogon,
+  las serpientes ka egipcias y el bullroarer de Lebe para ver cómo África narra los
+  comienzos humanos.
 draft: false
 keywords:
-- African-myths
-- Dogon-Nommo
-- Twin-motif
-- Egyptian-ka
-- Lebe-Seru
-
-lastmod: '2025-07-04'
+- mitos-africanos
+- dogon-nommo
+- motivo-de-gemelos
+- egipcio-ka
+- lebe-seru
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: african-origin-myths-twin-nommo-ka-lebe
 tags:
-- mythology
-- African-Studies
-- Consciousness-Studies
+- mitología
+- estudios-africanos
+- estudios-de-la-consciencia
 title: Mitos de Origen Africano, Motivos de Gemelos, Nommo, Serpientes Ka y Lebe Seru
 translation_model: gpt-4o
 ---

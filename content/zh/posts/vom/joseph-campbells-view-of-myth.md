@@ -1,28 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Chicks still wet from hatching, covered in bits of shell that have been
-  their only home, will run for cover at the sight of a hawk but not a gull, heron,
-  or pigeon. Humans are not foreigners to animal...
+description: 刚孵化的小鸡，身上还带着它们唯一家园的蛋壳碎片，在看到鹰时会跑去躲避，但不会对海鸥、苍鹭或鸽子这样做。人类对动物来说并不陌生...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵的向量
 - joseph
 - campbells
-- view
-- myth
-
-lastmod: 2025-07-07
+- 观点
+- 神话
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '147493214'
 original_url: https://www.vectorsofmind.com/p/joseph-campbells-view-of-myth
 quality: 6
 slug: joseph-campbells-view-of-myth
 tags: []
-title: 'Joseph Campbell 对神话的观点'
+title: Joseph Campbell 对神话的观点
 translation_model: gpt-4o
 ---
 

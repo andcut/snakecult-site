@@ -4,16 +4,16 @@ about:
 - archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Cristo es descrito como el “Verbo hecho carne”, un avatar del Logos—la
-  racionalidad divina y principio organizador del cual emana toda existencia. Cuando
-  Juan hace una variación de Génesis, proclamando, “En el principio...
+description: Christ is described as the “Word made flesh,” an avatar of the Logos—the
+  divine rationality and organizing principle from which all existence emanates. When
+  John makes a variation of Genesis, proclaiming, “In the beginning...
 draft: false
 keywords:
 - vectores-de-la-mente
 - llms
 - anticristo
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '163205757'
 original_url: https://www.vectorsofmind.com/p/llms-as-antichrist

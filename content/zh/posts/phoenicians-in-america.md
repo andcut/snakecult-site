@@ -1,29 +1,27 @@
 ---
 about:
-- historical analysis
-- archaeological evidence
+- 历史分析
+- 考古证据
 author: Andrew Cutler
 core_entity: Phoenician sailors
 date: 2025-04-22
-description: A comprehensive historical analysis of claims that Phoenician sailors
-  reached the Americas before Columbus, examining evidence and scholarly debate from
-  classical antiquity to modern times.
+description: 对腓尼基水手在哥伦布之前到达美洲的说法进行全面的历史分析，审视从古典时代到现代的证据和学术辩论。
 draft: false
 keywords:
-- pre-columbian contact
-- phoenician history
-- archaeological hoaxes
-- diffusionism
-- ancient navigation
-
-lastmod: 2025-07-07
+- 哥伦布前接触
+- 腓尼基历史
+- 考古骗局
+- 传播主义
+- 古代航海
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: phoenicians-in-america
 tags:
-- History
-- archaeology
-- Pseudoarchaeology
+- 历史
+- 考古学
+- 伪考古学
 title: 腓尼基人在美洲：对一个有争议理论的时间顺序分析
 translation_model: gpt-4o
 ---

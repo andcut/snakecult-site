@@ -1,29 +1,29 @@
 ---
 about:
-- Comparative Mythology
-- Chinese Culture
-- Symbolic Anthropology
+- Mitología Comparativa
+- Cultura China
+- Antropología Simbólica
 author: Andrew Cutler
 date: 2025-04-12
-description: An exploration of the serpentine creator deities Nüwa and Fuxi in Chinese
-  mythology and their parallels in world mythologies.
+description: Una exploración de las deidades creadoras serpentinas Nüwa y Fuxi en
+  la mitología china y sus paralelismos en las mitologías del mundo.
 draft: false
 keywords:
-- comparative mythology
-- Chinese mythology
-- creation myths
-- serpent symbolism
-- world mythology
-
-lastmod: '2025-07-04'
+- mitología-comparativa
+- mitología-china
+- mitos-de-creación
+- simbolismo-de-la-serpiente
+- mitología-mundial
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- China
-- mythology
-- Symbolism
-- Religion
+- china
+- mitología
+- simbolismo
+- religión
 title: 'Nüwa y Fuxi: La Pareja Primordial Serpentina y el Motivo de la Escuadra y
   el Compás en la Mitología'
 translation_model: gpt-4o

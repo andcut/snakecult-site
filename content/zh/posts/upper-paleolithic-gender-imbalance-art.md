@@ -1,25 +1,24 @@
 ---
 about:
-- early-human-symbolism
+- 早期人类象征
 author: Andrew Cutler
-core_entity: Venus figurine
+core_entity: 维纳斯雕像
 date: 2025-06-23
-description: New counts show that roughly four out of five Ice-Age human images are
-  female, overturning ideas that "Venus" figurines were an isolated fertility cult.
+description: 新的统计显示，大约五分之四的冰河时代人类图像是女性，这推翻了“维纳斯”雕像是一个孤立的生育崇拜的观点。
 draft: false
 keywords:
-- upper-paleolithic
-- venus-figurines
-- parietal-art
-- gender-archaeology
-- prehistoric-art
-
-lastmod: 2025-07-07
+- 旧石器时代晚期
+- 维纳斯雕像
+- 洞穴壁画艺术
+- 性别考古学
+- 史前艺术
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: upper-paleolithic-gender-imbalance
 tags:
-- Paleolithic-Art
+- 旧石器时代艺术
 title: 旧石器时代晚期人类描绘中的性别失衡
 translation_model: gpt-4o
 ---

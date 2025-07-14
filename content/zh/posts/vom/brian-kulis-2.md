@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Brian Kulis is a professor of Machine Learning at Boston University (and
-  my former adviser). He has also worked in industry on the crack team responsible
-  for Amazon’s “wake” word. We discuss the histo...
+description: Brian Kulis 是波士顿大学的机器学习教授（也是我的前导师）。他还曾在行业中工作，参与负责亚马逊“唤醒”词的精英团队。我们讨论了历史...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - brian
 - kulis
-
-lastmod: 2025-07-07
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140789755'
 original_url: https://www.vectorsofmind.com/p/brian-kulis-2

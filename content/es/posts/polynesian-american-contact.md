@@ -1,30 +1,31 @@
 ---
 about:
-- cultural-diffusion
-- historiography
+- difusión cultural
+- historiografía
 author: Andrew Cutler
-core_entity: Polynesian–American contact
+core_entity: Contacto polinesio-americano
 date: 2025-05-10
-description: Why colonial tales of giants, 20th-c. positivism, and new genome data
-  all matter for the debate over pre-Columbian Polynesian–American contact.
+description: Por qué los relatos coloniales de gigantes, el positivismo del siglo
+  XX y los nuevos datos genómicos son importantes para el debate sobre el contacto
+  polinesio-americano precolombino.
 draft: false
 keywords:
-- trans-pacific-contact
-- diffusionism
-- Polynesia
-- South-America
-- genetics
-
-lastmod: '2025-07-04'
+- contacto-transpacífico
+- difusionismo
+- polinesia
+- américa-del-sur
+- genética
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: men-from-the-sea
 tags:
-- Diffusionism
-- Polynesia
-- South America
-- Genetics
-- Historiography
+- difusionismo
+- polinesia
+- américa-del-sur
+- genética
+- historiografía
 title: 'Hombres del mar: mitos, escepticismo y el retorno del contacto transpacífico'
 translation_model: gpt-4o
 ---

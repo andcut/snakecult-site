@@ -1,5 +1,6 @@
 ---
-lastmod: '2025-07-07'
+lang: zh
+lastmod: '2025-07-13'
 translation_model: gpt-4o
 ---
 

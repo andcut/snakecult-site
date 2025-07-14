@@ -1,25 +1,25 @@
 ---
 about:
-- early-christian-heresy
+- herejía-cristiana-temprana
 author: Andrew Cutler
 core_entity: Serpent-Pharmakon
 date: 2025-05-05
-description: Close reading of Manichaean, Ophite and Naassene passages that speak
-  of Christ-as-Serpent in pharmacological terms.
+description: Lectura detallada de pasajes maniqueos, ofitas y nasenos que hablan de
+  Cristo-como-Serpiente en términos farmacológicos.
 draft: false
 keywords:
-- serpent-venom
+- veneno-de-serpiente
 - pharmakon
-- gnosticism
-- ophites
-- manichaeans
-
-lastmod: '2025-07-04'
+- gnosticismo
+- ofitas
+- maniqueos
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- Gnosticism
+- gnosticismo
 title: 'Luz-Veneno, Toxikon Eucarístico y Veneno Cósmico: tres tropos ofídicos desglosados'
 translation_model: gpt-4o
 ---

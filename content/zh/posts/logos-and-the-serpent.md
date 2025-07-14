@@ -1,37 +1,35 @@
 ---
 about:
-- consciousness
-- mythology
-- philosophy
-- religion
+- 意识
+- 神话
+- 哲学
+- 宗教
 author: Andrew Cutler
-core_entity: Serpent
+core_entity: 蛇
 date: 2025-04-20 10:00:00+00:00
-description: From Eden through John's *Logos* and Gnostic counter-myths to global
-  'hanged-god' rites, this essay reconstructs how reflexive consciousness emerged,
-  iterated, and finally theorised itself.
+description: 从伊甸园到约翰的*逻各斯*和诺斯替反神话，再到全球“被吊死的神”仪式，这篇文章重建了反身意识如何出现、迭代并最终自我理论化。
 draft: true
 keywords:
-- consciousness
-- genesis
-- logos
-- gnosticism
-- axial age
-- cultural evolution
-- self-awareness
-- serpent
-
-lastmod: 2025-07-07
+- 意识
+- 创世记
+- 逻各斯
+- 诺斯替主义
+- 轴心时代
+- 文化演化
+- 自我意识
+- 蛇
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: ontological-continuity-adam-to-christ-2
 tags:
-- consciousness
-- Evolution
-- mythology
-- Philosophy
-- Religion
-- psychology
+- 意识
+- 演化
+- 神话
+- 哲学
+- 宗教
+- 心理学
 title: 夏娃、蛇与逻各斯——从Göbekli Tepe到约翰福音1章
 translation_model: gpt-4o
 ---

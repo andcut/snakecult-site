@@ -1,25 +1,24 @@
 ---
 about:
-- early-christian-heresy
+- 早期基督教异端
 author: Andrew Cutler
-core_entity: Edenic Serpent
+core_entity: 伊甸蛇
 date: 2025-05-05
-description: An expanded survey of every known Christian-Gnostic current that equated
-  Jesus with the Edenic serpent, complete with extended primary-source excerpts.
+description: 对每一个已知的基督教-诺斯替主义流派进行扩展调查，这些流派将耶稣与伊甸蛇等同，并附有详细的原始资料摘录。
 draft: false
 keywords:
-- Christ-serpent
-- Gnosticism
-- Naassenes
-- Manichaeans
-- Eden
-
-lastmod: 2025-07-07
+- 基督-蛇
+- 诺斯替主义
+- 纳赛尼派
+- 摩尼教徒
+- 伊甸园
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: christ-serpent-traditions-expanded
 tags:
-- Gnosticism
+- 诺斯替主义
 title: 基督作为蛇：诺斯替主义与二元论传统
 translation_model: gpt-4o
 ---

@@ -1,32 +1,32 @@
 ---
 about:
-- Evolutionary Anthropology
-- Social Cognition
-- Human Origins
+- Antropología Evolutiva
+- Cognición Social
+- Orígenes Humanos
 author: Andrew Cutler
 date: 2025-04-20
-description: Examines the evolutionary hypothesis that female-led selection pressures
-  for social intelligence and self-domestication placed women at the vanguard of human
-  evolution.
+description: Examina la hipótesis evolutiva de que las presiones de selección lideradas
+  por mujeres para la inteligencia social y la autodomesticación colocaron a las mujeres
+  a la vanguardia de la evolución humana.
 draft: false
 keywords:
-- human evolution
-- social intelligence
-- self-domestication
-- cooperative breeding
-- grandmother hypothesis
-- female mate choice
-- anthropology
-
-lastmod: '2025-07-04'
+- evolución-humana
+- inteligencia-social
+- autodomesticación
+- crianza-cooperativa
+- hipótesis-de-la-abuela
+- elección-de-pareja-femenina
+- antropología
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- Cooperative Breeding
-- Evolution
-- Gender
-- psychology
+- crianza-cooperativa
+- evolución
+- género
+- psicología
 title: Si la inteligencia social nos hizo humanos, las mujeres fueron humanas primero
 translation_model: gpt-4o
 ---

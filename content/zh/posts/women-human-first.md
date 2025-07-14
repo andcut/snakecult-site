@@ -1,32 +1,30 @@
 ---
 about:
-- Evolutionary Anthropology
-- Social Cognition
-- Human Origins
+- 进化人类学
+- 社会认知
+- 人类起源
 author: Andrew Cutler
 date: 2025-04-20
-description: Examines the evolutionary hypothesis that female-led selection pressures
-  for social intelligence and self-domestication placed women at the vanguard of human
-  evolution.
+description: 探讨进化假说，即女性主导的选择压力对社会智力和自我驯化的影响，使女性处于人类进化的前沿。
 draft: false
 keywords:
-- human evolution
-- social intelligence
-- self-domestication
-- cooperative breeding
-- grandmother hypothesis
-- female mate choice
-- anthropology
-
-lastmod: 2025-07-07
+- 人类进化
+- 社会智力
+- 自我驯化
+- 协作育儿
+- 祖母假说
+- 女性择偶
+- 人类学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- Cooperative Breeding
-- Evolution
-- Gender
-- psychology
+- 协作育儿
+- 进化
+- 性别
+- 心理学
 title: 如果社会智力使我们成为人类，那么女性首先成为了人类
 translation_model: gpt-4o
 ---

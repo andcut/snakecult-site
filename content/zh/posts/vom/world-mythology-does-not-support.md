@@ -1,21 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: A provocative new paper claims our ancestors’ long walk out of Africa
-  pruned not just their genes but their imaginations. The data, however, tell a different
-  story.
+description: 一篇挑衅性的新论文声称，我们祖先走出非洲的漫长旅程不仅修剪了他们的基因，也修剪了他们的想象力。然而，数据却讲述了一个不同的故事。
 draft: false
 keywords:
-- vectors-of-mind
-- world
-- mythology
-- does
-- support
-
-lastmod: 2025-07-07
+- 心灵向量
+- 世界
+- 神话
+- 支持
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '164374918'
 original_url: https://www.vectorsofmind.com/p/world-mythology-does-not-support

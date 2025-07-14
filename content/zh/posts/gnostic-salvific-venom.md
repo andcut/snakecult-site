@@ -1,25 +1,24 @@
 ---
 about:
-- early-christian-heresy
+- 早期基督教异端
 author: Andrew Cutler
 core_entity: Pharmakon/Poison
 date: 2025-05-05
-description: Do Gnostic writers ever speak of Christ's serpent as literally poisonous—or
-  as an antidote? A source-by-source audit.
+description: 诺斯替作家是否曾将基督的蛇描述为字面上的毒物，或作为解毒剂？逐个来源的审计。
 draft: false
 keywords:
-- serpent-venom
+- 蛇毒
 - pharmakon
-- Gnosticism
-- Naassenes
-- Manichaeans
-
-lastmod: 2025-07-07
+- 诺斯替主义
+- 纳赛尼派
+- 摩尼教徒
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- Gnosticism
+- 诺斯替主义
 title: ‘毒液’在蛇-基督传统中的主题
 translation_model: gpt-4o
 ---

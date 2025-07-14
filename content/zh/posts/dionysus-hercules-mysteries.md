@@ -1,25 +1,24 @@
 ---
 about:
-- mythic cosmogony
-- mystery religion
+- 神话宇宙论
+- 神秘宗教
 author: Andrew Cutler
 date: 2025-04-19
-description: How Cosmic-Herakles sets the wheel of time while Dionysus turns it toward
-  liberation in Orphic-Bacchic cults.
+description: 在俄耳甫斯-巴克科斯教派中，宇宙赫拉克勒斯设定了时间之轮，而狄俄尼索斯则将其转向解放。
 draft: false
 keywords:
-- Herakles
-- Dionysus
-- Orphic m's
-- serpent symbolism
-- soteriology
-
-lastmod: 2025-07-07
+- herakles
+- dionysus
+- 俄耳甫斯教义
+- 蛇的象征
+- 救赎学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- Deep-Research
+- 深度研究
 title: 赫拉克勒斯与狄俄尼索斯——蛇之奥秘的双重钥匙
 translation_model: gpt-4o
 ---

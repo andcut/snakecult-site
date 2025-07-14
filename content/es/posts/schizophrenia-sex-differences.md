@@ -1,29 +1,29 @@
 ---
 about:
-- mental-health
-- demography
+- salud-mental
+- demografía
 author: Andrew Cutler
-core_entity: schizophrenia
+core_entity: esquizofrenia
 date: 2025-06-28
-description: The best-available numbers on how schizophrenia strikes men vs women
-  and different ethnic groups, with full tables and primary citations.
+description: Los mejores números disponibles sobre cómo la esquizofrenia afecta a
+  hombres vs mujeres y diferentes grupos étnicos, con tablas completas y citas primarias.
 draft: false
 keywords:
-- schizophrenia
-- incidence
-- prevalence
-- sex-differences
-- race-differences
-- epidemiology
-
-lastmod: '2025-07-04'
+- esquizofrenia
+- incidencia
+- prevalencia
+- diferencias-de-sexo
+- diferencias-de-raza
+- epidemiología
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: schizophrenia-sex-race-epidemiology
 tags:
-- schizophrenia
-- Epidemiology
-- Health-Disparities
+- esquizofrenia
+- epidemiología
+- disparidades-en-salud
 title: '# Epidemiología Global de la Esquizofrenia: Incidencia y Prevalencia por Sexo
   y Etnicidad
 

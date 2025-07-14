@@ -1,18 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'In 1921, Leo Frobenius reported the creation myth of a Bassari tribe
-  in Northern Togo:'
+description: 1921年，Leo Frobenius 报告了多哥北部巴萨里部落的创世神话：
 draft: false
 keywords:
-- vectors-of-mind
-- genesis
-- togo
-
-lastmod: 2025-07-07
+- 心灵向量
+- 创世
+- 多哥
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682169'
 original_url: https://www.vectorsofmind.com/p/genesis-in-togo

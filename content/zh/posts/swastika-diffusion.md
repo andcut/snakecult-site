@@ -1,32 +1,31 @@
 ---
 about:
-- archaeology
-- symbolism
-- cultural history
+- 考古学
+- 象征主义
+- 文化历史
 author: Andrew Cutler
 core_entity: Swastika
 date: 2025-04-22
-description: Survey of the swastika's ancient global presence and theories (diffusion
-  vs. independent invention) explaining its origins and spread.
+description: 调查万字符在古代全球的存在及其起源和传播的理论（扩散与独立发明）。
 draft: false
 keywords:
-- swastika
-- archaeology
-- symbol
-- diffusion
-- independent invention
-- prehistory
-- ancient symbol
-
-lastmod: 2025-07-07
+- 万字符
+- 考古学
+- 符号
+- 扩散
+- 独立发明
+- 史前
+- 古代符号
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: swastika-diffusion
 tags:
-- Swastika
-- Ancient History
-- archaeology
-- Symbolism
+- swastika
+- 古代历史
+- 考古学
+- 象征主义
 title: 全球考古学中万字符的出现及其理论解释
 translation_model: gpt-4o
 ---

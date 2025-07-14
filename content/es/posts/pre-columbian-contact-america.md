@@ -1,31 +1,32 @@
 ---
 about:
-- ancient history
-- archaeology
-- genetics
+- historia antigua
+- arqueología
+- genética
 author: Andrew Cutler
 core_entity: Ancient Voyages
 date: 2025-03-20
-description: A comprehensive analysis of evidence and scholarly debate surrounding
-  pre-Columbian trans-oceanic contact between the Americas and Old World civilizations.
+description: Un análisis exhaustivo de la evidencia y el debate académico en torno
+  al contacto transoceánico precolombino entre las Américas y las civilizaciones del
+  Viejo Mundo.
 draft: false
 keywords:
-- pre-columbian contact
-- trans-oceanic voyages
-- ancient civilizations
-- archaeology
-- genetics
-- cultural diffusion
-
-lastmod: '2025-07-04'
+- contacto-precolombino
+- viajes-transoceánicos
+- civilizaciones-antiguas
+- arqueología
+- genética
+- difusión-cultural
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: pre-columbian-contact-america
 tags:
-- History
-- archaeology
-- Genetics
-- Ancient Civilizations
+- historia
+- arqueología
+- genética
+- civilizaciones-antiguas
 title: 'Contacto Transoceánico Precolombino: Conocimiento Actual y Debate'
 translation_model: gpt-4o
 ---

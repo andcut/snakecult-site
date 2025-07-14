@@ -1,31 +1,30 @@
 ---
 about:
-- ancient history
-- archaeology
-- genetics
+- 古代历史
+- 考古学
+- 遗传学
 author: Andrew Cutler
-core_entity: Ancient Voyages
+core_entity: 古代航行
 date: 2025-03-20
-description: A comprehensive analysis of evidence and scholarly debate surrounding
-  pre-Columbian trans-oceanic contact between the Americas and Old World civilizations.
+description: 对美洲与旧大陆文明之间前哥伦布时期跨大洋接触的证据和学术争论进行全面分析。
 draft: false
 keywords:
-- pre-columbian contact
-- trans-oceanic voyages
-- ancient civilizations
-- archaeology
-- genetics
-- cultural diffusion
-
-lastmod: 2025-07-07
+- 前哥伦布接触
+- 跨大洋航行
+- 古代文明
+- 考古学
+- 遗传学
+- 文化传播
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: pre-columbian-contact-america
 tags:
-- History
-- archaeology
-- Genetics
-- Ancient Civilizations
+- 历史
+- 考古学
+- 遗传学
+- 古代文明
 title: 前哥伦布时期的跨大洋接触：当前的知识与争论
 translation_model: gpt-4o
 ---

@@ -1,33 +1,33 @@
 ---
 about:
-- genetics
-- neuroscience
-- cognitive science
-- evolution
+- genética
+- neurociencia
+- ciencia cognitiva
+- evolución
 author: Andrew Cutler
-core_entity: X chromosome
+core_entity: cromosoma X
 date: 2025-04-27
-description: A comprehensive review of how the X chromosome influences human brain
-  development, cognitive function, and neurological disorders.
+description: Una revisión exhaustiva de cómo el cromosoma X influye en el desarrollo
+  del cerebro humano, la función cognitiva y los trastornos neurológicos.
 draft: false
 keywords:
-- X chromosome
-- cognition
-- brain development
-- X-linked genes
-- intellectual disability
-- X-inactivation
-- sex differences
-
-lastmod: '2025-07-04'
+- cromosoma-x
+- cognición
+- desarrollo-cerebral
+- genes-ligados-al-x
+- discapacidad-intelectual
+- inactivación-del-x
+- diferencias-sexuales
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: x-chromosome-cognition-2
 tags:
-- Genetics
-- Neuroscience
-- cognitive science
-- Evolution
+- genética
+- neurociencia
+- ciencia-cognitiva
+- evolución
 title: El cromosoma X y la cognición humana
 translation_model: gpt-4o
 ---

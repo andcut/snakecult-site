@@ -1,26 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
 description: ''
 draft: false
 keywords:
-- vectors-of-mind
-- primary
-- factor
-- personality
-- part
-
-lastmod: 2025-07-07
+- 心灵向量
+- 主要
+- 因素
+- 人格
+- 部分
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '61936908'
 original_url: https://www.vectorsofmind.com/p/primary-factor-of-personality-part
 quality: 6
 slug: primary-factor-of-personality-part
 tags: []
-title: '人格的主要因素部分'
+title: 人格的主要因素部分
 translation_model: gpt-4o
 ---
 

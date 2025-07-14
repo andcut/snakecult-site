@@ -1,29 +1,28 @@
 ---
 about:
-- world-mythology
-- ritual-technology
+- 世界神话
+- 仪式技术
 author: Andrew Cutler
-core_entity: Bullroarer
+core_entity: 牛吼器
 date: 2025-06-23
-description: How a naked-eye star cluster and a whirring plank became entangled in
-  creation lore, initiation rites, and weather magic from Arnhem Land to Arizona.
+description: 一簇裸眼可见的星团与一个旋转的木板如何在创世传说、启蒙仪式和天气魔法中交织，从阿纳姆地到亚利桑那。
 draft: false
 keywords:
-- Pleiades
-- bullroarer
-- Dreamtime
-- Seven Sisters
-- initiation rites
-- archaeoastronomy
-
-lastmod: 2025-07-07
+- 昴宿星团
+- 牛吼器
+- 梦时间
+- 七姐妹
+- 启蒙仪式
+- 考古天文学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: pleiades-bullroarer-memeplex
 tags:
-- Mythology
-- Anthropology
-- Archaeoastronomy
+- 神话学
+- 人类学
+- 考古天文学
 title: 昴宿星团与牛吼器模因复合体
 translation_model: gpt-4o
 ---

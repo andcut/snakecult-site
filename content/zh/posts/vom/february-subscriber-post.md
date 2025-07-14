@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: It’s been a while since the last subscriber post, figure it’s time to
-  check in. I’m sitting on a couple of longer posts, including EToC v3; keep an eye
-  out for them. In the meantime, there will be mor...
+description: 自从上次的订阅者文章已经有一段时间了，觉得是时候更新一下。我正在准备几篇较长的文章，包括EToC v3；请留意它们。同时，还会有更多内容...
 draft: false
 keywords:
-- vectors-of-mind
-- february
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵向量
+- 二月
+- 订阅者
+- 文章
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '141435306'
 original_url: https://www.vectorsofmind.com/p/february-subscriber-post

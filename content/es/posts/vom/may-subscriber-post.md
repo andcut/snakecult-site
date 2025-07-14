@@ -11,7 +11,7 @@ keywords:
 - suscriptor
 - publicación
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '142612790'
 original_url: https://www.vectorsofmind.com/p/may-subscriber-post

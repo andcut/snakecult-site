@@ -13,7 +13,7 @@ keywords:
 - irrazonable
 - efectividad
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '103480693'
 original_url: https://www.vectorsofmind.com/p/the-unreasonable-effectiveness-of

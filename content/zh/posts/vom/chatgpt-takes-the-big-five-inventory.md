@@ -1,21 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: A language model can learn a lot about language from the streets, so
-  to speak. It is trained on terabytes of PubMed articles, YouTube transcripts, and
-  reddit comments. But it doesn’t know how to behav...
+description: 可以说，语言模型可以从街头巷尾学到很多关于语言的知识。它经过PubMed文章、YouTube转录和reddit评论的数太字节训练。但它不知道如何表现...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - chatgpt
-- takes
-- five
-- inventory
-
-lastmod: 2025-07-07
+- 观点
+- 五
+- 清单
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '110922907'
 original_url: https://www.vectorsofmind.com/p/chatgpt-takes-the-big-five-inventory

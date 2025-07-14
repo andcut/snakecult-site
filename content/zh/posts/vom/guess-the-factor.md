@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: This post steps back from grand claims and asks readers to make a few
-  of their own. One of the most addicting parts of personality research is trying
-  to understand the unifying theme of a factor when ...
+description: 本文从宏大的主张中退一步，邀请读者提出自己的几个观点。人格研究中最令人上瘾的部分之一是试图理解当一个因素的统一主题时...
 draft: false
 keywords:
-- vectors-of-mind
-- guess
-- factor
-
-lastmod: 2025-07-07
+- 心灵向量
+- 猜测
+- 因子
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '54190441'
 original_url: https://www.vectorsofmind.com/p/guess-the-factor

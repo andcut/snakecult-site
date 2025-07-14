@@ -1,33 +1,32 @@
 ---
 about:
-- Anthropology
-- History
-- Gender Studies
-- Mythology
+- 人类学
+- 历史
+- 性别研究
+- 神话学
 author: Andrew Cutler
 date: 2025-04-21
-description: Examines the historical and anthropological debate surrounding the concept
-  of primordial matriarchy, from Bachofen's theories to modern critiques and evidence.
+description: 探讨围绕原始母权制概念的历史和人类学辩论，从巴霍芬的理论到现代批评和证据。
 draft: false
 keywords:
-- matriarchy
-- mother-right
-- Bachofen
-- Engels
-- Gimbutas
-- anthropology
-- mythology
-- gender history
-
-lastmod: 2025-07-07
+- 母权制
+- 母权
+- bachofen
+- engels
+- gimbutas
+- 人类学
+- 神话学
+- 性别历史
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: primordial-matriarchy-science
 tags:
-- Feminist Theory
-- Matriarchy Debate
-- evolution
-- human origins
+- 女性主义理论
+- 母权制辩论
+- 演化
+- 人类起源
 title: 女性作为文化的创始者：神话起源与学术争论
 translation_model: gpt-4o
 ---

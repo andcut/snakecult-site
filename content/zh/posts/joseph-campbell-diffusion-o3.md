@@ -1,26 +1,25 @@
 ---
 about:
-- mythology
+- 神话
 author: Andrew Cutler
 core_entity: Joseph Campbell
 date: 2025-05-10
-description: Joseph Campbell's own words show that he traced mythic parallels to trade-routes
-  and sea-lanes, not Jungian Wi-Fi.
+description: Joseph Campbell 自己的话表明，他追溯神话的相似性到贸易路线和航线，而非荣格的无线电波。
 draft: false
 keywords:
-- cultural-diffusion
-- Joseph-Campbell
-- psychic-unity
-- comparative-mythology
-- Jung
-
-lastmod: 2025-07-07
+- 文化扩散
+- joseph-campbell
+- 心理统一
+- 比较神话学
+- jung
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusionist
 tags:
-- Mythology
-- Cultural-Diffusion
+- 神话
+- 文化扩散
 title: 坎贝尔的扩散主义：船只，而非脑波
 translation_model: gpt-4o
 ---

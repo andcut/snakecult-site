@@ -1,22 +1,20 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Homo Sapiens have been around for about 200,000 years but didn’t do much
-  for the first 185,000 or so. At the end of the Ice Age, there was a “revolution
-  of symbols,” as archeologist Jacques Cauvin cal...
+description: 智人已经存在大约20万年，但在最初的18.5万年里并没有做太多事情。在冰河时代结束时，出现了“符号革命”，正如考古学家Jacques Cauvin所描述的那样...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵的向量
 - herakles
 - adam
 - krishna
 - were
 - initiated
-
-lastmod: 2025-07-07
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '141291390'
 original_url: https://www.vectorsofmind.com/p/herakles-adam-and-krishna-were-initiated

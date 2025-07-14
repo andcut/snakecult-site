@@ -1,27 +1,27 @@
 ---
 about:
-- mythology
-- anthropology
+- mitología
+- antropología
 author: Andrew Cutler
-core_entity: Old Woman
+core_entity: Vieja
 date: 2025-05-11
-description: A source-heavy world survey of tales where a crone decides that humans
-  must die.
+description: Un estudio mundial con abundantes fuentes sobre relatos donde una anciana
+  decide que los humanos deben morir.
 draft: false
 keywords:
-- origin-of-death
-- comparative-mythology
-- Inuit
-- Blackfoot
-- African-myths
-- folklore-phylogenetics
-
-lastmod: '2025-07-04'
+- origen-de-la-muerte
+- mitología-comparativa
+- inuit
+- blackfoot
+- mitos-africanos
+- filogenética-del-folclore
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: old-woman-death-motif
 tags:
-- folklore
+- folclore
 title: Vieja ≘ Motivo de la Muerte en los Mitos del Mundo
 translation_model: gpt-4o
 ---

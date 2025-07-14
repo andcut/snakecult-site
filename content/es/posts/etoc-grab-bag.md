@@ -1,28 +1,28 @@
 ---
 about:
-- cognitive evolution
-- comparative mythology
+- evolución cognitiva
+- mitología comparativa
 author: Andrew Cutler
 core_entity: Serpent Idol
 date: 2025-04-27 12:00:00+00:00
-description: How a prehistoric serpent-goddess cult may have jump-started self-aware
-  thought and spread its rites across the globe.
+description: Cómo un culto prehistórico a una diosa-serpiente pudo haber impulsado
+  el pensamiento autoconsciente y difundido sus ritos por todo el mundo.
 draft: false
 keywords:
-- serpent cult
-- Eve Theory of Consciousness
-- gene–culture coevolution
-- diffusionism
-- prehistoric ritual
-
-lastmod: '2025-07-04'
+- culto-a-la-serpiente
+- teoría-de-eva-de-la-conciencia
+- coevolución-gen-cultura
+- difusionismo
+- ritual-prehistórico
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- consciousness
-- archaeology
-- mythology
+- conciencia
+- arqueología
+- mitología
 title: 'El Regalo de la Serpiente: Ecos Míticos de un Culto a la Conciencia Antigua'
 translation_model: gpt-4o
 ---

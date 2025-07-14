@@ -1,29 +1,28 @@
 ---
 about:
-- archaeology
-- historical linguistics
-- indigenous religions
+- 考古学
+- 历史语言学
+- 原住民宗教
 author: Andrew Cutler
 core_entity: Clovis point
 date: 2025-04-27
-description: How pronouns, rituals, myths, and fluted spear points reveal a single
-  Ice-Age culture behind all pre-Columbian peoples.
+description: 代词、仪式、神话和有槽矛头如何揭示所有前哥伦布时期民族背后单一的冰河时代文化。
 draft: false
 keywords:
-- Amerind
-- Paleoindian migration
-- Clovis culture
-- Bullroarer rites
-- Comparative mythology
-
-lastmod: 2025-07-07
+- amerind
+- 旧石器时代印第安人迁徙
+- clovis文化
+- 牛吼器仪式
+- 比较神话学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: deep-roots-pan-american
 tags:
-- Deep History
-- Americas
-- Migration
+- 深厚历史
+- 美洲
+- 迁徙
 title: 泛美文化的深厚根源
 translation_model: gpt-4o
 ---

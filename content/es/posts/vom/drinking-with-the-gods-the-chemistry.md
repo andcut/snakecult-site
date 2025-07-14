@@ -14,7 +14,7 @@ keywords:
 - dioses
 - química
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '153310338'
 original_url: https://www.vectorsofmind.com/p/drinking-with-the-gods-the-chemistry

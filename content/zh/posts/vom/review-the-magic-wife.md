@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Think of this post as a study group on Crecganford's recent mythological
-  analysis. I encourage you to watch the 39-minute video and comment. I’ve mentioned
-  Crecganford a couple of times on the blog. H...
+description: 将这篇文章视为对Crecganford最近神话分析的学习小组。我鼓励您观看39分钟的视频并发表评论。我在博客中提到过Crecganford几次。...
 draft: false
 keywords:
-- vectors-of-mind
-- review
-- magic
-- wife
-
-lastmod: 2025-07-07
+- 心灵向量
+- 评论
+- 魔法
+- 妻子
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144517304'
 original_url: https://www.vectorsofmind.com/p/review-the-magic-wife

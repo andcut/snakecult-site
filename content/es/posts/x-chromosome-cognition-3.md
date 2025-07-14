@@ -1,28 +1,29 @@
 ---
 about:
-- neurogenetics
-- human evolution
+- neurogenética
+- evolución humana
 author: Andrew Cutler
-core_entity: X chromosome
+core_entity: Cromosoma X
 date: 2025-04-27
-description: How recent sweeps, dosage compensation, and X-linked disorders reveal
-  the chromosome's outsized role in human brain evolution and sex-biased cognition.
+description: Cómo las barridas recientes, la compensación de dosis y los trastornos
+  ligados al X revelan el papel desproporcionado del cromosoma en la evolución del
+  cerebro humano y la cognición sesgada por sexo.
 draft: false
 keywords:
-- X chromosome
-- cognition
-- selective sweeps
-- X-inactivation
-- neurodevelopment
-
-lastmod: '2025-07-04'
+- cromosoma-x
+- cognición
+- barridas-selectivas
+- inactivación-del-x
+- neurodesarrollo
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: x-chromosome-cognition-3
 tags:
-- Human Genetics
-- Neurobiology
-- Sex Differences
+- genética-humana
+- neurobiología
+- diferencias-sexuales
 title: Cromosoma X y Cognición
 translation_model: gpt-4o
 ---

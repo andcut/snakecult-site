@@ -1,33 +1,32 @@
 ---
 about:
-- consciousness origins
-- evolutionary anthropology
-- comparative mythology
+- 意识起源
+- 进化人类学
+- 比较神话学
 author: Andrew Cutler
-core_entity: Serpent
+core_entity: 蛇
 date: 2024-07-27
-description: 'A gene-culture riff on Genesis: women, snakes, and recursion ignite
-  the late-Pleistocene birth of the human self.'
+description: 关于创世纪的基因-文化即兴创作：女性、蛇和递归点燃了晚更新世人类自我的诞生。
 draft: true
 keywords:
-- Eve Theory
-- recursive self
-- snake cult
-- gene–culture evolution
-- Scott Alexander
-- Genesis myth
-
-lastmod: 2025-07-07
+- 夏娃理论
+- 递归自我
+- 蛇崇拜
+- 基因-文化进化
+- scott-alexander
+- 创世纪神话
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- consciousness
-- Evolution
-- mythology
-- Scott Alexander
-- Philosophy
-- Speculation
+- 意识
+- 进化
+- 神话学
+- scott-alexander
+- 哲学
+- 推测
 title: Eve意识理论（Slate Star Codex Remix）
 translation_model: gpt-4o
 ---

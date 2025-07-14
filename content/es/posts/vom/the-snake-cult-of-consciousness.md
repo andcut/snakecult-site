@@ -1,27 +1,27 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- mind-vectors
+- blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Si queremos entender la filogenia del lenguaje o cualquier producción
-  humana, debemos tener en cuenta la siguiente línea de tiempo. Lo más importante
-  es que ocurrió una división esencial alrededor de 15,000 B...
+description: If we want to understand the phylogeny of language or any human production,
+  we must consider the following timeline. The most important thing is that an essential
+  division occurred around 15,000 B...
 draft: false
 keywords:
-- vectores-de-la-mente
-- serpiente
-- culto
-- conciencia
+- mind-vectors
+- snake
+- cult
+- consciousness
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '95941288'
 original_url: https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness
 quality: 6
 slug: the-snake-cult-of-consciousness
 tags: []
-title: El Culto de la Serpiente de la Conciencia
+title: The Cult of the Snake of Consciousness
 translation_model: gpt-4o
 ---
 

@@ -1,29 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'and  join me to discuss More Than Allegory: On Religious Myth, Truth,
-  and Belief by Bernardo Kastrup. We dive into Kastrup''s challenging philosophy of
-  analytical idealism, which posits that reality is...'
+description: 加入我来讨论Bernardo Kastrup的《超越寓言：论宗教神话、真理与信仰》。我们深入探讨Kastrup富有挑战性的分析唯心主义哲学，该哲学认为现实是...
 draft: false
 keywords:
-- vectors-of-mind
-- more
-- than
-- allegory
-- religious
-- myth
-
-lastmod: 2025-07-07
+- 心灵的向量
+- 超越
+- 寓言
+- 宗教
+- 神话
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '161215208'
 original_url: https://www.vectorsofmind.com/p/more-than-allegory-on-religious-myth
 quality: 6
 slug: more-than-allegory-on-religious-myth
 tags: []
-title: 'More Than Allegory On Religious Myth'
+title: 超越寓言 论宗教神话
 translation_model: gpt-4o
 ---
 

@@ -1,26 +1,26 @@
 ---
 about:
-- herejía cristiana primitiva
+- early Christian heresy
 author: Andrew Cutler
 core_entity: Pharmakon/Poison
 date: 2025-05-05
-description: ¿Hablan los escritores gnósticos alguna vez de la serpiente de Cristo
-  como literalmente venenosa, o como un antídoto? Una auditoría fuente por fuente.
+description: Do Gnostic writers ever speak of Christ's serpent as literally poisonous,
+  or as an antidote? A source-by-source audit.
 draft: false
 keywords:
-- veneno de serpiente
+- snake-venom
 - pharmakon
-- Gnosticismo
-- Naassenes
-- Maniqueos
-
-lastmod: '2025-07-07'
+- gnosticism
+- naassenes
+- manicheans
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- Gnosticismo
-title: El motivo del 'Veneno' en las tradiciones del Cristo-Serpiente
+- gnosticism
+title: The 'Poison' Motif in Christ-Serpent Traditions
 translation_model: gpt-4o
 ---
 

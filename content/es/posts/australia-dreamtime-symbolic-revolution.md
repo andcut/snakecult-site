@@ -1,41 +1,41 @@
 ---
 about:
-- Australian Prehistory
-- Comparative Archaeology
-- Symbolic Systems
-- Cognitive Evolution
+- Prehistoria Australiana
+- Arqueología Comparativa
+- Sistemas Simbólicos
+- Evolución Cognitiva
 author: Andrew Cutler
 date: 2025-04-20
-description: Comparison of the early Holocene emergence of the Aboriginal Dreamtime
-  symbolic system with the Near East's Neolithic 'revolution of symbols,' examining
-  Australian rock art, technology, exchange networks, language diffusion, and cognitive
-  impacts.
+description: Comparación del surgimiento temprano del sistema simbólico del Tiempo
+  del Sueño aborigen durante el Holoceno con la 'revolución de símbolos' del Neolítico
+  en el Cercano Oriente, examinando el arte rupestre australiano, la tecnología, las
+  redes de intercambio, la difusión del lenguaje y los impactos cognitivos.
 draft: false
 keywords:
-- Dreamtime
-- Aboriginal Australia
-- Holocene
-- Symbolic Revolution
-- Rock Art
-- Maliwawa Figures
-- Rainbow Serpent
-- Proto-Australian Language
-- Metacognition
-- Jacques Cauvin
-- Göbekli Tepe
-- Archaeology
-- Cognitive Archaeology
-- Oral Tradition
-
-lastmod: '2025-07-04'
+- tiempo-del-sueño
+- australia-aborigen
+- holoceno
+- revolución-simbólica
+- arte-rupestre
+- figuras-maliwawa
+- serpiente-arcoíris
+- lengua-proto-australiana
+- metacognición
+- jacques-cauvin
+- göbekli-tepe
+- arqueología
+- arqueología-cognitiva
+- tradición-oral
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: australia-dreamtime-symbolic-revolution
 tags:
-- Anthropology
-- archaeology
-- Deep-Research
-- cognitive science
+- antropología
+- arqueología
+- investigación-profunda
+- ciencia-cognitiva
 title: 'El Tiempo del Sueño australiano y la Revolución Simbólica: ¿Evidencia indígena
   para una conciencia tardía?'
 translation_model: gpt-4o

@@ -1,29 +1,28 @@
 ---
 about:
-- myth
-- anthropology
-- consciousness
+- 神话
+- 人类学
+- 意识
 author: Andrew Cutler
-core_entity: Serpent
+core_entity: 蛇
 date: 2025-06-23
-description: From Greek shepherd‑seers to Kurdish snake‑queens, cultures worldwide
-  claim a serpent's bite, lick, or brew lets humans talk to animals.
+description: 从希腊牧羊人先知到库尔德蛇后，世界各地的文化都声称蛇的咬伤、舔舐或酿造可以让人类与动物交谈。
 draft: false
 keywords:
-- snake‑myth
-- beast‑speech
-- comparative‑folklore
-- serpent‑cult
-- cognitive‑uplift
-
-lastmod: 2025-07-07
+- 蛇神话
+- 兽语
+- 比较民俗学
+- 蛇崇拜
+- 认知提升
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: snakes-speech-mythology
 tags:
-- World‑Mythology
-- Snake‑Cult
-- Linguistic‑Magic
+- 世界神话
+- 蛇崇拜
+- 语言魔法
 title: 世界神话中赋予兽语能力的蛇
 translation_model: gpt-4o
 ---

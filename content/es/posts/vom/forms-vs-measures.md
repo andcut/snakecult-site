@@ -4,7 +4,7 @@ about:
 - archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: El CI tiene la reputación de ser la opción psicométrica dura. Aquellos
+description: La CI tiene la reputación de ser la opción psicométrica dura. Aquellos
   que están dispuestos a aceptar los hechos sobre los sentimientos admitirán su supremacía.
   ¡Pero esto es un valor robado! La inteligencia emocional es fund...
 draft: false
@@ -13,7 +13,7 @@ keywords:
 - formas
 - medidas
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '130101130'
 original_url: https://www.vectorsofmind.com/p/forms-vs-measures

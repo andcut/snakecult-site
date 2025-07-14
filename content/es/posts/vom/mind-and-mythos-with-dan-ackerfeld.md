@@ -1,6 +1,6 @@
 ---
 about:
-- vectores-de-la-mente
+- mind-vectors
 - archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
@@ -9,12 +9,12 @@ description: En este episodio hablo con un psicólogo y escritor australiano del
   y la narrativa, inicialmente centrándose en ...
 draft: false
 keywords:
-- vectores-de-la-mente
+- mind-vectors
 - mente
 - mitos
 - ackerfeld
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152587817'
 original_url: https://www.vectorsofmind.com/p/mind-and-mythos-with-dan-ackerfeld

@@ -1,29 +1,29 @@
 ---
 about:
-- mythology
-- cosmology
+- mitología
+- cosmología
 author: Andrew Cutler
 core_entity: Nehebkau
 date: 2025-06-25
-description: From Egyptian Coffin-Texts to Greek philosophy, why serpents swallow
-  chaos and why Eros is the duct-tape of the universe.
+description: Desde los Textos de los Sarcófagos Egipcios hasta la filosofía griega,
+  por qué las serpientes devoran el caos y por qué Eros es la cinta adhesiva del universo.
 draft: false
 keywords:
-- Nehebkau
-- Ogdoad
-- Greek-primordials
-- Eros
-- chaos-mythology
-- comparative-myth
-
-lastmod: '2025-07-04'
+- nehebkau
+- ogdoad
+- primordiales-griegos
+- eros
+- caos-mitología
+- mito-comparativo
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: chaos-contained-nehebkau-ogdoad
 tags:
-- Egyptian-myth
-- Greek-myth
-- comparative-religion
+- mitología-egipcia
+- mitología-griega
+- religión-comparativa
 title: 'Caos Contenido: Nehebkau, la Ogdóada, los Primordiales Griegos y el Vínculo
   Cósmico'
 translation_model: gpt-4o

@@ -1,31 +1,32 @@
 ---
 about:
-- comparative-mythology
-- archaeo-astronomy
+- mitología-comparativa
+- arqueo-astronomía
 author: Andrew Cutler
-core_entity: Titan ash
+core_entity: ceniza de Titán
 date: 2025-06-23
-description: A long-form comparative study of dismemberment-cosmogonies, snake-ash
-  anthropogenies, esoteric water-mirrors, and the solar Herakles of the Orphic hymns.
+description: Un estudio comparativo extenso de cosmogonías de desmembramiento, antropogenias
+  de ceniza de serpiente, espejos de agua esotéricos y el Heracles solar de los himnos
+  órficos.
 draft: false
 keywords:
-- Orphism
-- creation-myth
-- serpent-symbolism
-- ritual-mirror
-- mystery-cults
-- anthropogony
-
-lastmod: '2025-07-04'
+- orfismo
+- mito-de-creación
+- simbolismo-serpiente
+- espejo-ritual
+- cultos-misteriosos
+- antropogenia
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- Myth
-- Religion
-- archaeology
-title: Titan Ash & Serpent Spark — Cosmos Desmembrado, Espejos de Agua y el Núcleo
-  Ofídico de la Creación
+- mito
+- religión
+- arqueología
+title: Ceniza de Titán y Chispa de Serpiente — Cosmos Desmembrado, Espejos de Agua
+  y el Núcleo Ofídico de la Creación
 translation_model: gpt-4o
 ---
 

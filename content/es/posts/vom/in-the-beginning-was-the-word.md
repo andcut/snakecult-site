@@ -1,18 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: “In the beginning was the Word, and the Word was with Psychology, and
-  the Word was Psychology” ~New Vector Translation
+description: 'En el principio era el Verbo, y el Verbo estaba con la Psicología, y
+  el Verbo era Psicología” ~Nueva Traducción Vectorial keywords: - vectores-de-la-mente
+  - principio - verbo title: En el principio era el Verbo'
 draft: false
 keywords:
 - vectors-of-mind
 - beginning
 - word
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '51210419'
 original_url: https://www.vectorsofmind.com/p/in-the-beginning-was-the-word

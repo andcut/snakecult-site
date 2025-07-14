@@ -1,30 +1,29 @@
 ---
 about:
-- cognitive evolution
-- epigenetics
-- sex chromosomes
+- 认知进化
+- 表观遗传学
+- 性染色体
 author: Andrew Cutler
-core_entity: X chromosome
+core_entity: X染色体
 date: 2025-04-27
-description: How X-linked gene dosage, inactivation escape, and imprinting sculpt
-  human brain development, intelligence, and social behavior.
+description: X连锁基因剂量、失活逃逸和印记如何塑造人类大脑发育、智力和社会行为。
 draft: false
 keywords:
-- X chromosome
-- cognition
-- neurodevelopment
-- sex differences
-- genomic imprinting
-
-lastmod: 2025-07-07
+- x染色体
+- 认知
+- 神经发育
+- 性别差异
+- 基因组印记
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: x-chromosome-cognition
 tags:
-- cognition
-- Genetics
-- Neuroscience
-- Evolution
+- 认知
+- 遗传学
+- 神经科学
+- 进化
 title: X染色体与高级认知能力
 translation_model: gpt-4o
 ---

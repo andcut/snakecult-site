@@ -4,23 +4,23 @@ about:
 - archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Cuando Dios Era Mujer presenta un mundo antiguo radicalmente diferente
+description: 'When God Was a Woman presenta un mundo antiguo radicalmente diferente
   al nuestro: uno donde las mujeres eran las primeras profetas, las serpientes otorgaban
   sabiduría en lugar de pecado, y los cimientos de la civilización—w...'
 draft: false
 keywords:
 - vectores-de-la-mente
-- cuando
-- mujer
+- when
+- woman
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '155441251'
 original_url: https://www.vectorsofmind.com/p/when-god-was-a-woman
 quality: 6
 slug: when-god-was-a-woman
 tags: []
-title: Cuando Dios Era Mujer
+title: When God Was a Woman
 translation_model: gpt-4o
 ---
 

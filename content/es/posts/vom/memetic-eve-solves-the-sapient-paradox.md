@@ -1,21 +1,21 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Richard Dawkins said there were two great evolutionary moments. The first
-  was the emergence of DNA, which marked the beginning of biological evolution. The
-  second was the emergence of memes. Just as g...
+description: Richard Dawkins dijo que hubo dos grandes momentos evolutivos. El primero
+  fue la aparición del ADN, que marcó el comienzo de la evolución biológica. El segundo
+  fue la aparición de los memes. Al igual que g...
 draft: false
 keywords:
-- vectors-of-mind
-- memetic
-- solves
-- sapient
-- paradox
-
-lastmod: '2025-07-05'
+- vectores-de-la-mente
+- memético
+- resuelve
+- sapiente
+- paradoja
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144959538'
 original_url: https://www.vectorsofmind.com/p/memetic-eve-solves-the-sapient-paradox

@@ -1,18 +1,16 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: “When the woman saw that the fruit of the tree was good for food and
-  pleasing to the eye, and also desirable for gaining wisdom, she took some and ate
-  it. She also gave some to her husband, who was wi...
+description: “当女人看到树上的果子好吃、悦目且渴望获得智慧时，她摘下果子吃了。她也给了她的丈夫，他也吃了。”
 draft: false
 keywords:
-- vectors-of-mind
-- consciousness
-
-lastmod: 2025-07-07
+- 心灵向量
+- 意识
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140565846'
 original_url: https://www.vectorsofmind.com/p/eve-theory-of-consciousness-v3

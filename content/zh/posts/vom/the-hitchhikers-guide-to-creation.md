@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: The role of women and serpents in creation myths is the perfect test
-  case for OpenAI’s deep research. Readers are likely familiar with the ground, so
-  they can spot-check claims. Further, no such speci...
+description: 女性与蛇在创世神话中的角色是OpenAI深度研究的完美测试案例。读者可能对这一领域熟悉，因此可以核对主张。此外，没有这样的具体...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - hitchhikers
 - guide
-- creation
-
-lastmod: 2025-07-07
+- 创世
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '157008603'
 original_url: https://www.vectorsofmind.com/p/the-hitchhikers-guide-to-creation

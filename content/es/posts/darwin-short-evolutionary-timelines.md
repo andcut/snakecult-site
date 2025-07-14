@@ -1,29 +1,30 @@
 ---
 about:
-- evolution
-- history of science
-- anthropology
+- evolución
+- historia de la ciencia
+- antropología
 author: Andrew Cutler
 date: 2025-04-22
-description: Darwin's views on the rapid pace of human evolution, driven by gene-culture
-  interaction, reputation, language, and social institutions.
+description: Las opiniones de Darwin sobre el ritmo acelerado de la evolución humana,
+  impulsado por la interacción gen-cultura, la reputación, el lenguaje y las instituciones
+  sociales.
 draft: false
 keywords:
 - darwin
-- evolution
-- human evolution
-- gene-culture
-- language
-- morality
-
-lastmod: '2025-07-04'
+- evolución
+- evolución-humana
+- gen-cultura
+- lenguaje
+- moralidad
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: darwin-short-evolutionary-timelines
 tags:
-- Darwin
-- Evolutionary Theory
-- human-origins
+- darwin
+- teoría-evolutiva
+- orígenes-humanos
 title: 'Darwin sobre la Evolución Humana: Cronogramas Cortos e Interacción Gen-Cultura'
 translation_model: gpt-4o
 ---

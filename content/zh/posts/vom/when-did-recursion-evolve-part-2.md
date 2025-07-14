@@ -1,28 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: This is part of a series on the evolution of recursion. The first post
-  explained why so many psychologists, philosophers, and linguists believe recursive
-  thinking is the ability that makes us human. T...
+description: 这是关于递归演变系列的一部分。第一篇文章解释了为什么许多心理学家、哲学家和语言学家认为递归思维是使我们成为人类的能力。T...
 draft: false
 keywords:
-- vectors-of-mind
-- when
-- recursion
-- evolve
-- part
-
-lastmod: 2025-07-07
+- 心灵向量
+- 何时
+- 递归
+- 演变
+- 部分
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '114633005'
 original_url: https://www.vectorsofmind.com/p/when-did-recursion-evolve-part-2
 quality: 6
 slug: when-did-recursion-evolve-part-2
 tags: []
-title: 'When Did Recursion Evolve Part 2'
+title: 递归何时演变 第二部分
 translation_model: gpt-4o
 ---
 

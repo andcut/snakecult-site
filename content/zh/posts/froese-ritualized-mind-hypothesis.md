@@ -1,35 +1,33 @@
 ---
 about:
-- cognitive evolution
-- snake-venom ritual
-- subject-object separation
+- 认知进化
+- 蛇毒仪式
+- 主客体分离
 - Froese
 - Cutler
 author: Andrew Cutler
 date: 2025-04-19
-description: Deep synthesis of Tom Froese's Ritualised-Mind Hypothesis and Andrew
-  Cutler's Eve/Snake-Cult Theory, resolving the Sapient Paradox through ritual-mediated
-  recursion, female agency, and gene–culture sweeps.
+description: 深入综合Tom Froese的仪式化心灵假说和Andrew Cutler的夏娃/蛇崇拜理论，通过仪式介导的递归、女性能动性和基因-文化扫荡解决智慧悖论。
 draft: false
 keywords:
-- Ritualised Mind Hypothesis
-- Eve Theory of Consciousness
-- Snake Cult
-- Sapient Paradox
-- symbolic cognition
-- altered states
-- gene-culture coevolution
-- recursive thought
-
-lastmod: 2025-07-07
+- 仪式化心灵假说
+- 夏娃意识理论
+- 蛇崇拜
+- 智慧悖论
+- 符号认知
+- 改变的状态
+- 基因-文化共同进化
+- 递归思维
+lang: zh
+lastmod: '2025-07-13'
 license: CC-BY-SA 4.0
 quality: 7
 slug: froese-ritualized-mind-eve-theory
 tags:
-- Sapient Paradox
-- consciousness
-- Evolution
-- ritual
+- 智慧悖论
+- 意识
+- 进化
+- 仪式
 title: 仪式化心灵与夏娃意识理论：人类认知进化的趋同解释
 translation_model: gpt-4o
 ---

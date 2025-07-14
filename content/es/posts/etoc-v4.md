@@ -1,36 +1,36 @@
 ---
 about:
-- consciousness
-- evolution
-- prehistory
+- conciencia
+- evolución
+- prehistoria
 author: Andrew Cutler
 core_entity: Eve Theory
 date: 2025-06-30
-description: A comprehensive interdisciplinary theory proposing that human consciousness
-  originated as a cultural invention in prehistoric times, likely pioneered by women
-  and spread through ritual and language.
+description: Una teoría interdisciplinaria integral que propone que la conciencia
+  humana se originó como una invención cultural en tiempos prehistóricos, probablemente
+  iniciada por mujeres y difundida a través del ritual y el lenguaje.
 draft: false
 keywords:
-- consciousness
-- evolutionary psychology
-- Julian Jaynes
-- bicameral mind
-- prehistoric cognition
-- cognitive revolution
-- mythology
-
-lastmod: '2025-07-04'
+- conciencia
+- psicología-evolutiva
+- julian-jaynes
+- mente-bicameral
+- cognición-prehistórica
+- revolución-cognitiva
+- mitología
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: etoc-v4
 tags:
-- consciousness
-- Evolution
-- Prehistory
-- mythology
-- Neuroscience
-- psychology
-- Anthropology
+- conciencia
+- evolución
+- prehistoria
+- mitología
+- neurociencia
+- psicología
+- antropología
 title: Teoría de la Conciencia de Eva v4
 translation_model: gpt-4o
 ---

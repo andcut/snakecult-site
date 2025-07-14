@@ -1,28 +1,26 @@
 ---
 about:
-- mythology
-- anthropology
+- 神话
+- 人类学
 author: Andrew Cutler
 core_entity: Plumed Serpent
 date: 2025-06-23
-description: How water-serpents and founding women co-star in Navajo, Zuni, Taíno,
-  K'iche', and Inka origin stories and what that pairing reveals about birth, chaos,
-  and order.
+description: 水蛇和开创女性如何在纳瓦霍、祖尼、泰诺、基切和印加的起源故事中共同出演，以及这种搭配揭示了关于诞生、混沌和秩序的什么。
 draft: false
 keywords:
-- emergence myths
-- plumed serpent
-- Indigenous cosmology
-- divine femininity
-- flood narratives
-
-lastmod: 2025-07-07
+- 起源神话
+- 羽蛇
+- 原住民宇宙观
+- 神圣女性
+- 洪水叙事
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpents-women-emergence-myths-americas
 tags:
-- mythology
-- Indigenous-Studies
+- 神话
+- 原住民研究
 title: 美洲各地创世神话中的蛇与女性
 translation_model: gpt-4o
 ---

@@ -1,27 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'Brian Muraresku’s Immortality Key: The Secret History of the Religion
-  with No Name makes a good case that Jesus is a reincarnation of Dionysus, and early
-  Christianity was a continuation of the millenn...'
+description: Brian Muraresku 的《不朽之钥：无名宗教的秘密历史》很好地论证了耶稣是酒神狄俄尼索斯的转世，早期基督教是千年延续的...
 draft: false
 keywords:
-- vectors-of-mind
-- immortality
-- forgets
-- that
-
-lastmod: 2025-07-07
+- 心灵向量
+- 不朽
+- 忘记
+- 那个
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '121549684'
 original_url: https://www.vectorsofmind.com/p/the-immortality-key-forgets-that
 quality: 6
 slug: the-immortality-key-forgets-that
 tags: []
-title: 'The Immortality Key Forgets That'
+title: 不朽之钥忘记了那个
 translation_model: gpt-4o
 ---
 

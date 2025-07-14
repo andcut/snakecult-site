@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Welcome everyone who came from’s recommendation. He has a lot of good
-  ideas, but I particularly like his articulation of Luxury Beliefs, such as when
-  someone in a gated community says, “Defund the pol...
+description: 欢迎每一位来自推荐的人。他有很多好的想法，但我特别喜欢他对奢侈信仰的表达，比如当一个住在封闭社区的人说，“取消资助警察”...
 draft: false
 keywords:
-- vectors-of-mind
-- august
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵向量
+- 八月
+- 订阅者
+- 文章
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '131975625'
 original_url: https://www.vectorsofmind.com/p/august-subscriber-post

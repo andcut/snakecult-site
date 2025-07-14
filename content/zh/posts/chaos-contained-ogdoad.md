@@ -1,29 +1,28 @@
 ---
 about:
-- mythology
-- cosmology
+- 神话
+- 宇宙学
 author: Andrew Cutler
 core_entity: Nehebkau
 date: 2025-06-25
-description: From Egyptian Coffin-Texts to Greek philosophy, why serpents swallow
-  chaos and why Eros is the duct-tape of the universe.
+description: 从埃及棺材文到希腊哲学，为什么蛇吞噬混沌，以及为什么厄洛斯是宇宙的粘合剂。
 draft: false
 keywords:
-- Nehebkau
-- Ogdoad
-- Greek-primordials
-- Eros
-- chaos-mythology
-- comparative-myth
-
-lastmod: 2025-07-07
+- nehebkau
+- ogdoad
+- greek-primordials
+- eros
+- 混沌神话
+- 比较神话
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: chaos-contained-nehebkau-ogdoad
 tags:
-- Egyptian-myth
-- Greek-myth
-- comparative-religion
+- 埃及神话
+- 希腊神话
+- 比较宗教
 title: 混沌的约束：Nehebkau、八元神、希腊原始神与宇宙纽带
 translation_model: gpt-4o
 ---

@@ -1,27 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Lexical studies in psychology and Latent Semantic Analysis in computer
-  science were introduced a half century apart to solve different problems and yet
-  are mathematically equivalent. This isn’t a meta...
+description: 心理学中的词汇研究和计算机科学中的潜在语义分析相隔半个世纪被引入以解决不同的问题，但它们在数学上是等价的。这不是一个元...
 draft: false
 keywords:
-- vectors-of-mind
-- five
-- word
-- vectors
-
-lastmod: 2025-07-07
+- 心灵向量
+- 五
+- 词
+- 向量
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '50351822'
 original_url: https://www.vectorsofmind.com/p/the-big-five-are-word-vectors
 quality: 6
 slug: the-big-five-are-word-vectors
 tags: []
-title: 'The Big Five Are Word Vectors'
+title: 大五人格是词向量
 translation_model: gpt-4o
 ---
 

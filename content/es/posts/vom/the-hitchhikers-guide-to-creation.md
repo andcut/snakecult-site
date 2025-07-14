@@ -4,10 +4,9 @@ about:
 - archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: El papel de las mujeres y las serpientes en los mitos de la creación
-  es el caso de prueba perfecto para la investigación profunda de OpenAI. Los lectores
-  probablemente estén familiarizados con el tema, por lo que pueden verificar las
-  afirmaciones. Además, ningún especi...
+description: The role of women and snakes in creation myths is the perfect test case
+  for OpenAI's deep research. Readers are likely familiar with the topic, so they
+  can verify the claims. Additionally, no speci...
 draft: false
 keywords:
 - vectores-de-la-mente
@@ -15,14 +14,14 @@ keywords:
 - guía
 - creación
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '157008603'
 original_url: https://www.vectorsofmind.com/p/the-hitchhikers-guide-to-creation
 quality: 6
 slug: the-hitchhikers-guide-to-creation
 tags: []
-title: La Guía del Autoestopista para la Creación
+title: The Hitchhiker's Guide to Creation
 translation_model: gpt-4o
 ---
 

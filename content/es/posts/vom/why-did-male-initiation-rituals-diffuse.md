@@ -4,9 +4,10 @@ about:
 - archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: Hay un compromiso entre escribir publicaciones de interés general y aquellas
-  que desarrollan ideas relacionadas con Eva y el Culto a la Serpiente. La publicación
-  sobre difusión cultural fue más de lo primero e incluso fue tuiteada ...
+description: Existe un compromiso entre escribir publicaciones de interés general
+  y aquellas que desarrollan ideas relacionadas con Eva y el Culto a la Serpiente.
+  La publicación sobre difusión cultural fue más de lo primero e incluso fue tuiteada
+  ...
 draft: false
 keywords:
 - vectores-de-la-mente
@@ -15,7 +16,7 @@ keywords:
 - rituales
 - difundir
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '136623669'
 original_url: https://www.vectorsofmind.com/p/why-did-male-initiation-rituals-diffuse

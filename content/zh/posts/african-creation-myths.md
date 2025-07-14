@@ -1,29 +1,28 @@
 ---
 about:
-- mythology
-- cosmology
-- comparative-religion
+- 神话
+- 宇宙学
+- 比较宗教
 author: Andrew Cutler
 core_entity: Nommo twins
 date: 2025-06-23
-description: Sweep through Yoruba clay-people, Dogon fish-twins, Egyptian ka-snakes,
-  and Lebe's bullroarer to see how Africa narrates human beginnings.
+description: 探索约鲁巴泥人、道贡鱼双胞胎、埃及ka蛇和Lebe的牛吼器，了解非洲如何讲述人类的起源。
 draft: false
 keywords:
-- African-myths
-- Dogon-Nommo
-- Twin-motif
-- Egyptian-ka
-- Lebe-Seru
-
-lastmod: 2025-07-07
+- 非洲神话
+- 道贡-nommo
+- 双生子主题
+- 埃及-ka
+- lebe-seru
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: african-origin-myths-twin-nommo-ka-lebe
 tags:
-- Mythology
-- African-Studies
-- Consciousness-Studies
+- 神话
+- 非洲研究
+- 意识研究
 title: 非洲起源神话、双生子主题、Nommo、Ka-蛇与Lebe Seru
 translation_model: gpt-4o
 ---

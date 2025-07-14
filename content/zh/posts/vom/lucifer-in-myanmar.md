@@ -1,17 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'Captain Thomas Herbert Lewin wrote in 1869:'
+description: 1869年，托马斯·赫伯特·莱温船长写道：
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - lucifer
 - myanmar
-
-lastmod: 2025-07-07
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144517303'
 original_url: https://www.vectorsofmind.com/p/lucifer-in-myanmar

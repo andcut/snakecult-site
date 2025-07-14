@@ -1,28 +1,27 @@
 ---
 about:
-- neurogenetics
-- human evolution
+- 神经遗传学
+- 人类进化
 author: Andrew Cutler
-core_entity: X chromosome
+core_entity: X染色体
 date: 2025-04-27
-description: How recent sweeps, dosage compensation, and X-linked disorders reveal
-  the chromosome's outsized role in human brain evolution and sex-biased cognition.
+description: 最近的选择性清扫、剂量补偿和X连锁疾病如何揭示该染色体在人类大脑进化和性别偏向认知中的重要作用。
 draft: false
 keywords:
-- X chromosome
-- cognition
-- selective sweeps
-- X-inactivation
-- neurodevelopment
-
-lastmod: 2025-07-07
+- x染色体
+- 认知
+- 选择性清扫
+- x失活
+- 神经发育
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: x-chromosome-cognition-3
 tags:
-- Human Genetics
-- Neurobiology
-- Sex Differences
+- 人类遗传学
+- 神经生物学
+- 性别差异
 title: X染色体与认知
 translation_model: gpt-4o
 ---

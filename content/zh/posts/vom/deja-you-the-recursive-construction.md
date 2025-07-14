@@ -1,25 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: '"Who looks outside, dreams; who looks inside, awakes." -Carl Jung'
+description: '"向外看的人，做梦；向内看的人，醒悟。" -Carl Jung'
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - deja
-- recursive
-- construction
-
-lastmod: 2025-07-07
+- 递归
+- 构建
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '114599293'
 original_url: https://www.vectorsofmind.com/p/deja-you-the-recursive-construction
 quality: 6
 slug: deja-you-the-recursive-construction
 tags: []
-title: 'Deja You The Recursive Construction'
+title: 递归构建中的Deja You
 translation_model: gpt-4o
 ---
 

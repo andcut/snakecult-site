@@ -1,26 +1,25 @@
 ---
 about:
-- mythology
-- anthropology
+- 神话学
+- 人类学
 author: Andrew Cutler
-core_entity: Weaving Women
+core_entity: 编织女性
 date: 2025-05-11
-description: A phylogenetic exploration of myths where women introduce clothing and
-  weaving, symbolizing humanity’s separation from nature.
+description: 对神话的系统发生学探索，其中女性引入服装和编织，象征着人类与自然的分离。
 draft: false
 keywords:
-- weaving
-- civilization-origins
-- comparative-mythology
-- phylogenetics
-- folklore
-
-lastmod: 2025-07-07
+- 编织
+- 文明起源
+- 比较神话学
+- 系统发生学
+- 民间传说
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: weaving-humanity-women-as-civilizers
 tags:
-- folklore
+- 民间传说
 title: 编织人性：世界神话中作为文明化者的女性
 translation_model: gpt-4o
 ---

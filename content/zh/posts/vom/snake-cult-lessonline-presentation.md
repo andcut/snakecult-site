@@ -1,21 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: I recently attended LessOnline, a rationalist/blogger conference where
-  I presented on the Snake Cult. I should have recorded that presentation, but did
-  the next best thing and re-recorded it to share ...
+description: 我最近参加了LessOnline，一个理性主义者/博客作者会议，在那里我就蛇崇拜进行了演讲。我本应该录制那次演讲，但做了下一个最好的事情，重新录制以分享...
 draft: false
 keywords:
-- vectors-of-mind
-- snake
-- cult
+- 心灵向量
+- 蛇
+- 崇拜
 - lessonline
-- presentation
-
-lastmod: 2025-07-07
+- 演讲
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145546393'
 original_url: https://www.vectorsofmind.com/p/snake-cult-lessonline-presentation

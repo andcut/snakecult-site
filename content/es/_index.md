@@ -1,9 +1,17 @@
 ---
-title: "Teoría de la Conciencia de Eva | Investigación"
-description: "Exploraciones profundas basadas en evidencia sobre la mente, el mito y la coevolución gen-cultura. Análisis profundos del culto primitivo de la serpiente."
-keywords: ["Teoría de Eva","conciencia","orígenes humanos","coevolución gen-cultura","psicometría","vectores-de-la-mente"]
+description: Deep explorations based on evidence about the mind, myth, and gene-culture
+  coevolution. In-depth analysis of the primitive serpent cult.
 draft: false
-lastmod: '2025-07-04'
+keywords:
+- eve-theory
+- consciousness
+- human-origins
+- gene-culture-coevolution
+- psychometrics
+- mind-vectors
+lang: es
+lastmod: '2025-07-13'
+title: Eve Consciousness Theory | Research
 translation_model: gpt-4o
 ---
 

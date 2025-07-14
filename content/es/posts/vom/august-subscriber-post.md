@@ -1,27 +1,27 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- mind-vectors
+- blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Bienvenidos a todos los que llegaron por la recomendación de. Tiene muchas
-  buenas ideas, pero particularmente me gusta su articulación de Creencias de Lujo,
-  como cuando alguien en una comunidad cerrada dice, “Desfinanciar la pol...
+description: Welcome to everyone who arrived through the recommendation of. They have
+  many good ideas, but I particularly like their articulation of Luxury Beliefs, like
+  when someone in a closed community says, “Defund the pol...
 draft: false
 keywords:
-- vectores-de-la-mente
-- agosto
-- suscriptor
-- publicación
+- mind-vectors
+- august
+- subscriber
+- publication
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '131975625'
 original_url: https://www.vectorsofmind.com/p/august-subscriber-post
 quality: 6
 slug: august-subscriber-post
 tags: []
-title: Publicación de Agosto para Suscriptores
+title: August Publication for Subscribers
 translation_model: gpt-4o
 ---
 

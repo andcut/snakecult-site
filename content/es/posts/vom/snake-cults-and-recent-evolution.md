@@ -15,7 +15,7 @@ keywords:
 - reciente
 - evolución
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '152927046'
 original_url: https://www.vectorsofmind.com/p/snake-cults-and-recent-evolution

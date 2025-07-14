@@ -1,21 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: I will host the Astral Codex Ten meetup in Playa del Carmen, Mexico,
-  on September 25th. Now, 33% of my readers already subscribe to ACX. The other two-thirds
-  should carve out an hour, go to the park, ...
+description: 我将在墨西哥普拉亚德尔卡曼举办Astral Codex Ten聚会，日期为9月25日。目前，我的读者中已有33%订阅了ACX。其他三分之二的读者应该抽出一个小时，去公园，...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - astral
 - codex
-- meetup
+- 聚会
 - playa
-
-lastmod: 2025-07-07
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '136370670'
 original_url: https://www.vectorsofmind.com/p/astral-codex-ten-meetup-in-playa

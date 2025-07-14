@@ -1,29 +1,30 @@
 ---
 about:
-- world-mythology
-- ritual-technology
+- mitología mundial
+- tecnología de ritual
 author: Andrew Cutler
 core_entity: Bullroarer
 date: 2025-06-23
-description: How a naked-eye star cluster and a whirring plank became entangled in
-  creation lore, initiation rites, and weather magic from Arnhem Land to Arizona.
+description: Cómo un cúmulo estelar visible a simple vista y una tabla giratoria se
+  entrelazaron en el mito de la creación, los ritos de iniciación y la magia del clima
+  desde Arnhem Land hasta Arizona.
 draft: false
 keywords:
-- Pleiades
+- pleiades
 - bullroarer
-- Dreamtime
-- Seven Sisters
-- initiation rites
-- archaeoastronomy
-
-lastmod: '2025-07-04'
+- tiempo-del-sueño
+- siete-hermanas
+- ritos-de-iniciación
+- arqueoastronomía
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: pleiades-bullroarer-memeplex
 tags:
-- mythology
-- Anthropology
-- Archaeoastronomy
+- mitología
+- antropología
+- arqueoastronomía
 title: Pleiades y el Meme-Plex del Bullroarer
 translation_model: gpt-4o
 ---

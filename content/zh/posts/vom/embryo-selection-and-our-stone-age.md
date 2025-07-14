@@ -1,19 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'Note: I wrote this piece in 2023 for a now-defunct Substack specializing
-  in embryo selection. It appears below unedited.'
+description: 注意：我在2023年为一个现已停办的专注于胚胎选择的Substack写了这篇文章。以下内容未经编辑。
 draft: false
 keywords:
-- vectors-of-mind
-- embryo
-- selection
-- stone
-
-lastmod: 2025-07-07
+- 心灵向量
+- 胚胎
+- 选择
+- 石器时代
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '129576413'
 original_url: https://www.vectorsofmind.com/p/embryo-selection-and-our-stone-age

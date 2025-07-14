@@ -1,31 +1,29 @@
 ---
 about:
-- Neuroscience
-- Genetics
-- Evolutionary Biology
+- 神经科学
+- 遗传学
+- 进化生物学
 author: Andrew Cutler
 date: 2025-04-21 12:00:00+00:00
-description: A review synthesizing evidence on how the Y chromosome influences human
-  cognition, focusing on neurodevelopmental disorders, specific genes, brain structure,
-  and evolutionary context.
+description: 一篇综述，综合了关于Y染色体如何影响人类认知的证据，重点关注神经发育障碍、特定基因、大脑结构和进化背景。
 draft: false
 keywords:
-- Y chromosome
-- cognition
-- neurodevelopment
-- sex differences
-- evolution
-- genetics
-
-lastmod: 2025-07-07
+- y染色体
+- 认知
+- 神经发育
+- 性别差异
+- 进化
+- 遗传学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: y-chromosome-cognition
 tags:
-- Sex Chromosomes
-- Cognition
-- Autism
-- Neurodevelopmental Disorders
+- 性染色体
+- 认知
+- 自闭症
+- 神经发育障碍
 title: Y染色体在人类认知中的作用：文献综述
 translation_model: gpt-4o
 ---

@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: The previous post highlighted the tension between archeologists and what
-  I call ancient aliens researchers. The latter camp argues similarities between far-flung
-  cultures imply a lost global civilizat...
+description: 前一篇文章强调了考古学家与我称之为古代外星人研究者之间的紧张关系。后者阵营认为，远距离文化之间的相似性暗示着一个失落的全球文明。
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵的向量
 - andreas
 - lommel
-- diffusion
-
-lastmod: 2025-07-07
+- 传播
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144256058'
 original_url: https://www.vectorsofmind.com/p/andreas-lommel-on-the-diffusion-of

@@ -4,7 +4,7 @@ about:
 - archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'No soy credencialista, pero aún así, la mayor parte de mi investigación
+description: 'No soy credencialista, pero aun así, la mayor parte de mi investigación
   sobre los orígenes humanos se basa en fuentes oficiales: lingüistas, mitólogos comparativos,
   genetistas y arqueólogos. (Y, por supuesto, el último a...'
 draft: false
@@ -14,7 +14,7 @@ keywords:
 - antiguo
 - alienígenas
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '143438878'
 original_url: https://www.vectorsofmind.com/p/archeologists-vs-ancient-aliens

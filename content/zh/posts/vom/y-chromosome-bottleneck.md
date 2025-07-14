@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: You may have noticed that men and women think differently. Don’t worry,
-  it’s not a sin. In fact, female preference for people vs things is a well-studied
-  phenomenon in psychology. If the self was disc...
+description: 您可能已经注意到，男性和女性的思维方式不同。别担心，这不是罪过。事实上，女性对人与物的偏好是心理学中一个研究充分的现象。如果自我被描述为...
 draft: false
 keywords:
-- vectors-of-mind
-- chromosome
-- bottleneck
-
-lastmod: 2025-07-07
+- 心灵向量
+- 染色体
+- 瓶颈
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '116616676'
 original_url: https://www.vectorsofmind.com/p/y-chromosome-bottleneck

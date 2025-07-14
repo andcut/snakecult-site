@@ -1,25 +1,25 @@
 ---
 about:
-- mythic cosmogony
-- mystery religion
+- cosmogonía mítica
+- religión mistérica
 author: Andrew Cutler
 date: 2025-04-19
-description: How Cosmic-Herakles sets the wheel of time while Dionysus turns it toward
-  liberation in Orphic-Bacchic cults.
+description: Cómo el Heracles Cósmico establece la rueda del tiempo mientras Dionisio
+  la gira hacia la liberación en los cultos órfico-báquicos.
 draft: false
 keywords:
-- Herakles
-- Dionysus
-- Orphic m's
-- serpent symbolism
-- soteriology
-
-lastmod: '2025-07-04'
+- herakles
+- dionysus
+- m's-órficos
+- simbolismo-de-la-serpiente
+- soteriología
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- Deep-Research
+- investigación-profunda
 title: Herakles y Dionisio — Claves Gemelas de los Misterios de la Serpiente
 translation_model: gpt-4o
 ---

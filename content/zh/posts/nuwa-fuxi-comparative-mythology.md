@@ -1,29 +1,28 @@
 ---
 about:
-- Comparative Mythology
-- Chinese Culture
-- Symbolic Anthropology
+- 比较神话学
+- 中国文化
+- 象征人类学
 author: Andrew Cutler
 date: 2025-04-12
-description: An exploration of the serpentine creator deities Nüwa and Fuxi in Chinese
-  mythology and their parallels in world mythologies.
+description: 探索中国神话中的蛇形创造神女娲与伏羲及其在世界神话中的相似之处。
 draft: false
 keywords:
-- comparative mythology
-- Chinese mythology
-- creation myths
-- serpent symbolism
-- world mythology
-
-lastmod: 2025-07-07
+- 比较神话学
+- 中国神话
+- 创世神话
+- 蛇的象征
+- 世界神话
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- China
-- mythology
-- Symbolism
-- Religion
+- 中国
+- 神话
+- 象征
+- 宗教
 title: 女娲与伏羲：神话中的蛇形始祖夫妇与方圆图案
 translation_model: gpt-4o
 ---

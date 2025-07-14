@@ -1,29 +1,28 @@
 ---
 about:
-- mythic deep time
+- 神话中的深远时代
 author: Andrew Cutler
-core_entity: First People
+core_entity: 第一民族
 date: 2025-05-11
-description: Across the Americas, Indigenous traditions recall ant-folk, giants, and
-  shadow-people who occupied the land before humans arrived.
+description: 在美洲大陆，原住民传统记载了蚂蚁人、巨人和影子人，他们在人类到来之前就已占据这片土地。
 draft: false
 keywords:
-- Indigenous myths
-- ant people
-- American giants
-- first inhabitants
-- Tuniit
-- Si-Te-Cah
-- Quinametzin
-
-lastmod: 2025-07-07
+- 原住民神话
+- 蚂蚁人
+- 美洲巨人
+- 第一居民
+- tuniit
+- si-te-cah
+- quinametzin
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: earlier-inhabitants-american-myths
 tags:
-- mythology
-- diffusionism
-- archaeology
+- 神话学
+- 传播主义
+- 考古学
 title: 谁是最早到达这里的？美洲原住民关于早期人群的神话
 translation_model: gpt-4o
 ---

@@ -1,27 +1,26 @@
 ---
 about:
-- mythology
-- human origins
-- gene–culture coevolution
+- 神话
+- 人类起源
+- 基因-文化协同进化
 author: Andrew Cutler
 date: 2025-04-19
-description: From Göbekli Tepe initiation lore to Orphic world-egg cosmology, tracing
-  Herakles' twin careers as Adamic hero and winged time-serpent.
+description: 从哥贝克力石阵的启蒙传说到俄耳甫斯的世界蛋宇宙论，追溯赫拉克勒斯作为亚当式英雄和有翼时间之蛇的双重生涯。
 draft: false
 keywords:
-- Herakles
-- Orphic cosmogony
-- Göbekli Tepe
-- serpent worship
-- Adam parallels
-
-lastmod: 2025-07-07
+- herakles
+- orphic-cosmogony
+- göbekli-tepe
+- 蛇崇拜
+- 亚当的相似之处
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cosmic-herakles
 tags:
-- Deep-Research
-- Prehistory
+- 深度研究
+- 史前史
 title: 宇宙赫拉克勒斯——时间之蛇，伊甸园的英雄
 translation_model: gpt-4o
 ---

@@ -1,18 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'Books about human evolution often follow the format:'
+description: 关于人类进化的书籍通常遵循以下格式：
 draft: false
 keywords:
-- vectors-of-mind
-- review
-- supernatural
-- selection
-
-lastmod: 2025-07-07
+- 心灵向量
+- 评论
+- 超自然
+- 选择
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682171'
 original_url: https://www.vectorsofmind.com/p/review-supernatural-selection

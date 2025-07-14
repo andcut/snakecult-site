@@ -1,34 +1,32 @@
 ---
 about:
-- Mythology
-- Anthropology
-- African Studies
-- Religious Studies
+- 神话学
+- 人类学
+- 非洲研究
+- 宗教学
 author: Andrew Cutler
 date: 2025-04-21 12:00:00+00:00
-description: Analysis of the Meru (Kenya) creation myth resembling the biblical Fall,
-  comparing motifs (forbidden tree, serpent, lost immortality) with Afro-Eurasian
-  parallels.
+description: 对梅鲁（肯尼亚）创世神话的分析，类似于圣经中的堕落，比较禁忌之树、蛇、失去不朽等主题与非洲-欧亚大陆的相似之处。
 draft: true
 keywords:
-- Meru mythology
-- comparative mythology
-- creation myths
-- fall of man
-- Kenya
-- Africa
-- oral tradition
-
-lastmod: 2025-07-07
+- 梅鲁神话
+- 比较神话学
+- 创世神话
+- 人类堕落
+- 肯尼亚
+- 非洲
+- 口头传统
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
-- Meru
-- Creation Story
-- Fall of Man
-- Serpent
-- Forbidden Fruit
+- 梅鲁
+- 创世故事
+- 人类堕落
+- 蛇
+- 禁果
 title: “堕落”在梅鲁神话中的表现及其非洲-欧亚大陆的相似之处
 translation_model: gpt-4o
 ---

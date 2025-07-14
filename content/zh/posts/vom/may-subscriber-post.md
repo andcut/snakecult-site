@@ -1,24 +1,24 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'Commenting on Archeologists vs. Ancient Aliens,  writes:'
+description: 评论考古学家与古代外星人，写道：
 draft: false
 keywords:
-- vectors-of-mind
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵向量
+- 订阅者
+- 文章
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '142612790'
 original_url: https://www.vectorsofmind.com/p/may-subscriber-post
 quality: 6
 slug: may-subscriber-post
 tags: []
-title: '五月订阅者文章'
+title: 五月订阅者文章
 translation_model: gpt-4o
 ---
 

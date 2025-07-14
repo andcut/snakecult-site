@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: It’s been long enough since the last post that some readers have reached
-  out. I’ve been enjoying the holiday season and have a backlog of content for the
-  blog. That includes a long piece (EToC v3.0), ...
+description: 自从上次发帖以来已经有一段时间了，一些读者已经联系过我。我一直在享受假期，并为博客积累了一些内容。其中包括一篇长文（EToC v3.0），...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - stetson
 - holodoxa
-
-lastmod: 2025-07-07
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140805963'
 original_url: https://www.vectorsofmind.com/p/stetson-of-holodoxa-1

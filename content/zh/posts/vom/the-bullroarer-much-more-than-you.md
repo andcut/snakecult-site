@@ -1,28 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: “No ethnomusicologist, I think, would stand for plurigenesis as regards
-  the bull-roarers, which even in decorative detail are often alike and are used for
-  the same purpose wherever and whenever found....
+description: “我认为，没有任何民族音乐学家会支持牛吼器的多元起源论，因为即使在装饰细节上，它们也常常相似，并且无论何时何地发现，它们都用于相同的目的……”
 draft: false
 keywords:
-- vectors-of-mind
-- bullroarer
-- much
-- more
-- than
-
-lastmod: 2025-07-07
+- 心灵向量
+- 牛吼器
+- 多
+- 更多
+- 比
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682170'
 original_url: https://www.vectorsofmind.com/p/the-bullroarer-much-more-than-you
 quality: 6
 slug: the-bullroarer-much-more-than-you
 tags: []
-title: 'The Bullroarer Much More Than You'
+title: 牛吼器远不止于你
 translation_model: gpt-4o
 ---
 

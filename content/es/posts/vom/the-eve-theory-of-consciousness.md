@@ -1,23 +1,23 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- mind-vectors
+- blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Nota: una versión más reciente de esta teoría aparece aquí.'
+description: 'Note: a more recent version of this theory appears here.'
 draft: false
 keywords:
-- vectores-de-la-mente
-- conciencia
+- mind-vectors
+- consciousness
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '88064145'
 original_url: https://www.vectorsofmind.com/p/the-eve-theory-of-consciousness
 quality: 6
 slug: the-eve-theory-of-consciousness
 tags: []
-title: La Teoría de Eva de la Conciencia
+title: The Eva Theory of Consciousness
 translation_model: gpt-4o
 ---
 

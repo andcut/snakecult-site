@@ -1,18 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
 description: ''
 draft: false
 keywords:
-- vectors-of-mind
-- november
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵向量
+- 十一月
+- 订阅者
+- 文章
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '149539830'
 original_url: https://www.vectorsofmind.com/p/november-subscriber-post

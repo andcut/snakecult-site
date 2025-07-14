@@ -1,20 +1,21 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: '"The key to the interpretation of so many still hermetic motifs [...]
-  is available to us, immediately accessible, in myths and tales still alive." Levi-Strauss'
+description: '"La clave para la interpretación de tantos motivos aún herméticos [...]
+  está disponible para nosotros, inmediatamente accesible, en mitos y cuentos aún
+  vivos." Levi-Strauss'
 draft: false
 keywords:
-- vectors-of-mind
+- vectores-de-la-mente
 - contra
 - dhuy
-- snake
-- myths
-
-lastmod: '2025-07-05'
+- serpiente
+- mitos
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '135447203'
 original_url: https://www.vectorsofmind.com/p/contra-dhuy-on-snake-myths

@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'I’m no credientialist, but still, most of my research on human origins
-  draws from official sources: linguists, comparative mythologists, geneticists, and
-  archeologists. (And, of course, the ultimate a...'
+description: 我不是一个凭证主义者，但我的大部分关于人类起源的研究仍然来自官方来源：语言学家、比较神话学家、遗传学家和考古学家。（当然，还有最终的...
 draft: false
 keywords:
-- vectors-of-mind
-- archeologists
-- ancient
-- aliens
-
-lastmod: 2025-07-07
+- 心灵的向量
+- 考古学家
+- 古代
+- 外星人
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '143438878'
 original_url: https://www.vectorsofmind.com/p/archeologists-vs-ancient-aliens

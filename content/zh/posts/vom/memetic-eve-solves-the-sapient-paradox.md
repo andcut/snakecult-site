@@ -1,28 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Richard Dawkins said there were two great evolutionary moments. The first
-  was the emergence of DNA, which marked the beginning of biological evolution. The
-  second was the emergence of memes. Just as g...
+description: 理查德·道金斯说过，有两个伟大的进化时刻。第一个是DNA的出现，标志着生物进化的开始。第二个是模因的出现。就像...
 draft: false
 keywords:
-- vectors-of-mind
-- memetic
-- solves
-- sapient
-- paradox
-
-lastmod: 2025-07-07
+- 心灵向量
+- 模因
+- 解决
+- 智慧
+- 悖论
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '144959538'
 original_url: https://www.vectorsofmind.com/p/memetic-eve-solves-the-sapient-paradox
 quality: 6
 slug: memetic-eve-solves-the-sapient-paradox
 tags: []
-title: Memetic Eve 解决了智慧悖论
+title: 模因夏娃解决了智慧悖论
 translation_model: gpt-4o
 ---
 

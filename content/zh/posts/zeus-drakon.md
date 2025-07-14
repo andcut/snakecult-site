@@ -1,26 +1,25 @@
 ---
 about:
-- mythology
-- mystery religion
+- 神话
+- 神秘宗教
 author: Andrew Cutler
 core_entity: Zeus
 date: 2025-04-19
-description: Snake-shaped Zeus in chthonic cults, Orphic theogony, and Stoic ekpyrosis,
-  mapped onto the Herakles–Dionysus macro-/micro-myth.
+description: 在地下崇拜、奥尔菲克神谱和斯多葛派的世界大火中，蛇形的宙斯被映射到赫拉克勒斯-狄俄尼索斯的宏观/微观神话中。
 draft: false
 keywords:
-- Zeus
-- serpent-cults
-- Orphic theogony
-- ekpyrosis
-- world-egg
-
-lastmod: 2025-07-07
+- zeus
+- 蛇崇拜
+- 奥尔菲克神谱
+- 世界大火
+- 世界之卵
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: zeus-serpent-mysteries
 tags:
-- Deep-Research
+- 深度研究
 title: Zeus Drakôn — 蛇，吞噬者，世界更新者
 translation_model: gpt-4o
 ---

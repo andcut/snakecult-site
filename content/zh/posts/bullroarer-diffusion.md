@@ -1,34 +1,32 @@
 ---
 about:
-- Anthropology
-- Cultural History
-- Archaeology
+- 人类学
+- 文化史
+- 考古学
 author: Andrew Cutler
-core_entity: Bullroarer
+core_entity: 牛吼器
 date: 2025-04-20
-description: An anthropological examination of the bullroarer, arguing its global
-  distribution and consistent ritual functions point to cultural diffusion from a
-  common prehistoric origin.
+description: 对牛吼器的人类学研究，论证其全球分布和一致的仪式功能表明其源自一个共同的史前起源的文化传播。
 draft: false
 keywords:
-- bullroarer
-- anthropology
-- cultural diffusion
-- ritual
-- prehistory
-- mythology
-- initiation rites
-
-lastmod: 2025-07-07
+- 牛吼器
+- 人类学
+- 文化传播
+- 仪式
+- 史前
+- 神话
+- 启蒙仪式
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: bullroarer-diffusion
 tags:
-- Bullroarer
-- Diffusionism
-- Prehistory
-- mythology
-- ritual
+- 牛吼器
+- 传播主义
+- 史前
+- 神话
+- 仪式
 title: 牛吼器：一种全球性的仪式乐器及古代文化传播的案例分析
 translation_model: gpt-4o
 ---

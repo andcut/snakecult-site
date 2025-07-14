@@ -1,34 +1,34 @@
 ---
 about:
-- Mythology
-- Anthropology
-- African Studies
-- Religious Studies
+- Mitología
+- Antropología
+- Estudios Africanos
+- Estudios Religiosos
 author: Andrew Cutler
 date: 2025-04-21 12:00:00+00:00
-description: Analysis of the Meru (Kenya) creation myth resembling the biblical Fall,
-  comparing motifs (forbidden tree, serpent, lost immortality) with Afro-Eurasian
-  parallels.
+description: Análisis del mito de la creación Meru (Kenia) que se asemeja a la Caída
+  bíblica, comparando motivos (árbol prohibido, serpiente, inmortalidad perdida) con
+  paralelismos afro-eurasiáticos.
 draft: true
 keywords:
-- Meru mythology
-- comparative mythology
-- creation myths
-- fall of man
-- Kenya
-- Africa
-- oral tradition
-
-lastmod: '2025-07-04'
+- mitología-meru
+- mitología-comparativa
+- mitos-de-creación
+- caída-del-hombre
+- kenia
+- áfrica
+- tradición-oral
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
-- Meru
-- Creation Story
-- Fall of Man
-- Serpent
-- Forbidden Fruit
+- meru
+- historia-de-la-creación
+- caída-del-hombre
+- serpiente
+- fruta-prohibida
 title: El "Caída" en la Mitología Meru y Sus Paralelismos Afro-Eurasiáticos
 translation_model: gpt-4o
 ---

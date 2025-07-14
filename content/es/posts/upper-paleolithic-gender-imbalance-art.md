@@ -1,25 +1,26 @@
 ---
 about:
-- early-human-symbolism
+- simbolismo-humano-temprano
 author: Andrew Cutler
 core_entity: Venus figurine
 date: 2025-06-23
-description: New counts show that roughly four out of five Ice-Age human images are
-  female, overturning ideas that "Venus" figurines were an isolated fertility cult.
+description: Nuevos conteos muestran que aproximadamente cuatro de cada cinco imágenes
+  humanas del período glacial son femeninas, desafiando la idea de que las figurillas
+  "Venus" eran un culto de fertilidad aislado.
 draft: false
 keywords:
-- upper-paleolithic
-- venus-figurines
-- parietal-art
-- gender-archaeology
-- prehistoric-art
-
-lastmod: '2025-07-04'
+- paleolítico-superior
+- figurillas-venus
+- arte-parietal
+- arqueología-de-género
+- arte-prehistórico
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: upper-paleolithic-gender-imbalance
 tags:
-- Paleolithic-Art
+- arte-paleolítico
 title: Desigualdad de Género en las Representaciones Humanas del Paleolítico Superior
 translation_model: gpt-4o
 ---

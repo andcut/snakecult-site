@@ -1,37 +1,37 @@
 ---
 about:
-- Orphic Mysteries
-- Greek Philosophy
-- Comparative Mythology
+- Misterios Órficos
+- Filosofía Griega
+- Mitología Comparada
 author: Andrew Cutler
 date: 2025-04-19
-description: A detailed exploration of the complementary roles of Cosmic Herakles
-  (Chronos) and Dionysus Zagreus in Orphic theogony, myth, ritual praxis, and Neoplatonic
-  interpretation.
+description: Una exploración detallada de los roles complementarios de Herakles Cósmico
+  (Chronos) y Dionysus Zagreus en la teogonía órfica, mito, praxis ritual y la interpretación
+  neoplatónica.
 draft: false
 keywords:
-- Herakles
-- Dionysus
-- Zagreus
-- Chronos
-- Orphism
-- Orphic Theogony
-- Mystery Religion
-- Cosmology
-- Soteriology
-- Neoplatonism
-- Serpent Symbolism
-- Metempsychosis
-
-lastmod: '2025-07-04'
+- herakles
+- dionysus
+- zagreus
+- chronos
+- orfismo
+- teogonía-órfica
+- religión-de-misterios
+- cosmología
+- soteriología
+- neoplatonismo
+- simbolismo-del-serpiente
+- metempsicosis
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: cosmic-herakles-dionysus-deepdive
 tags:
-- Deep-Research
-- Philosophy
-- Religion
-title: 'Cosmic Herakles y Dionysus Zagreus: Cosmología y Misterios Órficos'
+- investigación-profunda
+- filosofía
+- religión
+title: 'Herakles Cósmico y Dionysus Zagreus: Cosmología y Misterios Órficos'
 translation_model: gpt-4o
 ---
 

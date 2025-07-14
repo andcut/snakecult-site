@@ -1,30 +1,31 @@
 ---
 about:
-- cognitive evolution
-- epigenetics
-- sex chromosomes
+- evolución cognitiva
+- epigenética
+- cromosomas sexuales
 author: Andrew Cutler
-core_entity: X chromosome
+core_entity: cromosoma X
 date: 2025-04-27
-description: How X-linked gene dosage, inactivation escape, and imprinting sculpt
-  human brain development, intelligence, and social behavior.
+description: Cómo la dosis génica ligada al cromosoma X, el escape de la inactivación
+  y la impronta moldean el desarrollo del cerebro humano, la inteligencia y el comportamiento
+  social.
 draft: false
 keywords:
-- X chromosome
-- cognition
-- neurodevelopment
-- sex differences
-- genomic imprinting
-
-lastmod: '2025-07-04'
+- cromosoma-x
+- cognición
+- neurodesarrollo
+- diferencias-sexuales
+- impronta-genómica
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: x-chromosome-cognition
 tags:
-- cognition
-- Genetics
-- Neuroscience
-- Evolution
+- cognición
+- genética
+- neurociencia
+- evolución
 title: Cromosoma X y Cognición de Orden Superior
 translation_model: gpt-4o
 ---

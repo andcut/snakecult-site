@@ -1,26 +1,24 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Using Google’s NotebookLM has been a game-changer for searching through
-  mid-sized text databases. In my recent research on creation myths similar to Genesis,
-  I uploaded the thirteen-part anthology The...
+description: 使用 Google 的 NotebookLM 在搜索中型文本数据库方面已成为改变游戏规则的工具。在我最近关于类似《创世记》的创世神话研究中，我上传了十三部分的选集《The...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵向量
 - notebooklm
-- consciousness
-
-lastmod: 2025-07-07
+- 意识
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '150429567'
 original_url: https://www.vectorsofmind.com/p/notebooklm-on-the-eve-theory-of-consciousness
 quality: 6
 slug: notebooklm-on-the-eve-theory-of-consciousness
 tags: []
-title: 'Notebooklm 在意识理论前夕'
+title: Notebooklm 在意识理论前夕
 translation_model: gpt-4o
 ---
 

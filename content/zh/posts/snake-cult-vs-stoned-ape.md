@@ -1,31 +1,29 @@
 ---
 about:
-- neuroscience
-- anthropology
-- mythology
+- 神经科学
+- 人类学
+- 神话学
 author: Andrew Cutler
 date: 2025-04-20
-description: 'An exploration of two theories on the origins of human consciousness:
-  the Snake Cult/Eve Theory (snake venom) versus the Stoned Ape Theory (psilocybin
-  mushrooms).'
+description: 探讨关于人类意识起源的两种理论：蛇崇拜/夏娃理论（蛇毒）与醉猿理论（裸盖菇）。
 draft: false
 keywords:
-- consciousness
-- evolution
-- paleolithic
-- snake venom
-- psilocybin
-- stoned ape theory
-- eve theory
-
-lastmod: 2025-07-07
+- 意识
+- 进化
+- 旧石器时代
+- 蛇毒
+- 裸盖菇
+- 醉猿理论
+- 夏娃理论
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- human-origins
-- Psychedelics
-- consciousness
+- 人类起源
+- 迷幻药
+- 意识
 title: 蛇崇拜意识与麦肯纳的醉猿理论
 translation_model: gpt-4o
 ---

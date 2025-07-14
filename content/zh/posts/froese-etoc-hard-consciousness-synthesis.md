@@ -1,40 +1,38 @@
 ---
 about:
-- Ritualised Mind Hypothesis
-- Eve Theory of Consciousness
-- consciousness science
-- cognitive evolution
+- 仪式化心智假说
+- 夏娃意识理论
+- 意识科学
+- 认知进化
 - Froese
 - Cutler
-- consciousness evolution
-- ritual
-- recursion
+- 意识进化
+- 仪式
+- 递归
 author: Andrew Cutler
 date: 2025-04-19
-description: Integrating Thomas Froese's insights on intersubjectivity and enactivism
-  with the Eve Theory of Consciousness to provide a novel perspective on the Hard
-  Problem of consciousness and the evolution of subjective experience.
+description: 将托马斯·弗罗泽关于主体间性和行动主义的见解与夏娃意识理论相结合，为意识的难题和主观体验的进化提供一种新的视角。
 draft: false
 keywords:
-- Ritualised Mind Hypothesis
-- Eve Theory of Consciousness
-- symbolic cognition
-- consciousness science
-- gene-culture coevolution
-- altered states of consciousness
-- ritual
-- recursion
-- symbolic thought
-
-lastmod: 2025-07-07
+- 仪式化心智假说
+- 夏娃意识理论
+- 符号认知
+- 意识科学
+- 基因-文化共同进化
+- 改变的意识状态
+- 仪式
+- 递归
+- 符号思维
+lang: zh
+lastmod: '2025-07-13'
 license: CC-BY-SA 4.0
 quality: 5
 slug: froese-etoc-hard-consciousness-synthesis
 tags:
-- Sapient Paradox
-- consciousness
-- recursion
-- ritual
+- 智慧悖论
+- 意识
+- 递归
+- 仪式
 title: 从仪式到递归：将弗罗泽的仪式化心智假说与夏娃意识理论相结合
 translation_model: gpt-4o
 ---

@@ -1,38 +1,38 @@
 ---
 about:
-- consciousness
-- mythology
-- philosophy
-- religion
+- conciencia
+- mitología
+- filosofía
+- religión
 author: Andrew Cutler
-core_entity: Serpent
+core_entity: Serpiente
 date: 2025-04-20 10:00:00+00:00
-description: From Eden through John's *Logos* and Gnostic counter-myths to global
-  'hanged-god' rites, this essay reconstructs how reflexive consciousness emerged,
-  iterated, and finally theorised itself.
+description: Desde el Edén a través del *Logos* de Juan y los contra-mitos gnósticos
+  hasta los ritos globales del 'dios colgado', este ensayo reconstruye cómo la conciencia
+  reflexiva emergió, se iteró y finalmente se teorizó a sí misma.
 draft: true
 keywords:
-- consciousness
-- genesis
+- conciencia
+- génesis
 - logos
-- gnosticism
-- axial age
-- cultural evolution
-- self-awareness
-- serpent
-
-lastmod: '2025-07-04'
+- gnosticismo
+- era-axial
+- evolución-cultural
+- autoconciencia
+- serpiente
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: ontological-continuity-adam-to-christ-2
 tags:
-- consciousness
-- Evolution
-- mythology
-- Philosophy
-- Religion
-- psychology
-title: Eve, la Serpiente y el Logos — De Göbekli Tepe a Juan 1
+- conciencia
+- evolución
+- mitología
+- filosofía
+- religión
+- psicología
+title: Eva, la Serpiente y el Logos — De Göbekli Tepe a Juan 1
 translation_model: gpt-4o
 ---
 

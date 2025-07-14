@@ -1,31 +1,31 @@
 ---
 about:
-- neuroscience
-- anthropology
-- mythology
+- neurociencia
+- antropología
+- mitología
 author: Andrew Cutler
 date: 2025-04-20
-description: 'An exploration of two theories on the origins of human consciousness:
-  the Snake Cult/Eve Theory (snake venom) versus the Stoned Ape Theory (psilocybin
-  mushrooms).'
+description: 'Una exploración de dos teorías sobre los orígenes de la conciencia humana:
+  la Teoría del Culto a la Serpiente/Eva (veneno de serpiente) versus la Teoría del
+  Mono Colocado (hongos psilocibios).'
 draft: false
 keywords:
-- consciousness
-- evolution
-- paleolithic
-- snake venom
-- psilocybin
-- stoned ape theory
-- eve theory
-
-lastmod: '2025-07-04'
+- conciencia
+- evolución
+- paleolítico
+- veneno-de-serpiente
+- psilocibina
+- teoría-del-mono-colocado
+- teoría-de-eva
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- human-origins
-- Psychedelics
-- consciousness
+- orígenes-humanos
+- psicodélicos
+- conciencia
 title: El Culto de la Serpiente de la Conciencia vs. la Teoría del Mono Colocado de
   McKenna
 translation_model: gpt-4o

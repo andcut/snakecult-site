@@ -1,25 +1,23 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: The Eve Theory of Consciousness proposes that self-awareness was discovered
-  by women and spread memetically. To make this case I draw on linguistics, archeology,
-  pharmacology, genetics, anthropology, ...
+description: 夏娃意识理论提出，自我意识是由女性发现并通过模因传播的。为此，我借鉴了语言学、考古学、药理学、遗传学、人类学等领域的研究。
 draft: false
 keywords:
-- vectors-of-mind
-- basis
-
-lastmod: 2025-07-07
+- 心灵向量
+- 基础
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '121454386'
 original_url: https://www.vectorsofmind.com/p/the-ai-basis-of-the-eve-theory-of
 quality: 6
 slug: the-ai-basis-of-the-eve-theory-of
 tags: []
-title: 'The AI Basis Of The Eve Theory Of'
+title: 人工智能基础与夏娃意识理论
 translation_model: gpt-4o
 ---
 

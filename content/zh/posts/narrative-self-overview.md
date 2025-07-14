@@ -1,34 +1,33 @@
 ---
 about:
-- Philosophy of Mind
-- Cognitive Science
-- Psychology
+- 心灵哲学
+- 认知科学
+- 心理学
 author: Andrew Cutler
-core_entity: Narrator
+core_entity: 叙述者
 date: 2025-03-27
-description: A comprehensive review exploring the concept of the 'narrative self'
-  across philosophy, psychology, neuroscience, and literary theory.
+description: 一项全面的综述，探讨了在哲学、心理学、神经科学和文学理论中“叙事自我”的概念。
 draft: false
 keywords:
-- narrative self
-- personal identity
-- philosophy of mind
-- psychology
-- neuroscience
-- cognitive science
-- self-concept
-
-lastmod: 2025-07-07
+- 叙事自我
+- 个人身份
+- 心灵哲学
+- 心理学
+- 神经科学
+- 认知科学
+- 自我概念
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- consciousness
-- Identity
-- Memory
-- Narrative
-- psychology
-title: 'The Narrative Self: A Multidisciplinary Literature Review'
+- 意识
+- 身份
+- 记忆
+- 叙事
+- 心理学
+title: 叙事自我：多学科文献综述
 translation_model: gpt-4o
 ---
 

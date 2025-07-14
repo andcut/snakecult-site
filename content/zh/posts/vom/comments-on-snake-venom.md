@@ -1,27 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'Most of the feedback I got on the Snake Cult of Consciousness was on
-  the pharmacology of venom. The first was from someone who ostensibly works with
-  snake venom:'
+description: 我在《意识的蛇崇拜》上收到的大多数反馈都与毒液的药理学有关。第一个反馈来自一个表面上与蛇毒打交道的人：
 draft: false
 keywords:
-- vectors-of-mind
-- comments
-- snake
-- venom
-
-lastmod: 2025-07-07
+- 心灵向量
+- 评论
+- 蛇
+- 毒液
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '97498400'
 original_url: https://www.vectorsofmind.com/p/comments-on-snake-venom
 quality: 6
 slug: comments-on-snake-venom
 tags: []
-title: '关于蛇毒的评论'
+title: 关于蛇毒的评论
 translation_model: gpt-4o
 ---
 

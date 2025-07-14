@@ -1,29 +1,28 @@
 ---
 about:
-- mental-health
-- demography
+- 心理健康
+- 人口统计
 author: Andrew Cutler
-core_entity: schizophrenia
+core_entity: 精神分裂症
 date: 2025-06-28
-description: The best-available numbers on how schizophrenia strikes men vs women
-  and different ethnic groups, with full tables and primary citations.
+description: 关于精神分裂症在男性与女性以及不同族群中发病的最佳数据，附完整表格和主要引文。
 draft: false
 keywords:
-- schizophrenia
-- incidence
-- prevalence
-- sex-differences
-- race-differences
-- epidemiology
-
-lastmod: 2025-07-07
+- 精神分裂症
+- 发病率
+- 患病率
+- 性别差异
+- 种族差异
+- 流行病学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: schizophrenia-sex-race-epidemiology
 tags:
-- Schizophrenia
-- Epidemiology
-- Health-Disparities
+- 精神分裂症
+- 流行病学
+- 健康差异
 title: 全球精神分裂症的流行病学：按性别和种族划分的发病率和患病率
 translation_model: gpt-4o
 ---

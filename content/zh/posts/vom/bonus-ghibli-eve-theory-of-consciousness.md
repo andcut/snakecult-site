@@ -1,27 +1,25 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: I am in awe at how dense myths can be. The Fall of Adam and Eve occupies
-  just a few pages in Genesis, and yet it richly captures what it would be like to
-  wake up to one’s role as an agent—the Knowledg...
+description: 我对神话的深奥感到敬畏。亚当和夏娃的堕落在《创世纪》中只占了几页，但它丰富地捕捉了一个人醒悟到自己作为代理人的角色时的情景——知识...
 draft: false
 keywords:
-- vectors-of-mind
-- bonus
+- 心灵向量
+- 额外
 - ghibli
-- consciousness
-
-lastmod: 2025-07-07
+- 意识
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '160128913'
 original_url: https://www.vectorsofmind.com/p/bonus-ghibli-eve-theory-of-consciousness
 quality: 6
 slug: bonus-ghibli-eve-theory-of-consciousness
 tags: []
-title: 'Bonus Ghibli Eve 意识理论'
+title: 额外 Ghibli 夏娃 意识理论
 translation_model: gpt-4o
 ---
 

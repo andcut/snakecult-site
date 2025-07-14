@@ -1,31 +1,30 @@
 ---
 about:
-- ancient-religion
-- mystery-cults
-- sacred-sound
+- 古代宗教
+- 秘密崇拜
+- 神圣之声
 author: Andrew Cutler
 core_entity: Cybele
 date: 2025-06-23
-description: How the Mother of the Gods, her roaring rhombos, and a dying youth became
-  the soundtrack and syllabus of Greek, Phrygian, and Roman civilization.
+description: 众神之母、她咆哮的隆巴斯和一个垂死的青年如何成为希腊、弗里吉亚和罗马文明的配乐和课程。
 draft: false
 keywords:
-- Cybele
-- bullroarer
-- rhombos
-- mystery-cult
-- cosmogony
-- Dionysus
-- Demeter
-
-lastmod: 2025-07-07
+- cybele
+- 牛吼器
+- 隆巴斯
+- 秘密崇拜
+- 宇宙起源论
+- dionysus
+- demeter
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cybele-bullroarer-mystery
 tags:
-- Sacred-Objects
-- Mystery-Cults
-- Ancient-Religion
+- 神圣物品
+- 秘密崇拜
+- 古代宗教
 title: Cybele — 瑞亚的旋转之声与文明生活的诞生
 translation_model: gpt-4o
 ---

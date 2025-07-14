@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Kathleen Lowrey is a professor of anthropology at the University of Alberta,
-  where she researches gender and shamanism. We came into contact here while discussing
-  the primordial matriarchy on the Note...
+description: Kathleen Lowrey 是阿尔伯塔大学的人类学教授，她研究性别和萨满教。我们在这里讨论原始母系社会时取得了联系...
 draft: false
 keywords:
-- vectors-of-mind
+- 心灵的向量
 - kathleen
 - lowrey
-
-lastmod: 2025-07-07
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '140952174'
 original_url: https://www.vectorsofmind.com/p/kathleen-lowrey-5

@@ -1,25 +1,26 @@
 ---
 about:
-- early-christian-heresy
+- herejía cristiana primitiva
 author: Andrew Cutler
-core_entity: Edenic Serpent
+core_entity: Serpiente Edénica
 date: 2025-05-05
-description: An expanded survey of every known Christian-Gnostic current that equated
-  Jesus with the Edenic serpent, complete with extended primary-source excerpts.
+description: Un estudio ampliado de todas las corrientes cristiano-gnósticas conocidas
+  que equiparaban a Jesús con la serpiente edénica, completo con extensos extractos
+  de fuentes primarias.
 draft: false
 keywords:
-- Christ-serpent
-- Gnosticism
-- Naassenes
-- Manichaeans
-- Eden
-
-lastmod: '2025-07-04'
+- cristo-serpiente
+- gnosticismo
+- nasenos
+- maniqueos
+- edén
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: christ-serpent-traditions-expanded
 tags:
-- Gnosticism
+- gnosticismo
 title: 'Cristo como la Serpiente: Tradiciones Gnósticas y Dualistas'
 translation_model: gpt-4o
 ---

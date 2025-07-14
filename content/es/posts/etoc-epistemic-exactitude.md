@@ -1,30 +1,30 @@
 ---
 about:
-- consciousness origins
-- evolutionary anthropology
-- cognitive archaeology
+- orígenes de la conciencia
+- antropología evolutiva
+- arqueología cognitiva
 author: Andrew Cutler
 core_entity: Venus figurine
 date: 2025-04-27
-description: How a late Upper-Pleistocene spark of self awareness spread memetically,
-  rewired our genome, and solved the Sapient Paradox.
+description: Cómo una chispa de autoconciencia del Pleistoceno Superior tardío se
+  propagó meméticamente, reconfiguró nuestro genoma y resolvió la Paradoja Sapiente.
 draft: false
 keywords:
-- Eve Theory of Consciousness
-- recursive self awareness
-- gene culture coevolution
-- Sapient Paradox
-- bicameral mind
-- behavioral modernity
-
-lastmod: '2025-07-04'
+- teoría-de-eva-de-la-conciencia
+- autoconciencia-recursiva
+- coevolución-gen-cultura
+- paradoja-sapiente
+- mente-bicameral
+- modernidad-conductual
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by sa/4.0/
 quality: 7
 slug: etoc epistemic-exactitude
 tags:
-- EToC
-- Deep History
-- human evolution
+- etoc
+- historia-profunda
+- evolución-humana
 title: 'Despertando a Eva: Cómo el Autoconocimiento Reconfiguró la Mente Humana'
 translation_model: gpt-4o
 ---

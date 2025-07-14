@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Dear readers, this is a check-in to get a sense of what you’d like to
-  see more of, as well as an update about my plans for this blog. So please comment
-  to let me know what you find compelling and woul...
+description: 亲爱的读者们，这是一次签到，以了解您希望看到更多的内容，以及关于我对这个博客计划的更新。所以请评论让我知道您觉得有吸引力的内容和希望看到的内容……
 draft: false
 keywords:
-- vectors-of-mind
-- june
-- subscriber
-- post
-
-lastmod: 2025-07-07
+- 心灵向量
+- 六月
+- 订阅者
+- 文章
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '126641813'
 original_url: https://www.vectorsofmind.com/p/june-subscriber-post

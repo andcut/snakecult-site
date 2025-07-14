@@ -1,27 +1,27 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- mind-vectors
+- blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: 'Lo anterior es lo que “Culto de la Serpiente de la Conciencia” produce
-  cuando se ejecuta a través de un generador de memes de IA. No está del todo mal.
-  Pero, por desgracia, me han ganado:'
+description: 'The above is what “Culto de la Serpiente de la Conciencia” produces
+  when run through an AI meme generator. Not too bad. But, unfortunately, I have been
+  outdone:'
 draft: false
 keywords:
-- vectores-de-la-mente
-- agosto
-- suscriptor
-- publicación
+- mind-vectors
+- august
+- subscriber
+- post
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682173'
 original_url: https://www.vectorsofmind.com/p/august-subscriber-post-b87
 quality: 6
 slug: august-subscriber-post-b87
 tags: []
-title: Agosto Publicación para Suscriptores B87
+title: August Post for Subscribers B87
 translation_model: gpt-4o
 ---
 

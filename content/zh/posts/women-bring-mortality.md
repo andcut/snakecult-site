@@ -1,27 +1,26 @@
 ---
 about:
-- mythology
-- anthropology
+- 神话学
+- 人类学
 author: Andrew Cutler
 core_entity: Pandora/Eve
 date: 2025-05-11
-description: A source-checked world survey of tales in which a woman's act unleashes
-  mortality. Includes a brief note on the (thin) quantitative literature.
+description: 一项经过资料核实的世界调查，讲述女性行为引发死亡的故事。包括对（稀少的）定量文献的简要说明。
 draft: false
 keywords:
-- origin-of-death
-- Pandora
-- Eve
-- Izanami
-- Tiwi
-- comparative-mythology
-
-lastmod: 2025-07-07
+- 死亡起源
+- pandora
+- eve
+- izanami
+- tiwi
+- 比较神话学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: women-bring-death-motif
 tags:
-- folklore
+- 民间传说
 title: 她带来死亡：世界神话中的女性死亡使者
 translation_model: gpt-4o
 ---

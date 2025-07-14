@@ -1,24 +1,23 @@
 ---
 about:
-- genetics
-- selection
+- 遗传学
+- 选择
 author: Andrew Cutler
-core_entity: Human intelligence
+core_entity: 人类智力
 date: 2025-06-30
-description: Ancient DNA and quantitative-genetic models reveal ongoing selection
-  on human cognitive traits throughout the Holocene.
+description: 古代DNA和数量遗传模型揭示了全新世期间人类认知特征的持续选择。
 draft: false
 keywords:
-- human-evolution
-- intelligence
-- ancient-dna
-
-lastmod: 2025-07-07
+- 人类进化
+- 智力
+- 古代dna
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: breeders-equation-deep-dive
 tags:
-- intelligence
+- 智力
 title: 全新世对人类智力的选择：一个50,000年的现实检验
 translation_model: gpt-4o
 ---

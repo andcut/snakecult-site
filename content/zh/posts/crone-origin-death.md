@@ -1,28 +1,27 @@
 ---
 about:
-- mythology
-- anthropology
+- 神话
+- 人类学
 author: Andrew Cutler
-core_entity: Old Woman
+core_entity: 老妇人
 date: 2025-05-11
-description: A source-heavy world survey of tales where a crone decides that humans
-  must die.
+description: 一个以资料为主的世界调查，讲述一个老妇人决定人类必须死亡的故事。
 draft: false
 keywords:
-- origin-of-death
-- comparative-mythology
-- Inuit
-- Blackfoot
-- African-myths
-- folklore-phylogenetics
-
-lastmod: 2025-07-07
+- 死亡的起源
+- 比较神话学
+- inuit
+- blackfoot
+- 非洲神话
+- 民间传说系统发生学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: old-woman-death-motif
 tags:
-- folklore
-title: '老妇人 ≘ 死亡主题在世界神话中的体现'
+- 民间传说
+title: 老妇人 ≘ 死亡主题在世界神话中的体现
 translation_model: gpt-4o
 ---
 

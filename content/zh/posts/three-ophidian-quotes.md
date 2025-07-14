@@ -1,25 +1,24 @@
 ---
 about:
-- early-christian-heresy
+- 早期基督教异端
 author: Andrew Cutler
 core_entity: Serpent-Pharmakon
 date: 2025-05-05
-description: Close reading of Manichaean, Ophite and Naassene passages that speak
-  of Christ-as-Serpent in pharmacological terms.
+description: 精读摩尼教、蛇信派和纳西尼派的段落，这些段落以药理学术语描述基督如蛇。
 draft: false
 keywords:
-- serpent-venom
+- 蛇毒
 - pharmakon
-- gnosticism
-- ophites
-- manichaeans
-
-lastmod: 2025-07-07
+- 诺斯替教
+- 蛇信派
+- 摩尼教
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- Gnosticism
+- 诺斯替教
 title: 光毒、圣体毒液与宇宙毒素：解读三种蛇形隐喻
 translation_model: gpt-4o
 ---

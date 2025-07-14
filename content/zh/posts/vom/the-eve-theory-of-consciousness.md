@@ -1,16 +1,16 @@
 ---
 about:
 - vectors-of-mind
-- blog-archive
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'Note: a more recent version of this theory appears here.'
+description: 注意：此理论的更新版本出现在这里。
 draft: false
 keywords:
 - vectors-of-mind
-- consciousness
-
-lastmod: 2025-07-07
+- 意识
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '88064145'
 original_url: https://www.vectorsofmind.com/p/the-eve-theory-of-consciousness

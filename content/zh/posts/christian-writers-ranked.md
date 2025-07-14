@@ -1,26 +1,25 @@
 ---
 about:
-- historical-theology
+- 历史神学
 author: Andrew Cutler
 core_entity: Augustine of Hippo
 date: 2025-06-23
-description: A turbo-charged rundown of the 15 most influential Christian writers
-  ever—complete with shock upsets, savage hot-takes, and receipts.
+description: 对15位最具影响力的基督教作家的快速概述——包括意外的冷门、激烈的评论和证据。
 draft: false
 keywords:
-- christian-writers
-- theology
-- church-history
-- Augustine
-- Aquinas
-- Reformation
-
-lastmod: 2025-07-07
+- 基督教作家
+- 神学
+- 教会历史
+- augustine
+- aquinas
+- 宗教改革
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: best-christian-writers-ranked
 tags:
-- Church-History
+- 教会历史
 title: 基督教作家排名
 translation_model: gpt-4o
 ---

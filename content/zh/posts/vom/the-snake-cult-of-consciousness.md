@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: “If we want to understand the phylogeny of language or any human production,
-  we have to keep in mind the following timeline. What is most important is that an
-  essential divide occurred around 15,000 B...
+description: “如果我们想要理解语言或任何人类产物的系统发育，我们必须牢记以下时间线。最重要的是，大约在15,000年前发生了一个重要的分界点...
 draft: false
 keywords:
-- vectors-of-mind
-- snake
-- cult
-- consciousness
-
-lastmod: 2025-07-07
+- 心灵向量
+- 蛇
+- 崇拜
+- 意识
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '95941288'
 original_url: https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness

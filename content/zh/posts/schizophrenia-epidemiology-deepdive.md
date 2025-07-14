@@ -1,24 +1,23 @@
 ---
 about:
-- mental-health
+- 心理健康
 author: Andrew Cutler
-core_entity: Schizophrenia
+core_entity: 精神分裂症
 date: 2025-06-30
-description: Comprehensive deep dive into the global incidence, prevalence, disparities,
-  and trends of schizophrenia.
+description: 全面深入探讨精神分裂症的全球发病率、患病率、差异和趋势。
 draft: false
 keywords:
-- schizophrenia
-- epidemiology
-- public-health
-- global
-
-lastmod: 2025-07-07
+- 精神分裂症
+- 流行病学
+- 公共卫生
+- 全球
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: schizophrenia-epidemiology-deepdive
 tags:
-- schizophrenia
+- 精神分裂症
 title: '# 全球精神分裂症流行病学（2025年更新）'
 translation_model: gpt-4o
 ---

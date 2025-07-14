@@ -1,21 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Mungo Manic is a pseudo-anonymous researcher and commentator on X who
-  fell down the rabbit hole of Australian prehistory. His posts have drawn attention
-  to how identity politics and cultural sensitivi...
+description: Mungo Manic 是一位在 X 上的伪匿名研究员和评论员，他深入研究了澳大利亚史前史。他的帖子引起了人们对身份政治和文化敏感性如何影响历史理解的关注。
 draft: false
 keywords:
-- vectors-of-mind
-- burying
-- past
+- 心灵向量
+- 埋葬
+- 过去
 - mungo
-- manic
-
-lastmod: 2025-07-07
+- 狂热
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '159710251'
 original_url: https://www.vectorsofmind.com/p/burying-the-past-with-mungo-manic

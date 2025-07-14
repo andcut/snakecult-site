@@ -1,27 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵的向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: '"The key to the interpretation of so many still hermetic motifs [...]
-  is available to us, immediately accessible, in myths and tales still alive." Levi-Strauss'
+description: '"许多仍然隐晦的主题的解释钥匙[...]对我们来说是可用的，直接可获得的，在仍然活着的神话和故事中。" 列维-斯特劳斯'
 draft: false
 keywords:
-- vectors-of-mind
-- contra
+- 心灵的向量
+- 反对
 - dhuy
-- snake
-- myths
-
-lastmod: 2025-07-07
+- 蛇
+- 神话
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '135447203'
 original_url: https://www.vectorsofmind.com/p/contra-dhuy-on-snake-myths
 quality: 6
 slug: contra-dhuy-on-snake-myths
 tags: []
-title: '反对Dhuy关于蛇的神话'
+title: 反对Dhuy关于蛇的神话
 translation_model: gpt-4o
 ---
 

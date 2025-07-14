@@ -1,28 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: There’s a tradeoff between writing posts of general interest and those
-  that develop ideas related to Eve and the Snake Cult. The post on cultural diffusion
-  was more of the former and was even tweeted ...
+description: 在撰写具有普遍兴趣的文章和发展与夏娃和蛇崇拜相关的思想的文章之间存在权衡。关于文化扩散的文章更属于前者，甚至被推特上...
 draft: false
 keywords:
-- vectors-of-mind
-- male
-- initiation
-- rituals
-- diffuse
-
-lastmod: 2025-07-07
+- 心灵向量
+- 男性
+- 启蒙
+- 仪式
+- 扩散
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '136623669'
 original_url: https://www.vectorsofmind.com/p/why-did-male-initiation-rituals-diffuse
 quality: 6
 slug: why-did-male-initiation-rituals-diffuse
 tags: []
-title: '为什么男性启蒙仪式会传播'
+title: 为什么男性启蒙仪式会传播
 translation_model: gpt-4o
 ---
 

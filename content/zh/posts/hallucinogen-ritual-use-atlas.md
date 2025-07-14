@@ -1,29 +1,28 @@
 ---
 about:
-- human-origins
-- drug-rituals
+- 人类起源
+- 药物仪式
 author: Andrew Cutler
-core_entity: Ayahuasca vine
+core_entity: Ayahuasca 藤
 date: 2025-05-06
-description: Continent-by-continent survey of archaeological, textual, and biochemical
-  evidence for ancient entheogenic practices.
+description: 对古代致幻实践的考古、文本和生化证据进行大陆普查。
 draft: false
 keywords:
-- entheogens
-- psychedelics
-- archaeology
-- ritual
-- psychoactive-plants
-- consciousness
-
-lastmod: 2025-07-07
+- 致幻剂
+- 迷幻药
+- 考古学
+- 仪式
+- 精神活性植物
+- 意识
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hallucinogenic-atlas
 tags:
-- Entheogens
-- archaeology
-- Psychedelics
+- 致幻剂
+- 考古学
+- 迷幻药
 title: 幻觉地图集：古代致幻剂的大陆普查
 translation_model: gpt-4o
 ---

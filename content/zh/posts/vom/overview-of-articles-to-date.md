@@ -1,20 +1,18 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Vectors of Mind has been around for two years now, and there’s quite
-  a bit of content that builds on itself. Enjoy this 90 minute monologue where I describe
-  each article chronologically, and give some...
+description: 心灵向量已经存在两年了，其中有相当多的内容是自我构建的。享受这90分钟的独白，我会按时间顺序描述每篇文章，并给出一些...
 draft: false
 keywords:
-- vectors-of-mind
-- overview
-- articles
-- date
-
-lastmod: 2025-07-07
+- 心灵向量
+- 概述
+- 文章
+- 日期
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '149857361'
 original_url: https://www.vectorsofmind.com/p/overview-of-articles-to-date

@@ -1,11 +1,12 @@
 ---
 author: Andrew Cutler
 date: 2024-11-22
-description: Discover Andrew Cutler's groundbreaking research on the Eve Theory of
-  Consciousness, the Snake Cult hypothesis, and the origin story behind Snakecult.net.
+description: Descubre la innovadora investigación de Andrew Cutler sobre la Teoría
+  de la Conciencia de Eva, la hipótesis del Culto a la Serpiente y la historia de
+  origen detrás de Snakecult.net.
 draft: false
-
-lastmod: '2025-07-04'
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 slug: about
 title: Acerca de Andrew Cutler

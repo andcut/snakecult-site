@@ -1,30 +1,28 @@
 ---
 about:
-- Anthropology
-- History
-- Archaeology
+- 人类学
+- 历史
+- 考古学
 author: Andrew Cutler
 date: 2025-04-21
-description: Examines the surprising stability of mythic motifs over millennia, suggesting
-  myths like the Cosmic Hunt or Serpent symbolism could encode memories of real cognitive
-  shifts, supporting the Eve Theory's timeframe.
+description: 探讨神话主题在数千年间的惊人稳定性，暗示像宇宙狩猎或蛇的象征这样的神话可能记录了真实的认知转变，支持夏娃理论的时间框架。
 draft: false
 keywords:
-- mythology
-- prehistory
-- oral tradition
-- paleolithic
-- geomythology
-- comparative mythology
-- linguistics
-
-lastmod: 2025-07-07
+- 神话学
+- 史前史
+- 口头传统
+- 旧石器时代
+- 地质神话学
+- 比较神话学
+- 语言学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: longevity-of-myths
 tags:
-- Narrative
-- Prehistory
+- 叙事
+- 史前史
 title: 史前神话起源于8,000多年前
 translation_model: gpt-4o
 ---

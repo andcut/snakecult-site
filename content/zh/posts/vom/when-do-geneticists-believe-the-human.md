@@ -1,28 +1,26 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: Humans are unique among animals for their capacity for symbolic thought
-  and their reliance on complex, grammatical language. About 70,000 years ago, our
-  species began producing art and then took over ...
+description: 人类在动物中因其象征性思维能力和对复杂语法语言的依赖而独特。大约7万年前，我们的物种开始创作艺术，然后接管了...
 draft: false
 keywords:
-- vectors-of-mind
-- when
-- geneticists
-- believe
-- human
-
-lastmod: 2025-07-07
+- 心灵向量
+- 何时
+- 遗传学家
+- 认为
+- 人类
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '148733976'
 original_url: https://www.vectorsofmind.com/p/when-do-geneticists-believe-the-human
 quality: 6
 slug: when-do-geneticists-believe-the-human
 tags: []
-title: '人类基因学家认为何时'
+title: 人类基因学家认为何时
 translation_model: gpt-4o
 ---
 

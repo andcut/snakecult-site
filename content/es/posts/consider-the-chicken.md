@@ -1,28 +1,28 @@
 ---
 about:
-- arqueozoología
+- zooarqueología
 - Navegación polinesia
 - domesticación
 author: Andrew Cutler
-core_entity: chicken bone
+core_entity: hueso de pollo
 date: 2025-05-10
 description: Sopesando la evidencia arqueológica, genética e histórica sobre si los
   pollos llegaron a las Américas antes de Colón.
 draft: false
 keywords:
-- pollos precolombinos
-- Contacto polinesio
-- El Arenal
-- intercambio transpacífico
-- arqueozoología
-
-lastmod: '2025-07-07'
+- pollos-precolombinos
+- contacto-polinesio
+- el-arenal
+- intercambio-transpacífico
+- zooarqueología
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- Contacto Antiguo
-- Arqueología
+- contacto-antiguo
+- arqueología
 title: Considere al Pollo
 translation_model: gpt-4o
 ---

@@ -1,29 +1,29 @@
 ---
 about:
-- archaeology
-- historical linguistics
-- indigenous religions
+- arqueología
+- lingüística histórica
+- religiones indígenas
 author: Andrew Cutler
 core_entity: Clovis point
 date: 2025-04-27
-description: How pronouns, rituals, myths, and fluted spear points reveal a single
-  Ice-Age culture behind all pre-Columbian peoples.
+description: Cómo los pronombres, rituales, mitos y puntas de lanza acanaladas revelan
+  una sola cultura de la Era del Hielo detrás de todos los pueblos precolombinos.
 draft: false
 keywords:
-- Amerind
-- Paleoindian migration
-- Clovis culture
-- Bullroarer rites
-- Comparative mythology
-
-lastmod: '2025-07-04'
+- amerind
+- migración-paleoindia
+- cultura-clovis
+- ritos-del-bullroarer
+- mitología-comparativa
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: deep-roots-pan-american
 tags:
-- Deep History
-- Americas
-- Migration
+- historia-profunda
+- américas
+- migración
 title: Raíces Profundas de la Cultura Panamericana
 translation_model: gpt-4o
 ---

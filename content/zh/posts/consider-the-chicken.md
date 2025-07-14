@@ -1,28 +1,27 @@
 ---
 about:
-- archaeozoology
-- Polynesian voyaging
-- domestication
+- 考古动物学
+- 波利尼西亚航海
+- 驯化
 author: Andrew Cutler
-core_entity: chicken bone
+core_entity: 鸡骨
 date: 2025-05-10
-description: Weighing archaeological, genetic, and historical evidence for whether
-  chickens reached the Americas before Columbus.
+description: 权衡考古、遗传和历史证据，以确定鸡是否在哥伦布之前到达美洲。
 draft: false
 keywords:
-- pre-Columbian chickens
-- Polynesian contact
-- El Arenal
-- trans-Pacific exchange
-- archaeozoology
-
-lastmod: 2025-07-07
+- 前哥伦布时期的鸡
+- 波利尼西亚接触
+- el-arenal
+- 跨太平洋交流
+- 考古动物学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- Ancient Contact
-- Archaeology
+- 古代接触
+- 考古学
 title: 考虑鸡
 translation_model: gpt-4o
 ---

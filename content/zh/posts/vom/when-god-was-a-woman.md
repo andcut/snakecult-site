@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: 'When God Was a Woman presents an ancient world radically different from
-  our own: one where women were the first prophets, serpents granted wisdom rather
-  than sin, and the foundations of civilization—w...'
+description: 《当神是女性》呈现了一个与我们现今截然不同的古代世界：在那里，女性是最初的先知，蛇给予智慧而非罪恶，文明的基础—...
 draft: false
 keywords:
-- vectors-of-mind
-- when
-- woman
-
-lastmod: 2025-07-07
+- 心灵向量
+- 当
+- 女性
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '155441251'
 original_url: https://www.vectorsofmind.com/p/when-god-was-a-woman

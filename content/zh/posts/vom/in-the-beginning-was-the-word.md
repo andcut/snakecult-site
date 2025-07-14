@@ -1,18 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: “In the beginning was the Word, and the Word was with Psychology, and
-  the Word was Psychology” ~New Vector Translation
+description: “太初有道，道与心理学同在，道就是心理学” ~新向量译本
 draft: false
 keywords:
-- vectors-of-mind
-- beginning
-- word
-
-lastmod: 2025-07-07
+- 心灵向量
+- 太初
+- 道
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '51210419'
 original_url: https://www.vectorsofmind.com/p/in-the-beginning-was-the-word

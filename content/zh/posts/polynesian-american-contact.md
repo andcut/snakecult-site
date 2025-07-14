@@ -1,30 +1,29 @@
 ---
 about:
-- cultural-diffusion
-- historiography
+- 文化传播
+- 历史编纂学
 author: Andrew Cutler
 core_entity: Polynesian–American contact
 date: 2025-05-10
-description: Why colonial tales of giants, 20th-c. positivism, and new genome data
-  all matter for the debate over pre-Columbian Polynesian–American contact.
+description: 为什么殖民地巨人传说、20世纪实证主义和新的基因组数据对于前哥伦布时期波利尼西亚与美洲接触的争论都很重要。
 draft: false
 keywords:
-- trans-pacific-contact
-- diffusionism
-- Polynesia
-- South-America
-- genetics
-
-lastmod: 2025-07-07
+- 跨太平洋接触
+- 传播主义
+- polynesia
+- south-america
+- 遗传学
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: men-from-the-sea
 tags:
-- Diffusionism
-- Polynesia
-- South America
-- Genetics
-- Historiography
+- 传播主义
+- polynesia
+- south-america
+- 遗传学
+- 历史编纂学
 title: 《来自海洋的人：神话、怀疑与跨太平洋接触的回归》
 translation_model: gpt-4o
 ---

@@ -1,27 +1,28 @@
 ---
 about:
-- mythology
-- human origins
-- gene–culture coevolution
+- mitología
+- orígenes humanos
+- coevolución gen-cultura
 author: Andrew Cutler
 date: 2025-04-19
-description: From Göbekli Tepe initiation lore to Orphic world-egg cosmology, tracing
-  Herakles' twin careers as Adamic hero and winged time-serpent.
+description: Desde la tradición iniciática de Göbekli Tepe hasta la cosmología del
+  huevo órfico, trazando las carreras gemelas de Herakles como héroe adámico y serpiente
+  alada del tiempo.
 draft: false
 keywords:
-- Herakles
-- Orphic cosmogony
-- Göbekli Tepe
-- serpent worship
-- Adam parallels
-
-lastmod: '2025-07-04'
+- herakles
+- cosmogonía-órfica
+- göbekli-tepe
+- culto-a-la-serpiente
+- paralelismos-adámicos
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cosmic-herakles
 tags:
-- Deep-Research
-- Prehistory
+- investigación-profunda
+- prehistoria
 title: Cósmico Herakles — Serpiente del Tiempo, Héroe del Edén
 translation_model: gpt-4o
 ---

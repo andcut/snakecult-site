@@ -1,27 +1,27 @@
 ---
 about:
-- vectores-de-la-mente
-- archivo-del-blog
+- mind-vectors
+- blog-archive
 author: Andrew Cutler
 date: '2025-07-04'
-description: Bien, tomemos un pequeño respiro de las cosas de la sapiencia. De hecho,
-  tenía un montón de psicometría preparada antes de ser atraído por el llamado clarion
-  de la conciencia. Es tan difícil mirar hacia otro lado...
+description: Well, let's take a little breather from the matters of sapience. In fact,
+  I had a bunch of psychometry prepared before being drawn by the clarion call of
+  consciousness. It's so hard to look away...
 draft: false
 keywords:
-- vectores-de-la-mente
-- personalidad
-- alrededor
-- mundo
+- mind-vectors
+- personality
+- around
+- world
 lang: es
-lastmod: '2025-07-09'
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '108601152'
 original_url: https://www.vectorsofmind.com/p/personality-around-the-world
 quality: 6
 slug: personality-around-the-world
 tags: []
-title: '# Personalidad Alrededor del Mundo'
+title: '# Personality Around the World'
 translation_model: gpt-4o
 ---
 

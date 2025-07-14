@@ -1,19 +1,19 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- vectores-de-la-mente
+- archivo-del-blog
 author: Andrew Cutler
 date: '2025-07-04'
-description: One of the topics with the worst signal-to-noise ratio is the prospect
-  of AI doom. It requires reasoning under uncertainty about intelligence, linear algebra,
-  politics, consciousness, and morality—mos...
+description: Uno de los temas con la peor relación señal-ruido es la perspectiva del
+  juicio final de la IA. Requiere razonar bajo incertidumbre sobre inteligencia, álgebra
+  lineal, política, conciencia y moralidad—mos...
 draft: false
 keywords:
-- vectors-of-mind
-- doomsday
+- vectores-de-la-mente
+- día-del-juicio
 - debate
-
-lastmod: '2025-07-05'
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682175'
 original_url: https://www.vectorsofmind.com/p/the-doomsday-debate

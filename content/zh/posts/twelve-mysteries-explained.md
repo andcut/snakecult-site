@@ -1,30 +1,29 @@
 ---
 about:
-- cognitive-evolution
-- comparative-mythology
-- gene-culture-coevolution
+- 认知进化
+- 比较神话学
+- 基因-文化共进化
 author: Andrew Cutler
 core_entity: Eve Theory
 date: 2025-04-27
-description: Systematic audit of 12 evolutionary, archaeological and mythic puzzles
-  and how the Eve Theory of Consciousness purports to solve them.
+description: 系统审计12个进化、考古和神话谜团，以及意识的伊芙理论如何解决这些谜团。
 draft: false
 keywords:
-- human-consciousness
-- Eve-Theory
-- behavioral-modernity
-- recursion
-- snake-cult
-
-lastmod: 2025-07-07
+- 人类意识
+- eve-theory
+- 行为现代性
+- 递归
+- 蛇崇拜
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: twelve-mysteries
 tags:
-- consciousness
-- mythology
-- human-origins
-- Evolution
+- 意识
+- 神话学
+- 人类起源
+- 进化
 title: '# 通过意识的伊芙理论解决的12个谜团'
 translation_model: gpt-4o
 ---

@@ -1,28 +1,27 @@
 ---
 about:
-- mythology
-- philology
+- 神话学
+- 语文学
 author: Andrew Cutler
 core_entity: Enūma Eliš
 date: 2025-06-23
-description: A philological and comparative deep dive into the famous opening of the
-  Babylonian *Enūma Eliš* and its theology of naming.
+description: 对巴比伦《Enūma Eliš》著名开篇及其命名神学的语文学和比较研究。
 draft: false
 keywords:
-- Enuma Elish
-- Akkadian cosmology
-- Naming
-- Mesopotamian myth
-- Comparative religion
-
-lastmod: 2025-07-07
+- enuma-elish
+- 阿卡德宇宙论
+- 命名
+- 美索不达米亚神话
+- 比较宗教
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: no-name-heaven-enuma-elish
 tags:
-- Mesopotamia
-- Creation-myths
-- Linguistic-magic
+- 美索不达米亚
+- 创世神话
+- 语言魔法
 title: 当天堂没有名字时
 translation_model: gpt-4o
 ---

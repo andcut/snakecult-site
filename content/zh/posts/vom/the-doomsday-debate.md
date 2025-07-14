@@ -1,19 +1,17 @@
 ---
 about:
-- vectors-of-mind
-- blog-archive
+- 心灵向量
+- 博客存档
 author: Andrew Cutler
 date: 2025-07-04
-description: One of the topics with the worst signal-to-noise ratio is the prospect
-  of AI doom. It requires reasoning under uncertainty about intelligence, linear algebra,
-  politics, consciousness, and morality—mos...
+description: 关于人工智能末日的前景是信噪比最差的话题之一。它需要在不确定性下对智力、线性代数、政治、意识和道德进行推理...
 draft: false
 keywords:
-- vectors-of-mind
-- doomsday
-- debate
-
-lastmod: 2025-07-07
+- 心灵向量
+- 世界末日
+- 辩论
+lang: zh
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 original_id: '145682175'
 original_url: https://www.vectorsofmind.com/p/the-doomsday-debate

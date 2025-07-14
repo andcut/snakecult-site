@@ -1,32 +1,32 @@
 ---
 about:
-- archaeology
-- symbolism
-- cultural history
+- arqueología
+- simbolismo
+- historia cultural
 author: Andrew Cutler
 core_entity: Swastika
 date: 2025-04-22
-description: Survey of the swastika's ancient global presence and theories (diffusion
-  vs. independent invention) explaining its origins and spread.
+description: Estudio de la presencia global antigua de la esvástica y teorías (difusión
+  vs. invención independiente) que explican sus orígenes y expansión.
 draft: false
 keywords:
-- swastika
-- archaeology
-- symbol
-- diffusion
-- independent invention
-- prehistory
-- ancient symbol
-
-lastmod: '2025-07-04'
+- esvástica
+- arqueología
+- símbolo
+- difusión
+- invención-independiente
+- prehistoria
+- símbolo-antiguo
+lang: es
+lastmod: '2025-07-13'
 license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: swastika-diffusion
 tags:
-- Swastika
-- Ancient History
-- archaeology
-- Symbolism
+- swastika
+- historia-antigua
+- arqueología
+- simbolismo
 title: Apariciones Arqueológicas Globales y Explicaciones Teóricas de la Esvástica
 translation_model: gpt-4o
 ---
