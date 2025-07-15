@@ -37,13 +37,13 @@ dev:
 	HUGO_SKIP_SASS=true \
 	hugo server -D \
 	  --environment dev \
-	  --disableKinds taxonomy,taxonomyTerm,RSS,sitemap
+	  --disableKinds taxonomy,RSS,sitemap
 
 dev-full:
 	HUGO_NUMWORKERMULTIPLIER=2 \
 	HUGO_SKIP_SASS=true \
 	hugo server -D \
-	  --disableKinds taxonomy,taxonomyTerm,RSS,sitemap
+	  --disableKinds taxonomy,RSS,sitemap
 
 # Example: translate a small file for testing
 translate-test:
