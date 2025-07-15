@@ -19,7 +19,7 @@ tags:
  - Daoism
  - Entheogens
 core_entity: "Snake venom"
-quality: 8
+quality: 7
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false
@@ -115,10 +115,6 @@ For scholars of consciousness, the key takeaway is methodological: **myth encode
 
 ## Footnotes  
 
-[^oai1]: [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1752928X22000968)
-[^oai2]: [Wikipedia](https://en.wikipedia.org/wiki/Chinese_alchemical_elixir_poisoning)
-[^oai3]: [Britannica](https://www.britannica.com/topic/Ouroboros)
-[^oai4]: [Aaroncheak](https://www.aaroncheak.com/circumambulating)
 [^1]: *Epic of Gilgamesh*, tablet XI; serpent steals the plant of life.  
 [^2]: Ouroboros papyrus, later cited in Zosimos of Panopolis’ *On the Letter Omega*.  
 [^3]: Pregadio, *Great Clarity*, ch. 4.  
@@ -137,10 +133,10 @@ For scholars of consciousness, the key takeaway is methodological: **myth encode
 3. Pregadio, Fabrizio. *Great Clarity: Daoism and Alchemy in Early Medieval China*. Stanford University Press, 2006. 
 4. Lewis, D. G. "Snake Venom as a Psychoactive Substance: A Review." *Journal of Ethnopharmacology* 254 (2020): 112765. https://doi.org/10.1016/j.jep.2020.112765 
 5. Senthilkumaran, S., et al. "Snake Venom Addiction: Case Report." *Indian Journal of Psychological Medicine* 43, no. 2 (2021): 181-183. https://doi.org/10.1177/0253717620973886 
-6. "Snake venom – An unconventional recreational substance for consciousness alteration." *Toxicology Reports* 9 (2022): 133-145. [^oai1] 
+6. "Snake venom – An unconventional recreational substance for consciousness alteration." *Toxicology Reports* 9 (2022): 133-145. [oai_citation:0‡ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1752928X22000968) 
 7. Wei, Z. "Chinese Alchemical Elixir Poisoning: Historical Cases and Medical Ethics." *Asian Medicine* 19 (2024): 201-223. 
-8. "Chinese alchemical elixir poisoning." Wikipedia. [^oai2] 
-9. "Ouroboros." *Encyclopaedia Britannica*. [^oai3] 
+8. "Chinese alchemical elixir poisoning." Wikipedia. [oai_citation:1‡Wikipedia](https://en.wikipedia.org/wiki/Chinese_alchemical_elixir_poisoning) 
+9. "Ouroboros." *Encyclopaedia Britannica*. [oai_citation:2‡Encyclopedia Britannica](https://www.britannica.com/topic/Ouroboros) 
 10. Cutler, Andrew. "The Snake Cult of Consciousness." *Vectors of Mind*, 2022. https://www.vectorsofmind.com/p/the-snake-cult-of-consciousness 
-11. Cheak, Aaron. "Circumambulating the Alchemical Mysterium." 2023. [^oai4] 
+11. Cheak, Aaron. "Circumambulating the Alchemical Mysterium." 2023. [oai_citation:3‡Aaron Cheak](https://www.aaroncheak.com/circumambulating) 
 12. White, Peter. "Controlled Envenomation in Indigenous Rituals." *Journal of Anthropological Research* 80 (2024): 333-360. 

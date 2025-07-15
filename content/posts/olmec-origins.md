@@ -23,7 +23,7 @@ core_entity: "Olmec Civilization"
 quality: 6
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
-draft: true
+draft: false
 ---
 
 **TL;DR**
