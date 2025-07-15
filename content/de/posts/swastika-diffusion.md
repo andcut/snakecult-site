@@ -39,7 +39,6 @@ translation_model: gpt-4o
 - Bedeutungen variieren, beziehen sich aber oft auf Sonne, Kosmos, Zyklen, Glück oder Fruchtbarkeit.
 - Die nationalsozialistische Aneignung kehrte seine Bedeutung im Westen tragisch um und verdeckte seine jahrtausendelangen positiven Assoziationen.
 
-<!--{{< spinning_swastika >}}-->
 ---
 
 ## Einführung

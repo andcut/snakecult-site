@@ -37,7 +37,6 @@ quality: 6
 - Meanings vary but often relate to sun, cosmos, cycles, fortune, or fertility.
 - Nazi appropriation tragically reversed its meaning in the West, obscuring its millennia-long positive associations.
 
-<!--{{< spinning_swastika >}}-->
 ---
 
 ## Introduction

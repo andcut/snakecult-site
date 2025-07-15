@@ -39,7 +39,6 @@ translation_model: gpt-4o
 - Les significations varient mais se rapportent souvent au soleil, au cosmos, aux cycles, à la fortune ou à la fertilité.
 - L'appropriation nazie a tragiquement inversé sa signification en Occident, obscurcissant ses associations positives millénaires.
 
-<!--{{< spinning_swastika >}}-->
 ---
 
 ## Introduction
