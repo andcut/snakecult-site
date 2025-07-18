@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cosmic-herakles
 tags:
-- Deep-Research
-- Prehistory
+ - Глубокие исследования
+ - Доистория
 title: Космический Геракл — Змей Времени, Герой Эдема
 translation_model: gpt-4o
 ---

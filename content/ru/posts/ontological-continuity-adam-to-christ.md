@@ -27,12 +27,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: ontological-continuity-adam-to-christ
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Philosophy
-- Religion
-- Psychology
+ - Сознание
+ - Эволюция
+ - Мифология
+ - Философия
+ - Религия
+ - Психология
 title: 'Логос и Змей: Мифическая эволюция самосознания'
 translation_model: gpt-4o
 ---

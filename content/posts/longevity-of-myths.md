@@ -19,8 +19,8 @@ about:
 - History
 - Archaeology
 tags:
-- Narrative
-- Prehistory
+ - Narrative
+ - Prehistory
 author: Andrew Cutler
 license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false

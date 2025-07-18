@@ -25,10 +25,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: primordial-matriarchy-science
 tags:
-- नारीवादी-सिद्धांत
-- मातृसत्ता-बहस
-- विकास
-- मानव-उत्पत्ति
+ - नारीवादी सिद्धांत
+ - मातृसत्ता बहस
+ - विकास
+ - मानव मूल
 title: 'महिलाएं संस्कृति की जनक के रूप में: पौराणिक उत्पत्ति और विद्वतापूर्ण बहसें'
 translation_model: gpt-4o
 ---

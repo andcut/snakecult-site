@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: sapient-paradox-shallow-dive
 tags:
-- Vorgeschichte
-- tiefgehende Forschung
+ - Vorgeschichte
+ - Tiefenforschung
 title: 'Das Sapient-Paradoxon: Eine kurze Einführung'
 translation_model: gpt-4o
 ---

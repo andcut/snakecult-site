@@ -28,12 +28,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: ontological-continuity-adam-to-christ
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Philosophy
-- Religion
-- Psychology
+ - Bewusstsein
+ - Evolution
+ - Mythologie
+ - Philosophie
+ - Religion
+ - Psychologie
 title: 'Das Logos und die Schlange: Mythische Evolution des Selbstbewusstseins'
 translation_model: gpt-4o
 ---

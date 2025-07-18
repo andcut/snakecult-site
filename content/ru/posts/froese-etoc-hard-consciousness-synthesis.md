@@ -31,10 +31,10 @@ license: CC-BY-SA 4.0
 quality: 5
 slug: froese-etoc-hard-consciousness-synthesis
 tags:
-- Sapient Paradox
-- Consciousness
-- recursion
-- ritual
+ - Sapient Paradox
+ - Сознание
+ - recursion
+ - Ritual
 title: '# От ритуала к рекурсии: интеграция гипотезы ритуализированного разума Фрёзе
   с теорией Евы о сознании'
 translation_model: gpt-4o

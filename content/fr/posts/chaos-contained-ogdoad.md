@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: chaos-contained-nehebkau-ogdoad
 tags:
-- Egyptian-myth
-- Greek-myth
-- comparative-religion
+ - Mythe Égyptien
+ - Mythe Grec
+ - comparative-religion
 title: 'Chaos Contained: Nehebkau, the Ogdoad, Greek Primordials & the Cosmic Bond'
 translation_model: gpt-4o
 ---

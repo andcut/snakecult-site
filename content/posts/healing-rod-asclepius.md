@@ -16,7 +16,7 @@ about:
  - history-of-medicine
 tags: 
  - Mythology
- - History-of-Science
+ - History of Science
 core_entity: "Rod of Asclepius"
 quality: 6
 author: "Andrew Cutler"

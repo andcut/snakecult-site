@@ -18,7 +18,7 @@ about:
 tags:
  - Mythology
  - Anthropology
- - Archaeoastronomy
+ - Archaeology
 core_entity: "Bullroarer"
 quality: 7
 author: "Andrew Cutler"

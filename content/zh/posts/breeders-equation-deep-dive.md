@@ -17,7 +17,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: breeders-equation-deep-dive
 tags:
-- 智力
+ - intelligence
 title: 全新世对人类智力的选择：一个50,000年的现实检验
 translation_model: gpt-4o
 ---

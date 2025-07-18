@@ -30,10 +30,10 @@ license: CC-BY-SA 4.0
 quality: 5
 slug: froese-etoc-hard-consciousness-synthesis
 tags:
-- Sapient Paradox
-- Consciousness
-- recursion
-- ritual
+ - Sapient Paradox
+ - الوعي
+ - recursion
+ - Ritual
 title: 'من الطقوس إلى التكرار: دمج فرضية العقل الطقوسي لفروز مع نظرية حواء للوعي'
 translation_model: gpt-4o
 ---

@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- الاتصال-القديم
-- علم-الآثار
+ - الاتصال القديم
+ - علم الآثار
 title: فكر في الدجاجة
 translation_model: gpt-4o
 ---

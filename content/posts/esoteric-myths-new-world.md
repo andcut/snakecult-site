@@ -17,7 +17,7 @@ about:
 tags:
  - Secret Societies
  - Atlantis
- - Biblical Archaeology
+ - Archaeology
  - Freemasonry
  - Colonial History
 core_entity: "New World"

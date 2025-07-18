@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-succession-crisis-magic
 tags:
-- lds
-- rlds
-- strangites
-- história-religiosa
+ - SUD
+ - RLDS
+ - Strangites
+ - Religious History
 title: Crise de Sucessão Mórmon e Magia
 translation_model: gpt-4o
 ---

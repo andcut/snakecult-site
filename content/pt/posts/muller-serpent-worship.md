@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: muller-serpent-worship
 tags:
-- max-müller
-- ritual
-- adoração-de-serpentes
-- simbolismo
-- mitologia
+ - max-müller
+ - ritual
+ - adoração-de-serpentes
+ - simbolismo
+ - mitologia
 title: 'Maximilian Müller sobre a Adoração de Serpentes: Raízes Indo-Europeias e Paralelos
   Globais'
 translation_model: gpt-4o

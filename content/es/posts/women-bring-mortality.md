@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: women-bring-death-motif
 tags:
-- folclore
+ - folklore
 title: 'Ella Que Trae la Muerte: Agentes Femeninas de la Mortalidad en el Mito Mundial'
 translation_model: gpt-4o
 ---

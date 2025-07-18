@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: darwin-short-evolutionary-timelines
 tags:
-- Darwin
-- Evolutionary Theory
-- Human-Origins
+ - 达尔文
+ - 进化论
+ - 人类起源
 title: 达尔文关于人类进化：短时间线与基因-文化互动
 translation_model: gpt-4o
 ---

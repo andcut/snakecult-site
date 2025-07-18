@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: zeus-serpent-mysteries
 tags:
-- Deep-Research
+ - Pesquisa Profunda
 title: Zeus Drakôn — Serpente, Devorador, Renovador do Mundo
 translation_model: gpt-4o
 ---

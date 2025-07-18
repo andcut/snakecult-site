@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- China
-- Mythology
-- Symbolism
-- Religion
+ - China
+ - Mythologie
+ - Symbolism
+ - Religion
 title: 'Nüwa und Fuxi: Das schlangenartige erste Paar und das Quadrat-Kompass-Motiv
   in der Mythologie'
 translation_model: gpt-4o

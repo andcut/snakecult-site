@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: the-snake-cult-of-consciousness-science-esotericism
 tags:
-- Consciousness
-- Mythology
-- Alchemy
-- Evolution
+ - Bewusstsein
+ - Mythologie
+ - Alchemie
+ - Evolution
 title: 'Der Schlangenkult des Bewusstseins: Wissenschaft und westliche Esoterik vereinen
   sich'
 translation_model: gpt-4o

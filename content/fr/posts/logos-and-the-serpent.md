@@ -26,12 +26,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: ontological-continuity-adam-to-christ-2
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Philosophy
-- Religion
-- Psychology
+ - Conscience
+ - Évolution
+ - Mythologie
+ - Philosophie
+ - Religion
+ - Psychologie
 title: Ève, le Serpent & le Logos — De Göbekli Tepe à Jean 1
 translation_model: gpt-4o
 ---

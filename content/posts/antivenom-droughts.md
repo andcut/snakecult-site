@@ -17,8 +17,8 @@ about:
  - consciousness
 tags:
  - Indo‑European
- - Mythic‑Studies
- - Ritual‑Practice
+ - Mythology
+ - Ritual
 core_entity: "ritual draught"
 quality: 6
 author: "Andrew Cutler"

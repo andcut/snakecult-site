@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: twelve-mysteries
 tags:
-- Consciousness
-- Mythology
-- Human-Origins
-- Evolution
+ - Consciousness
+ - Mythology
+ - Human Origins
+ - Evolution
 title: 12 Mysteries Solved by the Eve Theory of Consciousness
 ---
 

@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- Consciousness
-- Archaeology
-- Mythology
+ - Consciousness
+ - Archaeology
+ - Mythology
 title: 'The Serpent''s Gift: Mythic Echoes of an Ancient Consciousness Cult'
 ---
 

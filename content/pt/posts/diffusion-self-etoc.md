@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: self-goes-viral-eve-theory-snake-cult
 tags:
-- consciência
-- mitologia
+ - Consciência
+ - Mitologia
 title: 'Como o Eu Se Tornou Viral: Teoria de Eva, Cultos à Serpente e a Explosão de
   Consciência no Final do Pleistoceno'
 translation_model: gpt-4o

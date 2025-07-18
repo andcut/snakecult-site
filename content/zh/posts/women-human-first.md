@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- 协作育儿
-- 进化
-- 性别
-- 心理学
+ - 合作繁殖
+ - 进化
+ - 性别
+ - 心理学
 title: 如果社会智力使我们成为人类，那么女性首先成为了人类
 translation_model: gpt-4o
 ---

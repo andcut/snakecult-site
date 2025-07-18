@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- Antiker Kontakt
-- Archäologie
+ - Alter Kontakt
+ - Archäologie
 title: Betrachte das Huhn
 translation_model: gpt-4o
 ---

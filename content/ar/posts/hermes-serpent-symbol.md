@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hermes-serpent-symbol
 tags:
-- الهرمسية
-- الباطنية
-- الخيمياء
+ - الهرمسية
+ - الباطنية
+ - الخيمياء
 title: هرمس ورمز الأفعى
 translation_model: gpt-4o
 ---

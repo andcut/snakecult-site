@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- Cognitive-Revolution
-- Philosophy
-- Prehistory
+ - 认知科学
+ - 哲学
+ - 史前史
 title: 心灵的大爆炸：关于旧石器时代晚期大脑升级的7种理论
 translation_model: gpt-4o
 ---

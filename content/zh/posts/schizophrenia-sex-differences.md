@@ -20,9 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: schizophrenia-sex-race-epidemiology
 tags:
-- 精神分裂症
-- 流行病学
-- 健康差异
+ - Schizophrenia
+ - 流行病学
 title: 全球精神分裂症的流行病学：按性别和种族划分的发病率和患病率
 translation_model: gpt-4o
 ---

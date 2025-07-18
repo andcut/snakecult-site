@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: breeders-equation-deep-dive
 tags:
-- Intelligenz
+ - intelligence
 title: 'Selektion im Holozän auf menschliche Intelligenz: Ein 50.000-Jahre-Realitätscheck'
 translation_model: gpt-4o
 ---

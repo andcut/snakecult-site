@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- Consciousness
-- Identity
-- Memory
-- Narrative
-- Psychology
+ - Conscience
+ - Identité
+ - Mémoire
+ - Récit
+ - Psychologie
 title: 'Le Soi Narratif : Une Revue de Littérature Multidisciplinaire'
 translation_model: gpt-4o
 ---

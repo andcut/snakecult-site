@@ -19,10 +19,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- China
-- Mythology
-- Symbolism
-- Religion
+ - China
+ - Mythology
+ - Symbolism
+ - Religion
 title: 'Nüwa and Fuxi: The Serpentine First Couple and the Square-Compass Motif in
   Mythology'
 ---

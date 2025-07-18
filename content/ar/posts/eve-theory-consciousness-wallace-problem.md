@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: eve-theory-wallace-problem
 tags:
-- Wallace Problem
-- Consciousness
-- Evolution
-- recursion
+ - Wallace Problem
+ - الوعي
+ - التطور
+ - recursion
 title: 'نظرية حواء للوعي: حل مشكلة والاس في الإدراك البشري'
 translation_model: gpt-4o
 ---

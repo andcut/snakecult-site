@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: african-origin-myths-twin-nommo-ka-lebe
 tags:
-- पौराणिक-कथाएं
-- अफ्रीकी-अध्ययन
-- चेतना-अध्ययन
+ - पौराणिक कथा
+ - अफ्रीकी अध्ययन
+ - चेतना
 title: अफ्रीकी उत्पत्ति मिथक, जुड़वां रूपक, नोम्मो, का-सांप और लेबे सेरु
 translation_model: gpt-4o
 ---

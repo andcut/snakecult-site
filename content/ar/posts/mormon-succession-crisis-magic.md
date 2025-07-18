@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-succession-crisis-magic
 tags:
-- lds
-- rlds
-- strangites
-- التاريخ-الديني
+ - LDS
+ - RLDS
+ - Strangites
+ - Religious History
 title: أزمة الخلافة المورمونية والسحر
 translation_model: gpt-4o
 ---

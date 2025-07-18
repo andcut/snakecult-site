@@ -1,0 +1,138 @@
+# All English Tags
+
+Total unique English tags: **134**
+
+- A00
+- Africa
+- African-Studies
+- Alchemy
+- Americas
+- Ancient Contact
+- Ancient History
+- Ancient Wisdom
+- Animal Intelligence
+- Anthropology
+- Apocrypha
+- Archaeology
+- Atlantis
+- Australian-Dreamtime
+- Bullroarer
+- Campbell
+- China
+- Chinese-History
+- Christopher Columbus
+- Church-History
+- Cognitive Science
+- Colonial History
+- Consciousness
+- Cooperative Breeding
+- Cosmology
+- Creation Stories
+- Cultural Diffusion
+- Cultural Evolution
+- Cultural Evolution
+- Daoism
+- Darwin
+- Deep History
+- Deep Research
+- Diffusionism
+- Doctrine and Covenants
+- EToC
+- Egypt
+- Egyptian-myth
+- Enlightenment
+- Entheogens
+- Epidemiology
+- Esoteric Philosophy
+- Esotericism
+- Etymology
+- Evolution
+- Evolutionary Theory
+- Exploration History
+- Feminist Theory
+- Freemasonry
+- Gender
+- Genetics
+- Gnosticism
+- Greek Philosophy
+- Greek-myth
+- Hermeticism
+- Historiography
+- History
+- History of Science
+- Holy-Family
+- Human Evolution
+- Human Genetics
+- Human Origins
+- Human Origins
+- Identity
+- Indigenous-Studies
+- Indo‑European
+- Instruments
+- Jesus
+- Joseph Smith
+- LDS
+- Linguistics
+- Linguistic‑Magic
+- Matriarchy Debate
+- Memory
+- Mesoamerica
+- Mexican History
+- Migration
+- Mormonism
+- Music
+- Mystery Cults
+- Mysticism
+- Myth
+- Mythology
+- Narrative
+- Neurobiology
+- Neuroscience
+- Olmec
+- Oral Tradition
+- Origins
+- Paleolithic
+- Philosophy
+- Polynesia
+- Prehistory
+- Pronouns
+- Pseudoarchaeology
+- Psychedelics
+- Psychology
+- Pyramids
+- RLDS
+- Religion
+- Religious History
+- Renaissance
+- Ritual
+- Ritual-Anthropology
+- Sacred-Objects
+- Sapient Paradox
+- Schizophrenia
+- Scott Alexander
+- Secret Societies
+- Sex Differences
+- Snake‑Cult
+- South America
+- Speculation
+- Stone Tools
+- Strangites
+- Swastika
+- Symbolism
+- Technology
+- Tylor
+- Utopianism
+- Wallace Problem
+- Y-DNA
+- Zuni
+- archaic humans
+- comparative-religion
+- folklore
+- intelligence
+- introgression
+- mythography
+- plural marriage
+- recursion
+- schizophrenia
+- speculative-history
+- theology

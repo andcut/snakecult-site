@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: women-bring-death-motif
 tags:
-- фольклор
+ - folklore
 title: 'Она, Кто Несет Смерть: Женские Агенты Смертности в Мировой Мифологии'
 translation_model: gpt-4o
 ---

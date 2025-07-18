@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: zeus-serpent-mysteries
 tags:
-- Deep-Research
+ - Tiefenforschung
 title: Zeus Drakôn — Schlange, Verschlinger, Welten-Erneuerer
 translation_model: gpt-4o
 ---

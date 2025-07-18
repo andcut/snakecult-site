@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: sapient-paradox-shallow-dive
 tags:
-- pré-história
-- pesquisa-profunda
+ - Pré-história
+ - Pesquisa Profunda
 title: '# The Sapient Paradox: A Brief Introduction
 
 

@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: women-bring-death-motif
 tags:
-- الفولكلور
+ - folklore
 title: 'هي التي تجلب الموت: الوكلاء الإناث للموت في الأساطير العالمية'
 translation_model: gpt-4o
 ---

@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- mito
-- religião
-- arqueologia
+ - Mito
+ - Religião
+ - Arqueologia
 title: Cinza de Titã & Faísca da Serpente — Cosmos Desmembrado, Espelhos d'Água e
   o Núcleo Ofídico da Criação
 translation_model: gpt-4o

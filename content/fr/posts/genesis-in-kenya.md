@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
-- meru
-- histoire-de-la-création
-- chute-de-l'homme
-- serpent
-- fruit-interdit
+ - meru
+ - histoire-de-la-création
+ - chute-de-l'homme
+ - serpent
+ - fruit-interdit
 title: Le "Chute" dans la mythologie Meru et ses parallèles afro-eurasiens
 translation_model: gpt-4o
 ---

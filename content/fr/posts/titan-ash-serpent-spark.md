@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- mythe
-- religion
-- archéologie
+ - Mythe
+ - Religion
+ - Archéologie
 title: Titan Cendre & Étincelle Serpent — Cosmos Démembré, Miroirs d'Eau, et le Noyau
   Ophidien de la Création
 translation_model: gpt-4o

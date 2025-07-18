@@ -22,8 +22,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: sapient-paradox-deep-dive
 tags:
-- предыстория
-- глубокое-исследование
+ - Доистория
+ - Глубокие исследования
 title: '# Парадокс Сапиента: Глубокое Погружение в Археологические и Генетические
   Доказательства'
 translation_model: gpt-4o

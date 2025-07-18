@@ -24,10 +24,10 @@ license: CC-BY-SA 4.0
 quality: 7
 slug: froese-ritualized-mind-eve-theory
 tags:
-- Sapient Paradox
-- Consciousness
-- Evolution
-- ritual
+ - Sapient Paradox
+ - 意识
+ - 进化
+ - Ritual
 title: 仪式化心灵与夏娃意识理论：人类认知进化的趋同解释
 translation_model: gpt-4o
 ---

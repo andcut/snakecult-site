@@ -15,7 +15,7 @@ about:
  - mythology
 tags:
  - Mythology
- - Cultural-Diffusion
+ - Cultural Diffusion
 core_entity: "Joseph Campbell"
 quality: 7
 author: "Andrew Cutler"

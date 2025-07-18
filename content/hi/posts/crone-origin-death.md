@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: old-woman-death-motif
 tags:
-- लोककथाएं
+ - folklore
 title: पुरानी महिला ≘ मृत्यु का रूपक विश्व पौराणिक कथाओं में
 translation_model: gpt-4o
 ---

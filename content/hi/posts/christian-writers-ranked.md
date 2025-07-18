@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: best-christian-writers-ranked
 tags:
-- Church-History
+ - चर्च का इतिहास
 title: क्रिश्चियन लेखक रैंक किए गए
 translation_model: gpt-4o
 ---

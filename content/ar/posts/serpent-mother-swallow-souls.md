@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- الحلم-الأسترالي
+ - زمن الأحلام الأسترالي
 title: الأم الأفعى التي تبتلع الأرواح
 translation_model: gpt-4o
 ---

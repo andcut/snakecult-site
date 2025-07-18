@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by sa/4.0/
 quality: 7
 slug: etoc epistemic-exactitude
 tags:
-- EToC
-- Deep History
-- human evolution
+ - EToC
+ - Tiefe Geschichte
+ - Menschliche Evolution
 title: 'Evas Erwachen: Wie Selbsterkenntnis den menschlichen Geist umgestaltete'
 translation_model: gpt-4o
 ---

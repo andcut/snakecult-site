@@ -24,8 +24,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: longevity-of-myths
 tags:
-- Narrative
-- Prehistory
+ - Erzählung
+ - Vorgeschichte
 title: Prähistorische Mythen mit Ursprüngen vor über 8.000 Jahren
 translation_model: gpt-4o
 ---

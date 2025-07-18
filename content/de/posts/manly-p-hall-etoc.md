@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: manly-p-hall-and-eve-theory
 tags:
-- Consciousness
-- Mythology
-- Esoteric Philosophy
+ - Bewusstsein
+ - Mythologie
+ - Esoterische Philosophie
 title: Manly P Hall und die Eva-Theorie des Bewusstseins
 translation_model: gpt-4o
 ---

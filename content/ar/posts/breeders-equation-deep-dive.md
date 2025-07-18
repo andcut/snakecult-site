@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: breeders-equation-deep-dive
 tags:
-- الذكاء
+ - intelligence
 title: '# Holocene Selection on Human Intelligence: A 50,000-Year Reality Check
 
 

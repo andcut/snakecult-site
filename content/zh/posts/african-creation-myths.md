@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: african-origin-myths-twin-nommo-ka-lebe
 tags:
-- 神话
-- 非洲研究
-- 意识研究
+ - 神话学
+ - 非洲研究
+ - 意识
 title: 非洲起源神话、双生子主题、Nommo、Ka-蛇与Lebe Seru
 translation_model: gpt-4o
 ---

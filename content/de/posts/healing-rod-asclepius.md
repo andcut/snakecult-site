@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-pharmakon-rod-of-asclepius
 tags:
-- Mythologie
-- Wissenschaftsgeschichte
+ - Mythologie
+ - Wissenschaftsgeschichte
 title: 'Schlangen der Heilung: Entschlüsselung des Rod of Asclepius'
 translation_model: gpt-4o
 ---

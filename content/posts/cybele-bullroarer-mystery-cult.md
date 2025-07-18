@@ -17,9 +17,9 @@ about:
   - mystery-cults
   - sacred-sound
 tags:
-  - Sacred-Objects
-  - Mystery-Cults
-  - Ancient-Religion
+ - Sacred-Objects
+ - Mystery Cults
+ - Ancient History
 core_entity: "Cybele"
 quality: 6
 author: "Andrew Cutler"

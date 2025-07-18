@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: upper-paleolithic-gender-imbalance
 tags:
-- Paleolithic-Art
+ - Paleolítico
 title: Desigualdade de Gênero no Paleolítico Superior em Representações Humanas
 translation_model: gpt-4o
 ---

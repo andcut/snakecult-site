@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: square-and-compass-analysis
 tags:
-- simbolismo
-- maçonaria
+ - Symbolism
+ - Maçonaria
 title: 'O Esquadro e o Compasso: Um Símbolo Global de Criação e Ordem'
 translation_model: gpt-4o
 ---

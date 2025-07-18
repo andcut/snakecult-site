@@ -21,9 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: schizophrenia-sex-race-epidemiology
 tags:
-- шизофрения
-- эпидемиология
-- неравенства-в-здравоохранении
+ - Schizophrenia
+ - Эпидемиология
 title: 'Глобальная эпидемиология шизофрении: заболеваемость и распространенность по
   полу и этнической принадлежности'
 translation_model: gpt-4o

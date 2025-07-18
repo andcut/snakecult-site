@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: earlier-inhabitants-american-myths
 tags:
-- الأساطير
-- الانتشارية
-- علم-الآثار
+ - الأساطير
+ - الانتشارية
+ - علم الآثار
 title: '# من كان هنا أولاً؟ الأساطير الأمريكية الأصلية عن الشعوب السابقة'
 translation_model: gpt-4o
 ---

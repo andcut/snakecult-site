@@ -24,13 +24,13 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: etoc-v4
 tags:
-- Consciousness
-- Evolution
-- Prehistory
-- Mythology
-- Neuroscience
-- Psychology
-- Anthropology
+ - Consciência
+ - Evolução
+ - Pré-história
+ - Mitologia
+ - Neurociência
+ - Psicologia
+ - Antropologia
 title: Teoria de Eva da Consciência v4
 translation_model: gpt-4o
 ---

@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: pleiades-bullroarer-memeplex
 tags:
-- 神话学
-- 人类学
-- 考古天文学
+ - 神话学
+ - 人类学
+ - 考古学
 title: 昴宿星团与牛吼器模因复合体
 translation_model: gpt-4o
 ---

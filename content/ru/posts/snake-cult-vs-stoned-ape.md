@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- Human-Origins
-- Psychedelics
-- Consciousness
+ - Происхождение человека
+ - Психоделики
+ - Сознание
 title: Культ Змеи Сознания против Теории Обкуренной Обезьяны МакКенны
 translation_model: gpt-4o
 ---

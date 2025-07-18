@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- Cognitive-Revolution
-- Philosophy
-- Prehistory
+ - Ciência Cognitiva
+ - Filosofia
+ - Pré-história
 title: 'Grandes Explosões da Mente: 7 Teorias Sobre a Atualização do Cérebro no Paleolítico
   Superior'
 translation_model: gpt-4o

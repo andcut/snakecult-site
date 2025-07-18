@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: pleiades-bullroarer-memeplex
 tags:
-- Mythologie
-- Anthropologie
-- Archäoastronomie
+ - Mythologie
+ - Anthropologie
+ - Archäologie
 title: Plejaden und der Bullroarer-Memplex
 translation_model: gpt-4o
 ---

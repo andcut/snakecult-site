@@ -24,13 +24,13 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: etoc-v4
 tags:
-- Consciousness
-- Evolution
-- Prehistory
-- Mythology
-- Neuroscience
-- Psychology
-- Anthropology
+ - चेतना
+ - विकास
+ - प्रागैतिहासिक
+ - पौराणिक कथा
+ - तंत्रिका विज्ञान
+ - मनोविज्ञान
+ - मानव विज्ञान
 title: ईव थ्योरी ऑफ कॉन्शसनेस v4
 translation_model: gpt-4o
 ---

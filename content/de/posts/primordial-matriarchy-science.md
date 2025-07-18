@@ -25,10 +25,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: primordial-matriarchy-science
 tags:
-- Feministische Theorie
-- Matriarchatsdebatte
-- Evolution
-- menschliche Ursprünge
+ - Feministische Theorie
+ - Matriarchatsdebatte
+ - Evolution
+ - Menschliche Ursprünge
 title: 'Frauen als Kulturstifterinnen: Mythische Ursprünge und wissenschaftliche Debatten'
 translation_model: gpt-4o
 ---

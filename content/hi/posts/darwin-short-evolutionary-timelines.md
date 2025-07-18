@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: darwin-short-evolutionary-timelines
 tags:
-- Darwin
-- Evolutionary Theory
-- Human-Origins
+ - डार्विन
+ - विकासवादी सिद्धांत
+ - मानव मूल
 title: 'डार्विन मानव विकास पर: छोटे समयसीमा और जीन-संस्कृति अंतःक्रिया'
 translation_model: gpt-4o
 ---

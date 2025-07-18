@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: jaredites-clovis-hypothesis
 tags:
-- speculative-history
+ - speculative-history
 title: Jarediten als die Clovis-Kultur
 translation_model: gpt-4o
 ---

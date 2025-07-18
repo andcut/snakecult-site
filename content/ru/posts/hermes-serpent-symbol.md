@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hermes-serpent-symbol
 tags:
-- герметизм
-- эзотеризм
-- алхимия
+ - Герметизм
+ - Эзотеризм
+ - Алхимия
 title: Гермес и Символ Змеи
 translation_model: gpt-4o
 ---

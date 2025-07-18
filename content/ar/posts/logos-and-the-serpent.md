@@ -26,12 +26,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: ontological-continuity-adam-to-christ-2
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Philosophy
-- Religion
-- Psychology
+ - الوعي
+ - التطور
+ - الأساطير
+ - الفلسفة
+ - الدين
+ - علم النفس
 title: حواء، الحية والشعار — من غوبكلي تبه إلى يوحنا 1
 translation_model: gpt-4o
 ---

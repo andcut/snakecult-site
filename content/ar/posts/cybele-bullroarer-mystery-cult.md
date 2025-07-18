@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cybele-bullroarer-mystery
 tags:
-- Sacred-Objects
-- Mystery-Cults
-- Ancient-Religion
+ - Sacred-Objects
+ - الطوائف الغامضة
+ - التاريخ القديم
 title: سيبيل — صوت ريا الدوّار وميلاد الحياة المتحضرة
 translation_model: gpt-4o
 ---

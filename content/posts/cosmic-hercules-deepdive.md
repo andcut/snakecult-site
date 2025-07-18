@@ -24,9 +24,9 @@ about:
 - Greek Philosophy
 - Comparative Mythology
 tags:
-- Deep-Research
-- Philosophy
-- Religion
+ - Deep Research
+ - Philosophy
+ - Religion
 author: Andrew Cutler
 license: https://creativecommons.org/licenses/by-sa/4.0/
 draft: false

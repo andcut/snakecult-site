@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hermes-serpent-symbol
 tags:
-- हर्मेटिसिज्म
-- गूढ़वाद
-- अल्केमी
+ - हर्मेटिसिज्म
+ - गूढ़वाद
+ - कीमिया
 title: हर्मीस और सर्प प्रतीक
 translation_model: gpt-4o
 ---

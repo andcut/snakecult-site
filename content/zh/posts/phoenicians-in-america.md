@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: phoenicians-in-america
 tags:
-- History
-- Archaeology
-- Pseudoarchaeology
+ - 历史
+ - 考古学
+ - 伪考古学
 title: 腓尼基人在美洲：对一个有争议理论的时间顺序分析
 translation_model: gpt-4o
 ---

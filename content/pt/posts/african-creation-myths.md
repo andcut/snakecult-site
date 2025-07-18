@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: african-origin-myths-twin-nommo-ka-lebe
 tags:
-- mitologia
-- estudos-africanos
-- estudos-da-consciência
+ - Mitologia
+ - Estudos Africanos
+ - Consciência
 title: Mitos de Origem Africanos, Motivos de Gêmeos, Nommo, Ka-Serpentes & Lebe Seru
 translation_model: gpt-4o
 ---

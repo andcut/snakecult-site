@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: swastika-diffusion
 tags:
-- Swastika
-- Ancient-History
-- Archaeology
-- Symbolism
+ - Swastika
+ - 古代历史
+ - 考古学
+ - Symbolism
 title: 全球考古学中万字符的出现及其理论解释
 translation_model: gpt-4o
 ---

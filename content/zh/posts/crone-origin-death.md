@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: old-woman-death-motif
 tags:
-- 民间传说
+ - folklore
 title: 老妇人 ≘ 死亡主题在世界神话中的体现
 translation_model: gpt-4o
 ---

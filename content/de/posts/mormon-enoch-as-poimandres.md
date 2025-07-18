@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-enoch-as-poimandres
 tags:
-- Mormonismus
-- Hermetik
+ - Mormonentum
+ - Hermetismus
 title: Enoch, Hermes Trismegistus und Joseph Smiths Buch Mose
 translation_model: gpt-4o
 ---

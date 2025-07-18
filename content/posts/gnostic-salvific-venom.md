@@ -13,7 +13,7 @@ keywords:
 about:
 - early-christian-heresy
 tags:
-- Gnosticism
+ - Gnosticism
 core_entity: "Pharmakon/Poison"
 quality: 7
 author: "Andrew Cutler"

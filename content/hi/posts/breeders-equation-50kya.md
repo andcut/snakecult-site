@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: intelligence-selection-50k
 tags:
-- Evolution
-- Deep-Research
+ - विकास
+ - गहन अनुसंधान
 title: 'मानव बुद्धिमत्ता: 50,000 वर्ष पर्याप्त हैं — एक ब्रीडर-इक्वेशन वास्तविकता
   जांच'
 translation_model: gpt-4o

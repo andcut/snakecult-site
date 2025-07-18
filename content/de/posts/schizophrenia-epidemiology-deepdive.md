@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: schizophrenia-epidemiology-deepdive
 tags:
-- schizophrenia
+ - schizophrenia
 title: Globale Epidemiologie der Schizophrenie (Aktualisierung 2025)
 translation_model: gpt-4o
 ---

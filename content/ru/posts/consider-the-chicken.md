@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- древний-контакт
-- археология
+ - Древний контакт
+ - Археология
 title: Рассмотрим курицу
 translation_model: gpt-4o
 ---

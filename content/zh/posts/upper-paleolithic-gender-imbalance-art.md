@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: upper-paleolithic-gender-imbalance
 tags:
-- Paleolithic-Art
+ - 旧石器时代
 title: 旧石器时代晚期人类描绘中的性别失衡
 translation_model: gpt-4o
 ---

@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: y-chromosome-cognition
 tags:
-- Geschlechtschromosomen
-- Kognition
-- Autismus
-- Neurodevelopmentale Störungen
+ - Geschlechtschromosomen
+ - Kognition
+ - Autismus
+ - Neurodevelopmentale Störungen
 title: 'Rolle des Y-Chromosoms in der menschlichen Kognition: Eine Literaturübersicht'
 translation_model: gpt-4o
 ---

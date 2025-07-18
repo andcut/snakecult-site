@@ -27,12 +27,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: ontological-continuity-adam-to-christ
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Philosophy
-- Religion
-- Psychology
+ - Consciousness
+ - Evolution
+ - Mythology
+ - Philosophy
+ - Religion
+ - Psychology
 title: 'The Logos and the Serpent: Mythic Evolution of Self-Awareness'
 ---
 

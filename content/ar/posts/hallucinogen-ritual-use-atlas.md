@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hallucinogenic-atlas
 tags:
-- Entheogens
-- Archaeology
-- Psychedelics
+ - المُسكِرات المقدسة
+ - علم الآثار
+ - المُهلِسات
 title: 'أطلس الهلوسة: تعداد قاري للمواد المهلوسة القديمة'
 translation_model: gpt-4o
 ---

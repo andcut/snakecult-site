@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: intelligence-selection-50k
 tags:
-- Evolution
-- Deep-Research
+ - Évolution
+ - Recherche Approfondie
 title: 'L''intelligence humaine : 50 000 ans suffisent — Une vérification de la réalité
   par l''équation du sélectionneur'
 translation_model: gpt-4o

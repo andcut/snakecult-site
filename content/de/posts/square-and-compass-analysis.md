@@ -22,8 +22,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: square-and-compass-analysis
 tags:
-- Symbolik
-- Freimaurerei
+ - Symbolism
+ - Freimaurerei
 title: 'Der Winkelmaß und Zirkel: Ein globales Symbol für Schöpfung und Ordnung'
 translation_model: gpt-4o
 ---

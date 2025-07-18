@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: women-bring-death-motif
 tags:
-- 民间传说
+ - folklore
 title: 她带来死亡：世界神话中的女性死亡使者
 translation_model: gpt-4o
 ---

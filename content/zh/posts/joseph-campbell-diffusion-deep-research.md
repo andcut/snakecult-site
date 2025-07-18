@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusion-dossier
 tags:
-- Campbell
-- diffusion
-- mythography
+ - 坎贝尔
+ - 文化传播
+ - mythography
 title: Joseph Campbell，文化传播的倡导者
 translation_model: gpt-4o
 ---

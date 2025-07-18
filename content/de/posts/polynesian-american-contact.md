@@ -21,11 +21,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: men-from-the-sea
 tags:
-- Diffusionismus
-- Polynesien
-- Südamerika
-- Genetik
-- Geschichtsschreibung
+ - Diffusionismus
+ - Polynesien
+ - South America
+ - Genetik
+ - Geschichtsschreibung
 title: 'Männer vom Meer: Mythen, Skepsis und die Rückkehr des trans-pazifischen Kontakts'
 translation_model: gpt-4o
 ---

@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- contacto-antiguo
-- arqueología
+ - Contacto Antiguo
+ - Arqueología
 title: Considere al Pollo
 translation_model: gpt-4o
 ---

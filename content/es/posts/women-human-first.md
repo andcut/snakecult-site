@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- crianza-cooperativa
-- evolución
-- género
-- psicología
+ - Reproducción Cooperativa
+ - Evolución
+ - Género
+ - Psicología
 title: Si la inteligencia social nos hizo humanos, las mujeres fueron humanas primero
 translation_model: gpt-4o
 ---

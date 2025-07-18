@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: etoc-as-recursive-attention
 tags:
-- Bewusstsein
-- Evolution
-- Neurowissenschaft
-- Anthropologie
+ - Bewusstsein
+ - Evolution
+ - Neurowissenschaft
+ - Anthropologie
 title: EToC als Gen-Kultur-Evolution der rekursiven Aufmerksamkeit
 translation_model: gpt-4o
 ---

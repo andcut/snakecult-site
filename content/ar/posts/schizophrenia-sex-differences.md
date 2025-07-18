@@ -21,9 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: schizophrenia-sex-race-epidemiology
 tags:
-- الفصام
-- الوبائيات
-- الفوارق-الصحية
+ - Schizophrenia
+ - علم الأوبئة
 title: '# الوبائيات العالمية للفصام: معدل الحدوث والانتشار حسب الجنس والعرق'
 translation_model: gpt-4o
 ---

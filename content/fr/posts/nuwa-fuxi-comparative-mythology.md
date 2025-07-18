@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- China
-- Mythology
-- Symbolism
-- Religion
+ - Chine
+ - Mythologie
+ - Symbolism
+ - Religion
 title: 'Nüwa et Fuxi : Le couple originel serpentin et le motif du carré-compas dans
   la mythologie'
 translation_model: gpt-4o

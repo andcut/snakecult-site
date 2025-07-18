@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- التربية-التعاونية
-- التطور
-- النوع-الاجتماعي
-- علم-النفس
+ - التكاثر التعاوني
+ - التطور
+ - الجنس
+ - علم النفس
 title: إذا كان الذكاء الاجتماعي جعلنا بشراً، فإن النساء كنّ بشراً أولاً
 translation_model: gpt-4o
 ---

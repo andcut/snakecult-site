@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: earlier-inhabitants-american-myths
 tags:
-- Mythologie
-- Diffusionismus
-- Archäologie
+ - Mythologie
+ - Diffusionismus
+ - Archäologie
 title: Wer war zuerst hier? Indigene amerikanische Mythen über frühere Völker
 translation_model: gpt-4o
 ---

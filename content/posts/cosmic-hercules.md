@@ -15,7 +15,7 @@ about:
  - human origins
  - gene–culture coevolution
 tags:
- - Deep-Research
+ - Deep Research
  - Prehistory
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"

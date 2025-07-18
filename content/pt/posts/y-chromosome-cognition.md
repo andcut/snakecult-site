@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: y-chromosome-cognition
 tags:
-- cromossomos-sexuais
-- cognição
-- autismo
-- transtornos-do-neurodesenvolvimento
+ - cromossomos-sexuais
+ - cognição
+ - autismo
+ - transtornos-do-neurodesenvolvimento
 title: '# Papel do Cromossomo Y na Cognição Humana: Uma Revisão de Literatura'
 translation_model: gpt-4o
 ---

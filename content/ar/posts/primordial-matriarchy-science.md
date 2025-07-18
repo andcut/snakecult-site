@@ -24,10 +24,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: primordial-matriarchy-science
 tags:
-- النظرية-النسوية
-- نقاش-الأمومة
-- التطور
-- أصول-الإنسان
+ - النظرية النسوية
+ - جدل النظام الأمومي
+ - التطور
+ - أصول البشر
 title: 'النساء كمنشئات للثقافة: الأصول الأسطورية والنقاشات الأكاديمية'
 translation_model: gpt-4o
 ---

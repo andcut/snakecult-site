@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpents-women-emergence-myths-americas
 tags:
-- Mythology
-- Indigenous-Studies
+ - Mitologia
+ - Estudos Indígenas
 title: Serpentes e Mulheres em Mitos de Emergência nas Américas
 translation_model: gpt-4o
 ---

@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hermes-serpent-symbol
 tags:
-- Hermetismus
-- Esoterik
-- Alchemie
+ - Hermetismus
+ - Esoterik
+ - Alchemie
 title: Hermes und das Schlangensymbol
 translation_model: gpt-4o
 ---

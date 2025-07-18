@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: pleiades-bullroarer-memeplex
 tags:
-- mythologie
-- anthropologie
-- archéoastronomie
+ - Mythologie
+ - Anthropologie
+ - Archéologie
 title: Pleiades et le Mème-Plex du Rhombe
 translation_model: gpt-4o
 ---

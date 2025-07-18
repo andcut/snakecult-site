@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: snakes-speech-mythology
 tags:
-- World‑Mythology
-- Snake‑Cult
-- Linguistic‑Magic
+ - Мифология
+ - Snake‑Cult
+ - Лингвистическая магия
 title: Змеи, дарующие способность говорить с животными в мировой мифологии
 translation_model: gpt-4o
 ---

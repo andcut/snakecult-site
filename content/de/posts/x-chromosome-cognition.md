@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: x-chromosome-cognition
 tags:
-- Cognition
-- Genetics
-- Neuroscience
-- Evolution
+ - Kognitionswissenschaft
+ - Genetik
+ - Neurowissenschaft
+ - Evolution
 title: X-Chromosom und höherwertige Kognition
 translation_model: gpt-4o
 ---

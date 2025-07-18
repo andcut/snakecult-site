@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cybele-bullroarer-mystery
 tags:
-- Sacred-Objects
-- Mystery-Cults
-- Ancient-Religion
+ - Sacred-Objects
+ - 神秘教派
+ - 古代历史
 title: Cybele — 瑞亚的旋转之声与文明生活的诞生
 translation_model: gpt-4o
 ---

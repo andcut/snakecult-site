@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: old-woman-death-motif
 tags:
-- الفلكلور
+ - folklore
 title: المرأة العجوز ≘ الموت كرمز في الأساطير العالمية
 translation_model: gpt-4o
 ---

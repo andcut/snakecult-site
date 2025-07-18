@@ -22,7 +22,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: women-bring-death-motif
 tags:
-- लोककथाएं
+ - folklore
 title: 'वह जो मृत्यु लाती है: विश्व पौराणिक कथाओं में मृत्यु की महिला एजेंट्स'
 translation_model: gpt-4o
 ---

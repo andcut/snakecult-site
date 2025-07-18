@@ -22,11 +22,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
-- 梅鲁
-- 创世故事
-- 人类堕落
-- 蛇
-- 禁果
+ - 梅鲁
+ - 创世故事
+ - 人类堕落
+ - 蛇
+ - 禁果
 title: “堕落”在梅鲁神话中的表现及其非洲-欧亚大陆的相似之处
 translation_model: gpt-4o
 ---

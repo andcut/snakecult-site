@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: francis-bacon-new-world-vision
 tags:
-- Utopismus
-- Esoterik
-- Wissenschaftsgeschichte
-- Aufklärung
+ - Utopianism
+ - Esoterik
+ - Wissenschaftsgeschichte
+ - Aufklärung
 title: Francis Bacons New Atlantis und die Vision der Neuen Welt
 translation_model: gpt-4o
 ---

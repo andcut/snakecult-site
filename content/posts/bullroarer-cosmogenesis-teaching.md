@@ -17,10 +17,10 @@ about:
   - creation-myths
   - cultural-diffusion
 tags:
-  - Sacred-Objects
-  - Ritual-Anthropology
-  - Cosmology
-  - Secret-Societies
+ - Sacred-Objects
+ - Ritual-Anthropology
+ - Cosmology
+ - Secret Societies
 core_entity: "bullroarer"
 quality: 6
 author: "Andrew Cutler"

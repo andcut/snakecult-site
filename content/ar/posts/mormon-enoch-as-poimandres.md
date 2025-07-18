@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-enoch-as-poimandres
 tags:
-- المورمونية
-- الهرمسية
+ - المورمونية
+ - الهرمسية
 title: إينوك، هيرميس تريسميجستوس، وكتاب موسى لجوزيف سميث
 translation_model: gpt-4o
 ---

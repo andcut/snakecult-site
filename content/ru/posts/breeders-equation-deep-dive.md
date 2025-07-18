@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: breeders-equation-deep-dive
 tags:
-- интеллект
+ - intelligence
 title: 'Голоценовый отбор на человеческий интеллект: проверка реальности за 50 000
   лет'
 translation_model: gpt-4o

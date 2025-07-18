@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: earlier-inhabitants-american-myths
 tags:
-- mythologie
-- diffusionnisme
-- archéologie
+ - Mythologie
+ - Diffusionnisme
+ - Archéologie
 title: Qui Était Ici en Premier ? Mythes Amérindiens des Peuples Antérieurs
 translation_model: gpt-4o
 ---

@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: twelve-mysteries
 tags:
-- Consciousness
-- Mythology
-- Human-Origins
-- Evolution
+ - Bewusstsein
+ - Mythologie
+ - Menschliche Ursprünge
+ - Evolution
 title: 12 Rätsel, die durch die Eve-Theorie des Bewusstseins gelöst wurden
 translation_model: gpt-4o
 ---

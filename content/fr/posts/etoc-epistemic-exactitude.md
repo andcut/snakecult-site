@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by sa/4.0/
 quality: 7
 slug: etoc epistemic-exactitude
 tags:
-- EToC
-- Deep History
-- human evolution
+ - EToC
+ - Histoire Profonde
+ - Évolution Humaine
 title: 'Éveiller Ève : Comment la connaissance de soi a reconfiguré l''esprit humain'
 translation_model: gpt-4o
 ---

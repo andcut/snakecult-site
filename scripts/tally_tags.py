@@ -5,8 +5,8 @@ from collections import Counter
 import sys
 
 # --- Configuration ---
-CONTENT_DIR = "content"
-OUTPUT_FILE = "data/tags.json"
+CONTENT_DIRS = ["content/posts", "content/posts/vom"]
+OUTPUT_FILE = "agent_documentation/all_english_tags.md"
 # --- End Configuration ---
 
 def extract_tags_from_frontmatter(content):
@@ -115,44 +115,44 @@ def find_markdown_files(root_dir):
                 md_files.append(os.path.join(dirpath, f))
     return md_files
 
-def tally_tags(content_dir):
-    """Finds markdown files, extracts tags, and returns a frequency counter."""
+def tally_tags(content_dirs):
+    """Finds markdown files, extracts tags, and returns a list of unique tags."""
     all_tags = []
-    md_files = find_markdown_files(content_dir)
-    print(f"Found {len(md_files)} markdown files in '{content_dir}'.")
-
-    if not md_files:
-        print("No markdown files found.")
-        return Counter()
-
-    files_processed = 0
-    files_with_tags = 0
-    for md_file in md_files:
-        try:
-            with open(md_file, 'r', encoding='utf-8') as f:
-                content = f.read()
-            tags = extract_tags_from_frontmatter(content)
-            files_processed += 1
-            if tags:
-                # print(f"  Found tags {tags} in {md_file}") # Debugging
-                all_tags.extend(tags)
-                files_with_tags += 1
-            # else: # Debugging
-                # print(f"  No tags found in {md_file}") # Debugging
-        except Exception as e:
-            print(f"Error processing file {md_file}: {e}", file=sys.stderr)
+    total_files = 0
     
-    print(f"Processed {files_processed} files, found tags in {files_with_tags} files.")
-            
-    # Normalize tags (lowercase, remove extra spaces)
-    normalized_tags = [tag.lower().strip() for tag in all_tags]
-    
-    return Counter(normalized_tags)
+    for content_dir in content_dirs:
+        print(f"Processing directory: {content_dir}")
+        md_files = find_markdown_files(content_dir)
+        print(f"Found {len(md_files)} markdown files in '{content_dir}'.")
+        total_files += len(md_files)
 
-def save_unique_tags(tag_counter, output_file):
-    """Saves the unique tags (sorted) to a JSON file."""
-    unique_tags = sorted(list(tag_counter.keys()))
+        if not md_files:
+            print(f"No markdown files found in {content_dir}.")
+            continue
+
+        files_processed = 0
+        files_with_tags = 0
+        for md_file in md_files:
+            try:
+                with open(md_file, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                tags = extract_tags_from_frontmatter(content)
+                files_processed += 1
+                if tags:
+                    all_tags.extend(tags)
+                    files_with_tags += 1
+            except Exception as e:
+                print(f"Error processing file {md_file}: {e}", file=sys.stderr)
+        
+        print(f"Processed {files_processed} files, found tags in {files_with_tags} files.")
     
+    print(f"Total files processed: {total_files}")
+    unique_tags = set(all_tags)
+    return list(unique_tags)
+
+def save_all_tags(tags, output_file):
+    """Saves the list of all tags to an MD file."""
+    tags = sorted(tags)  # Optional: sort alphabetically
     output_dir = os.path.dirname(output_file)
     if output_dir and not os.path.exists(output_dir):
         try:
@@ -160,36 +160,30 @@ def save_unique_tags(tag_counter, output_file):
             os.makedirs(output_dir)
         except OSError as e:
              print(f"Error creating directory {output_dir}: {e}", file=sys.stderr)
-             # Decide if we should exit or try saving to root? For now, let it fail later.
-             pass 
-        
+             
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(unique_tags, f, indent=2)
-        print(f"Unique tags list saved to {output_file}")
+            f.write("# All English Tags\n\n")
+            f.write(f"Total unique English tags: **{len(tags)}**\n\n")
+            for tag in tags:
+                f.write(f"- {tag}\n")
+        print(f"All tags list saved to {output_file}")
     except Exception as e:
         print(f"Error saving tags to {output_file}: {e}", file=sys.stderr)
 
 def main():
-    print(f"Starting tag analysis in '{CONTENT_DIR}'...")
-    tag_counts = tally_tags(CONTENT_DIR)
+    print(f"Starting tag analysis in {CONTENT_DIRS}...")
+    tag_list = tally_tags(CONTENT_DIRS)
 
-    if not tag_counts:
+    if not tag_list:
         print("No tags found to analyze.")
         return
 
-    print("\n--- Tag Frequencies ---")
-    if tag_counts:
-        # Sort by frequency descending, then alphabetically
-        sorted_tags = sorted(tag_counts.items(), key=lambda item: (-item[1], item[0]))
-        for tag, count in sorted_tags:
-            print(f"- {tag}: {count}")
-    else:
-        print("No tags found.")
+    print(f"\n--- Total Unique English Tags: {len(tag_list)} ---")
         
     print("\n-----------------------")
 
-    save_unique_tags(tag_counts, OUTPUT_FILE)
+    save_all_tags(tag_list, OUTPUT_FILE)
     print("Tag analysis complete.")
 
 if __name__ == "__main__":

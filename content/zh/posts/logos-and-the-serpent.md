@@ -24,12 +24,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: ontological-continuity-adam-to-christ-2
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Philosophy
-- Religion
-- Psychology
+ - 意识
+ - 进化
+ - 神话学
+ - 哲学
+ - 宗教
+ - 心理学
 title: 夏娃、蛇与逻各斯——从Göbekli Tepe到约翰福音1章
 translation_model: gpt-4o
 ---

@@ -14,9 +14,9 @@ keywords:
 about:
   - Hermetic serpent symbolism
 tags:
-  - Hermeticism
-  - Esotericism
-  - Alchemy
+ - Hermeticism
+ - Esotericism
+ - Alchemy
 core_entity: "Hermetic Serpent"
 quality: 6
 author: "Andrew Cutler"

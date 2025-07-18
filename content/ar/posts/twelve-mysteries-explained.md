@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: twelve-mysteries
 tags:
-- Consciousness
-- Mythology
-- Human-Origins
-- Evolution
+ - الوعي
+ - الأساطير
+ - أصول البشر
+ - التطور
 title: 12 ألغاز تم حلها بواسطة نظرية إيف للوعي
 translation_model: gpt-4o
 ---

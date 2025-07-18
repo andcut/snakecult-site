@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-of-consciousness-sapient-paradox
 tags:
-- Human Origins
-- Cultural Evolution
+ - Human Origins
+ - Cultural Evolution
 title: Schlangenkult des Bewusstseins und das Sapient-Paradoxon
 translation_model: gpt-4o
 ---

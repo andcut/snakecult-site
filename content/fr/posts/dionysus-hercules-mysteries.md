@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- Deep-Research
+ - Recherche Approfondie
 title: Héraclès & Dionysos — Clés Jumelles des Mystères du Serpent
 translation_model: gpt-4o
 ---

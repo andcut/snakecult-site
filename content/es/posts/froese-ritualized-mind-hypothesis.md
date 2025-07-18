@@ -27,10 +27,10 @@ license: CC-BY-SA 4.0
 quality: 7
 slug: froese-ritualized-mind-eve-theory
 tags:
-- Sapient Paradox
-- Consciousness
-- Evolution
-- ritual
+ - Sapient Paradox
+ - Conciencia
+ - Evolución
+ - Ritual
 title: 'El Mente Ritualizada y la Teoría de Eva de la Conciencia: Un Relato Convergente
   de la Evolución Cognitiva Humana'
 translation_model: gpt-4o

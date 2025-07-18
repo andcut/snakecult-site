@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
-- Meru
-- Schöpfungsgeschichte
-- Sündenfall
-- Schlange
-- Verbotene Frucht
+ - Meru
+ - Schöpfungsgeschichte
+ - Sündenfall
+ - Schlange
+ - Verbotene Frucht
 title: Der "Sündenfall" in der Meru-Mythologie und seine afro-eurasischen Parallelen
 translation_model: gpt-4o
 ---

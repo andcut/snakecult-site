@@ -21,11 +21,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: men-from-the-sea
 tags:
-- प्रसारवाद
-- polynesia
-- south-america
-- आनुवंशिकी
-- इतिहासलेखन
+ - प्रसारवाद
+ - पॉलिनेशिया
+ - South America
+ - आनुवंशिकता
+ - इतिहासलेखन
 title: 'समुद्र से आए पुरुष: मिथक, संदेहवाद, और ट्रांस-पैसिफिक संपर्क की वापसी'
 translation_model: gpt-4o
 ---

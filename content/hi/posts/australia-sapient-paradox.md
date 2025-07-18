@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: australia-sapient-paradox
 tags:
-- प्रागैतिहासिक-काल
-- गहन-अनुसंधान
+ - प्रागैतिहासिक
+ - गहन अनुसंधान
 title: 'ऑस्ट्रेलिया और सैपियंट पैरेडॉक्स: देर से संज्ञानात्मक छलांग के लिए साक्ष्य'
 translation_model: gpt-4o
 ---

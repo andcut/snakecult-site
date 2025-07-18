@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: swastika-diffusion
 tags:
-- Swastika
-- Ancient-History
-- Archaeology
-- Symbolism
+ - Swastika
+ - Ancient History
+ - Archaeology
+ - Symbolism
 title: Global Archaeological Appearances and Theoretical Explanations of the Swastika
 ---
 

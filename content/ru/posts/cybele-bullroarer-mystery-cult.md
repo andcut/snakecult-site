@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cybele-bullroarer-mystery
 tags:
-- Sacred-Objects
-- Mystery-Cults
-- Ancient-Religion
+ - Sacred-Objects
+ - Мистериальные культы
+ - Древняя история
 title: Кибела — Вихревой Голос Реи и Рождение Цивилизованной Жизни
 translation_model: gpt-4o
 ---

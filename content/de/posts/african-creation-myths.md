@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: african-origin-myths-twin-nommo-ka-lebe
 tags:
-- Mythologie
-- Afrikastudien
-- Bewusstseinsstudien
+ - Mythologie
+ - Afrikastudien
+ - Bewusstsein
 title: Afrikanische Ursprungsmythen, Zwillingsmotive, Nommo, Ka-Schlangen & Lebe Seru
 translation_model: gpt-4o
 ---

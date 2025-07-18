@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: pre-columbian-contact-america
 tags:
-- History
-- Archaeology
-- Genetics
-- Ancient Civilizations
+ - इतिहास
+ - पुरातत्व
+ - आनुवंशिकता
+ - प्राचीन इतिहास
 title: 'कोलंबस-पूर्व महासागरीय संपर्क: वर्तमान ज्ञान और बहस'
 translation_model: gpt-4o
 ---

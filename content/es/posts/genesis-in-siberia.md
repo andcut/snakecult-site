@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: genesis-in-siberia
 tags:
-- proto-mito
-- eurasia
-- historias-de-creación
-- caída-de-la-gracia
+ - proto-mito
+ - eurasia
+ - historias-de-creación
+ - caída-de-la-gracia
 title: 'Ecos de un Edén del Holoceno: Proto-Mitos de la Caída y la Creación a lo largo
   de Eurasia'
 translation_model: gpt-4o

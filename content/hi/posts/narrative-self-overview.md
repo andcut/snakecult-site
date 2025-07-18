@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- Consciousness
-- Identity
-- Memory
-- Narrative
-- Psychology
+ - चेतना
+ - पहचान
+ - स्मृति
+ - कथा
+ - मनोविज्ञान
 title: '### कथात्मक आत्म: एक बहु-विषयक साहित्य समीक्षा'
 translation_model: gpt-4o
 ---

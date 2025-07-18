@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- Gnosticism
+ - Gnostizismus
 title: 'Licht-Gift, Eucharistisches Toxikon & Kosmisches Gift: drei ophidische Tropen
   entpackt'
 translation_model: gpt-4o

@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: swastika-diffusion
 tags:
-- Swastika
-- Ancient-History
-- Archaeology
-- Symbolism
+ - Swastika
+ - प्राचीन इतिहास
+ - पुरातत्व
+ - Symbolism
 title: वैश्विक पुरातात्विक उपस्थिति और स्वस्तिक के सैद्धांतिक व्याख्यान
 translation_model: gpt-4o
 ---

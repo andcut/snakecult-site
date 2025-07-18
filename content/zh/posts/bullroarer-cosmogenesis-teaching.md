@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: bullroarer-cosmogenesis-initiation
 tags:
-- Sacred-Objects
-- Ritual-Anthropology
-- Cosmology
-- Secret-Societies
+ - Sacred-Objects
+ - Ritual-Anthropology
+ - 宇宙学
+ - Secret Societies
 title: 牛吼器宇宙生成启动
 translation_model: gpt-4o
 ---

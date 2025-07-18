@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: self-goes-viral-eve-theory-snake-cult
 tags:
-- الوعي
-- الأساطير
+ - الوعي
+ - الأساطير
 title: 'كيف انتشر مفهوم الذات: نظرية حواء، عبادة الأفاعي، وانفجار الوعي في أواخر العصر
   الجليدي'
 translation_model: gpt-4o

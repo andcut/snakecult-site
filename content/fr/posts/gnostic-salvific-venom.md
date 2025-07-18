@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- Gnosticism
+ - Gnosticisme
 title: Le motif du « venin » dans les traditions du Serpent-Christ
 translation_model: gpt-4o
 ---

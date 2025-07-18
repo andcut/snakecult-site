@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: australia-sapient-paradox
 tags:
-- prehistoria
-- investigación-profunda
+ - Prehistoria
+ - Investigación Profunda
 title: 'Australia y la Paradoja Sapiente: Evidencia de un Salto Cognitivo Tardío'
 translation_model: gpt-4o
 ---

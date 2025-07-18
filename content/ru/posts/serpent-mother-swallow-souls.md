@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- австралийское-время-сновидений
+ - Австралийское время сновидений
 title: Змеиная Мать, которая поглощает души
 translation_model: gpt-4o
 ---

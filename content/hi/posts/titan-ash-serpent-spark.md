@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- पौराणिक-कथा
-- धर्म
-- पुरातत्व
+ - मिथक
+ - धर्म
+ - पुरातत्व
 title: टाइटन ऐश और सर्प स्पार्क — विखंडित ब्रह्मांड, जल-दर्पण, और सृष्टि का ओफिडियन
   कोर
 translation_model: gpt-4o

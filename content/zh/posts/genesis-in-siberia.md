@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: genesis-in-siberia
 tags:
-- 原型神话
-- 欧亚大陆
-- 创世故事
-- 堕落
+ - 原型神话
+ - 欧亚大陆
+ - 创世故事
+ - 堕落
 title: 全新世伊甸园的回声：欧亚大陆的堕落与创造原型神话
 translation_model: gpt-4o
 ---

@@ -20,11 +20,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: men-from-the-sea
 tags:
-- الانتشارية
-- polynesia
-- south-america
-- علم-الوراثة
-- التأريخ
+ - الانتشارية
+ - بولينيزيا
+ - South America
+ - علم الوراثة
+ - علم التأريخ
 title: 'رجال من البحر: الأساطير، الشكوك، وعودة الاتصال عبر المحيط الهادئ'
 translation_model: gpt-4o
 ---

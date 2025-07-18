@@ -22,9 +22,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: schizophrenia-sex-race-epidemiology
 tags:
-- Schizophrenia
-- Epidemiologie
-- Gesundheitsunterschiede
+ - Schizophrenia
+ - Epidemiologie
 title: 'Globale Epidemiologie der Schizophrenie: Inzidenz & Prävalenz nach Geschlecht
   und Ethnizität'
 translation_model: gpt-4o

@@ -29,10 +29,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: australia-dreamtime-symbolic-revolution
 tags:
-- Anthropology
-- Archaeology
-- Deep-Research
-- Cognitive-Science
+ - 人类学
+ - 考古学
+ - 深度研究
+ - 认知科学
 title: 澳大利亚梦幻时代与象征性革命：晚期意识的土著证据？
 translation_model: gpt-4o
 ---

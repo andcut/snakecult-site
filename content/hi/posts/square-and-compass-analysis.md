@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: square-and-compass-analysis
 tags:
-- प्रतीकवाद
-- freemasonry
+ - Symbolism
+ - फ्रीमेसनरी
 title: 'वर्ग और कंपास: सृजन और व्यवस्था का एक वैश्विक प्रतीक'
 translation_model: gpt-4o
 ---

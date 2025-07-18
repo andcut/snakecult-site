@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: breeders-equation-deep-dive
 tags:
-- बुद्धिमत्ता
+ - intelligence
 title: 'होलोसीन चयन मानव बुद्धिमत्ता पर: 50,000-वर्षीय वास्तविकता जांच'
 translation_model: gpt-4o
 ---

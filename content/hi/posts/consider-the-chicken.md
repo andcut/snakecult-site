@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- प्राचीन-संपर्क
-- पुरातत्व
+ - प्राचीन संपर्क
+ - पुरातत्व
 title: चिकन पर विचार करें
 translation_model: gpt-4o
 ---

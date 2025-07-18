@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: eb-tylor-bullroarer
 tags:
-- बुलरोअर
-- टायलर
+ - बुलरोरर
+ - Tylor
 title: एब टायलर बुलरोअर
 translation_model: gpt-4o
 ---

@@ -13,7 +13,7 @@ keywords:
 about:
   - early-human-symbolism
 tags:
-  - Paleolithic-Art
+ - Paleolithic
 core_entity: "Venus figurine"
 quality: 7
 author: "Andrew Cutler"

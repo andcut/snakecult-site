@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormonism-perennial-original
 tags:
-- المورمونية
-- lds
-- اللاهوت
+ - المورمونية
+ - LDS
+ - theology
 title: المورمونية كالدين الدائم والأصلي
 translation_model: gpt-4o
 ---

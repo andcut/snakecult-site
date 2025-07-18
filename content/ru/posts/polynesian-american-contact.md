@@ -20,11 +20,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: men-from-the-sea
 tags:
-- диффузионизм
-- полинезия
-- южная-америка
-- генетика
-- историография
+ - Диффузионизм
+ - Полинезия
+ - South America
+ - Генетика
+ - Историография
 title: 'Люди с моря: мифы, скептицизм и возвращение транс-тихоокеанских контактов'
 translation_model: gpt-4o
 ---

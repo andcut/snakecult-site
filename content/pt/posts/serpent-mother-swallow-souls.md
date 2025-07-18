@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- tempo-do-sonho-australiano
+ - Tempo dos Sonhos Australiano
 title: A Serpente-Mãe Que Engole Almas
 translation_model: gpt-4o
 ---

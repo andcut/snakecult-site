@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by sa/4.0/
 quality: 7
 slug: etoc epistemic-exactitude
 tags:
-- EToC
-- Deep History
-- human evolution
+ - EToC
+ - التاريخ العميق
+ - التطور البشري
 title: 'إيقاظ حواء: كيف أعادت المعرفة الذاتية توصيل العقل البشري'
 translation_model: gpt-4o
 ---

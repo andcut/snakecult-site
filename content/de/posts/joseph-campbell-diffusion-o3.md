@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusionist
 tags:
-- Mythologie
-- Kulturelle Diffusion
+ - Mythologie
+ - Kulturelle Diffusion
 title: 'Campbell der Diffusionist: Boote, nicht Gehirnwellen'
 translation_model: gpt-4o
 ---

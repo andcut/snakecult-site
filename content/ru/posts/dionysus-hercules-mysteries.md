@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- Deep-Research
+ - Глубокие исследования
 title: Геракл и Дионис — Два Ключа Змеиных Мистерий
 translation_model: gpt-4o
 ---

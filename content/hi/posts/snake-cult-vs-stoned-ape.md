@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- Human-Origins
-- Psychedelics
-- Consciousness
+ - मानव मूल
+ - साइकेडेलिक्स
+ - चेतना
 title: सर्प चेतना का पंथ बनाम मैककेना का स्टोन्ड एप सिद्धांत
 translation_model: gpt-4o
 ---

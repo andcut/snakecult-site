@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: zuni-origins
 tags:
-- Zuni
-- Origins
-- Anthropology
+ - Zuni
+ - Ursprünge
+ - Anthropologie
 title: Theorien über die Ursprünge und Geschichte der Zuni
 translation_model: gpt-4o
 ---

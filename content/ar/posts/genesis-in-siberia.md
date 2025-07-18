@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: genesis-in-siberia
 tags:
-- الأسطورة-البدائية
-- أوراسيا
-- قصص-الخلق
-- السقوط-من-النعمة
+ - الأسطورة-البدائية
+ - أوراسيا
+ - قصص-الخلق
+ - السقوط-من-النعمة
 title: 'أصداء عدن الهولوسيني: الأساطير البدائية للسقوط والخلق عبر أوراسيا'
 translation_model: gpt-4o
 ---

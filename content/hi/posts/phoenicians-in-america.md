@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: phoenicians-in-america
 tags:
-- History
-- Archaeology
-- Pseudoarchaeology
+ - इतिहास
+ - पुरातत्व
+ - छद्म पुरातत्व
 title: 'फोनीशियाई अमेरिका में: एक विवादास्पद सिद्धांत का कालानुक्रमिक विश्लेषण'
 translation_model: gpt-4o
 ---

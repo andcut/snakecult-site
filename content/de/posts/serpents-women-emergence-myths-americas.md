@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpents-women-emergence-myths-americas
 tags:
-- Mythology
-- Indigenous-Studies
+ - Mythologie
+ - Indigene Studien
 title: Schlangen und Frauen in Entstehungsmythen in ganz Amerika
 translation_model: gpt-4o
 ---

@@ -31,10 +31,10 @@ license: CC-BY-SA 4.0
 quality: 5
 slug: froese-etoc-hard-consciousness-synthesis
 tags:
-- Sapient Paradox
-- Consciousness
-- recursion
-- ritual
+ - Sapient Paradox
+ - Consciência
+ - recursion
+ - Ritual
 title: '# De Ritual a Recursão: Integrando a Hipótese da Mente Ritualizada de Froese
   com a Teoria de Eva da Consciência'
 translation_model: gpt-4o

@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: y-chromosome-cognition
 tags:
-- 性染色体
-- 认知
-- 自闭症
-- 神经发育障碍
+ - 性染色体
+ - 认知
+ - 自闭症
+ - 神经发育障碍
 title: Y染色体在人类认知中的作用：文献综述
 translation_model: gpt-4o
 ---

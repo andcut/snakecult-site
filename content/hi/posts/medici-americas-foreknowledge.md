@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: medici-americas-foreknowledge
 tags:
-- इतिहास
-- षड्यंत्र
+ - इतिहास
+ - षड्यंत्र
 title: 'मेडिसी और अमेरिका: पूर्वज्ञान?'
 translation_model: gpt-4o
 ---

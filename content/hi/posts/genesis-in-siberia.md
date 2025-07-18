@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: genesis-in-siberia
 tags:
-- प्रोटो-मिथक
-- यूरेशिया
-- सृजन-कथाएँ
-- पतन-से-अनुग्रह
+ - प्रोटो-मिथक
+ - यूरेशिया
+ - सृजन-कथाएँ
+ - पतन-से-अनुग्रह
 title: 'होलोसीन ईडन की प्रतिध्वनियाँ: यूरेशिया में पतन और सृजन के प्रोटो-मिथक'
 translation_model: gpt-4o
 ---

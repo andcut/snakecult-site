@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: square-and-compass-analysis
 tags:
-- symbolisme
-- franc-maçonnerie
+ - Symbolism
+ - Franc-maçonnerie
 title: 'Le Compas et l''Équerre : Un Symbole Global de Création et d''Ordre'
 translation_model: gpt-4o
 ---

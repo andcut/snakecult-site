@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: consider-the-chicken
 tags:
-- contact-ancien
-- archéologie
+ - Contact Ancien
+ - Archéologie
 title: Considérez le Poulet
 translation_model: gpt-4o
 ---

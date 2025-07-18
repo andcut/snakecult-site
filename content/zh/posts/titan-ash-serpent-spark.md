@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- 神话
-- 宗教
-- 考古学
+ - 神话
+ - 宗教
+ - 考古学
 title: 泰坦灰烬与蛇火花 — 解体的宇宙、水镜与创世的蛇形核心
 translation_model: gpt-4o
 ---

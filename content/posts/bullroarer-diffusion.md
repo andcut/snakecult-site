@@ -21,8 +21,8 @@ tags:
  - Bullroarer
  - Diffusionism
  - Prehistory
- - mythology
- - ritual
+ - Mythology
+ - Ritual
 core_entity: "Bullroarer"
 author: "Andrew Cutler" # Assuming based on archetype
 license: "https://creativecommons.org/licenses/by-sa/4.0/"

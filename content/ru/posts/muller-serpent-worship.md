@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: muller-serpent-worship
 tags:
-- max-müller
-- ритуал
-- поклонение-змеям
-- символизм
-- мифология
+ - max-müller
+ - ритуал
+ - поклонение-змеям
+ - символизм
+ - мифология
 title: 'Максимилиан Мюллер о поклонении змеям: индоевропейские корни и глобальные
   параллели'
 translation_model: gpt-4o

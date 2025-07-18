@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cybele-bullroarer-mystery
 tags:
-- Sacred-Objects
-- Mystery-Cults
-- Ancient-Religion
+ - Sacred-Objects
+ - रहस्य संप्रदाय
+ - प्राचीन इतिहास
 title: साइबेले — रिया की घूमती हुई आवाज़ और सभ्य जीवन का जन्म
 translation_model: gpt-4o
 ---

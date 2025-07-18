@@ -16,8 +16,8 @@ about:
   - hermeticism
   - LDS scholarship
 tags:
-  - Mormonism
-  - Hermeticism
+ - Mormonism
+ - Hermeticism
 core_entity: "Enoch / Hermes"
 quality: 6
 author: "Andrew Cutler"

@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: bullroarer-diffusion
 tags:
-- bullroarer
-- диффузионизм
-- доистория
-- мифология
-- ритуал
+ - Гуделка
+ - Диффузионизм
+ - Доистория
+ - Мифология
+ - Ritual
 title: 'Буллроарер: Всемирный ритуальный инструмент и аргумент в пользу древней культурной
   диффузии'
 translation_model: gpt-4o

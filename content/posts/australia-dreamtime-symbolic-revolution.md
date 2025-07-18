@@ -31,10 +31,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: australia-dreamtime-symbolic-revolution
 tags:
-- Anthropology
-- Archaeology
-- Deep-Research
-- Cognitive-Science
+ - Anthropology
+ - Archaeology
+ - Deep Research
+ - Cognitive Science
 title: 'The Australian Dreamtime and the Symbolic Revolution: Indigenous Evidence
   for Late Consciousness?'
 ---

@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-succession-crisis-magic
 tags:
-- एलडीएस
-- आरएलडीएस
-- स्ट्रैंगाइट्स
-- धार्मिक-इतिहास
+ - LDS
+ - RLDS
+ - Strangites
+ - Religious History
 title: मॉर्मन उत्तराधिकार संकट और जादू
 translation_model: gpt-4o
 ---

@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- Gnosticism
+ - Gnosticisme
 title: 'Lumière-Poison, Toxikon Eucharistique & Venin Cosmique : trois tropes ophidiens
   décryptés'
 translation_model: gpt-4o

@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- кооперативное-размножение
-- эволюция
-- гендер
-- психология
+ - Кооперативное размножение
+ - Эволюция
+ - Гендер
+ - Психология
 title: Если социальный интеллект сделал нас людьми, женщины стали людьми первыми
 translation_model: gpt-4o
 ---

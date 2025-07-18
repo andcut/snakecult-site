@@ -15,9 +15,9 @@ about:
 - eternal gospel
 - dispensations
 tags:
-- Mormonism
-- LDS
-- theology
+ - Mormonism
+ - LDS
+ - theology
 core_entity: "Perennial Gospel"
 quality: 6
 author: "Andrew Cutler"

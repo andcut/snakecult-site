@@ -32,10 +32,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: australia-dreamtime-symbolic-revolution
 tags:
-- Anthropology
-- Archaeology
-- Deep-Research
-- Cognitive-Science
+ - Антропология
+ - Археология
+ - Глубокие исследования
+ - Когнитивная наука
 title: 'Австралийское Время Сновидений и Символическая Революция: Доказательства Коренных
   Народов о Позднем Сознании?'
 translation_model: gpt-4o

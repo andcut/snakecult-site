@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: authenticity-of-doctrine-and-covenants-section-132
 tags:
-- Doctrine and Covenants
-- plural marriage
-- Joseph Smith
+ - Doctrine et Alliances
+ - plural marriage
+ - Joseph Smith
 title: Authenticité de la Section 132 des Doctrine et Alliances
 translation_model: gpt-4o
 ---

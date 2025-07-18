@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: sapient-paradox-shallow-dive
 tags:
-- Prehistory
-- Deep-Research
+ - Prehistoria
+ - Investigación Profunda
 title: '# La Paradoja Sapiente: Una Breve Introducción'
 translation_model: gpt-4o
 ---

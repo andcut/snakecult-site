@@ -23,8 +23,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: longevity-of-myths
 tags:
-- Narrative
-- Prehistory
+ - السرد
+ - ما قبل التاريخ
 title: أساطير ما قبل التاريخ التي تعود أصولها إلى أكثر من 8000 عام
 translation_model: gpt-4o
 ---

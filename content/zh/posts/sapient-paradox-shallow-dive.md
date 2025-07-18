@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: sapient-paradox-shallow-dive
 tags:
-- 史前史
-- 深度研究
+ - 史前史
+ - 深度研究
 title: 智人悖论：简要介绍
 translation_model: gpt-4o
 ---

@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: chaos-contained-nehebkau-ogdoad
 tags:
-- Egyptian-myth
-- Greek-myth
-- comparative-religion
+ - मिस्री मिथक
+ - यूनानी मिथक
+ - comparative-religion
 title: 'अराजकता नियंत्रित: नेहेबकाउ, ओगडोड, ग्रीक प्रारंभिक देवता और ब्रह्मांडीय बंधन'
 translation_model: gpt-4o
 ---

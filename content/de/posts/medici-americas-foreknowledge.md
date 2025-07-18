@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: medici-americas-foreknowledge
 tags:
-- Geschichte
-- Verschwörung
+ - Geschichte
+ - Verschwörung
 title: 'Medici und die Amerikas: Vorahnung?'
 translation_model: gpt-4o
 ---

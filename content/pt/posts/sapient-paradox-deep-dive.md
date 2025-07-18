@@ -22,8 +22,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: sapient-paradox-deep-dive
 tags:
-- pré-história
-- pesquisa-profunda
+ - Pré-história
+ - Pesquisa Profunda
 title: '# O Paradoxo Sapiente: Uma Análise Profunda das Evidências Arqueológicas e
   Genéticas'
 translation_model: gpt-4o

@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: australia-sapient-paradox
 tags:
-- предыстория
-- глубокое-исследование
+ - Доистория
+ - Глубокие исследования
 title: 'Австралия и Парадокс Разумности: Доказательства Позднего Когнитивного Прыжка'
 translation_model: gpt-4o
 ---

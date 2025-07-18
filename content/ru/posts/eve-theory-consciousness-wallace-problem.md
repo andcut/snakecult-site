@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: eve-theory-wallace-problem
 tags:
-- Wallace Problem
-- Consciousness
-- Evolution
-- recursion
+ - Wallace Problem
+ - Сознание
+ - Эволюция
+ - recursion
 title: 'Теория сознания Евы: Решение проблемы Уоллеса в человеческом познании'
 translation_model: gpt-4o
 ---

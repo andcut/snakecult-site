@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: weaving-humanity-women-as-civilizers
 tags:
-- folklore
+ - folklore
 title: 'मानवता का ताना-बाना: विश्व पौराणिक कथाओं में सभ्यता की वाहक के रूप में महिलाएँ'
 translation_model: gpt-4o
 ---

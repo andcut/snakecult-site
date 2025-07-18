@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- China
-- Mythology
-- Symbolism
-- Religion
+ - China
+ - Mitologia
+ - Symbolism
+ - Religião
 title: 'Nüwa e Fuxi: O Casal Serpentino Original e o Motivo do Esquadro-Compasso na
   Mitologia'
 translation_model: gpt-4o

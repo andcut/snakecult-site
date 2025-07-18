@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: australia-sapient-paradox
 tags:
-- Urgeschichte
-- Tiefenforschung
+ - Vorgeschichte
+ - Tiefenforschung
 title: 'Australien und das Sapient Paradox: Beweise für einen späten kognitiven Sprung'
 translation_model: gpt-4o
 ---

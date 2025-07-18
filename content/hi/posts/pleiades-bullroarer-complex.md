@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: pleiades-bullroarer-memeplex
 tags:
-- पौराणिक-कथाएं
-- मानवशास्त्र
-- पुरातात्त्विक-खगोलशास्त्र
+ - पौराणिक कथा
+ - मानव विज्ञान
+ - पुरातत्व
 title: प्लेइएड्स और बुलरोअरर मीम-प्लेक्स
 translation_model: gpt-4o
 ---

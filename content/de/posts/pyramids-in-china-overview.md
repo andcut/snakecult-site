@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: pyramids-in-china-overview
 tags:
-- Pyramids
-- Chinese-History
-- Archaeology
+ - Pyramids
+ - Chinesische Geschichte
+ - Archäologie
 title: 'Pyramiden in China: Geschichte, Ausmaß und Interpretationen'
 translation_model: gpt-4o
 ---

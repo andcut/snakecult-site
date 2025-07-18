@@ -18,8 +18,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: australia-sapient-paradox
 tags:
-- 史前史
-- 深度研究
+ - 史前史
+ - 深度研究
 title: 澳大利亚与智慧悖论：晚期认知飞跃的证据
 translation_model: gpt-4o
 ---

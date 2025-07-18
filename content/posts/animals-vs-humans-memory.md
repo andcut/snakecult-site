@@ -19,7 +19,7 @@ about:
  - Animal Behavior
 tags:
  - Memory
- - Cognition
+ - Cognitive Science
  - Evolution
  - Consciousness
  - Animal Intelligence

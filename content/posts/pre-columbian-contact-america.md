@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: pre-columbian-contact-america
 tags:
-- History
-- Archaeology
-- Genetics
-- Ancient Civilizations
+ - History
+ - Archaeology
+ - Genetics
+ - Ancient History
 title: 'Pre-Columbian Trans-Oceanic Contact: Current Knowledge and Debate'
 ---
 

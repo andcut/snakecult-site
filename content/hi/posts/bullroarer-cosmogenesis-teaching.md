@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: bullroarer-cosmogenesis-initiation
 tags:
-- Sacred-Objects
-- Ritual-Anthropology
-- Cosmology
-- Secret-Societies
+ - Sacred-Objects
+ - Ritual-Anthropology
+ - ब्रह्मांड विज्ञान
+ - Secret Societies
 title: बुलरोअर कॉस्मोजेनेसिस इनिशिएशन
 translation_model: gpt-4o
 ---

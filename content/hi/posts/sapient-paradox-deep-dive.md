@@ -22,8 +22,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: sapient-paradox-deep-dive
 tags:
-- प्रागैतिहासिक-काल
-- गहन-अनुसंधान
+ - प्रागैतिहासिक
+ - गहन अनुसंधान
 title: 'सपिएंट पैरेडॉक्स: पुरातात्विक और आनुवंशिक साक्ष्यों की गहन जांच'
 translation_model: gpt-4o
 ---

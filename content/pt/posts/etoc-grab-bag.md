@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- Consciousness
-- Archaeology
-- Mythology
+ - Consciência
+ - Arqueologia
+ - Mitologia
 title: 'O Presente da Serpente: Ecos Míticos de um Culto à Consciência Antiga'
 translation_model: gpt-4o
 ---

@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: self-goes-viral-eve-theory-snake-cult
 tags:
-- сознание
-- мифология
+ - Сознание
+ - Мифология
 title: 'Как самость стала вирусной: теория Евы, культы змей и позднеплейстоценовый
   взрыв сознания'
 translation_model: gpt-4o

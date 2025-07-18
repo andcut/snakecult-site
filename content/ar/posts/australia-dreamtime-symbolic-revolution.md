@@ -31,10 +31,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: australia-dreamtime-symbolic-revolution
 tags:
-- Anthropology
-- Archaeology
-- Deep-Research
-- Cognitive-Science
+ - علم الإنسان
+ - علم الآثار
+ - بحث عميق
+ - علم الإدراك
 title: 'الحلم الأسترالي والثورة الرمزية: دليل السكان الأصليين على الوعي المتأخر؟'
 translation_model: gpt-4o
 ---

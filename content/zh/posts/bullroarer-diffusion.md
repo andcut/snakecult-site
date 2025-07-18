@@ -22,11 +22,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: bullroarer-diffusion
 tags:
-- 牛吼器
-- 传播主义
-- 史前
-- 神话
-- 仪式
+ - 牛吼器
+ - 传播主义
+ - 史前史
+ - 神话学
+ - Ritual
 title: 牛吼器：一种全球性的仪式乐器及古代文化传播的案例分析
 translation_model: gpt-4o
 ---

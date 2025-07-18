@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cosmic-herakles
 tags:
-- Deep-Research
-- Prehistory
+ - بحث عميق
+ - ما قبل التاريخ
 title: كوزميك هيراكليس — أفعى الزمن، بطل عدن
 translation_model: gpt-4o
 ---

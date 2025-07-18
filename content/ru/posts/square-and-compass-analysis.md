@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: square-and-compass-analysis
 tags:
-- символизм
-- масонство
+ - Symbolism
+ - Масонство
 title: '# Квадрат и циркуль: Глобальный символ созидания и порядка'
 translation_model: gpt-4o
 ---

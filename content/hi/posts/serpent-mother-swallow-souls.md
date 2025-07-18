@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- ऑस्ट्रेलियाई-ड्रीमटाइम
+ - ऑस्ट्रेलियाई स्वप्नकाल
 title: आत्माओं को निगलने वाली सर्प-माता
 translation_model: gpt-4o
 ---

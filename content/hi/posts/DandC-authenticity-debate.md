@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: authenticity-of-doctrine-and-covenants-section-132
 tags:
-- Doctrine and Covenants
-- plural marriage
-- Joseph Smith
+ - सिद्धांत और वाचाएं
+ - plural marriage
+ - जोसेफ स्मिथ
 title: डॉक्ट्रिन एंड कोवेनेंट्स सेक्शन 132 की प्रामाणिकता
 translation_model: gpt-4o
 ---

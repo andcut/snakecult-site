@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: no-name-heaven-enuma-elish
 tags:
-- بلاد-ما-بين-النهرين
-- أساطير-الخلق
-- السحر-اللغوي
+ - بلاد-ما-بين-النهرين
+ - أساطير-الخلق
+ - السحر-اللغوي
 title: عندما لم يكن للسماء اسم
 translation_model: gpt-4o
 ---

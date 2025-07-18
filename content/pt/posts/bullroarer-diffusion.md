@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: bullroarer-diffusion
 tags:
-- bullroarer
-- difusionismo
-- pré-história
-- mitologia
-- ritual
+ - Ronco-Touro
+ - Difusionismo
+ - Pré-história
+ - Mitologia
+ - Ritual
 title: 'O Bullroarer: Um Instrumento Ritual Mundial e o Caso para a Difusão Cultural
   Antiga'
 translation_model: gpt-4o

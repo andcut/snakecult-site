@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: christ-serpent-traditions-expanded
 tags:
-- Gnosticism
+ - Gnostizismus
 title: 'Christus als Schlange: Gnostische & Dualistische Traditionen'
 translation_model: gpt-4o
 ---

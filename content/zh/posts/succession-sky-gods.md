@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: no-name-heaven-enuma-elish
 tags:
-- 美索不达米亚
-- 创世神话
-- 语言魔法
+ - 美索不达米亚
+ - 创世神话
+ - 语言魔法
 title: 当天堂没有名字时
 translation_model: gpt-4o
 ---

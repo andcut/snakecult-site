@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: etoc-recursive-attention-loops
 tags:
-- Bewusstsein
-- Evolution
-- Neurowissenschaft
-- Philosophie
+ - Bewusstsein
+ - Evolution
+ - Neurowissenschaft
+ - Philosophie
 title: 'Eve-Theorie des Bewusstseins: Das evolutionäre Entstehen rekursiver Aufmerksamkeitschleifen'
 translation_model: gpt-4o
 ---

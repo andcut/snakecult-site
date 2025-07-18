@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: old-woman-death-motif
 tags:
-- фольклор
+ - folklore
 title: Старая женщина ≘ Мотив смерти в мировых мифах
 translation_model: gpt-4o
 ---

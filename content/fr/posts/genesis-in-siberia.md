@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: genesis-in-siberia
 tags:
-- proto-mythe
-- eurasie
-- histoires-de-création
-- chute-de-la-grâce
+ - proto-mythe
+ - eurasie
+ - histoires-de-création
+ - chute-de-la-grâce
 title: 'Échos d''un Éden holocène : Proto-mythes de la Chute et de la Création à travers
   l''Eurasie'
 translation_model: gpt-4o

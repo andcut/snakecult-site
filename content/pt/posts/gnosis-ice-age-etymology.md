@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: knower-self-gn-erosion
 tags:
-- pronomes
-- etimologia
+ - Pronomes
+ - Etimologia
 title: Conhecedor do Eu e as Hipóteses de Erosão do Gn
 translation_model: gpt-4o
 ---

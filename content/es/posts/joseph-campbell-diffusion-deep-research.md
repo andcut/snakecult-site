@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusion-dossier
 tags:
-- Campbell
-- diffusion
-- mythography
+ - Campbell
+ - Difusión Cultural
+ - mythography
 title: Joseph Campbell, Campeón de la Difusión Cultural
 translation_model: gpt-4o
 ---

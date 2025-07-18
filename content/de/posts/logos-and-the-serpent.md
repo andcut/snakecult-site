@@ -26,12 +26,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: ontological-continuity-adam-to-christ-2
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Philosophy
-- Religion
-- Psychology
+ - Bewusstsein
+ - Evolution
+ - Mythologie
+ - Philosophie
+ - Religion
+ - Psychologie
 title: Eva, die Schlange & das Logos — Von Göbekli Tepe bis Johannes 1
 translation_model: gpt-4o
 ---

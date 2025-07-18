@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: bullroarer-diffusion
 tags:
-- rhombe
-- diffusionnisme
-- préhistoire
-- mythologie
-- rituel
+ - Rhombe
+ - Diffusionnisme
+ - Préhistoire
+ - Mythologie
+ - Ritual
 title: 'Le Rhombe : Un Instrument Rituel Mondial et le Cas de la Diffusion Culturelle
   Ancienne'
 translation_model: gpt-4o

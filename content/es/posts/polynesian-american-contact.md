@@ -21,11 +21,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: men-from-the-sea
 tags:
-- difusionismo
-- polinesia
-- américa-del-sur
-- genética
-- historiografía
+ - Difusionismo
+ - Polinesia
+ - South America
+ - Genética
+ - Historiografía
 title: 'Hombres del mar: mitos, escepticismo y el retorno del contacto transpacífico'
 translation_model: gpt-4o
 ---

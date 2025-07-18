@@ -21,11 +21,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: muller-serpent-worship
 tags:
-- max-müller
-- 仪式
-- 蛇崇拜
-- 象征主义
-- 神话学
+ - max-müller
+ - 仪式
+ - 蛇崇拜
+ - 象征主义
+ - 神话学
 title: Maximilian Müller关于蛇崇拜：印欧根源与全球相似性
 translation_model: gpt-4o
 ---

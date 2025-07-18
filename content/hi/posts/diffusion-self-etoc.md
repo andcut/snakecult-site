@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: self-goes-viral-eve-theory-snake-cult
 tags:
-- चेतना
-- पौराणिक-कथाएँ
+ - चेतना
+ - पौराणिक कथा
 title: 'कैसे आत्म वायरल हो गई: ईव सिद्धांत, सांप पंथ, और देर-प्लीस्टोसीन में चेतना
   का विस्फोट'
 translation_model: gpt-4o

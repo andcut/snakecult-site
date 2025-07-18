@@ -14,7 +14,7 @@ about:
  - mythology
  - mystery religion
 tags:
- - Deep-Research
+ - Deep Research
 core_entity: "Zeus"
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"

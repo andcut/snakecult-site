@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-enoch-as-poimandres
 tags:
-- мормонизм
-- герметизм
+ - Мормонизм
+ - Герметизм
 title: Енох, Гермес Трисмегист и Книга Моисея Джозефа Смита
 translation_model: gpt-4o
 ---

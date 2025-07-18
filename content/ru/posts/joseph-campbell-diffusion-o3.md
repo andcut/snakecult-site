@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusionist
 tags:
-- мифология
-- культурная-диффузия
+ - Мифология
+ - Культурная диффузия
 title: 'Кэмпбелл диффузионист: Лодки, а не мозговые волны'
 translation_model: gpt-4o
 ---

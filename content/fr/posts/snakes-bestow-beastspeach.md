@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: snakes-speech-mythology
 tags:
-- World‑Mythology
-- Snake‑Cult
-- Linguistic‑Magic
+ - Mythologie
+ - Snake‑Cult
+ - Magie Linguistique
 title: Serpents qui Confèrent la Parole des Bêtes dans la Mythologie Mondiale
 translation_model: gpt-4o
 ---

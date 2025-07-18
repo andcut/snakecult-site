@@ -28,9 +28,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: cosmic-herakles-dionysus-deepdive
 tags:
-- Deep-Research
-- Philosophy
-- Religion
+ - Глубокие исследования
+ - Философия
+ - Религия
 title: 'Космический Геракл и Дионис Загрей: Орфическая космология и мистерии'
 translation_model: gpt-4o
 ---

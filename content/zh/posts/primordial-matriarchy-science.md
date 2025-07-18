@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: primordial-matriarchy-science
 tags:
-- 女性主义理论
-- 母权制辩论
-- 演化
-- 人类起源
+ - 女权主义理论
+ - 母权制辩论
+ - 进化
+ - 人类起源
 title: 女性作为文化的创始者：神话起源与学术争论
 translation_model: gpt-4o
 ---

@@ -14,9 +14,9 @@ about:
   - mythology
   - diffusionism
 tags:
-  - Campbell
-  - diffusion
-  - mythography
+ - Campbell
+ - Cultural Diffusion
+ - mythography
 core_entity: "Joseph Campbell"
 quality: 7
 author: "Andrew Cutler"

@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: sapient-paradox-shallow-dive
 tags:
-- предыстория
-- глубокое-исследование
+ - Доистория
+ - Глубокие исследования
 title: 'Парадокс Сапиента: Краткое Введение'
 translation_model: gpt-4o
 ---

@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: no-name-heaven-enuma-elish
 tags:
-- месопотамия
-- мифы-о-сотворении
-- лингвистическая-магия
+ - месопотамия
+ - мифы-о-сотворении
+ - лингвистическая-магия
 title: Когда у Небес не было имени
 translation_model: gpt-4o
 ---

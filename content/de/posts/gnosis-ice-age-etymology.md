@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: knower-self-gn-erosion
 tags:
-- Pronomen
-- Etymologie
+ - Pronomen
+ - Etymologie
 title: Wissendes Selbst und die Gn-Erosionshypothesen
 translation_model: gpt-4o
 ---

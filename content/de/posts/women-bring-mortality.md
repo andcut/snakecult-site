@@ -22,7 +22,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: women-bring-death-motif
 tags:
-- Folklore
+ - folklore
 title: 'Sie, die den Tod bringt: Weibliche Todesboten in der Weltmythologie'
 translation_model: gpt-4o
 ---

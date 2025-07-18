@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: x-chromosome-cognition-3
 tags:
-- Human Genetics
-- Neurobiology
-- Sex Differences
+ - 人类遗传学
+ - 神经生物学
+ - Sex Differences
 title: X染色体与认知
 translation_model: gpt-4o
 ---

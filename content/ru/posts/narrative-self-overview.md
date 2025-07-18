@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- Consciousness
-- Identity
-- Memory
-- Narrative
-- Psychology
+ - Сознание
+ - Идентичность
+ - Память
+ - Повествование
+ - Психология
 title: '# Нарративное Я: Мультидисциплинарный Обзор Литературы'
 translation_model: gpt-4o
 ---

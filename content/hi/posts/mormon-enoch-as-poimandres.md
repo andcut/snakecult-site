@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-enoch-as-poimandres
 tags:
-- mormonism
-- hermeticism
+ - मॉर्मन धर्म
+ - हर्मेटिसिज्म
 title: एनोच, हर्मेस ट्रिस्मेगिस्टस, और जोसेफ स्मिथ की मूसा की पुस्तक
 translation_model: gpt-4o
 ---

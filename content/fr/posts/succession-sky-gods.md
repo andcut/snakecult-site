@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: no-name-heaven-enuma-elish
 tags:
-- mésopotamie
-- mythes-de-la-création
-- magie-linguistique
+ - mésopotamie
+ - mythes-de-la-création
+ - magie-linguistique
 title: Quand le Ciel n'avait pas de Nom
 translation_model: gpt-4o
 ---

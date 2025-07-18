@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: A00-as-archaic-introgression
 tags:
-- Y-DNA
-- A00
-- Genetics
-- archaic humans
-- introgression
+ - Y-DNA
+ - A00
+ - Genetics
+ - archaic humans
+ - introgression
 title: 'Y-Chromosome Haplogroup A00: Archaic Introgression or Deep Human Lineage?'
 ---
 

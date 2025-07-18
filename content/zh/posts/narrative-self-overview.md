@@ -22,11 +22,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- Consciousness
-- Identity
-- Memory
-- Narrative
-- Psychology
+ - 意识
+ - 身份
+ - 记忆
+ - 叙事
+ - 心理学
 title: 叙事自我：多学科文献综述
 translation_model: gpt-4o
 ---

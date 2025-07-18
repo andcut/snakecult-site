@@ -17,9 +17,9 @@ about:
 - evolutionary anthropology
 - cognitive archaeology
 tags:
-- EToC
-- Deep History
-- human evolution
+ - EToC
+ - Deep History
+ - Human Evolution
 core_entity: Venus figurine
 author: Andrew Cutler
 license: https://creativecommons.org/licenses/by sa/4.0/

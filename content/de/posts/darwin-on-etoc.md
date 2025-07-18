@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: darwin-on-etoc
 tags:
-- Evolution
-- Consciousness
-- Anthropology
+ - Evolution
+ - Bewusstsein
+ - Anthropologie
 title: Darwin und die Eve-Theorie des Bewusstseins
 translation_model: gpt-4o
 ---

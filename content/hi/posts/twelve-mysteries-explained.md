@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: twelve-mysteries
 tags:
-- Consciousness
-- Mythology
-- Human-Origins
-- Evolution
+ - चेतना
+ - पौराणिक कथा
+ - मानव मूल
+ - विकास
 title: 12 रहस्यों का समाधान ईव थ्योरी ऑफ कॉन्शियसनेस द्वारा
 translation_model: gpt-4o
 ---

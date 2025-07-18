@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: eve-theory-wallace-problem
 tags:
-- Wallace Problem
-- Consciousness
-- Evolution
-- recursion
+ - Wallace Problem
+ - Conscience
+ - Évolution
+ - recursion
 title: 'Théorie d''Eve de la Conscience : Résoudre le Problème de Wallace sur la Cognition
   Humaine'
 translation_model: gpt-4o

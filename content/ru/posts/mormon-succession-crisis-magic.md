@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-succession-crisis-magic
 tags:
-- lds
-- rlds
-- странгиты
-- история-религии
+ - СПД
+ - RLDS
+ - Strangites
+ - Religious History
 title: Кризис преемственности в мормонизме и магия
 translation_model: gpt-4o
 ---

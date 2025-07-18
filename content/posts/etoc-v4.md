@@ -23,13 +23,13 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: etoc-v4
 tags:
-- Consciousness
-- Evolution
-- Prehistory
-- Mythology
-- Neuroscience
-- Psychology
-- Anthropology
+ - Consciousness
+ - Evolution
+ - Prehistory
+ - Mythology
+ - Neuroscience
+ - Psychology
+ - Anthropology
 title: Eve Theory of Consciousness v4
 ---
 

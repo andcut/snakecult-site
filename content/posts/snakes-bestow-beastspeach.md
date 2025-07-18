@@ -15,9 +15,9 @@ about:
   - anthropology
   - consciousness
 tags:
-  - World‑Mythology
-  - Snake‑Cult
-  - Linguistic‑Magic
+ - Mythology
+ - Snake‑Cult
+ - Linguistic‑Magic
 core_entity: "Serpent"
 quality: 9
 author: "Andrew Cutler"

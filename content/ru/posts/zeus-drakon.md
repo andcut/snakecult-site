@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: zeus-serpent-mysteries
 tags:
-- Deep-Research
+ - Глубокие исследования
 title: Zeus Drakôn — Змей, Пожиратель, Обновитель Мира
 translation_model: gpt-4o
 ---

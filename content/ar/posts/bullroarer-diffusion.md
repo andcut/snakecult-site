@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: bullroarer-diffusion
 tags:
-- الطائرة-الدوارة
-- الانتشارية
-- ما-قبل-التاريخ
-- الأساطير
-- الطقوس
+ - مزمار الثور
+ - الانتشارية
+ - ما قبل التاريخ
+ - الأساطير
+ - Ritual
 title: '# الطائرة الدوارة: أداة طقسية عالمية والحجة لانتشار ثقافي قديم'
 translation_model: gpt-4o
 ---

@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: muller-serpent-worship
 tags:
-- max-müller
-- الطقوس
-- عبادة-الثعبان
-- الرمزية
-- علم-الأساطير
+ - max-müller
+ - الطقوس
+ - عبادة-الثعبان
+ - الرمزية
+ - علم-الأساطير
 title: 'ماكسيميليان مولر حول عبادة الثعبان: الجذور الهندو-أوروبية والتوازي العالمي'
 translation_model: gpt-4o
 ---

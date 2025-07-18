@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- Consciousness
-- Identity
-- Memory
-- Narrative
-- Psychology
+ - Bewusstsein
+ - Identität
+ - Gedächtnis
+ - Erzählung
+ - Psychologie
 title: 'Das narrative Selbst: Eine multidisziplinäre Literaturübersicht'
 translation_model: gpt-4o
 ---

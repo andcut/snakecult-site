@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: y-chromosome-cognition
 tags:
-- половые-хромосомы
-- познание
-- аутизм
-- нейроразвитие
+ - половые-хромосомы
+ - познание
+ - аутизм
+ - нейроразвитие
 title: '# Роль Y-хромосомы в человеческом познании: Обзор литературы'
 translation_model: gpt-4o
 ---

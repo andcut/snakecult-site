@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: x-chromosome-cognition-3
 tags:
-- Human Genetics
-- Neurobiology
-- Sex Differences
+ - علم الوراثة البشرية
+ - علم الأحياء العصبي
+ - Sex Differences
 title: '# الكروموسوم X والإدراك'
 translation_model: gpt-4o
 ---

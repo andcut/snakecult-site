@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hallucinogenic-atlas
 tags:
-- Entheogens
-- Archaeology
-- Psychedelics
+ - एंथियोजेंस
+ - पुरातत्व
+ - साइकेडेलिक्स
 title: 'हैलुसिनोजेनिक एटलस: प्राचीन एंथोजेन्स की महाद्वीपीय जनगणना'
 translation_model: gpt-4o
 ---

@@ -16,7 +16,7 @@ about:
  - cognitive-evolution
 tags:
  - Evolution
- - Deep-Research
+ - Deep Research
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

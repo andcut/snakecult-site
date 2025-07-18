@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: african-origin-myths-twin-nommo-ka-lebe
 tags:
-- мифология
-- африканские-исследования
-- исследования-сознания
+ - Мифология
+ - Африканские исследования
+ - Сознание
 title: Африканские мифы о происхождении, мотивы близнецов, Номмо, Ка-змеи и Лебе Серу
 translation_model: gpt-4o
 ---

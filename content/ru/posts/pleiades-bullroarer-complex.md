@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: pleiades-bullroarer-memeplex
 tags:
-- мифология
-- антропология
-- археоастрономия
+ - Мифология
+ - Антропология
+ - Археология
 title: Плеяды и Мем-Плекс Булроара
 translation_model: gpt-4o
 ---

@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: self-goes-viral-eve-theory-snake-cult
 tags:
-- Bewusstsein
-- Mythologie
+ - Bewusstsein
+ - Mythologie
 title: 'Wie das Selbst viral ging: Eva-Theorie, Schlangenkulte und die spätpleistozäne
   Explosion des Bewusstseins'
 translation_model: gpt-4o

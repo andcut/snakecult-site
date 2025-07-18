@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
-- ميرو
-- قصة-الخلق
-- سقوط-الإنسان
-- الثعبان
-- الفاكهة-المحرمة
+ - ميرو
+ - قصة-الخلق
+ - سقوط-الإنسان
+ - الثعبان
+ - الفاكهة-المحرمة
 title: '"السقوط" في أساطير ميرو ونظائره في أفريقيا وأوراسيا'
 translation_model: gpt-4o
 ---

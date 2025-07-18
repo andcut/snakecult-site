@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusionist
 tags:
-- पौराणिक-कथाएं
-- सांस्कृतिक-प्रसार
+ - पौराणिक कथा
+ - सांस्कृतिक प्रसार
 title: 'कैम्पबेल डिफ्यूज़निस्ट: नावें, न कि मस्तिष्क तरंगें'
 translation_model: gpt-4o
 ---

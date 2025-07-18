@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormonism-perennial-original
 tags:
-- mormonisme
-- lds
-- théologie
+ - Mormonisme
+ - SDJ
+ - theology
 title: Le mormonisme comme religion pérenne et originelle
 translation_model: gpt-4o
 ---

@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusionist
 tags:
-- mitología
-- difusión-cultural
+ - Mitología
+ - Difusión Cultural
 title: 'Campbell el Difusionista: Barcos, No Ondas Cerebrales'
 translation_model: gpt-4o
 ---

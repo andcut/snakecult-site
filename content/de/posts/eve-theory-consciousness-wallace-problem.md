@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: eve-theory-wallace-problem
 tags:
-- Wallace Problem
-- Consciousness
-- Evolution
-- recursion
+ - Wallace Problem
+ - Bewusstsein
+ - Evolution
+ - recursion
 title: 'Eva-Theorie des Bewusstseins: Lösung des Wallace-Problems der menschlichen
   Kognition'
 translation_model: gpt-4o

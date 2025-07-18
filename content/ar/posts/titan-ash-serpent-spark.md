@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- الأساطير
-- الدين
-- علم-الآثار
+ - الأسطورة
+ - الدين
+ - علم الآثار
 title: تايتان آش وشرارة الأفعى — الكون الممزق، مرايا الماء، والنواة الأفعوانية للخلق
 translation_model: gpt-4o
 ---

@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- Mythos
-- Religion
-- Archäologie
+ - Mythos
+ - Religion
+ - Archäologie
 title: Titanenasche & Schlangenfunke — Zerstückelter Kosmos, Wasserspiegel und der
   ophidische Kern der Schöpfung
 translation_model: gpt-4o

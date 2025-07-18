@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-enoch-as-poimandres
 tags:
-- mormonisme
-- hermétisme
+ - Mormonisme
+ - Hermétisme
 title: Enoch, Hermès Trismégiste, et le Livre de Moïse de Joseph Smith
 translation_model: gpt-4o
 ---

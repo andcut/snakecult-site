@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: breeders-equation-deep-dive
 tags:
-- inteligencia
+ - intelligence
 title: 'Selección del Holoceno sobre la Inteligencia Humana: Un Análisis de Realidad
   de 50,000 Años'
 translation_model: gpt-4o

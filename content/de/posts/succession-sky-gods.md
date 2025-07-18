@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: no-name-heaven-enuma-elish
 tags:
-- Mesopotamien
-- Schöpfungsmythen
-- Sprachmagie
+ - Mesopotamien
+ - Schöpfungsmythen
+ - Sprachmagie
 title: Als der Himmel keinen Namen hatte
 translation_model: gpt-4o
 ---

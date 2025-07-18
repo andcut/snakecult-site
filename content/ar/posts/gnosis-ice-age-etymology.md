@@ -18,8 +18,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: knower-self-gn-erosion
 tags:
-- الضمائر
-- التأثيل
+ - الضمائر
+ - علم أصل الكلمات
 title: العارف الذاتي وفرضيات تآكل المعرفة
 translation_model: gpt-4o
 ---

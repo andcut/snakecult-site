@@ -16,8 +16,8 @@ about:
 - comparative mythology
 - sacred geometry
 tags:
-- symbolism
-- Freemasonry
+ - Symbolism
+ - Freemasonry
 core_entity: "Square & Compass"
 quality: 6
 author: "Andrew Cutler"

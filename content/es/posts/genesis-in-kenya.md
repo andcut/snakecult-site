@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
-- meru
-- historia-de-la-creación
-- caída-del-hombre
-- serpiente
-- fruta-prohibida
+ - meru
+ - historia-de-la-creación
+ - caída-del-hombre
+ - serpiente
+ - fruta-prohibida
 title: El "Caída" en la Mitología Meru y Sus Paralelismos Afro-Eurasiáticos
 translation_model: gpt-4o
 ---

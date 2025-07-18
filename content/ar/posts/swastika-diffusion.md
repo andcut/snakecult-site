@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: swastika-diffusion
 tags:
-- Swastika
-- Ancient-History
-- Archaeology
-- Symbolism
+ - Swastika
+ - التاريخ القديم
+ - علم الآثار
+ - Symbolism
 title: ظهور الصليب المعقوف عالميًا والتفسيرات النظرية
 translation_model: gpt-4o
 ---

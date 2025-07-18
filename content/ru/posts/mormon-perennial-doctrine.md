@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormonism-perennial-original
 tags:
-- мормонизм
-- спд
-- теология
+ - Мормонизм
+ - СПД
+ - theology
 title: Мормонизм как вечная и изначальная религия
 translation_model: gpt-4o
 ---

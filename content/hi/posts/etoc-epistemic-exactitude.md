@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by sa/4.0/
 quality: 7
 slug: etoc epistemic-exactitude
 tags:
-- EToC
-- Deep History
-- human evolution
+ - EToC
+ - गहरा इतिहास
+ - मानव विकास
 title: 'ईव का जागरण: कैसे आत्म-ज्ञान ने मानव मस्तिष्क को पुनः संयोजित किया'
 translation_model: gpt-4o
 ---

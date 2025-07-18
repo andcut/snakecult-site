@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: christ-serpent-traditions-expanded
 tags:
-- Gnosticism
+ - ज्ञानवाद
 title: 'मसीह के रूप में सर्प: ग्नॉस्टिक और द्वैतवादी परंपराएँ'
 translation_model: gpt-4o
 ---

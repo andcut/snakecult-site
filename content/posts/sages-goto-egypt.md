@@ -22,7 +22,7 @@ tags:
  - Ancient Wisdom
  - Greek Philosophy
  - Religious History
- - Mysteries
+ - Mystery Cults
 core_entity: "Egyptian Mysteries"
 quality: 7
 author: "Andrew Cutler"

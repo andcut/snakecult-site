@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: y-chromosome-cognition
 tags:
-- लिंग-गुणसूत्र
-- संज्ञान
-- ऑटिज़्म
-- तंत्रिका-विकास-संबंधी-विकार
+ - लिंग-गुणसूत्र
+ - संज्ञान
+ - ऑटिज़्म
+ - तंत्रिका-विकास-संबंधी-विकार
 title: 'मानव संज्ञान में Y गुणसूत्र की भूमिका: एक साहित्य समीक्षा'
 translation_model: gpt-4o
 ---

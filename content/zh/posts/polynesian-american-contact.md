@@ -19,11 +19,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: men-from-the-sea
 tags:
-- 传播主义
-- polynesia
-- south-america
-- 遗传学
-- 历史编纂学
+ - 传播主义
+ - 波利尼西亚
+ - South America
+ - 遗传学
+ - 史学
 title: 《来自海洋的人：神话、怀疑与跨太平洋接触的回归》
 translation_model: gpt-4o
 ---

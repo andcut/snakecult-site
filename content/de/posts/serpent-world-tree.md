@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-world-tree
 tags:
-- Mythology
-- Consciousness
-- Entheogens
+ - Mythologie
+ - Bewusstsein
+ - Entheogene
 title: Die Schlange am Weltbaum
 translation_model: gpt-4o
 ---

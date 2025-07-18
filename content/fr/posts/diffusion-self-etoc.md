@@ -22,8 +22,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: self-goes-viral-eve-theory-snake-cult
 tags:
-- conscience
-- mythologie
+ - Conscience
+ - Mythologie
 title: 'Comment le soi est devenu viral : théorie d''Ève, cultes du serpent et l''explosion
   de la conscience au Pléistocène tardif'
 translation_model: gpt-4o

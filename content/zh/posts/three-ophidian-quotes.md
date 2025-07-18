@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- Gnosticism
+ - 诺斯替主义
 title: 光毒、圣体毒液与宇宙毒素：解读三种蛇形隐喻
 translation_model: gpt-4o
 ---

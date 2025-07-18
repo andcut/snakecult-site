@@ -19,7 +19,7 @@ tags:
  - LDS
  - RLDS
  - Strangites
- - religious history
+ - Religious History
 core_entity: "Mormon Succession Crisis"
 quality: 6
 author: "Andrew Cutler"

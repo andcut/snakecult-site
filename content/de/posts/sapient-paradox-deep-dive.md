@@ -22,8 +22,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: sapient-paradox-deep-dive
 tags:
-- Vorgeschichte
-- Tiefenforschung
+ - Vorgeschichte
+ - Tiefenforschung
 title: 'The Sapient Paradox: A Deep Dive into the Archaeological and Genetic Evidence'
 translation_model: gpt-4o
 ---

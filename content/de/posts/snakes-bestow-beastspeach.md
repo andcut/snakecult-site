@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: snakes-speech-mythology
 tags:
-- World‑Mythology
-- Snake‑Cult
-- Linguistic‑Magic
+ - Mythologie
+ - Snake‑Cult
+ - Sprachliche Magie
 title: Schlangen, die Tier-Sprache in der Weltmythologie verleihen
 translation_model: gpt-4o
 ---

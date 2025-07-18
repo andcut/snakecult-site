@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- tiempo-del-sueño-australiano
+ - Tiempo del Sueño Australiano
 title: La Serpiente-Madre Que Devora Almas
 translation_model: gpt-4o
 ---

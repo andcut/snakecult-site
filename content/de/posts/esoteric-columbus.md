@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: columbus-esoteric-ties-new-world-rumors
 tags:
-- Christopher Columbus
-- Renaissance
-- Erkundungsgeschichte
-- Geheimes Wissen
+ - Christoph Kolumbus
+ - Renaissance
+ - Entdeckungsgeschichte
+ - Secret Societies
 title: Christopher Columbus' esoterische Verbindungen und Gerüchte über die Neue Welt
 translation_model: gpt-4o
 ---

@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- temps-du-rêve-australien
+ - Temps du Rêve Australien
 title: La Mère-Serpent Qui Avale les Âmes
 translation_model: gpt-4o
 ---

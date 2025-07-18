@@ -18,7 +18,6 @@ about:
 tags:
  - Schizophrenia
  - Epidemiology
- - Health-Disparities
 core_entity: "schizophrenia"
 quality: 7
 author: "Andrew Cutler"

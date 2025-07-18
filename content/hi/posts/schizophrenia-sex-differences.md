@@ -21,9 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: schizophrenia-sex-race-epidemiology
 tags:
-- स्किज़ोफ्रेनिया
-- महामारी-विज्ञान
-- स्वास्थ्य-असमानताएँ
+ - Schizophrenia
+ - महामारी विज्ञान
 title: 'ग्लोबल एपिडेमियोलॉजी ऑफ स्किज़ोफ्रेनिया: लिंग और जातीयता के अनुसार घटना और
   प्रसार'
 translation_model: gpt-4o

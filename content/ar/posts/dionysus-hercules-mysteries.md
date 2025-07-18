@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- Deep-Research
+ - بحث عميق
 title: هيراكليس وديونيسوس — مفتاحا أسرار الأفعى التوأمان
 translation_model: gpt-4o
 ---

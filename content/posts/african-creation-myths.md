@@ -20,7 +20,7 @@ about:
 tags:
  - Mythology
  - African-Studies
- - Consciousness-Studies
+ - Consciousness
 core_entity: "Nommo twins"
 quality: 6
 author: "Andrew Cutler"

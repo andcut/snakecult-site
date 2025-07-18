@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: bullroarer-diffusion
 tags:
-- bullroarer
-- प्रसारवाद
-- प्रागइतिहास
-- पौराणिक-कथाएँ
-- अनुष्ठान
+ - बुलरोरर
+ - प्रसारवाद
+ - प्रागैतिहासिक
+ - पौराणिक कथा
+ - Ritual
 title: 'द बुलरोअरर: एक विश्वव्यापी अनुष्ठानिक वाद्य यंत्र और प्राचीन सांस्कृतिक प्रसार
   के लिए मामला'
 translation_model: gpt-4o

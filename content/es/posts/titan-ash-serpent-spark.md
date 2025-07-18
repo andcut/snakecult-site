@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- mito
-- religión
-- arqueología
+ - Mito
+ - Religión
+ - Arqueología
 title: Ceniza de Titán y Chispa de Serpiente — Cosmos Desmembrado, Espejos de Agua
   y el Núcleo Ofídico de la Creación
 translation_model: gpt-4o

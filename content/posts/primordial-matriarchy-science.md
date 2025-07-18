@@ -22,8 +22,8 @@ about:
 tags:
  - "Feminist Theory"
  - "Matriarchy Debate"
- - evolution
- - "human origins"
+ - Evolution
+ - Human Origins
 author: "Andrew Cutler" # Assuming author based on previous edits, adjust if needed.
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

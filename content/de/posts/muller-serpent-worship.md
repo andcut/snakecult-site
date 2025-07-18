@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: muller-serpent-worship
 tags:
-- Max Müller
-- Ritual
-- Schlangenanbetung
-- Symbolik
-- Mythologie
+ - Max Müller
+ - Ritual
+ - Schlangenanbetung
+ - Symbolik
+ - Mythologie
 title: 'Maximilian Müller über Schlangenanbetung: Indoeuropäische Wurzeln und globale
   Parallelen'
 translation_model: gpt-4o

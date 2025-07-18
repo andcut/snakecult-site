@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- Cognitive-Revolution
-- Philosophy
-- Prehistory
+ - संज्ञानात्मक विज्ञान
+ - दर्शन
+ - प्रागैतिहासिक
 title: 'मन के बिग बैंग: ऊपरी-पैलियो मस्तिष्क उन्नयन के बारे में 7 सिद्धांत'
 translation_model: gpt-4o
 ---

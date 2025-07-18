@@ -24,10 +24,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: genesis-in-siberia
 tags:
-- Proto-Mythos
-- Eurasien
-- Schöpfungsgeschichten
-- Sündenfall
+ - Proto-Mythos
+ - Eurasien
+ - Schöpfungsgeschichten
+ - Sündenfall
 title: 'Echos eines holozänen Eden: Proto-Mythen von Fall und Schöpfung in Eurasien'
 translation_model: gpt-4o
 ---

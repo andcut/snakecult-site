@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: heroic-draughts-snake-cult
 tags:
-- Indo‑European
-- Mythic‑Studies
-- Ritual‑Practice
+ - Indoeuropäisch
+ - Mythologie
+ - Ritual
 title: Heroische Tränke und der Schlangenkult des Bewusstseins
 translation_model: gpt-4o
 ---

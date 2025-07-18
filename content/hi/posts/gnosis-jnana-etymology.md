@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: knower-self-gn-erosion
 tags:
-- Linguistics
+ - भाषाविज्ञान
 title: नोवर सेल्फ और जीएन इरोशन परिकल्पनाएँ
 translation_model: gpt-4o
 ---

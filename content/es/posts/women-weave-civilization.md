@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: weaving-humanity-women-as-civilizers
 tags:
-- folklore
+ - folklore
 title: 'Tejiendo la Humanidad: Las Mujeres como Civilizadoras en la Mitología Mundial'
 translation_model: gpt-4o
 ---

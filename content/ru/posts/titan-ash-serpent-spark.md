@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: titan-ash-serpent-spark
 tags:
-- миф
-- религия
-- археология
+ - Миф
+ - Религия
+ - Археология
 title: Титанический Пепел и Искра Змеи — Разорванный Космос, Водные Зеркала и Офидийное
   Ядро Творения
 translation_model: gpt-4o

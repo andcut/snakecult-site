@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
-- meru
-- história-da-criação
-- queda-do-homem
-- serpente
-- fruto-proibido
+ - meru
+ - história-da-criação
+ - queda-do-homem
+ - serpente
+ - fruto-proibido
 title: O "Queda" na Mitologia Meru e Seus Paralelos Afro-Eurasiáticos
 translation_model: gpt-4o
 ---

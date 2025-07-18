@@ -10,7 +10,6 @@ keywords:
 about:
  - main-theme
 tags:
- - Tag-A
 core_entity: "Mormon Cosmology"  # ≤ 3-word noun phrase. Pick the single, concrete thing that best embodies the post.
 quality: 6          # ★ 1‒10 subjective "how good is this?"; 6 = unrated/OK
 author: "Andrew Cutler"

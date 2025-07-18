@@ -15,9 +15,9 @@ about:
   - architecture
   - history
 tags:
-  - Pyramids
-  - Chinese-History
-  - Archaeology
+ - Pyramids
+ - Chinese-History
+ - Archaeology
 core_entity: "Chinese pyramid"
 quality: 6
 author: "Andrew Cutler"

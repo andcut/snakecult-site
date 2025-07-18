@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: australia-sapient-paradox
 tags:
-- عصور-ما-قبل-التاريخ
-- بحث-عميق
+ - ما قبل التاريخ
+ - بحث عميق
 title: 'أستراليا ومفارقة العاقل: أدلة على قفزة معرفية متأخرة'
 translation_model: gpt-4o
 ---

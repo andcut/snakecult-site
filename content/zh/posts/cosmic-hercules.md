@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cosmic-herakles
 tags:
-- Deep-Research
-- Prehistory
+ - 深度研究
+ - 史前史
 title: 宇宙赫拉克勒斯——时间之蛇，伊甸园的英雄
 translation_model: gpt-4o
 ---

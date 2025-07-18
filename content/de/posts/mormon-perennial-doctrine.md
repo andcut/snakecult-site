@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormonism-perennial-original
 tags:
-- Mormonismus
-- LDS
-- Theologie
+ - Mormonentum
+ - HLT
+ - theology
 title: Mormonismus als die immerwährende und ursprüngliche Religion
 translation_model: gpt-4o
 ---

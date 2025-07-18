@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- Gnosticism
+ - 诺斯替主义
 title: ‘毒液’在蛇-基督传统中的主题
 translation_model: gpt-4o
 ---

@@ -24,8 +24,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: longevity-of-myths
 tags:
-- Narrative
-- Prehistory
+ - Narrativa
+ - Pré-história
 title: Mitos Pré-históricos com Origens de Mais de 8.000 Anos Atrás
 translation_model: gpt-4o
 ---

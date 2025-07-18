@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- Gnosticism
+ - Гностицизм
 title: Мотив «Яда» в традициях Змея-Христа
 translation_model: gpt-4o
 ---

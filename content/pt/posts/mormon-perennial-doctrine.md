@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormonism-perennial-original
 tags:
-- mormonismo
-- sud
-- teologia
+ - Mormonismo
+ - SUD
+ - theology
 title: Mormonismo como a Religião Perene e Original
 translation_model: gpt-4o
 ---

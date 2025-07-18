@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- Human-Origins
-- Psychedelics
-- Consciousness
+ - Human Origins
+ - Psychedelics
+ - Consciousness
 title: The Snake Cult of Consciousness vs. McKenna's Stoned Ape Theory
 ---
 

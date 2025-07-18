@@ -26,10 +26,10 @@ license: CC-BY-SA 4.0
 quality: 7
 slug: froese-ritualized-mind-eve-theory
 tags:
-- Sapient Paradox
-- Consciousness
-- Evolution
-- ritual
+ - Sapient Paradox
+ - चेतना
+ - विकास
+ - Ritual
 title: 'अनुष्ठानिक मन और चेतना के ईव सिद्धांत: मानव संज्ञानात्मक विकास का एक अभिसारी
   विवरण'
 translation_model: gpt-4o

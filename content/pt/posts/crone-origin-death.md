@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: old-woman-death-motif
 tags:
-- folclore
+ - folklore
 title: Velha Mulher ≘ Motivo da Morte em Mitos Mundiais
 translation_model: gpt-4o
 ---

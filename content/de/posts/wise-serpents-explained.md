@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: snake-cult-of-consciousness-wise-serpent
 tags:
-- Mythology
-- Neuroscience
-- Anthropology
+ - Mythologie
+ - Neurowissenschaft
+ - Anthropologie
 title: Schlangenkult des Bewusstseins und der globale Ruf der „weisen“ Schlange
 translation_model: gpt-4o
 ---

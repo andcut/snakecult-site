@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- Gnosticism
+ - ज्ञानवाद
 title: '''सर्प-मसीह परंपराओं में ''विष'' की विशेषता'
 translation_model: gpt-4o
 ---

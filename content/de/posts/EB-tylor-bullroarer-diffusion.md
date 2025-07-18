@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: eb-tylor-bullroarer
 tags:
-- Bullroarer
-- Tylor
+ - Schwirrholz
+ - Tylor
 title: Eb Tylor Bullroarer
 translation_model: gpt-4o
 ---

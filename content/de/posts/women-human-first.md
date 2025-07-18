@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- Kooperative Aufzucht
-- Evolution
-- Geschlecht
-- Psychologie
+ - Kooperative Fortpflanzung
+ - Evolution
+ - Geschlecht
+ - Psychologie
 title: Wenn soziale Intelligenz uns menschlich machte, waren Frauen zuerst menschlich
 translation_model: gpt-4o
 ---

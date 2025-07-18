@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: pleiades-bullroarer-memeplex
 tags:
-- الأساطير
-- الأنثروبولوجيا
-- علم-الفلك-الأثري
+ - الأساطير
+ - علم الإنسان
+ - علم الآثار
 title: بلياديس ومجمع ميمات البُلرور
 translation_model: gpt-4o
 ---

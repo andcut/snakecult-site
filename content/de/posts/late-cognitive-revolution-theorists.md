@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- Cognitive-Revolution
-- Philosophy
-- Prehistory
+ - Kognitionswissenschaft
+ - Philosophie
+ - Vorgeschichte
 title: 'Urknalle des Geistes: 7 Theorien über das Gehirn-Upgrade im Jungpaläolithikum'
 translation_model: gpt-4o
 ---

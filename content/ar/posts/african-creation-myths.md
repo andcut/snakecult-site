@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: african-origin-myths-twin-nommo-ka-lebe
 tags:
-- الأساطير
-- الدراسات-الأفريقية
-- دراسات-الوعي
+ - الأساطير
+ - الدراسات الأفريقية
+ - الوعي
 title: أساطير الأصل الأفريقية، رموز التوأم، نومو، ثعابين كا ولب سيرو
 translation_model: gpt-4o
 ---

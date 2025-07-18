@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: longevity-of-myths
 tags:
-- Narrative
-- Prehistory
+ - 叙事
+ - 史前史
 title: 史前神话起源于8,000多年前
 translation_model: gpt-4o
 ---

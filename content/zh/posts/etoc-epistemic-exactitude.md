@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by sa/4.0/
 quality: 7
 slug: etoc epistemic-exactitude
 tags:
-- EToC
-- Deep History
-- human evolution
+ - EToC
+ - 深层历史
+ - 人类进化
 title: 觉醒的夏娃：自我认知如何重塑人类心智
 translation_model: gpt-4o
 ---

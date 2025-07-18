@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormon-succession-crisis-magic
 tags:
-- LDS
-- RLDS
-- Strangites
-- Religionsgeschichte
+ - HLT
+ - RLDS
+ - Strangites
+ - Religious History
 title: Mormonische Nachfolgekrise und Magie
 translation_model: gpt-4o
 ---

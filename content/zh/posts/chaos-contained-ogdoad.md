@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: chaos-contained-nehebkau-ogdoad
 tags:
-- Egyptian-myth
-- Greek-myth
-- comparative-religion
+ - 埃及神话
+ - 希腊神话
+ - comparative-religion
 title: 混沌的约束：Nehebkau、八元神、希腊原始神与宇宙纽带
 translation_model: gpt-4o
 ---

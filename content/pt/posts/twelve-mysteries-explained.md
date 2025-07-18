@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: twelve-mysteries
 tags:
-- Consciousness
-- Mythology
-- Human-Origins
-- Evolution
+ - Consciência
+ - Mitologia
+ - Origens Humanas
+ - Evolução
 title: 12 Mistérios Resolvidos pela Teoria da Consciência de Eve
 translation_model: gpt-4o
 ---

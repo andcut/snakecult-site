@@ -25,10 +25,10 @@ license: CC-BY-SA 4.0
 quality: 7
 slug: froese-ritualized-mind-eve-theory
 tags:
-- Sapient Paradox
-- Consciousness
-- Evolution
-- ritual
+ - Sapient Paradox
+ - Consciousness
+ - Evolution
+ - Ritual
 title: 'The Ritualised Mind and the Eve Theory of Consciousness: A Convergent Account
   of Human Cognitive Evolution'
 ---

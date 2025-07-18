@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: sapient-paradox-deep-dive
 tags:
-- ما-قبل-التاريخ
-- بحث-عميق
+ - ما قبل التاريخ
+ - بحث عميق
 title: '# مفارقة السابينت: نظرة معمقة في الأدلة الأثرية والجينية'
 translation_model: gpt-4o
 ---

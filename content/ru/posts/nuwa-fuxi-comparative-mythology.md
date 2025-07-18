@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- China
-- Mythology
-- Symbolism
-- Religion
+ - Китай
+ - Мифология
+ - Symbolism
+ - Религия
 title: 'Нюйва и Фуси: Змеиная первая пара и мотив квадрат-компас в мифологии'
 translation_model: gpt-4o
 ---

@@ -19,10 +19,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: eve-theory-wallace-problem
 tags:
-- Wallace Problem
-- Consciousness
-- Evolution
-- recursion
+ - Wallace Problem
+ - 意识
+ - 进化
+ - recursion
 title: Eve意识理论：解决华莱士的人类认知问题
 translation_model: gpt-4o
 ---

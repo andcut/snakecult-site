@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- Cognitive-Revolution
-- Philosophy
-- Prehistory
+ - Cognitive Science
+ - Philosophy
+ - Prehistory
 title: 'Big Bangs of the Mind: 7 Theories About the Upper-Paleo Brain Upgrade'
 ---
 

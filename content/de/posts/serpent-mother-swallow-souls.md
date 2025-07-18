@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- Australische-Traumzeit
+ - Australische Traumzeit
 title: Die Schlangen-Mutter, die Seelen verschlingt
 translation_model: gpt-4o
 ---

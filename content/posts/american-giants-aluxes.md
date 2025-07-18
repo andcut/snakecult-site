@@ -16,9 +16,9 @@ keywords:
 about:
  - mythic deep time
 tags:
- - mythology
- - diffusionism
- - archaeology
+ - Mythology
+ - Diffusionism
+ - Archaeology
 core_entity: "First People"
 quality: 6
 author: "Andrew Cutler"

@@ -22,12 +22,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Scott Alexander
-- Philosophy
-- Speculation
+ - Bewusstsein
+ - Evolution
+ - Mythologie
+ - Scott Alexander
+ - Philosophie
+ - Speculation
 title: Eva-Theorie des Bewusstseins (Slate Star Codex Remix)
 translation_model: gpt-4o
 ---

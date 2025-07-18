@@ -16,8 +16,8 @@ about:
 tags:
  - Olmec
  - Mesoamerica
- - Archaeological Theory
- - Ancient Civilizations
+ - Archaeology
+ - Ancient History
  - Mexican History
 core_entity: "Olmec Civilization"
 quality: 6

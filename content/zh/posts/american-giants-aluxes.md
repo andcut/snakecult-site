@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: earlier-inhabitants-american-myths
 tags:
-- 神话学
-- 传播主义
-- 考古学
+ - 神话学
+ - 传播主义
+ - 考古学
 title: 谁是最早到达这里的？美洲原住民关于早期人群的神话
 translation_model: gpt-4o
 ---

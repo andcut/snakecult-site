@@ -28,9 +28,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: cosmic-herakles-dionysus-deepdive
 tags:
-- Deep-Research
-- Philosophy
-- Religion
+ - गहन अनुसंधान
+ - दर्शन
+ - धर्म
 title: 'कॉस्मिक हेराक्लेस और डायोनिसस ज़ाग्रेयस: ऑर्फिक ब्रह्मांड विज्ञान और रहस्य'
 translation_model: gpt-4o
 ---

@@ -18,7 +18,7 @@ tags:
  - Christopher Columbus
  - Renaissance
  - Exploration History
- - Secret Knowledge
+ - Secret Societies
 core_entity: "Christopher Columbus"
 quality: 6
 author: "Andrew Cutler"

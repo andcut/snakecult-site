@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: chaos-contained-nehebkau-ogdoad
 tags:
-- Egyptian-myth
-- Greek-myth
-- comparative-religion
+ - الأسطورة المصرية
+ - الأسطورة اليونانية
+ - comparative-religion
 title: '# الفوضى المحتواة: نيهبكاو، الأوغدود، البدايات اليونانية والرابطة الكونية'
 translation_model: gpt-4o
 ---

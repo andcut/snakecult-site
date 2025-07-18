@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- Consciousness
-- Archaeology
-- Mythology
+ - Bewusstsein
+ - Archäologie
+ - Mythologie
 title: 'Die Gabe der Schlange: Mythische Echos eines alten Bewusstseinskults'
 translation_model: gpt-4o
 ---

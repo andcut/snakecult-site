@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: mormonism-perennial-original
 tags:
-- मॉर्मनवाद
-- एलडीएस
-- धर्मशास्त्र
+ - मॉर्मन धर्म
+ - LDS
+ - theology
 title: मॉर्मनवाद के रूप में शाश्वत और मूल धर्म
 translation_model: gpt-4o
 ---

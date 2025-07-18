@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: genesis-in-kenya
 tags:
-- मेरु
-- सृष्टि-कथा
-- मनुष्य-का-पतन
-- सर्प
-- निषिद्ध-फल
+ - मेरु
+ - सृष्टि-कथा
+ - मनुष्य-का-पतन
+ - सर्प
+ - निषिद्ध-फल
 title: '"मेरु पौराणिक कथाओं में ''पतन'' और इसके अफ्रो-यूरेशियाई समकक्ष"'
 translation_model: gpt-4o
 ---

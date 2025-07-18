@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: authenticity-of-doctrine-and-covenants-section-132
 tags:
-- Doctrine and Covenants
-- plural marriage
-- Joseph Smith
+ - Учение и Заветы
+ - plural marriage
+ - Джозеф Смит
 title: '# Подлинность Учения и Заветов, Раздел 132'
 translation_model: gpt-4o
 ---

@@ -28,12 +28,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: ontological-continuity-adam-to-christ
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Philosophy
-- Religion
-- Psychology
+ - चेतना
+ - विकास
+ - पौराणिक कथा
+ - दर्शन
+ - धर्म
+ - मनोविज्ञान
 title: 'लोगोस और सर्प: आत्म-जागरूकता का मिथकीय विकास'
 translation_model: gpt-4o
 ---

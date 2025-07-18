@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: earlier-inhabitants-american-myths
 tags:
-- mitología
-- difusionismo
-- arqueología
+ - Mitología
+ - Difusionismo
+ - Arqueología
 title: '# ¿Quién Estuvo Aquí Primero? Mitos Indígenas Americanos de Pueblos Anteriores'
 translation_model: gpt-4o
 ---

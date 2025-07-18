@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: intelligence-selection-50k
 tags:
-- Evolution
-- Deep-Research
+ - التطور
+ - بحث عميق
 title: 'الذكاء البشري: 50,000 سنة كافية — تحقق من واقع معادلة المربي'
 translation_model: gpt-4o
 ---

@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: deep-roots-pan-american
 tags:
-- Deep History
-- Americas
-- Migration
+ - Historia Profunda
+ - Américas
+ - Migración
 title: Raíces Profundas de la Cultura Panamericana
 translation_model: gpt-4o
 ---

@@ -18,8 +18,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusionist
 tags:
-- 神话
-- 文化扩散
+ - 神话学
+ - 文化传播
 title: 坎贝尔的扩散主义：船只，而非脑波
 translation_model: gpt-4o
 ---

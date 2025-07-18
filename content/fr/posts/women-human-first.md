@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- élevage-coopératif
-- évolution
-- genre
-- psychologie
+ - Élevage Coopératif
+ - Évolution
+ - Genre
+ - Psychologie
 title: Si l'intelligence sociale nous a rendus humains, les femmes ont été humaines
   en premier.
 translation_model: gpt-4o

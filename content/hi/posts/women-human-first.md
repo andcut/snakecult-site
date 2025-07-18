@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 10
 slug: women-human-first
 tags:
-- सहकारी-प्रजनन
-- विकास
-- लिंग
-- मनोविज्ञान
+ - सहकारी प्रजनन
+ - विकास
+ - लिंग
+ - मनोविज्ञान
 title: यदि सामाजिक बुद्धिमत्ता ने हमें मानव बनाया, तो महिलाएँ पहले मानव थीं
 translation_model: gpt-4o
 ---

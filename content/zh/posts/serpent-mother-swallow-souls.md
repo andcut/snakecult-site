@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-mother-soul-swallowing
 tags:
-- 澳大利亚梦境时代
+ - 澳洲梦时代
 title: 吞噬灵魂的蛇母
 translation_model: gpt-4o
 ---

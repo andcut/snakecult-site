@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: sapient-paradox-deep-dive
 tags:
-- 史前史
-- 深度研究
+ - 史前史
+ - 深度研究
 title: 《智者悖论：深入探讨考古学和遗传学证据》
 translation_model: gpt-4o
 ---

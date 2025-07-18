@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: darwin-short-evolutionary-timelines
 tags:
-- Darwin
-- Evolutionary Theory
-- Human-Origins
+ - Darwin
+ - Evolutionary Theory
+ - Human Origins
 title: 'Darwin on Human Evolution: Short Timelines and Gene-Culture Interaction'
 ---
 

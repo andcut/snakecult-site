@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- Human-Origins
-- Psychedelics
-- Consciousness
+ - 人类起源
+ - 迷幻药
+ - 意识
 title: 蛇崇拜意识与麦肯纳的醉猿理论
 translation_model: gpt-4o
 ---

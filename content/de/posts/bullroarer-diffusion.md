@@ -24,11 +24,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: bullroarer-diffusion
 tags:
-- Bullroarer
-- Diffusionismus
-- Vorgeschichte
-- Mythologie
-- Ritual
+ - Schwirrholz
+ - Diffusionismus
+ - Vorgeschichte
+ - Mythologie
+ - Ritual
 title: 'Der Bullroarer: Ein weltweites Ritualinstrument und das Argument für alte
   kulturelle Diffusion'
 translation_model: gpt-4o

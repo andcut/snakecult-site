@@ -16,7 +16,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: esoteric-mormonism
 tags:
-- Tag-A
+ - Tag-A
 title: المورمونية الباطنية
 translation_model: gpt-4o
 ---

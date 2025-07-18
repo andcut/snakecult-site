@@ -26,10 +26,10 @@ license: CC-BY-SA 4.0
 quality: 7
 slug: froese-ritualized-mind-eve-theory
 tags:
-- Sapient Paradox
-- Consciousness
-- Evolution
-- ritual
+ - Sapient Paradox
+ - Conscience
+ - Évolution
+ - Ritual
 title: 'L''esprit ritualisé et la théorie d''Ève de la conscience : un compte rendu
   convergent de l''évolution cognitive humaine'
 translation_model: gpt-4o

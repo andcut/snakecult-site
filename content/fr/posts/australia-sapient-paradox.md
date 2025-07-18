@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: australia-sapient-paradox
 tags:
-- préhistoire
-- recherche-approfondie
+ - Préhistoire
+ - Recherche Approfondie
 title: 'L''Australie et le Paradoxe Sapient : Preuve d''un Saut Cognitif Tardif'
 translation_model: gpt-4o
 ---

@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: medici-americas-foreknowledge
 tags:
-- история
-- конспирология
+ - история
+ - конспирология
 title: 'Медичи и Америки: Предварительное знание?'
 translation_model: gpt-4o
 ---

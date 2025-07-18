@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: sapient-paradox-shallow-dive
 tags:
-- ما-قبل-التاريخ
-- بحث-عميق
+ - ما قبل التاريخ
+ - بحث عميق
 title: 'المفارقة العاقلة: مقدمة موجزة'
 translation_model: gpt-4o
 ---

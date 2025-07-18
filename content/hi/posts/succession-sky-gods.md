@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: no-name-heaven-enuma-elish
 tags:
-- मेसोपोटामिया
-- सृष्टि-मिथक
-- भाषाई-जादू
+ - मेसोपोटामिया
+ - सृष्टि-मिथक
+ - भाषाई-जादू
 title: जब स्वर्ग का कोई नाम नहीं था
 translation_model: gpt-4o
 ---

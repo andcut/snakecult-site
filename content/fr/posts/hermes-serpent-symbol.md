@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hermes-serpent-symbol
 tags:
-- hermétisme
-- ésotérisme
-- alchimie
+ - Hermétisme
+ - Ésotérisme
+ - Alchimie
 title: Hermès et le Symbole du Serpent
 translation_model: gpt-4o
 ---

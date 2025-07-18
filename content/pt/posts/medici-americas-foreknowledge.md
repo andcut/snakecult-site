@@ -20,8 +20,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: medici-americas-foreknowledge
 tags:
-- história
-- conspiração
+ - história
+ - conspiração
 title: 'Medici e as Américas: Conhecimento Prévio?'
 translation_model: gpt-4o
 ---

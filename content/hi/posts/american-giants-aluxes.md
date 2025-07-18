@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: earlier-inhabitants-american-myths
 tags:
-- पौराणिक-कथा
-- प्रसारवाद
-- पुरातत्व
+ - पौराणिक कथा
+ - प्रसारवाद
+ - पुरातत्व
 title: कौन पहले यहाँ था? पहले लोगों के बारे में स्वदेशी अमेरिकी मिथक
 translation_model: gpt-4o
 ---

@@ -24,10 +24,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: x-chromosome-cognition-2
 tags:
-- Genetics
-- Neuroscience
-- Cognitive-Science
-- Evolution
+ - Генетика
+ - Нейронауки
+ - Когнитивная наука
+ - Эволюция
 title: Хромосома X и человеческое познание
 translation_model: gpt-4o
 ---

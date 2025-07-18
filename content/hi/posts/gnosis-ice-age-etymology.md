@@ -18,8 +18,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: knower-self-gn-erosion
 tags:
-- सर्वनाम
-- व्युत्पत्ति
+ - सर्वनाम
+ - व्युत्पत्ति
 title: नोवर सेल्फ और जीएन इरोजन हाइपोथीसिस
 translation_model: gpt-4o
 ---

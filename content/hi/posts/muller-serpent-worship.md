@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: muller-serpent-worship
 tags:
-- max-müller
-- अनुष्ठान
-- सर्प-पूजा
-- प्रतीकवाद
-- पौराणिक-कथाएँ
+ - max-müller
+ - अनुष्ठान
+ - सर्प-पूजा
+ - प्रतीकवाद
+ - पौराणिक-कथाएँ
 title: 'मैक्सिमिलियन म्यूलर पर सर्प पूजा: इंडो-यूरोपीय जड़ें और वैश्विक समानताएँ'
 translation_model: gpt-4o
 ---

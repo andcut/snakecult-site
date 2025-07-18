@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: atlantic-atlantis-shared-root
 tags:
-- Mythology
-- Atlantis
-- Etymology
-- Mysticism
+ - Mythologie
+ - Atlantis
+ - Etymologie
+ - Mystizismus
 title: 'Im Schatten des Atlas: Warum der Atlantische Ozean und Atlantis denselben
   Namen tragen'
 translation_model: gpt-4o

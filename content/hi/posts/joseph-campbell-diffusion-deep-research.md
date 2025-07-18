@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusion-dossier
 tags:
-- Campbell
-- diffusion
-- mythography
+ - कैंपबेल
+ - सांस्कृतिक प्रसार
+ - mythography
 title: जोसेफ कैंपबेल, सांस्कृतिक प्रसार के समर्थक
 translation_model: gpt-4o
 ---

@@ -26,12 +26,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: ontological-continuity-adam-to-christ-2
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Philosophy
-- Religion
-- Psychology
+ - चेतना
+ - विकास
+ - पौराणिक कथा
+ - दर्शन
+ - धर्म
+ - मनोविज्ञान
 title: ईव, सर्प और लोगोस — गोबेकली टेप से जॉन 1 तक
 translation_model: gpt-4o
 ---

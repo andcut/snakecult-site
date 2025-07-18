@@ -13,7 +13,7 @@ keywords:
 about:
 - early-christian-heresy
 tags:
-- Gnosticism
+ - Gnosticism
 core_entity: "Edenic Serpent"
 quality: 9
 author: "Andrew Cutler"

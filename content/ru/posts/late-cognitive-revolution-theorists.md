@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- Cognitive-Revolution
-- Philosophy
-- Prehistory
+ - Когнитивная наука
+ - Философия
+ - Доистория
 title: '# Большие взрывы разума: 7 теорий об улучшении мозга в верхнем палеолите'
 translation_model: gpt-4o
 ---

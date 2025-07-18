@@ -21,12 +21,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- Consciousness
-- Evolution
-- Mythology
-- Scott Alexander
-- Philosophy
-- Speculation
+ - 意识
+ - 进化
+ - 神话学
+ - Scott Alexander
+ - 哲学
+ - Speculation
 title: Eve意识理论（Slate Star Codex Remix）
 translation_model: gpt-4o
 ---

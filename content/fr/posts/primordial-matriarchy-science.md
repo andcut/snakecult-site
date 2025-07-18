@@ -24,10 +24,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: primordial-matriarchy-science
 tags:
-- théorie-féministe
-- débat-sur-le-matriarcat
-- évolution
-- origines-humaines
+ - Théorie Féministe
+ - Débat sur le Matriarcat
+ - Évolution
+ - Origines Humaines
 title: 'Femmes en tant que Progénitrices de la Culture : Origines Mythiques et Débats
   Académiques'
 translation_model: gpt-4o
