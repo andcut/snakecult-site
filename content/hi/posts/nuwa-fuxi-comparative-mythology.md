@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- चीन
-- पौराणिक-कथाएँ
-- प्रतीकवाद
-- धर्म
+- China
+- Mythology
+- Symbolism
+- Religion
 title: 'नुवा और फुशी: पौराणिक कथाओं में सर्पाकार प्रथम युगल और वर्ग-परकार प्रतीक'
 translation_model: gpt-4o
 ---

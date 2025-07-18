@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cosmic-herakles
 tags:
-- recherche-approfondie
-- préhistoire
+- Deep-Research
+- Prehistory
 title: Cosmic Herakles — Serpent du Temps, Héros d'Eden
 translation_model: gpt-4o
 ---

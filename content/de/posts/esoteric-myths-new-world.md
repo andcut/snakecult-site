@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: esoteric-myths-new-world
 tags:
-- Geheimgesellschaften
+- Secret Societies
 - Atlantis
-- Biblische Archäologie
-- Freimaurerei
-- Kolonialgeschichte
+- Biblical Archaeology
+- Freemasonry
+- Colonial History
 title: Esoterische Mythen und die Neue Welt
 translation_model: gpt-4o
 ---

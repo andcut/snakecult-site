@@ -10,8 +10,12 @@
   # Specify Hugo version (optional, but good practice)
   # Check your local 'hugo version' or Netlify's default if unsure
   HUGO_VERSION = "0.133.0"
-  # Increase Hugo parallelism (2× workers usually matches Netlify CPU allotment)
-  HUGO_NUMWORKERMULTIPLIER = "2"
+  # Maximize Hugo parallelism for Netlify's CPU allocation
+  HUGO_NUMWORKERMULTIPLIER = "3"
+  # Disable expensive git operations for faster builds
+  HUGO_ENABLEGITINFO = "false"
+  # Skip SASS processing in Hugo (handle separately if needed)
+  HUGO_SKIP_SASS = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"

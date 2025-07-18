@@ -31,10 +31,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: australia-dreamtime-symbolic-revolution
 tags:
-- मानवशास्त्र
-- पुरातत्व
-- गहन-अनुसंधान
-- संज्ञानात्मक-विज्ञान
+- Anthropology
+- Archaeology
+- Deep-Research
+- Cognitive-Science
 title: 'ऑस्ट्रेलियाई ड्रीमटाइम और प्रतीकात्मक क्रांति: देर से चेतना के लिए आदिवासी
   साक्ष्य?'
 translation_model: gpt-4o

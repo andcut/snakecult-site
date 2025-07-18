@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: phoenicians-in-america
 tags:
-- Geschichte
-- Archäologie
-- Pseudoarchäologie
+- History
+- Archaeology
+- Pseudoarchaeology
 title: 'Phönizier in Amerika: Eine chronologische Analyse einer umstrittenen Theorie'
 translation_model: gpt-4o
 ---

@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- الغنوصية
+- Gnosticism
 title: '# موضوع "السم" في تقاليد المسيح-الأفعى'
 translation_model: gpt-4o
 ---

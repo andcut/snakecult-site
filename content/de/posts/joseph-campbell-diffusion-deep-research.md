@@ -22,8 +22,8 @@ quality: 7
 slug: campbell-diffusion-dossier
 tags:
 - Campbell
-- Diffusion
-- Mythographie
+- diffusion
+- mythography
 title: Joseph Campbell, Verfechter der kulturellen Diffusion
 translation_model: gpt-4o
 ---

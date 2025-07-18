@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: deep-roots-pan-american
 tags:
-- गहरी-इतिहास
-- अमेरिका
-- प्रवास
+- Deep History
+- Americas
+- Migration
 title: पैन-अमेरिकी संस्कृति की गहरी जड़ें
 translation_model: gpt-4o
 ---

@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- गहन-अनुसंधान
+- Deep-Research
 title: हेराक्लेस और डायोनिसस — सर्प रहस्यों की जुड़वां कुंजियाँ
 translation_model: gpt-4o
 ---

@@ -1,29 +1,29 @@
 ---
-title: 'Phoenicians in the Americas: A Chronological Analysis of a Controversial Theory'
+about:
+- historical analysis
+- archaeological evidence
+author: Andrew Cutler
+core_entity: Phoenician sailors
 date: 2025-04-22
-lastmod: 2025-04-22
-slug: phoenicians-in-america
 description: A comprehensive historical analysis of claims that Phoenician sailors
   reached the Americas before Columbus, examining evidence and scholarly debate from
   classical antiquity to modern times.
+draft: false
 keywords:
 - pre-columbian contact
 - phoenician history
 - archaeological hoaxes
 - diffusionism
 - ancient navigation
-about:
-- historical analysis
-- archaeological evidence
+lastmod: 2025-04-22
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 7
+slug: phoenicians-in-america
 tags:
 - History
-- archaeology
+- Archaeology
 - Pseudoarchaeology
-core_entity: Phoenician sailors
-author: Andrew Cutler
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
-quality: 7
+title: 'Phoenicians in the Americas: A Chronological Analysis of a Controversial Theory'
 ---
 
 **TL;DR**

@@ -1,11 +1,14 @@
 ---
-title: The Snake Cult of Consciousness vs. McKenna's Stoned Ape Theory
+about:
+- neuroscience
+- anthropology
+- mythology
+author: Andrew Cutler
 date: 2025-04-20
-lastmod: 2025-04-20
-slug: snake-cult-vs-stoned-ape
 description: 'An exploration of two theories on the origins of human consciousness:
   the Snake Cult/Eve Theory (snake venom) versus the Stoned Ape Theory (psilocybin
   mushrooms).'
+draft: false
 keywords:
 - consciousness
 - evolution
@@ -14,18 +17,15 @@ keywords:
 - psilocybin
 - stoned ape theory
 - eve theory
-about:
-- neuroscience
-- anthropology
-- mythology
-tags:
-- human-origins
-- Psychedelics
-- consciousness
-author: Andrew Cutler
+lastmod: 2025-04-20
 license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
 quality: 7
+slug: snake-cult-vs-stoned-ape
+tags:
+- Human-Origins
+- Psychedelics
+- Consciousness
+title: The Snake Cult of Consciousness vs. McKenna's Stoned Ape Theory
 ---
 
 **TL;DR**

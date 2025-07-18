@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: darwin-short-evolutionary-timelines
 tags:
-- дарвин
-- эволюционная-теория
-- происхождение-человека
+- Darwin
+- Evolutionary Theory
+- Human-Origins
 title: 'Дарвин о человеческой эволюции: короткие временные рамки и взаимодействие
   генов и культуры'
 translation_model: gpt-4o

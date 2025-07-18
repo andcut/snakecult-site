@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: christ-serpent-traditions-expanded
 tags:
-- 诺斯替主义
+- Gnosticism
 title: 基督作为蛇：诺斯替主义与二元论传统
 translation_model: gpt-4o
 ---

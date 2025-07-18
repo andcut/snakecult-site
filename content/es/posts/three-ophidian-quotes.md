@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- gnosticismo
+- Gnosticism
 title: 'Luz-Veneno, Toxikon Eucarístico y Veneno Cósmico: tres tropos ofídicos desglosados'
 translation_model: gpt-4o
 ---

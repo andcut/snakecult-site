@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: x-chromosome-cognition
 tags:
-- संज्ञान
-- जेनेटिक्स
-- न्यूरोसाइंस
-- विकास
+- Cognition
+- Genetics
+- Neuroscience
+- Evolution
 title: एक्स क्रोमोसोम और उच्च-स्तरीय संज्ञान
 translation_model: gpt-4o
 ---

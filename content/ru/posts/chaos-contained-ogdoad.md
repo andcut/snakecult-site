@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: chaos-contained-nehebkau-ogdoad
 tags:
-- египетская-мифология
-- греческая-мифология
-- сравнительное-религиоведение
+- Egyptian-myth
+- Greek-myth
+- comparative-religion
 title: '# Хаос Сдержанный: Нехебкау, Огдоада, Греческие Первобытные и Космическая
   Связь'
 translation_model: gpt-4o

@@ -21,7 +21,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: best-christian-writers-ranked
 tags:
-- Kirchengeschichte
+- Church-History
 title: Christliche Schriftsteller Rangliste
 translation_model: gpt-4o
 ---

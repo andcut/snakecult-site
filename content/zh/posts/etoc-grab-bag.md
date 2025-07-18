@@ -19,9 +19,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- 意识
-- 考古学
-- 神话学
+- Consciousness
+- Archaeology
+- Mythology
 title: 《蛇的礼物：古代意识崇拜的神话回声》
 translation_model: gpt-4o
 ---

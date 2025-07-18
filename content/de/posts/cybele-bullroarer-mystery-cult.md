@@ -24,9 +24,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cybele-bullroarer-mystery
 tags:
-- Heilige-Objekte
-- Mysterienkulte
-- Antike-Religion
+- Sacred-Objects
+- Mystery-Cults
+- Ancient-Religion
 title: Cybele — Rheas wirbelnde Stimme und die Geburt des zivilisierten Lebens
 translation_model: gpt-4o
 ---

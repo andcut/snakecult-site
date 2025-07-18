@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: best-christian-writers-ranked
 tags:
-- historia-de-la-iglesia
+- Church-History
 title: Escritores Cristianos Clasificados
 translation_model: gpt-4o
 ---

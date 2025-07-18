@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- الوعي
-- علم-الآثار
-- الأساطير
+- Consciousness
+- Archaeology
+- Mythology
 title: 'هدية الأفعى: أصداء أسطورية لثقافة الوعي القديمة'
 translation_model: gpt-4o
 ---

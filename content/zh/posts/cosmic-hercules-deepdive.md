@@ -26,9 +26,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: cosmic-herakles-dionysus-deepdive
 tags:
-- 深度研究
-- 哲学
-- 宗教
+- Deep-Research
+- Philosophy
+- Religion
 title: 宇宙赫拉克勒斯与狄俄尼索斯扎格柔斯：俄耳甫斯宇宙论与神秘仪式
 translation_model: gpt-4o
 ---

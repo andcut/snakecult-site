@@ -1,0 +1,108 @@
+{{- define "main" -}}
+{{/* Regular posts specialized template - optimized for main site content */}}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    {{- /* Enhanced heading with symbols for regular posts */ -}}
+    {{ partial "heading-with-symbols.html" (dict 
+      "level" 1 
+      "anchor" (.Params.slug | default (.Title | urlize))
+      "text" .Title
+    )}}
+    
+    <div class="post-meta flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-retro-foreground/80 mt-2 mb-4">
+      {{- if .Date -}}
+        <time class="post-date" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{- $date := .Date -}}
+          {{- with .Params.dateFormat -}}
+            {{- $date | time.Format . -}}
+          {{- else -}}
+            {{- with .Site.Params.dateFormat -}}
+              {{- $date | time.Format . -}}
+            {{- else -}}
+              {{- $date | time.Format "2006-01-02" -}}
+            {{- end -}}
+          {{- end -}}
+          {{- if and $.Site.Params.showLastUpdated .Lastmod -}}
+            &nbsp;{{- partial "post-lastmod" . -}}
+          {{- end -}}
+        </time>
+      {{- end -}}
+      {{- with .Params.Author -}}
+        <span class="post-author" itemprop="author">by {{ . }}</span>
+      {{- end -}}
+      {{- if and (.Param "readingTime") (eq (.Param "readingTime") true) -}}
+        <span class="post-reading-time">{{ .ReadingTime }} {{ $.Site.Params.minuteReadingTime | default "min read" }} ({{ .WordCount }} {{ $.Site.Params.words | default "words" }})</span>
+      {{- end -}}
+      {{- with .Params.quality -}}
+        <span class="post-quality">Quality: {{ . }}/10</span>
+      {{- end -}}
+    </div>
+
+    {{/* Enhanced tags display for regular posts with i18n */}}
+    {{- if .Params.tags -}}
+      {{ partial "tag-list.html" (dict "tags" .Params.tags) }}
+    {{- end -}}
+
+    {{/* Core entity display for regular posts */}}
+    {{- with .Params.core_entity -}}
+      <div class="core-entity mb-4 text-sm text-retro-accent">
+        Focus: {{ . }}
+      </div>
+    {{- end -}}
+
+    {{/* Keywords for SEO (regular posts often have more) */}}
+    {{- with .Params.keywords -}}
+      <meta name="keywords" content="{{ delimit . ", " }}">
+    {{- end -}}
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ .Content }}
+  </div>
+
+  {{/* Enhanced footer for regular posts */}}
+  <footer class="post-footer mt-8 pt-4 border-t border-retro-accent/20">
+    {{- with .Params.about -}}
+      <div class="post-about mb-4">
+        <strong>About:</strong> 
+        {{- range $i, $topic := . -}}
+          {{- if $i -}}, {{ end -}}
+          <span class="about-topic">{{ $topic }}</span>
+        {{- end -}}
+      </div>
+    {{- end -}}
+
+    {{- with .Params.license -}}
+      <div class="post-license text-sm text-retro-foreground/60 mb-4">
+        <a href="{{ . }}" target="_blank" rel="license">Licensed under Creative Commons</a>
+      </div>
+    {{- end -}}
+
+    {{/* Enhanced navigation for regular posts */}}
+    <nav class="post-nav">
+      <div class="flex justify-between">
+        {{- with .NextInSection -}}
+          <a href="{{ .RelPermalink }}" class="post-nav-prev flex items-center">
+            <span class="mr-2">←</span>
+            <div>
+              <div class="text-xs text-retro-foreground/60">Previous</div>
+              <div>{{ .Title }}</div>
+            </div>
+          </a>
+        {{- end -}}
+        {{- with .PrevInSection -}}
+          <a href="{{ .RelPermalink }}" class="post-nav-next flex items-center">
+            <div class="text-right">
+              <div class="text-xs text-retro-foreground/60">Next</div>
+              <div>{{ .Title }}</div>
+            </div>
+            <span class="ml-2">→</span>
+          </a>
+        {{- end -}}
+      </div>
+    </nav>
+  </footer>
+</article>
+
+{{- end -}} 

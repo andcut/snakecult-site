@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: x-chromosome-cognition
 tags:
-- 认知
-- 遗传学
-- 神经科学
-- 进化
+- Cognition
+- Genetics
+- Neuroscience
+- Evolution
 title: X染色体与高级认知能力
 translation_model: gpt-4o
 ---

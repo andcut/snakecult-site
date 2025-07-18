@@ -21,11 +21,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: olmec-origins-theories
 tags:
-- Olmeken
-- Mesoamerika
-- Archäologische Theorie
-- Antike Zivilisationen
-- Mexikanische Geschichte
+- Olmec
+- Mesoamerica
+- Archaeological Theory
+- Ancient Civilizations
+- Mexican History
 title: 'Ursprünge der Olmeken-Zivilisation: Theorien im Laufe der Zeit'
 translation_model: gpt-4o
 ---

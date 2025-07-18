@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: x-chromosome-cognition-3
 tags:
-- Humangenetik
-- Neurobiologie
-- Geschlechtsunterschiede
+- Human Genetics
+- Neurobiology
+- Sex Differences
 title: X-Chromosom und Kognition
 translation_model: gpt-4o
 ---

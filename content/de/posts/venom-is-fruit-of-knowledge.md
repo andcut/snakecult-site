@@ -16,7 +16,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: venom-is-fruit-of-knowledge
 tags:
-- Mythologie
+- Mythology
 title: 'Die Frucht der Erkenntnis: Schlangengift als ursprüngliches Entheogen'
 translation_model: gpt-4o
 ---

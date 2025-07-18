@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: phoenicians-in-america
 tags:
-- historia
-- arqueología
-- pseudoarqueología
+- History
+- Archaeology
+- Pseudoarchaeology
 title: 'Fenicios en las Américas: Un Análisis Cronológico de una Teoría Controvertida'
 translation_model: gpt-4o
 ---

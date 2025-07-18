@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- menschliche-Ursprünge
-- Psychedelika
-- Bewusstsein
+- Human-Origins
+- Psychedelics
+- Consciousness
 title: Der Schlangenkult des Bewusstseins vs. McKennas Stoned Ape Theorie
 translation_model: gpt-4o
 ---

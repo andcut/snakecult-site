@@ -22,12 +22,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- consciência
-- evolução
-- mitologia
-- scott-alexander
-- filosofia
-- especulação
+- Consciousness
+- Evolution
+- Mythology
+- Scott Alexander
+- Philosophy
+- Speculation
 title: Teoria de Eva da Consciência (Remix de Slate Star Codex)
 translation_model: gpt-4o
 ---

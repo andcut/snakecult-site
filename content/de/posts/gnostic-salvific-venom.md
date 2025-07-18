@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- Gnostizismus
+- Gnosticism
 title: Das 'Gift'-Motiv in den Schlangen-Christus-Traditionen
 translation_model: gpt-4o
 ---

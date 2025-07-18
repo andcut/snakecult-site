@@ -8,8 +8,9 @@
   },
   "scripts": {
     "build:css": "npx tailwindcss -i assets/css/main.css -o assets/css/main.processed.css --minify --postcss",
-    "build": "npm run build:css && hugo --minify",
-    "test": "npm run build:css && node scripts/verify_hugo_build.js"
+    "build:css:production": "npx tailwindcss -i assets/css/main.css -o assets/css/main.processed.css --minify --postcss",
+    "build": "npm run build:css:production && HUGO_SKIP_SASS=true hugo --minify",
+    "test": "npm run build:css && HUGO_SKIP_SASS=true node scripts/verify_hugo_build.js"
   },
   "repository": {
     "type": "git",

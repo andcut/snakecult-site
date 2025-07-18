@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: temp-name
 tags:
-- الثورة-الإدراكية
-- الفلسفة
-- ما-قبل-التاريخ
+- Cognitive-Revolution
+- Philosophy
+- Prehistory
 title: '# الانفجارات الكبرى للعقل: 7 نظريات حول ترقية الدماغ في العصر الحجري القديم
   الأعلى'
 translation_model: gpt-4o

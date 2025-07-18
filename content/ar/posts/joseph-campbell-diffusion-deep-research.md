@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusion-dossier
 tags:
-- campbell
-- الانتشار
-- علم-الأساطير
+- Campbell
+- diffusion
+- mythography
 title: جوزيف كامبل، بطل الانتشار الثقافي
 translation_model: gpt-4o
 ---

@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: intelligence-selection-50k
 tags:
-- эволюция
-- глубокое-исследование
+- Evolution
+- Deep-Research
 title: 'Человеческий интеллект: 50 000 лет — более чем достаточно — Проверка реальности
   уравнением селекционера'
 translation_model: gpt-4o

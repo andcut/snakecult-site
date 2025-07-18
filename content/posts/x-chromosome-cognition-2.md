@@ -1,10 +1,15 @@
 ---
-title: The X Chromosome and Human Cognition
+about:
+- genetics
+- neuroscience
+- cognitive science
+- evolution
+author: Andrew Cutler
+core_entity: X chromosome
 date: 2025-04-27
-lastmod: 2025-04-27
-slug: x-chromosome-cognition-2
 description: A comprehensive review of how the X chromosome influences human brain
   development, cognitive function, and neurological disorders.
+draft: false
 keywords:
 - X chromosome
 - cognition
@@ -13,21 +18,16 @@ keywords:
 - intellectual disability
 - X-inactivation
 - sex differences
-about:
-- genetics
-- neuroscience
-- cognitive science
-- evolution
+lastmod: 2025-04-27
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 5
+slug: x-chromosome-cognition-2
 tags:
 - Genetics
 - Neuroscience
-- cognitive science
+- Cognitive-Science
 - Evolution
-core_entity: X chromosome
-quality: 5
-author: Andrew Cutler
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
+title: The X Chromosome and Human Cognition
 ---
 
 **TL;DR** <!-- ≤ 100 words, 3-7 bullets -->

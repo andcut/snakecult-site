@@ -17,7 +17,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: schizophrenia-epidemiology-deepdive
 tags:
-- 精神分裂症
+- schizophrenia
 title: '# 全球精神分裂症流行病学（2025年更新）'
 translation_model: gpt-4o
 ---

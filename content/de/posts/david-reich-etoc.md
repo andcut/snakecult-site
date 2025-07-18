@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: eve-theory-consciousness-reich-perspective
 tags:
-- Bewusstsein
-- Menschliche Evolution
-- Genetik
+- Consciousness
+- Human Evolution
+- Genetics
 title: Eva-Theorie des Bewusstseins – Durch die Augen von David Reich
 translation_model: gpt-4o
 ---

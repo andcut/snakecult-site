@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- conciencia
-- identidad
-- memoria
-- narrativa
-- psicología
+- Consciousness
+- Identity
+- Memory
+- Narrative
+- Psychology
 title: 'El Yo Narrativo: Una Revisión de Literatura Multidisciplinaria'
 translation_model: gpt-4o
 ---

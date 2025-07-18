@@ -16,8 +16,8 @@
   <title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} – {{ site.Title }}{{ end }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
 
-  {{/* Inline CSS automatically with caching to eliminate critical request chain */}}
-  {{ partialCached "inlined-styles.html" . }}
+  {{/* External CSS with resource processing and caching */}}
+  {{ partialCached "styles.html" . }}
 
   {{/* Custom script to ensure fixed header */}}
   <script>

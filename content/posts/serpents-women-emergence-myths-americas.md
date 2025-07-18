@@ -1,28 +1,28 @@
 ---
-title: Serpents And Women In Emergence Myths Across The Americas
+about:
+- mythology
+- anthropology
+author: Andrew Cutler
+core_entity: Plumed Serpent
 date: 2025-06-23
-lastmod: 2025-06-23
-slug: serpents-women-emergence-myths-americas
 description: How water-serpents and founding women co-star in Navajo, Zuni, Taíno,
   K'iche', and Inka origin stories and what that pairing reveals about birth, chaos,
   and order.
+draft: false
 keywords:
 - emergence myths
 - plumed serpent
 - Indigenous cosmology
 - divine femininity
 - flood narratives
-about:
-- mythology
-- anthropology
-tags:
-- mythology
-- Indigenous-Studies
-core_entity: Plumed Serpent
-quality: 8
-author: Andrew Cutler
+lastmod: 2025-06-23
 license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
+quality: 8
+slug: serpents-women-emergence-myths-americas
+tags:
+- Mythology
+- Indigenous-Studies
+title: Serpents And Women In Emergence Myths Across The Americas
 ---
 
 **TL;DR**

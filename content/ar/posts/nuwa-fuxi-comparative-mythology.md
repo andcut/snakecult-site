@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- الصين
-- الأساطير
-- الرمزية
-- الدين
+- China
+- Mythology
+- Symbolism
+- Religion
 title: 'نوا وفوكسي: الزوج الأول ذو الشكل الأفعواني ونمط المربع والبوصلة في الأساطير'
 translation_model: gpt-4o
 ---

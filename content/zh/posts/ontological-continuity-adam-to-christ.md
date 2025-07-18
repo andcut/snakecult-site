@@ -26,12 +26,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: ontological-continuity-adam-to-christ
 tags:
-- 意识
-- 演变
-- 神话
-- 哲学
-- 宗教
-- 心理学
+- Consciousness
+- Evolution
+- Mythology
+- Philosophy
+- Religion
+- Psychology
 title: 《理性与蛇：自我意识的神话演变》
 translation_model: gpt-4o
 ---

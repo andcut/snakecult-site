@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: upper-paleolithic-gender-imbalance
 tags:
-- पुरापाषाण-कला
+- Paleolithic-Art
 title: अपर पुरापाषाण काल में मानव चित्रण में लिंग असंतुलन
 translation_model: gpt-4o
 ---

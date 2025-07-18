@@ -1,32 +1,35 @@
 ---
-title: "Y-Chromosome Haplogroup A00: Archaic Introgression or Deep Human Lineage?"
-date: 2024-07-29T12:00:00-04:00
-lastmod: 2024-07-29T12:00:00-04:00
-slug: A00-as-archaic-introgression
-description: "A deep dive into Y-chromosome haplogroup A00, the oldest known human paternal lineage. We explore its discovery, its shocking age, and the debate over whether it represents a 'ghost' archaic population or an ancient, isolated branch of Homo sapiens."
-keywords:
- - Haplogroup A00
- - Y-chromosome
- - human origins
- - archaic introgression
- - population genetics
- - ghost population
- - Homo sapiens
 about:
- - genetics
- - paleoanthropology
- - human evolution
-tags:
- - Y-DNA
- - A00
- - genetics
- - archaic humans
- - introgression
-core_entity: "Haplogroup A00"
-quality: 7
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+- genetics
+- paleoanthropology
+- human evolution
+author: Andrew Cutler
+core_entity: Haplogroup A00
+date: 2024-07-29 12:00:00-04:00
+description: A deep dive into Y-chromosome haplogroup A00, the oldest known human
+  paternal lineage. We explore its discovery, its shocking age, and the debate over
+  whether it represents a 'ghost' archaic population or an ancient, isolated branch
+  of Homo sapiens.
 draft: false
+keywords:
+- Haplogroup A00
+- Y-chromosome
+- human origins
+- archaic introgression
+- population genetics
+- ghost population
+- Homo sapiens
+lastmod: 2024-07-29 12:00:00-04:00
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 7
+slug: A00-as-archaic-introgression
+tags:
+- Y-DNA
+- A00
+- Genetics
+- archaic humans
+- introgression
+title: 'Y-Chromosome Haplogroup A00: Archaic Introgression or Deep Human Lineage?'
 ---
 
 **TL;DR**

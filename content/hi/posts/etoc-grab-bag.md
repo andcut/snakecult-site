@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- चेतना
-- पुरातत्व
-- पौराणिक-कथाएं
+- Consciousness
+- Archaeology
+- Mythology
 title: 'सर्प का उपहार: प्राचीन चेतना के एक पंथ की मिथकीय गूंज'
 translation_model: gpt-4o
 ---

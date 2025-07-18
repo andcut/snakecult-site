@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: phoenicians-in-america
 tags:
-- التاريخ
-- علم-الآثار
-- علم-الآثار-الزائف
+- History
+- Archaeology
+- Pseudoarchaeology
 title: 'الفينيقيون في الأمريكتين: تحليل زمني لنظرية مثيرة للجدل'
 translation_model: gpt-4o
 ---

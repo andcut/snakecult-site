@@ -23,7 +23,7 @@ tags:
  - Oral Tradition
  - Creation Stories
 core_entity: "African Creation Myths"
-quality: 7
+quality: 6
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

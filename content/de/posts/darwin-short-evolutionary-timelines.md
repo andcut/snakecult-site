@@ -22,8 +22,8 @@ quality: 6
 slug: darwin-short-evolutionary-timelines
 tags:
 - Darwin
-- Evolutionstheorie
-- menschliche Ursprünge
+- Evolutionary Theory
+- Human-Origins
 title: 'Darwin über die menschliche Evolution: Kurze Zeitrahmen und Gen-Kultur-Interaktion'
 translation_model: gpt-4o
 ---

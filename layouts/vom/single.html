@@ -1,0 +1,62 @@
+{{- define "main" -}}
+{{/* VOM (Vectors of Mind) specialized template - optimized for blog archive posts */}}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    {{- /* Simplified heading for VOM posts */ -}}
+    <h1 class="post-title" itemprop="headline">{{ .Title }}</h1>
+    
+    <div class="post-meta flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-retro-foreground/80 mt-2 mb-4">
+      {{- if .Date -}}
+        <time class="post-date" itemprop="datePublished" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{- $date := .Date -}}
+          {{- with .Params.dateFormat -}}
+            {{- $date | time.Format . -}}
+          {{- else -}}
+            {{- with .Site.Params.dateFormat -}}
+              {{- $date | time.Format . -}}
+            {{- else -}}
+              {{- $date | time.Format "2006-01-02" -}}
+            {{- end -}}
+          {{- end -}}
+        </time>
+      {{- end -}}
+      {{- with .Params.Author -}}
+        <span class="post-author" itemprop="author">by {{ . }}</span>
+      {{- end -}}
+      {{- if and (.Param "readingTime") (eq (.Param "readingTime") true) -}}
+        <span class="post-reading-time">{{ .ReadingTime }} {{ $.Site.Params.minuteReadingTime | default "min read" }}</span>
+      {{- end -}}
+    </div>
+
+    {{/* VOM-specific attribution - simplified */}}
+    {{- with .Params.original_url -}}
+      <div class="vom-attribution mb-4 text-sm text-retro-foreground/60">
+        Originally published on <a href="{{ . }}" target="_blank" rel="noopener">Vectors of Mind</a>
+      </div>
+    {{- end -}}
+
+    {{/* Simplified tags for VOM with i18n */}}
+    {{- if .Params.tags -}}
+      {{ partial "tag-list.html" (dict "tags" .Params.tags) }}
+    {{- end -}}
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ .Content }}
+  </div>
+
+  {{/* Simplified navigation - VOM posts don't need complex nav */}}
+  <nav class="post-nav mt-8 pt-4 border-t border-retro-accent/20">
+    <div class="flex justify-between">
+      {{- with .NextInSection -}}
+        <a href="{{ .RelPermalink }}" class="post-nav-prev">← {{ .Title }}</a>
+      {{- end -}}
+      {{- with .PrevInSection -}}
+        <a href="{{ .RelPermalink }}" class="post-nav-next">{{ .Title }} →</a>
+      {{- end -}}
+    </div>
+  </nav>
+</article>
+
+{{- end -}} 

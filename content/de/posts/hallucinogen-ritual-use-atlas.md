@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hallucinogenic-atlas
 tags:
-- Entheogene
-- Archäologie
-- Psychedelika
+- Entheogens
+- Archaeology
+- Psychedelics
 title: 'Halluzinogener Atlas: Eine kontinentale Erhebung antiker Entheogene'
 translation_model: gpt-4o
 ---

@@ -24,7 +24,7 @@ tags:
  - Consciousness
  - Animal Intelligence
 core_entity: "Comparative Memory"
-quality: 8
+quality: 8git st
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

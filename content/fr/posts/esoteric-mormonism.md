@@ -16,7 +16,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: esoteric-mormonism
 tags:
-- étiquette-a
+- Tag-A
 title: Mormonisme ésotérique
 translation_model: gpt-4o
 ---

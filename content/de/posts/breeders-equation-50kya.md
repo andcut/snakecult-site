@@ -22,7 +22,7 @@ quality: 9
 slug: intelligence-selection-50k
 tags:
 - Evolution
-- Tiefenforschung
+- Deep-Research
 title: 'Menschliche Intelligenz: 50.000 Jahre sind genug — Ein Realitätscheck der
   Züchtergleichung'
 translation_model: gpt-4o

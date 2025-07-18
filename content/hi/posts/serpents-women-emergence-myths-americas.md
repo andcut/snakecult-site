@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpents-women-emergence-myths-americas
 tags:
-- पौराणिक-कथाएँ
-- स्वदेशी-अध्ययन
+- Mythology
+- Indigenous-Studies
 title: अमेरिका के विभिन्न उद्भव मिथकों में सर्प और महिलाएं
 translation_model: gpt-4o
 ---

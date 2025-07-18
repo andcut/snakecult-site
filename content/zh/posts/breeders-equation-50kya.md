@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: intelligence-selection-50k
 tags:
-- 进化
-- 深度研究
+- Evolution
+- Deep-Research
 title: 人类智力：五万年已经足够——育种者方程的现实检验
 translation_model: gpt-4o
 ---

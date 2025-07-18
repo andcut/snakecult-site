@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: best-christian-writers-ranked
 tags:
-- история-церкви
+- Church-History
 title: Христианские писатели по ранжиру
 translation_model: gpt-4o
 ---

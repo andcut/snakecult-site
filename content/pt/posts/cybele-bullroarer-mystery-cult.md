@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cybele-bullroarer-mystery
 tags:
-- objetos-sagrados
-- cultos-de-mistério
-- religião-antiga
+- Sacred-Objects
+- Mystery-Cults
+- Ancient-Religion
 title: Cybele — A Voz Revolvente de Reia e o Nascimento da Vida Civilizada
 translation_model: gpt-4o
 ---

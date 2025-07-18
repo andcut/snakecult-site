@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: darwin-short-evolutionary-timelines
 tags:
-- داروين
-- نظرية-التطور
-- أصول-الإنسان
+- Darwin
+- Evolutionary Theory
+- Human-Origins
 title: 'داروين حول تطور الإنسان: الجداول الزمنية القصيرة وتفاعل الجينات والثقافة'
 translation_model: gpt-4o
 ---

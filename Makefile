@@ -11,7 +11,10 @@ help:
 	@echo "  build           Build Hugo site"
 	@echo "  build-test      Test build with both languages"
 	@echo "  dev             Start fast Hugo server (English-only)"
+	@echo "  dev-fast        Ultra-fast dev server (optimized, English-only)"
 	@echo "  dev-full        Start Hugo server with all languages"
+	@echo "  preview         Production preview (full build, local)"
+	@echo "  analyze         Build timing analysis"
 
 install-deps:
 	pip install -r requirements.txt
@@ -39,12 +42,39 @@ dev:
 	  --environment dev \
 	  --disableKinds taxonomy,RSS,sitemap
 
+dev-fast:
+	HUGO_NUMWORKERMULTIPLIER=3 \
+	HUGO_SKIP_SASS=true \
+	HUGO_ENABLEGITINFO=false \
+	hugo server -D \
+	  --environment dev \
+	  --config config/_default/config.toml,config/dev/languages.toml,config/dev/config.toml \
+	  --disableKinds taxonomy,RSS,sitemap,robotsTXT
+
 dev-full:
 	HUGO_NUMWORKERMULTIPLIER=2 \
 	HUGO_SKIP_SASS=true \
 	hugo server -D \
 	  --disableKinds taxonomy,RSS,sitemap
 
+# Production preview (full build, local)
+preview:
+	hugo server --environment production --disableFastRender
+
+# Build timing analysis
+analyze:
+	hugo --templateMetrics --templateMetricsHints --quiet
+
 # Example: translate a small file for testing
 translate-test:
 	python translate_one.py content/posts/consider-the-chicken.md 
+
+# Tag translation management
+.PHONY: check-translations auto-translate-tags
+check-translations:
+	@echo "🔍 Checking for missing tag translations..."
+	python scripts/detect_missing_translations.py
+
+auto-translate-tags:
+	@echo "🤖 Auto-generating tag translations..."
+	python scripts/auto_translate_tags.py 

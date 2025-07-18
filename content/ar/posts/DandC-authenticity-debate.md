@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: authenticity-of-doctrine-and-covenants-section-132
 tags:
-- العقيدة-والعهود
-- الزواج-المتعدد
-- joseph-smith
+- Doctrine and Covenants
+- plural marriage
+- Joseph Smith
 title: '# أصالة القسم 132 من العقيدة والعهود'
 translation_model: gpt-4o
 ---

@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: upper-paleolithic-gender-imbalance
 tags:
-- Paläolithische-Kunst
+- Paleolithic-Art
 title: Geschlechterungleichgewicht im Jungpaläolithikum bei Menschendarstellungen
 translation_model: gpt-4o
 ---

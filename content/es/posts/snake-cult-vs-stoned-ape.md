@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- orígenes-humanos
-- psicodélicos
-- conciencia
+- Human-Origins
+- Psychedelics
+- Consciousness
 title: El Culto de la Serpiente de la Conciencia vs. la Teoría del Mono Colocado de
   McKenna
 translation_model: gpt-4o

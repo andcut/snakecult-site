@@ -22,8 +22,8 @@ quality: 6
 slug: zuni-origins
 tags:
 - Zuni
-- Ursprünge
-- Anthropologie
+- Origins
+- Anthropology
 title: Theorien über die Ursprünge und Geschichte der Zuni
 translation_model: gpt-4o
 ---

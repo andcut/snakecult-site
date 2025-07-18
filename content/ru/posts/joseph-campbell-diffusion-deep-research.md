@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: campbell-diffusion-dossier
 tags:
-- campbell
-- диффузия
-- мифография
+- Campbell
+- diffusion
+- mythography
 title: Джозеф Кэмпбелл, защитник культурной диффузии
 translation_model: gpt-4o
 ---

@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: darwin-short-evolutionary-timelines
 tags:
-- darwin
-- teoría-evolutiva
-- orígenes-humanos
+- Darwin
+- Evolutionary Theory
+- Human-Origins
 title: 'Darwin sobre la Evolución Humana: Cronogramas Cortos e Interacción Gen-Cultura'
 translation_model: gpt-4o
 ---

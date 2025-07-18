@@ -27,12 +27,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: ontological-continuity-adam-to-christ
 tags:
-- الوعي
-- التطور
-- الأساطير
-- الفلسفة
-- الدين
-- علم-النفس
+- Consciousness
+- Evolution
+- Mythology
+- Philosophy
+- Religion
+- Psychology
 title: 'الشعار والأفعى: التطور الأسطوري للوعي الذاتي'
 translation_model: gpt-4o
 ---

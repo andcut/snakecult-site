@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: bullroarer-cosmogenesis-initiation
 tags:
-- أشياء-مقدسة
-- أنثروبولوجيا-الطقوس
-- علم-الكون
-- جمعيات-سرية
+- Sacred-Objects
+- Ritual-Anthropology
+- Cosmology
+- Secret-Societies
 title: '# بدء تكوين الكون بواسطة Bullroarer'
 translation_model: gpt-4o
 ---

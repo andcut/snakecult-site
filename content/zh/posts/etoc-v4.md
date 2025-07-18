@@ -22,13 +22,13 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: etoc-v4
 tags:
-- 意识
-- 进化
-- 史前
-- 神话
-- 神经科学
-- 心理学
-- 人类学
+- Consciousness
+- Evolution
+- Prehistory
+- Mythology
+- Neuroscience
+- Psychology
+- Anthropology
 title: Eve意识理论 v4
 translation_model: gpt-4o
 ---

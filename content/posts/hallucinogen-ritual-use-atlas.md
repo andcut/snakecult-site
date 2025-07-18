@@ -1,10 +1,13 @@
 ---
-title: 'Hallucinogenic Atlas: A Continental Census of Ancient Entheogens'
+about:
+- human-origins
+- drug-rituals
+author: Andrew Cutler
+core_entity: Ayahuasca vine
 date: 2025-05-06
-lastmod: 2025-05-06
-slug: hallucinogenic-atlas
 description: Continent-by-continent survey of archaeological, textual, and biochemical
   evidence for ancient entheogenic practices.
+draft: false
 keywords:
 - entheogens
 - psychedelics
@@ -12,18 +15,15 @@ keywords:
 - ritual
 - psychoactive-plants
 - consciousness
-about:
-- human-origins
-- drug-rituals
+lastmod: 2025-05-06
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 6
+slug: hallucinogenic-atlas
 tags:
 - Entheogens
-- archaeology
+- Archaeology
 - Psychedelics
-core_entity: Ayahuasca vine
-quality: 6
-author: Andrew Cutler
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
+title: 'Hallucinogenic Atlas: A Continental Census of Ancient Entheogens'
 ---
 
 **TL;DR**

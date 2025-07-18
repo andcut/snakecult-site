@@ -1,11 +1,16 @@
 ---
-title: Eve, the Serpent & the Logos — From Göbekli Tepe to John 1
+about:
+- consciousness
+- mythology
+- philosophy
+- religion
+author: Andrew Cutler
+core_entity: Serpent
 date: 2025-04-20 10:00:00+00:00
-lastmod: 2025-04-28 12:45:00+00:00
-slug: ontological-continuity-adam-to-christ-2
 description: From Eden through John's *Logos* and Gnostic counter-myths to global
   'hanged-god' rites, this essay reconstructs how reflexive consciousness emerged,
   iterated, and finally theorised itself.
+draft: true
 keywords:
 - consciousness
 - genesis
@@ -15,23 +20,18 @@ keywords:
 - cultural evolution
 - self-awareness
 - serpent
-about:
-- consciousness
-- mythology
-- philosophy
-- religion
+lastmod: 2025-04-28 12:45:00+00:00
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 5
+slug: ontological-continuity-adam-to-christ-2
 tags:
-- consciousness
+- Consciousness
 - Evolution
-- mythology
+- Mythology
 - Philosophy
 - Religion
-- psychology
-author: Andrew Cutler
-core_entity: Serpent
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: true
-quality: 5
+- Psychology
+title: Eve, the Serpent & the Logos — From Göbekli Tepe to John 1
 ---
 
 > *"In the beginning was the Word… and the Word became flesh."* — John 1 : 1, 14

@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- origines-humaines
-- psychédéliques
-- conscience
+- Human-Origins
+- Psychedelics
+- Consciousness
 title: Le Culte du Serpent de la Conscience vs. la Théorie du Singe Enivré de McKenna
 translation_model: gpt-4o
 ---

@@ -24,9 +24,9 @@ quality: 6
 slug: swastika-diffusion
 tags:
 - Swastika
-- Alte Geschichte
-- Archäologie
-- Symbolik
+- Ancient-History
+- Archaeology
+- Symbolism
 title: Globale archäologische Erscheinungen und theoretische Erklärungen des Swastikas
 translation_model: gpt-4o
 ---

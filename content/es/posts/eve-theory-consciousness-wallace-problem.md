@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: eve-theory-wallace-problem
 tags:
-- problema-de-wallace
-- conciencia
-- evolución
-- recursión
+- Wallace Problem
+- Consciousness
+- Evolution
+- recursion
 title: 'Teoría de la Conciencia de Eva: Resolviendo el Problema de Wallace sobre la
   Cognición Humana'
 translation_model: gpt-4o

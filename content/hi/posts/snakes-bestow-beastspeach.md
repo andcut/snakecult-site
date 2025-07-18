@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: snakes-speech-mythology
 tags:
-- विश्व‑पौराणिक-कथाएँ
-- सर्प‑संप्रदाय
-- भाषाई‑जादू
+- World‑Mythology
+- Snake‑Cult
+- Linguistic‑Magic
 title: दुनिया की पौराणिक कथाओं में पशु‑भाषा प्रदान करने वाले सांप
 translation_model: gpt-4o
 ---

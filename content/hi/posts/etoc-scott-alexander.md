@@ -22,12 +22,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- चेतना
-- विकास
-- पौराणिक-कथाएँ
-- scott-alexander
-- दर्शनशास्त्र
-- अटकल
+- Consciousness
+- Evolution
+- Mythology
+- Scott Alexander
+- Philosophy
+- Speculation
 title: ईव थ्योरी ऑफ कॉन्शियसनेस (Slate Star Codex Remix)
 translation_model: gpt-4o
 ---

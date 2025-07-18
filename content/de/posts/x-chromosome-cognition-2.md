@@ -24,9 +24,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: x-chromosome-cognition-2
 tags:
-- Genetik
-- Neurowissenschaft
-- Kognitionswissenschaft
+- Genetics
+- Neuroscience
+- Cognitive-Science
 - Evolution
 title: Das X-Chromosom und die menschliche Kognition
 translation_model: gpt-4o

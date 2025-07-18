@@ -22,12 +22,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- الوعي
-- التطور
-- الأساطير
-- scott-alexander
-- الفلسفة
-- التكهن
+- Consciousness
+- Evolution
+- Mythology
+- Scott Alexander
+- Philosophy
+- Speculation
 title: نظرية حواء للوعي (إعادة مزج Slate Star Codex)
 translation_model: gpt-4o
 ---

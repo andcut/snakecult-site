@@ -1,13 +1,16 @@
 ---
-title: 'The Australian Dreamtime and the Symbolic Revolution: Indigenous Evidence
-  for Late Consciousness?'
+about:
+- Australian Prehistory
+- Comparative Archaeology
+- Symbolic Systems
+- Cognitive Evolution
+author: Andrew Cutler
 date: 2025-04-20
-lastmod: 2025-04-20
-slug: australia-dreamtime-symbolic-revolution
 description: Comparison of the early Holocene emergence of the Aboriginal Dreamtime
   symbolic system with the Near East's Neolithic 'revolution of symbols,' examining
   Australian rock art, technology, exchange networks, language diffusion, and cognitive
   impacts.
+draft: false
 keywords:
 - Dreamtime
 - Aboriginal Australia
@@ -23,20 +26,17 @@ keywords:
 - Archaeology
 - Cognitive Archaeology
 - Oral Tradition
-about:
-- Australian Prehistory
-- Comparative Archaeology
-- Symbolic Systems
-- Cognitive Evolution
+lastmod: 2025-04-20
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 7
+slug: australia-dreamtime-symbolic-revolution
 tags:
 - Anthropology
-- archaeology
+- Archaeology
 - Deep-Research
-- cognitive science
-author: Andrew Cutler
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
-quality: 7
+- Cognitive-Science
+title: 'The Australian Dreamtime and the Symbolic Revolution: Indigenous Evidence
+  for Late Consciousness?'
 ---
 
 **TL;DR**

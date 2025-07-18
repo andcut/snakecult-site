@@ -16,7 +16,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: pre-columbian-contacts
 tags:
-- Archäologie
+- Archaeology
 title: 'Präkolumbische Kontakte und Besiedlung Amerikas: Eine umfassende Untersuchung'
 translation_model: gpt-4o
 ---

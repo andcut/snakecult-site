@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- ग्नॉस्टिसिज्म
+- Gnosticism
 title: 'लाइट-पॉइज़न, यूचरिस्टिक टॉक्सिकॉन और कॉस्मिक वेनम: तीन ओफिडियन ट्रोप्स का
   विश्लेषण'
 translation_model: gpt-4o

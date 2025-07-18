@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- гностицизм
+- Gnosticism
 title: 'Свет-Яд, Евхаристический Токсикон и Космический Веном: три офидийских тропа
   в разборе'
 translation_model: gpt-4o

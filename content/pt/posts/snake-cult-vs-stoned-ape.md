@@ -23,9 +23,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- origens-humanas
-- psicodélicos
-- consciência
+- Human-Origins
+- Psychedelics
+- Consciousness
 title: O Culto da Serpente da Consciência vs. a Teoria do Macaco Chapado de McKenna
 translation_model: gpt-4o
 ---

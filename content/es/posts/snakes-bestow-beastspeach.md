@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: snakes-speech-mythology
 tags:
-- mitología‑mundial
-- culto‑serpiente
-- magia‑lingüística
+- World‑Mythology
+- Snake‑Cult
+- Linguistic‑Magic
 title: '# Serpientes que Otorgan el Habla de las Bestias en la Mitología Mundial'
 translation_model: gpt-4o
 ---

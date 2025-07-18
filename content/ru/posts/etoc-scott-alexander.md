@@ -22,12 +22,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: etoc-scott-alexander
 tags:
-- сознание
-- эволюция
-- мифология
-- scott-alexander
-- философия
-- спекуляция
+- Consciousness
+- Evolution
+- Mythology
+- Scott Alexander
+- Philosophy
+- Speculation
 title: Теория сознания Евы (Ремикс Slate Star Codex)
 translation_model: gpt-4o
 ---

@@ -19,10 +19,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: nuwa-fuxi-comparative-mythology
 tags:
-- 中国
-- 神话
-- 象征
-- 宗教
+- China
+- Mythology
+- Symbolism
+- Religion
 title: 女娲与伏羲：神话中的蛇形始祖夫妇与方圆图案
 translation_model: gpt-4o
 ---

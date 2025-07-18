@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cosmic-herakles
 tags:
-- Tiefenforschung
-- Urgeschichte
+- Deep-Research
+- Prehistory
 title: Kosmischer Herakles — Schlange der Zeit, Held von Eden
 translation_model: gpt-4o
 ---

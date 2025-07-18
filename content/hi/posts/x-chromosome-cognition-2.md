@@ -24,10 +24,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: x-chromosome-cognition-2
 tags:
-- आनुवंशिकी
-- तंत्रिका-विज्ञान
-- संज्ञानात्मक-विज्ञान
-- विकास
+- Genetics
+- Neuroscience
+- Cognitive-Science
+- Evolution
 title: '# X क्रोमोसोम और मानव संज्ञान'
 translation_model: gpt-4o
 ---

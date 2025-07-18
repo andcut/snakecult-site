@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: hallucinogenic-atlas
 tags:
-- 致幻剂
-- 考古学
-- 迷幻药
+- Entheogens
+- Archaeology
+- Psychedelics
 title: 幻觉地图集：古代致幻剂的大陆普查
 translation_model: gpt-4o
 ---

@@ -1,20 +1,41 @@
 ---
-title: "From Ritual to Recursion: Integrating Froese's Ritualised-Mind Hypothesis with the Eve Theory of Consciousness"
+about:
+- Ritualised Mind Hypothesis
+- Eve Theory of Consciousness
+- consciousness science
+- cognitive evolution
+- Froese
+- Cutler
+- consciousness evolution
+- ritual
+- recursion
+author: Andrew Cutler
 date: 2025-04-19
-lastmod: 2025-04-21
-slug: froese-etoc-hard-consciousness-synthesis
-description: "Integrating Thomas Froese's insights on intersubjectivity and enactivism with the Eve Theory of Consciousness to provide a novel perspective on the Hard Problem of consciousness and the evolution of subjective experience."
-keywords: ["Ritualised Mind Hypothesis","Eve Theory of Consciousness","symbolic cognition","consciousness science","gene-culture coevolution","altered states of consciousness","ritual","recursion","symbolic thought"]
-about: ["Ritualised Mind Hypothesis", "Eve Theory of Consciousness", "consciousness science", "cognitive evolution", "Froese", "Cutler", "consciousness evolution", "ritual", "recursion"]
-tags:
-  - "Sapient Paradox"
-  - consciousness
-  - recursion
-  - ritual
-author: "Andrew Cutler"
-license: "CC-BY-SA 4.0"
+description: Integrating Thomas Froese's insights on intersubjectivity and enactivism
+  with the Eve Theory of Consciousness to provide a novel perspective on the Hard
+  Problem of consciousness and the evolution of subjective experience.
 draft: false
+keywords:
+- Ritualised Mind Hypothesis
+- Eve Theory of Consciousness
+- symbolic cognition
+- consciousness science
+- gene-culture coevolution
+- altered states of consciousness
+- ritual
+- recursion
+- symbolic thought
+lastmod: 2025-04-21
+license: CC-BY-SA 4.0
 quality: 5
+slug: froese-etoc-hard-consciousness-synthesis
+tags:
+- Sapient Paradox
+- Consciousness
+- recursion
+- ritual
+title: 'From Ritual to Recursion: Integrating Froese''s Ritualised-Mind Hypothesis
+  with the Eve Theory of Consciousness'
 ---
 
 **TL;DR**

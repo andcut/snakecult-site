@@ -1,12 +1,16 @@
 ---
-title: 'The Ritualised Mind and the Eve Theory of Consciousness: A Convergent Account
-  of Human Cognitive Evolution'
+about:
+- cognitive evolution
+- snake-venom ritual
+- subject-object separation
+- Froese
+- Cutler
+author: Andrew Cutler
 date: 2025-04-19
-lastmod: 2025-04-21
-slug: froese-ritualized-mind-eve-theory
 description: Deep synthesis of Tom Froese's Ritualised-Mind Hypothesis and Andrew
   Cutler's Eve/Snake-Cult Theory, resolving the Sapient Paradox through ritual-mediated
   recursion, female agency, and gene–culture sweeps.
+draft: false
 keywords:
 - Ritualised Mind Hypothesis
 - Eve Theory of Consciousness
@@ -16,21 +20,17 @@ keywords:
 - altered states
 - gene-culture coevolution
 - recursive thought
-about:
-- cognitive evolution
-- snake-venom ritual
-- subject-object separation
-- Froese
-- Cutler
+lastmod: 2025-04-21
+license: CC-BY-SA 4.0
+quality: 7
+slug: froese-ritualized-mind-eve-theory
 tags:
 - Sapient Paradox
-- consciousness
+- Consciousness
 - Evolution
 - ritual
-license: CC-BY-SA 4.0
-draft: false
-author: Andrew Cutler
-quality: 7
+title: 'The Ritualised Mind and the Eve Theory of Consciousness: A Convergent Account
+  of Human Cognitive Evolution'
 ---
 
 **TL;DR**

@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: cosmic-herakles
 tags:
-- गहन-अनुसंधान
-- प्रागैतिहासिक
+- Deep-Research
+- Prehistory
 title: कॉस्मिक हेराक्लेस — समय का सर्प, ईडन का नायक
 translation_model: gpt-4o
 ---

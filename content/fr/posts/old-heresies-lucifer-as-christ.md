@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: christ-serpent-traditions-expanded
 tags:
-- gnosticisme
+- Gnosticism
 title: 'Christ comme le Serpent : Traditions Gnostiques et Dualistes'
 translation_model: gpt-4o
 ---

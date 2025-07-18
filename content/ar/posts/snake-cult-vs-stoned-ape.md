@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: snake-cult-vs-stoned-ape
 tags:
-- أصول-الإنسان
-- المخدرات
-- الوعي
+- Human-Origins
+- Psychedelics
+- Consciousness
 title: عبادة الأفعى للوعي مقابل نظرية القرد المخمور لماكينا
 translation_model: gpt-4o
 ---

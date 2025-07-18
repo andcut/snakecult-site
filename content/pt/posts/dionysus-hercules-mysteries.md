@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- pesquisa-profunda
+- Deep-Research
 title: Herakles & Dionísio — Chaves Gêmeas dos Mistérios da Serpente
 translation_model: gpt-4o
 ---

@@ -23,10 +23,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: swastika-diffusion
 tags:
-- свастика
-- древняя-история
-- археология
-- символизм
+- Swastika
+- Ancient-History
+- Archaeology
+- Symbolism
 title: Глобальные археологические находки и теоретические объяснения свастики
 translation_model: gpt-4o
 ---

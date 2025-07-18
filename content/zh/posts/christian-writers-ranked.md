@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: best-christian-writers-ranked
 tags:
-- 教会历史
+- Church-History
 title: 基督教作家排名
 translation_model: gpt-4o
 ---

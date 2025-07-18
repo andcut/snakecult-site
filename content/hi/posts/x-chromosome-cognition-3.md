@@ -21,9 +21,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: x-chromosome-cognition-3
 tags:
-- मानव-आनुवंशिकी
-- न्यूरोबायोलॉजी
-- लिंग-भिन्नताएँ
+- Human Genetics
+- Neurobiology
+- Sex Differences
 title: एक्स क्रोमोसोम और संज्ञान
 translation_model: gpt-4o
 ---

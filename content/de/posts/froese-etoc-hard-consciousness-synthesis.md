@@ -33,9 +33,9 @@ quality: 5
 slug: froese-etoc-hard-consciousness-synthesis
 tags:
 - Sapient Paradox
-- Bewusstsein
-- Rekursion
-- Ritual
+- Consciousness
+- recursion
+- ritual
 title: 'From Ritual to Recursion: Integrating Froese''s Ritualised-Mind Hypothesis
   with the Eve Theory of Consciousness'
 translation_model: gpt-4o

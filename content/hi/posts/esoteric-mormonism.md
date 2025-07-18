@@ -16,7 +16,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: esoteric-mormonism
 tags:
-- टैग-ए
+- Tag-A
 title: एसेटेरिक मॉर्मनिज़्म
 translation_model: gpt-4o
 ---

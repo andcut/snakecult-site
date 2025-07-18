@@ -1,29 +1,29 @@
 ---
-title: 'Eve Theory of Consciousness: Solving the Wallace Problem of Human Cognition'
+about:
+- gene–culture co-evolution
+- snake-venom ritual
+- subject-object separation
+author: Andrew Cutler
 date: 2025-04-19
-lastmod: 2025-04-21
-slug: eve-theory-wallace-problem
 description: A comprehensive, evidence-driven defence of the Eve Theory as the only
   evolutionary route to recursive self-awareness and language (i.e. the Wallace Problem).
+draft: false
 keywords:
 - Eve Theory of Consciousness
 - Wallace Problem
 - recursive thinking
 - language evolution
 - human consciousness evolution
-about:
-- gene–culture co-evolution
-- snake-venom ritual
-- subject-object separation
+lastmod: 2025-04-21
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 9
+slug: eve-theory-wallace-problem
 tags:
 - Wallace Problem
-- consciousness
+- Consciousness
 - Evolution
 - recursion
-author: Andrew Cutler
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
-quality: 9
+title: 'Eve Theory of Consciousness: Solving the Wallace Problem of Human Cognition'
 ---
 
 **TL;DR**

@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: jnana-know-gnosis-etymology
 tags:
-- Linguistik
+- Linguistics
 title: Gemeinsame Etymologie von Jñāna, Know und Gnosis
 translation_model: gpt-4o
 ---

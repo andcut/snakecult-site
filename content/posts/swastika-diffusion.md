@@ -1,10 +1,14 @@
 ---
-title: Global Archaeological Appearances and Theoretical Explanations of the Swastika
+about:
+- archaeology
+- symbolism
+- cultural history
+author: Andrew Cutler
+core_entity: Swastika
 date: 2025-04-22
-lastmod: 2025-04-22
-slug: swastika-diffusion
 description: Survey of the swastika's ancient global presence and theories (diffusion
   vs. independent invention) explaining its origins and spread.
+draft: false
 keywords:
 - swastika
 - archaeology
@@ -13,20 +17,16 @@ keywords:
 - independent invention
 - prehistory
 - ancient symbol
-about:
-- archaeology
-- symbolism
-- cultural history
+lastmod: 2025-04-22
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 6
+slug: swastika-diffusion
 tags:
 - Swastika
-- Ancient History
-- archaeology
+- Ancient-History
+- Archaeology
 - Symbolism
-core_entity: Swastika
-author: Andrew Cutler
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
-quality: 6
+title: Global Archaeological Appearances and Theoretical Explanations of the Swastika
 ---
 
 **TL;DR** <!-- ≤ 100 words, 3-7 bullets -->

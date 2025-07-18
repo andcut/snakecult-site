@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: zeus-serpent-mysteries
 tags:
-- गहन-अनुसंधान
+- Deep-Research
 title: ज़्यूस ड्राकॉन — सर्प, निगलने वाला, विश्व-नवीनीकरणकर्ता
 translation_model: gpt-4o
 ---

@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: deep-roots-pan-american
 tags:
-- 深厚历史
-- 美洲
-- 迁徙
+- Deep History
+- Americas
+- Migration
 title: 泛美文化的深厚根源
 translation_model: gpt-4o
 ---

@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: intelligence-selection-50k
 tags:
-- evolução
-- pesquisa-profunda
+- Evolution
+- Deep-Research
 title: 'Inteligência Humana: 50.000 Anos é Suficiente — Uma Verificação da Realidade
   pela Equação do Criador'
 translation_model: gpt-4o

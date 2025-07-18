@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by sa/4.0/
 quality: 7
 slug: etoc epistemic-exactitude
 tags:
-- etoc
-- história-profunda
-- evolução-humana
+- EToC
+- Deep History
+- human evolution
 title: 'Despertar de Eva: Como o Autoconhecimento Reconfigurou a Mente Humana'
 translation_model: gpt-4o
 ---

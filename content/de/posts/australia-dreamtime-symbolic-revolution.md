@@ -32,10 +32,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: australia-dreamtime-symbolic-revolution
 tags:
-- Anthropologie
-- Archäologie
-- Tiefenforschung
-- Kognitionswissenschaft
+- Anthropology
+- Archaeology
+- Deep-Research
+- Cognitive-Science
 title: 'Die australische Traumzeit und die symbolische Revolution: Indigene Beweise
   für ein spätes Bewusstsein?'
 translation_model: gpt-4o

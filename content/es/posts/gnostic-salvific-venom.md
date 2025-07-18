@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- gnosticism
+- Gnosticism
 title: The 'Poison' Motif in Christ-Serpent Traditions
 translation_model: gpt-4o
 ---

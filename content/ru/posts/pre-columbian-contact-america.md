@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: pre-columbian-contact-america
 tags:
-- история
-- археология
-- генетика
-- древние-цивилизации
+- History
+- Archaeology
+- Genetics
+- Ancient Civilizations
 title: 'До-Колумбовые Трансокеанские Контакты: Современные Знания и Дискуссии'
 translation_model: gpt-4o
 ---

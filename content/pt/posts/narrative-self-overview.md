@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- consciência
-- identidade
-- memória
-- narrativa
-- psicologia
+- Consciousness
+- Identity
+- Memory
+- Narrative
+- Psychology
 title: '# O Eu Narrativo: Uma Revisão de Literatura Multidisciplinar'
 translation_model: gpt-4o
 ---

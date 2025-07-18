@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: x-chromosome-cognition
 tags:
-- когниция
-- генетика
-- нейронаука
-- эволюция
+- Cognition
+- Genetics
+- Neuroscience
+- Evolution
 title: Х-хромосома и высшие когнитивные функции
 translation_model: gpt-4o
 ---

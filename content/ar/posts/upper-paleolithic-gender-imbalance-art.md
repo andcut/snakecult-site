@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: upper-paleolithic-gender-imbalance
 tags:
-- فن-العصر-الحجري-القديم
+- Paleolithic-Art
 title: اختلال التوازن بين الجنسين في التصوير البشري في العصر الحجري القديم الأعلى
 translation_model: gpt-4o
 ---

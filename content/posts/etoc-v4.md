@@ -1,11 +1,15 @@
 ---
-title: Eve Theory of Consciousness v4
+about:
+- consciousness
+- evolution
+- prehistory
+author: Andrew Cutler
+core_entity: Eve Theory
 date: 2025-06-30
-lastmod: 2025-06-30
-slug: etoc-v4
 description: A comprehensive interdisciplinary theory proposing that human consciousness
   originated as a cultural invention in prehistoric times, likely pioneered by women
   and spread through ritual and language.
+draft: false
 keywords:
 - consciousness
 - evolutionary psychology
@@ -14,23 +18,19 @@ keywords:
 - prehistoric cognition
 - cognitive revolution
 - mythology
-about:
-- consciousness
-- evolution
-- prehistory
+lastmod: 2025-06-30
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 7
+slug: etoc-v4
 tags:
-- consciousness
+- Consciousness
 - Evolution
 - Prehistory
-- mythology
+- Mythology
 - Neuroscience
-- psychology
+- Psychology
 - Anthropology
-core_entity: Eve Theory
-quality: 7
-author: Andrew Cutler
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
+title: Eve Theory of Consciousness v4
 ---
 
 *This is an OpenAI Deep Research prompted to read the first three EToC essays and my notes (a few hundred pages) to extend the theory. Several other attempts failed, badly. This is passable, though mostly a recapitulation.*

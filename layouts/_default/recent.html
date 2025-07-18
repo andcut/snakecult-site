@@ -134,7 +134,16 @@
         <div class="post-meta">
           {{- if .Date -}}
             <time class="post-date">
-              {{- partial "post-date" . -}}
+              {{- $date := .Date -}}
+              {{- with .Params.dateFormat -}}
+                {{- $date | time.Format . -}}
+              {{- else -}}
+                {{- with .Site.Params.dateFormat -}}
+                  {{- $date | time.Format . -}}
+                {{- else -}}
+                  {{- $date | time.Format "2006-01-02" -}}
+                {{- end -}}
+              {{- end -}}
             </time>
           {{- end -}}
           {{- with .Params.author -}}

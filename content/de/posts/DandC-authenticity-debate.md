@@ -21,8 +21,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: authenticity-of-doctrine-and-covenants-section-132
 tags:
-- Lehre und Bündnisse
-- Plurale Ehe
+- Doctrine and Covenants
+- plural marriage
 - Joseph Smith
 title: Echtheit von Lehre und Bündnisse Abschnitt 132
 translation_model: gpt-4o

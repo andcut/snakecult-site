@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpent-venom-three-texts
 tags:
-- الغنوصية
+- Gnosticism
 title: 'ضوء-السم، السم الإفخارستي والسم الكوني: تحليل ثلاثة مواضيع أفعوانية'
 translation_model: gpt-4o
 ---

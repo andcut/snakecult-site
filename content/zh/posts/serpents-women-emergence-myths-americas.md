@@ -19,8 +19,8 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: serpents-women-emergence-myths-americas
 tags:
-- 神话
-- 原住民研究
+- Mythology
+- Indigenous-Studies
 title: 美洲各地创世神话中的蛇与女性
 translation_model: gpt-4o
 ---

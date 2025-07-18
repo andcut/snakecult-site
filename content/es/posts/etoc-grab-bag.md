@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: serpent-gift-consciousness-cult
 tags:
-- conciencia
-- arqueología
-- mitología
+- Consciousness
+- Archaeology
+- Mythology
 title: 'El Regalo de la Serpiente: Ecos Míticos de un Culto a la Conciencia Antigua'
 translation_model: gpt-4o
 ---

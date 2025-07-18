@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: pre-columbian-contact-america
 tags:
-- التاريخ
-- علم-الآثار
-- علم-الوراثة
-- الحضارات-القديمة
+- History
+- Archaeology
+- Genetics
+- Ancient Civilizations
 title: 'الاتصال عبر المحيطات قبل كولومبوس: المعرفة الحالية والنقاش'
 translation_model: gpt-4o
 ---

@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: x-chromosome-cognition
 tags:
-- الإدراك
-- علم-الوراثة
-- علم-الأعصاب
-- التطور
+- Cognition
+- Genetics
+- Neuroscience
+- Evolution
 title: '# الكروموسوم X والإدراك العالي'
 translation_model: gpt-4o
 ---

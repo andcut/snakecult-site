@@ -1,30 +1,30 @@
 ---
-title: 'Nüwa and Fuxi: The Serpentine First Couple and the Square-Compass Motif in
-  Mythology'
+about:
+- Comparative Mythology
+- Chinese Culture
+- Symbolic Anthropology
+author: Andrew Cutler
 date: 2025-04-12
-lastmod: 2025-04-12
-slug: nuwa-fuxi-comparative-mythology
 description: An exploration of the serpentine creator deities Nüwa and Fuxi in Chinese
   mythology and their parallels in world mythologies.
+draft: false
 keywords:
 - comparative mythology
 - Chinese mythology
 - creation myths
 - serpent symbolism
 - world mythology
-about:
-- Comparative Mythology
-- Chinese Culture
-- Symbolic Anthropology
+lastmod: 2025-04-12
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 7
+slug: nuwa-fuxi-comparative-mythology
 tags:
 - China
-- mythology
+- Mythology
 - Symbolism
 - Religion
-author: Andrew Cutler
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
-quality: 7
+title: 'Nüwa and Fuxi: The Serpentine First Couple and the Square-Compass Motif in
+  Mythology'
 ---
 
 **TL;DR**

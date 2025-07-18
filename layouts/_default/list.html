@@ -26,7 +26,16 @@
         <div class="post-meta flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-retro-foreground/80 mt-2 mb-3">
           {{- if .Date -}}
             <time class="post-date">
-              {{ partial "post-date" . }}
+              {{- $date := .Date -}}
+              {{- with .Params.dateFormat -}}
+                {{- $date | time.Format . -}}
+              {{- else -}}
+                {{- with .Site.Params.dateFormat -}}
+                  {{- $date | time.Format . -}}
+                {{- else -}}
+                  {{- $date | time.Format "2006-01-02" -}}
+                {{- end -}}
+              {{- end -}}
             </time>
           {{- end -}}
           {{- with .Params.Author -}}
@@ -35,11 +44,7 @@
         </div>
 
         {{ if .Params.tags }}
-          <div class="post-tags mb-4 text-sm">
-            {{ range .Params.tags }}
-            <a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}" class="mr-2 hover:bg-retro-accent/20 px-1 rounded-sm">#{{- . -}}</a>
-            {{ end }}
-          </div>
+          {{ partial "tag-list.html" (dict "tags" .Params.tags) }}
         {{ end }}
 
         {{ partial "cover.html" . }}

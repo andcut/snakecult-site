@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: upper-paleolithic-gender-imbalance
 tags:
-- палеолитическое-искусство
+- Paleolithic-Art
 title: '# Гендерный дисбаланс в изображениях человека в верхнем палеолите'
 translation_model: gpt-4o
 ---

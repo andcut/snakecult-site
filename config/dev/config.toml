@@ -1,0 +1,37 @@
+# Development-specific configuration for faster builds
+# Disables expensive operations that aren't needed during development
+
+# Disable resource-intensive build kinds
+disableKinds = ["taxonomy", "RSS", "sitemap", "robotsTXT"]
+
+# Increase paginate to reduce page count explosion
+paginate = 100
+
+# Disable git info for faster builds
+enableGitInfo = false
+
+# Disable expensive optimizations in dev
+[minify]
+  disableCSS = true
+  disableHTML = true
+  disableJS = true
+  disableJSON = true
+  disableSVG = true
+  disableXML = true
+
+# Speed up resource processing
+[build]
+  useResourceCacheWhen = "always"
+  writeStats = false
+
+# Optimize caching for development
+[caches]
+  [caches.images]
+    dir = ":resourceDir/_gen"
+    maxAge = "24h"  # Shorter cache for dev
+  [caches.assets]
+    dir = ":resourceDir/_gen"
+    maxAge = "24h"
+  [caches.getresource]
+    dir = ":cacheDir/:project"
+    maxAge = "24h" 

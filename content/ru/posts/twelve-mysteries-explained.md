@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: twelve-mysteries
 tags:
-- сознание
-- мифология
-- происхождение-человека
-- эволюция
+- Consciousness
+- Mythology
+- Human-Origins
+- Evolution
 title: 12 загадок, решенных теорией сознания Ив
 translation_model: gpt-4o
 ---

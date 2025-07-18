@@ -1,0 +1,19 @@
+{{- /* layouts/partials/tag-list.html */ -}}
+{{- /* 
+  Displays tags with localized names while maintaining English URLs
+  Context: .tags (list of English tag names)
+*/ -}}
+
+{{- with .tags -}}
+  <div class="post-tags mb-4 text-sm">
+    {{- range . -}}
+      {{- $englishTag := . -}}
+      {{- $displayName := i18n (printf "tags.%s" .) | default . -}}
+      <a href="{{ (urlize (printf "tags/%s/" $englishTag)) | relLangURL }}" 
+         class="mr-2 hover:bg-retro-accent/20 px-1 rounded-sm"
+         title="{{ $englishTag }}">
+        #{{ $displayName }}
+      </a>
+    {{- end -}}
+  </div>
+{{- end -}} 

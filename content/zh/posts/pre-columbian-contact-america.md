@@ -21,10 +21,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: pre-columbian-contact-america
 tags:
-- 历史
-- 考古学
-- 遗传学
-- 古代文明
+- History
+- Archaeology
+- Genetics
+- Ancient Civilizations
 title: 前哥伦布时期的跨大洋接触：当前的知识与争论
 translation_model: gpt-4o
 ---

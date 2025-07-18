@@ -28,9 +28,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: cosmic-herakles-dionysus-deepdive
 tags:
-- recherche-approfondie
-- philosophie
-- religion
+- Deep-Research
+- Philosophy
+- Religion
 title: 'Cosmic Héraclès & Dionysos Zagreus : Cosmologie et Mystères Orphiques'
 translation_model: gpt-4o
 ---

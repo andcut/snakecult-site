@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: christ-serpent-traditions-expanded
 tags:
-- الغنوصية
+- Gnosticism
 title: 'المسيح كثعبان: التقاليد الغنوصية والثنائية'
 translation_model: gpt-4o
 ---

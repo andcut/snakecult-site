@@ -1,10 +1,14 @@
 ---
-title: 'The Narrative Self: A Multidisciplinary Literature Review'
+about:
+- Philosophy of Mind
+- Cognitive Science
+- Psychology
+author: Andrew Cutler
+core_entity: Narrator
 date: 2025-03-27
-lastmod: 2025-03-27
-slug: narrative-self-overview
 description: A comprehensive review exploring the concept of the 'narrative self'
   across philosophy, psychology, neuroscience, and literary theory.
+draft: false
 keywords:
 - narrative self
 - personal identity
@@ -13,21 +17,17 @@ keywords:
 - neuroscience
 - cognitive science
 - self-concept
-about:
-- Philosophy of Mind
-- Cognitive Science
-- Psychology
+lastmod: 2025-03-27
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 9
+slug: narrative-self-overview
 tags:
-- consciousness
+- Consciousness
 - Identity
 - Memory
 - Narrative
-- psychology
-core_entity: Narrator
-author: Andrew Cutler
-license: https://creativecommons.org/licenses/by-sa/4.0/
-draft: false
-quality: 9
+- Psychology
+title: 'The Narrative Self: A Multidisciplinary Literature Review'
 ---
 
 **TL;DR**

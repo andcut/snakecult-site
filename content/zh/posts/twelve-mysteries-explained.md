@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: twelve-mysteries
 tags:
-- 意识
-- 神话学
-- 人类起源
-- 进化
+- Consciousness
+- Mythology
+- Human-Origins
+- Evolution
 title: '# 通过意识的伊芙理论解决的12个谜团'
 translation_model: gpt-4o
 ---

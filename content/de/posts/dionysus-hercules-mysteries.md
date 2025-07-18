@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- Tiefenforschung
+- Deep-Research
 title: Herakles & Dionysus — Zwillingsschlüssel der Schlangen-Mysterien
 translation_model: gpt-4o
 ---

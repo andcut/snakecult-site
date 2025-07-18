@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: zeus-serpent-mysteries
 tags:
-- recherche-approfondie
+- Deep-Research
 title: Zeus Drakôn — Serpent, Avaleur, Renouveleur du Monde
 translation_model: gpt-4o
 ---

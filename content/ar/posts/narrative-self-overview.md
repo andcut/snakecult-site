@@ -23,11 +23,11 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: narrative-self-overview
 tags:
-- الوعي
-- الهوية
-- الذاكرة
-- السرد
-- علم-النفس
+- Consciousness
+- Identity
+- Memory
+- Narrative
+- Psychology
 title: 'الذات السردية: مراجعة أدبية متعددة التخصصات'
 translation_model: gpt-4o
 ---

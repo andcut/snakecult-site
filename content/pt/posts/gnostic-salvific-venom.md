@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: serpent-venom-motif
 tags:
-- gnosticismo
+- Gnosticism
 title: O Motivo do 'Veneno' nas Tradições do Cristo-Serpente
 translation_model: gpt-4o
 ---

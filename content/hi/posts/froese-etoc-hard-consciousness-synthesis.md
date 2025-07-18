@@ -31,10 +31,10 @@ license: CC-BY-SA 4.0
 quality: 5
 slug: froese-etoc-hard-consciousness-synthesis
 tags:
-- सैपियंट-विरोधाभास
-- चेतना
-- पुनरावृत्ति
-- अनुष्ठान
+- Sapient Paradox
+- Consciousness
+- recursion
+- ritual
 title: '## अनुष्ठान से पुनरावृत्ति तक: फ्रोज़ के अनुष्ठानिक-मस्तिष्क परिकल्पना को
   ईव सिद्धांत के साथ एकीकृत करना
 

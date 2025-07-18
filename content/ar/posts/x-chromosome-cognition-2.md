@@ -24,10 +24,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: x-chromosome-cognition-2
 tags:
-- علم-الوراثة
-- علم-الأعصاب
-- علم-الإدراك
-- التطور
+- Genetics
+- Neuroscience
+- Cognitive-Science
+- Evolution
 title: الكروموسوم X والإدراك البشري
 translation_model: gpt-4o
 ---

@@ -22,10 +22,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: x-chromosome-cognition
 tags:
-- cognição
-- genética
-- neurociência
-- evolução
+- Cognition
+- Genetics
+- Neuroscience
+- Evolution
 title: Cromossomo X e Cognição de Ordem Superior
 translation_model: gpt-4o
 ---

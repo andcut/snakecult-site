@@ -15,7 +15,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 # Reduce taxonomy explosion by limiting pagination
-paginate = 50
+paginate = 100
 
 [params]
   author = "Andrew Cutler"
@@ -98,4 +98,23 @@ defaultContentLanguageInSubdir = false
 
 [build]
   useResourceCacheWhen = "always"
+  writeStats = false
+
+# Aggressive caching configuration
+[caches]
+  [caches.images]
+    dir = ":resourceDir/_gen"
+    maxAge = "168h"  # 1 week for images
+  [caches.assets]
+    dir = ":resourceDir/_gen" 
+    maxAge = "168h"  # 1 week for CSS/JS assets
+  [caches.getresource]
+    dir = ":cacheDir/:project"
+    maxAge = "168h"  # 1 week for external resources
+  [caches.getjson]
+    dir = ":cacheDir/:project"
+    maxAge = "168h"  # 1 week for JSON data
+  [caches.getcsv]
+    dir = ":cacheDir/:project"
+    maxAge = "168h"  # 1 week for CSV data
 

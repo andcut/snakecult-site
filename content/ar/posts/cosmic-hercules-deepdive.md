@@ -27,9 +27,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 7
 slug: cosmic-herakles-dionysus-deepdive
 tags:
-- بحث-عميق
-- فلسفة
-- دين
+- Deep-Research
+- Philosophy
+- Religion
 title: 'هرقل الكوني وديونيسوس زاجروس: علم الكونيات الأورفي والأسرار'
 translation_model: gpt-4o
 ---

@@ -26,10 +26,10 @@ license: CC-BY-SA 4.0
 quality: 7
 slug: froese-ritualized-mind-eve-theory
 tags:
-- مفارقة-الإنسان-العاقل
-- الوعي
-- التطور
-- الطقوس
+- Sapient Paradox
+- Consciousness
+- Evolution
+- ritual
 title: 'العقل الطقوسي ونظرية حواء للوعي: حساب متقارب لتطور الإدراك البشري'
 translation_model: gpt-4o
 ---

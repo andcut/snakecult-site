@@ -20,10 +20,10 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: eve-theory-wallace-problem
 tags:
-- wallace-problem
-- चेतना
-- विकास
-- पुनरावृत्ति
+- Wallace Problem
+- Consciousness
+- Evolution
+- recursion
 title: 'ईव थ्योरी ऑफ कॉन्शियसनेस: मानव संज्ञान की वॉलेस समस्या का समाधान'
 translation_model: gpt-4o
 ---

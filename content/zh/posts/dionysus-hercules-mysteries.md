@@ -18,7 +18,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: herakles-dionysus-mysteries
 tags:
-- 深度研究
+- Deep-Research
 title: 赫拉克勒斯与狄俄尼索斯——蛇之奥秘的双重钥匙
 translation_model: gpt-4o
 ---

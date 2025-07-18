@@ -29,10 +29,10 @@ license: CC-BY-SA 4.0
 quality: 5
 slug: froese-etoc-hard-consciousness-synthesis
 tags:
-- 智慧悖论
-- 意识
-- 递归
-- 仪式
+- Sapient Paradox
+- Consciousness
+- recursion
+- ritual
 title: 从仪式到递归：将弗罗泽的仪式化心智假说与夏娃意识理论相结合
 translation_model: gpt-4o
 ---

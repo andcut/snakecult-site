@@ -1,27 +1,28 @@
 ---
-title: "The Serpent's Gift: Mythic Echoes of an Ancient Consciousness Cult"
-date: 2025-04-27T12:00:00Z
-lastmod: 2025-04-27T12:00:00Z
-slug: serpent-gift-consciousness-cult
-description: "How a prehistoric serpent-goddess cult may have jump-started self-aware thought and spread its rites across the globe."
-keywords:
- - serpent cult
- - Eve Theory of Consciousness
- - gene–culture coevolution
- - diffusionism
- - prehistoric ritual
 about:
- - cognitive evolution
- - comparative mythology
-tags:
- - consciousness
- - archaeology
- - mythology
-core_entity: "Serpent Idol"
-quality: 6          # ★ 1‒10 subjective "how good is this?"; 6 = unrated/OK
-author: "Andrew Cutler"
-license: "https://creativecommons.org/licenses/by-sa/4.0/"
+- cognitive evolution
+- comparative mythology
+author: Andrew Cutler
+core_entity: Serpent Idol
+date: 2025-04-27 12:00:00+00:00
+description: How a prehistoric serpent-goddess cult may have jump-started self-aware
+  thought and spread its rites across the globe.
 draft: false
+keywords:
+- serpent cult
+- Eve Theory of Consciousness
+- gene–culture coevolution
+- diffusionism
+- prehistoric ritual
+lastmod: 2025-04-27 12:00:00+00:00
+license: https://creativecommons.org/licenses/by-sa/4.0/
+quality: 6
+slug: serpent-gift-consciousness-cult
+tags:
+- Consciousness
+- Archaeology
+- Mythology
+title: 'The Serpent''s Gift: Mythic Echoes of an Ancient Consciousness Cult'
 ---
 
 **TL;DR** 

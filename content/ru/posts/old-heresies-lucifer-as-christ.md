@@ -19,7 +19,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: christ-serpent-traditions-expanded
 tags:
-- гностицизм
+- Gnosticism
 title: 'Христос как Змей: Гностические и Дуалистические Традиции'
 translation_model: gpt-4o
 ---

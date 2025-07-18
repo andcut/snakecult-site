@@ -20,9 +20,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 9
 slug: snakes-speech-mythology
 tags:
-- 世界神话
-- 蛇崇拜
-- 语言魔法
+- World‑Mythology
+- Snake‑Cult
+- Linguistic‑Magic
 title: 世界神话中赋予兽语能力的蛇
 translation_model: gpt-4o
 ---

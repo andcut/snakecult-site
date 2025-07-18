@@ -1,0 +1,156 @@
+{
+  "Mythology": {
+    "en": "Mythology",
+    "es": "Mitología", 
+    "zh": "神话学",
+    "fr": "Mythologie",
+    "de": "Mythologie",
+    "pt": "Mitologia",
+    "hi": "पौराणिक कथा",
+    "ar": "الأساطير",
+    "ru": "Мифология"
+  },
+  "Consciousness": {
+    "en": "Consciousness",
+    "es": "Conciencia",
+    "zh": "意识",
+    "fr": "Conscience", 
+    "de": "Bewusstsein",
+    "pt": "Consciência",
+    "hi": "चेतना",
+    "ar": "الوعي",
+    "ru": "Сознание"
+  },
+  "Evolution": {
+    "en": "Evolution",
+    "es": "Evolución",
+    "zh": "进化",
+    "fr": "Évolution",
+    "de": "Evolution", 
+    "pt": "Evolução",
+    "hi": "विकास",
+    "ar": "التطور",
+    "ru": "Эволюция"
+  },
+  "Archaeology": {
+    "en": "Archaeology",
+    "es": "Arqueología",
+    "zh": "考古学",
+    "fr": "Archéologie",
+    "de": "Archäologie",
+    "pt": "Arqueologia", 
+    "hi": "पुरातत्व",
+    "ar": "علم الآثار",
+    "ru": "Археология"
+  },
+  "Psychology": {
+    "en": "Psychology",
+    "es": "Psicología",
+    "zh": "心理学", 
+    "fr": "Psychologie",
+    "de": "Psychologie",
+    "pt": "Psicologia",
+    "hi": "मनोविज्ञान",
+    "ar": "علم النفس",
+    "ru": "Психология"
+  },
+  "Anthropology": {
+    "en": "Anthropology",
+    "es": "Antropología",
+    "zh": "人类学",
+    "fr": "Anthropologie", 
+    "de": "Anthropologie",
+    "pt": "Antropologia",
+    "hi": "मानव विज्ञान",
+    "ar": "علم الإنسان",
+    "ru": "Антропология"
+  },
+  "Genetics": {
+    "en": "Genetics", 
+    "es": "Genética",
+    "zh": "遗传学",
+    "fr": "Génétique",
+    "de": "Genetik",
+    "pt": "Genética",
+    "hi": "आनुवंशिकता",
+    "ar": "علم الوراثة", 
+    "ru": "Генетика"
+  },
+  "Neuroscience": {
+    "en": "Neuroscience",
+    "es": "Neurociencia", 
+    "zh": "神经科学",
+    "fr": "Neurosciences",
+    "de": "Neurowissenschaft",
+    "pt": "Neurociência",
+    "hi": "तंत्रिका विज्ञान",
+    "ar": "علم الأعصاب",
+    "ru": "Нейронауки"
+  },
+  "History": {
+    "en": "History",
+    "es": "Historia",
+    "zh": "历史",
+    "fr": "Histoire",
+    "de": "Geschichte",
+    "pt": "História", 
+    "hi": "इतिहास",
+    "ar": "التاريخ",
+    "ru": "История"
+  },
+  "Philosophy": {
+    "en": "Philosophy",
+    "es": "Filosofía",
+    "zh": "哲学",
+    "fr": "Philosophie",
+    "de": "Philosophie",
+    "pt": "Filosofia",
+    "hi": "दर्शन",
+    "ar": "الفلسفة",
+    "ru": "Философия"
+  },
+  "Religion": {
+    "en": "Religion", 
+    "es": "Religión",
+    "zh": "宗教",
+    "fr": "Religion",
+    "de": "Religion",
+    "pt": "Religião",
+    "hi": "धर्म",
+    "ar": "الدين",
+    "ru": "Религия"
+  },
+  "Prehistory": {
+    "en": "Prehistory",
+    "es": "Prehistoria",
+    "zh": "史前史",
+    "fr": "Préhistoire",
+    "de": "Vorgeschichte",
+    "pt": "Pré-história",
+    "hi": "प्रागैतिहासिक",
+    "ar": "ما قبل التاريخ",
+    "ru": "Доистория"
+  },
+  "Human-Origins": {
+    "en": "Human-Origins",
+    "es": "Orígenes-Humanos",
+    "zh": "人类起源",
+    "fr": "Origines-Humaines", 
+    "de": "Menschliche-Ursprünge",
+    "pt": "Origens-Humanas",
+    "hi": "मानव-मूल",
+    "ar": "أصول-البشر",
+    "ru": "Происхождение-Человека"
+  },
+  "Deep-Research": {
+    "en": "Deep-Research",
+    "es": "Investigación-Profunda",
+    "zh": "深度研究",
+    "fr": "Recherche-Approfondie",
+    "de": "Tiefenforschung", 
+    "pt": "Pesquisa-Profunda",
+    "hi": "गहन-अनुसंधान",
+    "ar": "بحث-عميق",
+    "ru": "Глубокие-Исследования"
+  }
+} 

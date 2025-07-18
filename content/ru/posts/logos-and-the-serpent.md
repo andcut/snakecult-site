@@ -26,12 +26,12 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 5
 slug: ontological-continuity-adam-to-christ-2
 tags:
-- сознание
-- эволюция
-- мифология
-- философия
-- религия
-- психология
+- Consciousness
+- Evolution
+- Mythology
+- Philosophy
+- Religion
+- Psychology
 title: Ева, Змей и Логос — От Гёбекли-Тепе до Иоанна 1
 translation_model: gpt-4o
 ---

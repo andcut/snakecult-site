@@ -22,9 +22,9 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 8
 slug: venom-as-elixir-of-life
 tags:
-- Alchemie
-- Daoismus
-- Entheogene
+- Alchemy
+- Daoism
+- Entheogens
 title: Gift als Lebenselixier
 translation_model: gpt-4o
 ---

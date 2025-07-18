@@ -20,7 +20,7 @@ license: https://creativecommons.org/licenses/by-sa/4.0/
 quality: 6
 slug: weaving-humanity-women-as-civilizers
 tags:
-- фольклор
+- folklore
 title: '# Ткань человечества: Женщины как цивилизаторы в мировой мифологии'
 translation_model: gpt-4o
 ---
