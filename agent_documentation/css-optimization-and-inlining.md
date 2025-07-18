@@ -168,3 +168,34 @@ assets/css/main.css
 - Same performance benefits
 - Zero maintenance overhead
 - Fully integrated with existing pipeline 
+
+## July 2025 – 14 kB “Initial TCP Window” Optimisation Plan
+
+Inspired by [“Why your website should be under 14 kB in size”](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/), we want the **very first HTTP response** (HTML + headers) to fit inside the initial congestion window (≈ 10 × 1460 B ≈ 14 kB compressed).
+
+### Action items
+
+1. **Externalise Tailwind bulk CSS**  
+   – Continue to build `assets/css/main.processed.css`, but fingerprint & serve it as an *external* file:  
+   ```gotemplate
+   {{ $css := resources.Get "css/main.processed.css" | resources.Minify | fingerprint }}
+   <link rel="preload" href="{{ $css.RelPermalink }}" as="style" onload="this.rel='stylesheet'">
+   <noscript><link rel="stylesheet" href="{{ $css.RelPermalink }}"></noscript>
+   ```
+2. **Inline only ~2 kB of critical CSS**  
+   – Use Tailwind JIT + `@unocss/cli` or `purgecss` to generate `critical.css`.  
+   – Inline that file exactly as we currently inline *everything*.
+3. **Defer heavy meta-data**  
+   – Move JSON-LD and `hreflang` tags into a small `<script>` that runs after `DOMContentLoaded`, or drop them entirely.
+4. **Slim hero assets**  
+   – Replace the inline SVG banner with a tiny CSS background or an external `loading="lazy"` image/SVG.
+5. **Remove development-only scripts**  
+   – Exclude `livereload.js` from production builds.
+
+### Expected outcome
+
+* Gzipped HTML drops from ~37 kB → **≈ 11–14 kB**.  
+* The external CSS (~25 kB Gzip) downloads in parallel, non-blocking.  
+* First paint on 3G improves by **0.5–1 s**.
+
+> Keep monitoring the payload. The rule is a *heuristic*, but staying beneath it guarantees at least one RTT shaved off for worst-case latency scenarios. 

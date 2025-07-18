@@ -24,7 +24,7 @@ tags:
  - Religious History
  - Mysteries
 core_entity: "Egyptian Mysteries"
-quality: 8
+quality: 7
 author: "Andrew Cutler"
 license: "https://creativecommons.org/licenses/by-sa/4.0/"
 draft: false

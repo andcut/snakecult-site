@@ -1,0 +1,3 @@
+{{/* Get and inline CSS automatically - this partial will be cached */}}
+{{ $css := resources.Get "css/main.processed.css" | resources.Minify }}
+<style>{{ $css.Content | safeCSS }}</style> 
